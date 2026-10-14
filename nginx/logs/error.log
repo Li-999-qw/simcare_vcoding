@@ -1,0 +1,20 @@
+2026/10/09 10:41:07 [emerg] 31224#3784: CreateDirectory() "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2026/10/09 13:50:24 [notice] 22324#25052: signal process started
+2026/10/09 13:54:15 [notice] 34388#29568: signal process started
+2026/10/09 14:02:05 [notice] 23372#22416: signal process started
+2026/10/09 14:08:34 [notice] 8336#34604: signal process started
+2026/10/09 14:11:08 [notice] 32168#32244: signal process started
+2026/10/09 14:56:36 [notice] 22552#25656: signal process started
+2026/10/12 13:50:11 [notice] 10064#32748: signal process started
+2026/10/12 14:47:46 [notice] 27960#18756: signal process started
+2026/10/12 14:52:45 [notice] 17636#10504: signal process started
+2026/10/12 15:16:23 [notice] 6248#13696: signal process started
+2026/10/12 15:43:24 [emerg] 9432#30668: CreateFile() "C:\Users\LCJNZX8\Desktop\SimCare-Windows-Deployment (1)/nginx/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2026/10/12 15:44:06 [notice] 7396#14284: signal process started
+2026/10/12 16:00:45 [notice] 35184#26440: signal process started
+2026/10/12 16:44:40 [emerg] 34828#22316: CreateFile() "C:\Users\LCJNZX8\Desktop\SimCare-Windows-Deployment (1)/nginx/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2026/10/12 16:45:20 [notice] 35448#34720: signal process started
+2026/10/12 16:57:38 [notice] 6980#13744: signal process started
+2026/10/12 17:10:13 [notice] 7412#25536: signal process started
+2026/10/12 17:18:09 [notice] 33632#22780: signal process started
+2026/10/12 17:28:41 [notice] 31768#11256: signal process started
