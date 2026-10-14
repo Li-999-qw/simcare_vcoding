@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Orthopedic Clinical Reasoning Training Room · Text-Based Practice</title>
+  <link rel="stylesheet" href="/style.css?v=rx-native-3">
+  <link rel="preload" as="image" href="/assets/patient-scenes-v1.png">
+
+  <script src="/app.js?v=rx-native-3" defer></script>
+</head>
+<body>
+<div id="clinical-rounds" aria-label="Clinical Reasoning Training Interface">
+  <header class="top">
+    <div><h1 class="brand">Orthopedic Clinical Reasoning Training Room <span class="tag">Text-Based Practice</span></h1><div class="muted">Patient with low back and leg pain · Attending Clinician’s Perspective</div></div>
+    <div class="row"><button id="cr-flow-toggle" data-action="flow" aria-controls="cr-flow-panel" aria-expanded="false">Training Workflow</button><button id="cr-teacher-top" data-action="teacher">Consult the Supervising Physician</button><span id="cr-mode" class="tag"></span><button data-action="export">Export Records</button><button data-action="new">New Practice Session</button></div>
+  </header>
+  <section id="cr-flow-panel" class="flow-panel hidden" role="dialog" aria-label="Training Workflow"><div class="heading"><h2>Training Workflow</h2><button data-action="close-flow" aria-label="Collapse Training Workflow">✕</button></div><nav aria-label="Training Progress"></nav><p class="muted">Proceed in order; completed scenarios can be reviewed。</p></section>
+  <div id="cr-error" class="error hidden" role="alert"></div>
+  <div id="cr-review" class="review-banner hidden"></div>
+  <main aria-label="History-taking and medical record workspace"><p class="muted">Restoring this simulation…</p></main>
+  <footer class="footer"><div><span id="cr-status" class="muted" role="status">Connecting to local simulation…</span><div class="muted">Simulated Teaching Case · Pending expert review · Test results return immediately; this round is not scored</div></div><button class="primary" id="cr-next" disabled>Proceed to management and handoff →</button></footer>
+  <dialog id="cr-dialog" aria-labelledby="cr-dialog-title"><section class="dialog"><div class="heading"><h2 id="cr-dialog-title"></h2><button data-action="close" aria-label="Close pop-up">✕</button></div><div id="cr-dialog-body"></div></section></dialog>
+</div>
+</body>
+</html>

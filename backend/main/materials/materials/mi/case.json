@@ -1,0 +1,4613 @@
+{
+  "CASE_ID": "SIM-AMI-20260901",
+  "VERSION": "专家审核版 v1.0 · 待专家审核",
+  "REGISTRATION": {
+    "name": "张建国",
+    "sex": "男",
+    "age": "58岁",
+    "marital_status": "已婚",
+    "occupation": "企业行政人员",
+    "ethnicity": "汉族",
+    "birthplace": "安徽省合肥市",
+    "address": "四川省成都市武侯区康宁路18号春和苑2栋301室（教学虚构地址）",
+    "history_source": "患者本人",
+    "admission_status": "已办理入院，登记资料齐备"
+  },
+  "FACTS": {
+    "identity": "张建国，男，58岁，已婚，企业行政人员。",
+    "pain": "9月1日08:00搬运物品时突发胸骨后压榨样疼痛，手掌大小范围，向左肩及左上臂内侧放射，8/10分，伴大汗、恶心及胸闷。休息20分钟未缓解，09:20到院，此前未接受院前处理。",
+    "previous": "近2周上楼或快走时胸骨后闷痛3次，每次3～5分钟，休息缓解，未就诊。",
+    "negatives": "无撕裂样胸背痛，无呼吸或体位相关疼痛，无发热、咳嗽、咯血、晕厥、肢体活动障碍及单侧下肢肿痛。近3个月无手术、长期卧床或长途制动。",
+    "hypertension": "高血压8年，最高170/100 mmHg，间断服氨氯地平5 mg每日1次，依从性差；平时145～160/90～100 mmHg。",
+    "lipid": "2年前发现血脂升高，未规律治疗。",
+    "past": "否认既往心肌梗死、PCI、心力衰竭、糖尿病、脑卒中、慢性肾病。否认活动性溃疡、消化道或颅内出血、凝血障碍、近期重大创伤手术，无长期抗凝用药。否认哮喘、严重慢性肺病、肝炎、结核及输血史。",
+    "allergy": "否认已知药物及造影剂过敏；近期未使用西地那非等PDE-5抑制剂。",
+    "social": "吸烟30年，约20支/日；偶尔饮酒，无大量饮酒史。运动少，偏咸高脂饮食，无特殊职业接触。",
+    "family": "父亲54岁发生心肌梗死，母亲有高血压，否认已知遗传性心肌病和家族性猝死史。配偶及1子体健。",
+    "ward_patient": "9月3日无胸痛、心悸、气短，可坐起并短距离步行。右腕穿刺点少量瘀斑，无血肿或出血。已转普通病房。",
+    "discharge_patient": "9月7日无胸痛、心悸、气促，生活可自理，穿刺点愈合良好。能复述已告知的药物及复诊计划，愿意戒烟。"
+  },
+  "REPORTS": {
+    "exam": {
+      "name": "生命体征与心肺查体",
+      "category": "查体",
+      "stage": 0,
+      "text": "9月1日09:20：T 36.5℃，P 92次/分，R 22次/分；右臂BP 148/92，左臂146/90 mmHg，空气下SpO₂ 96%。神志清楚，急性痛苦面容，皮肤湿冷。双肺清，无干湿啰音；心律齐，无第三心音、病理性杂音及心包摩擦音。双侧脉搏对称，下肢无水肿。",
+      "sheet": {
+        "title": "生命体征与心肺查体",
+        "number": "exam",
+        "sample": "病例记录",
+        "collected": "见正文",
+        "reported": "见正文",
+        "findings": "9月1日09:20：T 36.5℃，P 92次/分，R 22次/分；右臂BP 148/92，左臂146/90 mmHg，空气下SpO₂ 96%。神志清楚，急性痛苦面容，皮肤湿冷。双肺清，无干湿啰音；心律齐，无第三心音、病理性杂音及心包摩擦音。双侧脉搏对称，下肢无水肿。",
+        "note": "原病例记录，教学模拟。"
+      },
+      "positive": "BP 148/92 mmHg（右臂）、146/90 mmHg（左臂）；急性痛苦面容、皮肤湿冷。"
+    },
+    "ecg": {
+      "name": "12导联心电图",
+      "stage": 0,
+      "category": "心电",
+      "text": "采样/检查：2026-09-01 09:25；报告：原病例未单列报告时间。\n\n窦性心律；PR 160 ms，QRS 90 ms（病例设定值）。V₁～V₆ ST抬高依次约1.5、3、4、3、2、1 mm；Ⅰ、aVL轻度抬高，Ⅲ、aVF压低约0.5～1 mm；V₂～V₄ T波高耸。",
+      "sheet": {
+        "title": "十二导联心电图报告单",
+        "number": "SIM-ECG-01",
+        "sample": "体表十二导联",
+        "collected": "2026-09-01 09:25",
+        "reported": "原病例未单列报告时间",
+        "findings": "窦性心律；PR 160 ms，QRS 90 ms（病例设定值）。V₁～V₆ ST抬高依次约1.5、3、4、3、2、1 mm；Ⅰ、aVL轻度抬高，Ⅲ、aVF压低约0.5～1 mm；V₂～V₄ T波高耸。",
+        "image": "ecg_0.png",
+        "note": "原病例合成示意波形，非设备采集；不用于正式影像判读考核。"
+      },
+      "positive": "V₁～V₆ ST抬高依次约1.5、3、4、3、2、1 mm；Ⅰ、aVL轻度抬高，Ⅲ、aVF压低约0.5～1 mm；V₂～V₄ T波高耸。",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "troponin": {
+      "name": "初始心肌损伤标志物",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：09:50。\nhs-cTnI 186 ng/L ↑（参考：男性第99百分位：34）\nCK-MB 8.6 ng/mL ↑（参考：≤5.0）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-01",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "09:50",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "186",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          },
+          {
+            "name": "CK-MB",
+            "value": "8.6",
+            "unit": "ng/mL",
+            "reference": "≤5.0",
+            "flag": "↑"
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 186 ng/L ↑（参考：男性第99百分位：34）；CK-MB 8.6 ng/mL ↑（参考：≤5.0）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "handoff": {
+      "name": "介入团队交接报告",
+      "category": "交接",
+      "stage": 2,
+      "text": "9月1日急诊冠脉造影：前降支近段完全闭塞，TIMI 0级；置入1枚药物洗脱支架后TIMI 3级。术后胸痛消失，ST明显回落。11:05转CCU，循环稳定。此为按病例推进的预设事件，不代表学生的所有指令均已执行。",
+      "sheet": {
+        "title": "介入团队交接报告",
+        "number": "handoff",
+        "sample": "病例记录",
+        "collected": "见正文",
+        "reported": "见正文",
+        "findings": "9月1日急诊冠脉造影：前降支近段完全闭塞，TIMI 0级；置入1枚药物洗脱支架后TIMI 3级。术后胸痛消失，ST明显回落。11:05转CCU，循环稳定。此为按病例推进的预设事件，不代表学生的所有指令均已执行。",
+        "note": "原病例记录，教学模拟。"
+      },
+      "positive": "前降支近段完全闭塞，TIMI 0级；支架术后TIMI 3级。"
+    },
+    "ward": {
+      "name": "病房复评资料",
+      "category": "复评",
+      "stage": 2,
+      "text": "9月3日：无胸痛、心悸、气短。BP 120/74 mmHg，HR 68次/分，双肺清。Hb 143 g/L，肌酐84 μmol/L；心肌标志物下降，48小时未见持续恶性心律失常。9月1日术后超声LVEF 45%，前壁、前间隔和心尖运动减弱，无机械并发症。",
+      "sheet": {
+        "title": "病房复评资料",
+        "number": "ward",
+        "sample": "病例记录",
+        "collected": "见正文",
+        "reported": "见正文",
+        "findings": "9月3日：无胸痛、心悸、气短。BP 120/74 mmHg，HR 68次/分，双肺清。Hb 143 g/L，肌酐84 μmol/L；心肌标志物下降，48小时未见持续恶性心律失常。9月1日术后超声LVEF 45%，前壁、前间隔和心尖运动减弱，无机械并发症。",
+        "note": "原病例记录，教学模拟。"
+      },
+      "positive": "9月1日术后超声LVEF 45%，前壁、前间隔和心尖运动减弱。"
+    },
+    "discharge": {
+      "name": "出院前复查",
+      "category": "复评",
+      "stage": 3,
+      "text": "9月6日：Hb 145 g/L，PLT 229×10⁹/L，Cr 80 μmol/L，K 4.3 mmol/L。hs-cTnI 780 ng/L ↑，持续下降；超声LVEF 50%，未见明确左室血栓。9月7日BP 118/74 mmHg，HR 66次/分，空气下SpO₂ 97%，双肺清，无下肢水肿。",
+      "sheet": {
+        "title": "出院前复查",
+        "number": "discharge",
+        "sample": "病例记录",
+        "collected": "见正文",
+        "reported": "见正文",
+        "findings": "9月6日：Hb 145 g/L，PLT 229×10⁹/L，Cr 80 μmol/L，K 4.3 mmol/L。hs-cTnI 780 ng/L ↑，持续下降；超声LVEF 50%，未见明确左室血栓。9月7日BP 118/74 mmHg，HR 66次/分，空气下SpO₂ 97%，双肺清，无下肢水肿。",
+        "note": "原病例记录，教学模拟。"
+      },
+      "positive": "9月6日hs-cTnI 780 ng/L ↑；LVEF 50%，仍低于本模拟报告男性参考下限52%。"
+    },
+    "cbc_01": {
+      "name": "血常规（入院）",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：09:45。\n白细胞计数 WBC 12.6 ×10⁹/L ↑（参考：3.5 - 9.5）\n中性粒细胞比例 82 % ↑（参考：40 - 75）\n淋巴细胞比例 11 % ↓（参考：20 - 50）\n单核细胞比例 6 % （参考：3 - 10）\n嗜酸性粒细胞比例 0.5 % （参考：0.4 - 8）\n嗜碱性粒细胞比例 0.5 % （参考：0 - 1）\n中性粒细胞计数 10.33 ×10⁹/L ↑（参考：1.8 - 6.3）\n淋巴细胞计数 1.39 ×10⁹/L （参考：1.1 - 3.2）\n单核细胞计数 0.76 ×10⁹/L ↑（参考：0.1 - 0.6）\n嗜酸性粒细胞计数 0.06 ×10⁹/L （参考：0.02 - 0.52）\n嗜碱性粒细胞计数 0.06 ×10⁹/L （参考：0 - 0.06）\n红细胞计数 RBC 4.9 ×10¹²/L （参考：4.3 - 5.8）\n血红蛋白 Hb 148 g/L （参考：130 - 175）\n红细胞压积 HCT 44.1 % （参考：40 - 50）\n平均红细胞体积 MCV 90.0 fL （参考：82 - 100）\n平均红细胞血红蛋白 MCH 30.2 pg （参考：27 - 34）\n平均Hb浓度 MCHC 336 g/L （参考：316 - 354）\n红细胞分布宽度 RDW-CV 12.8 % （参考：11.5 - 14.5）\n血小板计数 PLT 236 ×10⁹/L （参考：125 - 350）\n平均血小板体积 MPV 10.2 fL （参考：7 - 13）",
+      "sheet": {
+        "title": "血液检验报告单",
+        "number": "SIM-CBC-0901",
+        "sample": "EDTA抗凝全血",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "09:45",
+        "rows": [
+          {
+            "name": "白细胞计数 WBC",
+            "value": "12.6",
+            "unit": "×10⁹/L",
+            "reference": "3.5 - 9.5",
+            "flag": "↑"
+          },
+          {
+            "name": "中性粒细胞比例",
+            "value": "82",
+            "unit": "%",
+            "reference": "40 - 75",
+            "flag": "↑"
+          },
+          {
+            "name": "淋巴细胞比例",
+            "value": "11",
+            "unit": "%",
+            "reference": "20 - 50",
+            "flag": "↓"
+          },
+          {
+            "name": "单核细胞比例",
+            "value": "6",
+            "unit": "%",
+            "reference": "3 - 10",
+            "flag": ""
+          },
+          {
+            "name": "嗜酸性粒细胞比例",
+            "value": "0.5",
+            "unit": "%",
+            "reference": "0.4 - 8",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞比例",
+            "value": "0.5",
+            "unit": "%",
+            "reference": "0 - 1",
+            "flag": ""
+          },
+          {
+            "name": "中性粒细胞计数",
+            "value": "10.33",
+            "unit": "×10⁹/L",
+            "reference": "1.8 - 6.3",
+            "flag": "↑"
+          },
+          {
+            "name": "淋巴细胞计数",
+            "value": "1.39",
+            "unit": "×10⁹/L",
+            "reference": "1.1 - 3.2",
+            "flag": ""
+          },
+          {
+            "name": "单核细胞计数",
+            "value": "0.76",
+            "unit": "×10⁹/L",
+            "reference": "0.1 - 0.6",
+            "flag": "↑"
+          },
+          {
+            "name": "嗜酸性粒细胞计数",
+            "value": "0.06",
+            "unit": "×10⁹/L",
+            "reference": "0.02 - 0.52",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞计数",
+            "value": "0.06",
+            "unit": "×10⁹/L",
+            "reference": "0 - 0.06",
+            "flag": ""
+          },
+          {
+            "name": "红细胞计数 RBC",
+            "value": "4.9",
+            "unit": "×10¹²/L",
+            "reference": "4.3 - 5.8",
+            "flag": ""
+          },
+          {
+            "name": "血红蛋白 Hb",
+            "value": "148",
+            "unit": "g/L",
+            "reference": "130 - 175",
+            "flag": ""
+          },
+          {
+            "name": "红细胞压积 HCT",
+            "value": "44.1",
+            "unit": "%",
+            "reference": "40 - 50",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞体积 MCV",
+            "value": "90.0",
+            "unit": "fL",
+            "reference": "82 - 100",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞血红蛋白 MCH",
+            "value": "30.2",
+            "unit": "pg",
+            "reference": "27 - 34",
+            "flag": ""
+          },
+          {
+            "name": "平均Hb浓度 MCHC",
+            "value": "336",
+            "unit": "g/L",
+            "reference": "316 - 354",
+            "flag": ""
+          },
+          {
+            "name": "红细胞分布宽度 RDW-CV",
+            "value": "12.8",
+            "unit": "%",
+            "reference": "11.5 - 14.5",
+            "flag": ""
+          },
+          {
+            "name": "血小板计数 PLT",
+            "value": "236",
+            "unit": "×10⁹/L",
+            "reference": "125 - 350",
+            "flag": ""
+          },
+          {
+            "name": "平均血小板体积 MPV",
+            "value": "10.2",
+            "unit": "fL",
+            "reference": "7 - 13",
+            "flag": ""
+          }
+        ],
+        "note": "新增分类计数及红细胞指数为本版补充的合成数据，与既有WBC/Hb/PLT保持一致。"
+      },
+      "positive": "白细胞计数 WBC 12.6 ×10⁹/L ↑（参考：3.5 - 9.5）；中性粒细胞比例 82 % ↑（参考：40 - 75）；淋巴细胞比例 11 % ↓（参考：20 - 50）；中性粒细胞计数 10.33 ×10⁹/L ↑（参考：1.8 - 6.3）；单核细胞计数 0.76 ×10⁹/L ↑（参考：0.1 - 0.6）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "cbc_03": {
+      "name": "血常规（9月3日）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-03 06:00；报告：06:40。\n白细胞计数 WBC 9.4 ×10⁹/L （参考：3.5 - 9.5）\n中性粒细胞比例 71 % （参考：40 - 75）\n淋巴细胞比例 20 % （参考：20 - 50）\n单核细胞比例 7 % （参考：3 - 10）\n嗜酸性粒细胞比例 1.5 % （参考：0.4 - 8）\n嗜碱性粒细胞比例 0.5 % （参考：0 - 1）\n中性粒细胞计数 6.67 ×10⁹/L ↑（参考：1.8 - 6.3）\n淋巴细胞计数 1.88 ×10⁹/L （参考：1.1 - 3.2）\n单核细胞计数 0.66 ×10⁹/L ↑（参考：0.1 - 0.6）\n嗜酸性粒细胞计数 0.14 ×10⁹/L （参考：0.02 - 0.52）\n嗜碱性粒细胞计数 0.05 ×10⁹/L （参考：0 - 0.06）\n红细胞计数 RBC 4.75 ×10¹²/L （参考：4.3 - 5.8）\n血红蛋白 Hb 143 g/L （参考：130 - 175）\n红细胞压积 HCT 42.8 % （参考：40 - 50）\n平均红细胞体积 MCV 90.1 fL （参考：82 - 100）\n平均红细胞血红蛋白 MCH 30.1 pg （参考：27 - 34）\n平均Hb浓度 MCHC 334 g/L （参考：316 - 354）\n红细胞分布宽度 RDW-CV 12.9 % （参考：11.5 - 14.5）\n血小板计数 PLT 221 ×10⁹/L （参考：125 - 350）\n平均血小板体积 MPV 10.1 fL （参考：7 - 13）",
+      "sheet": {
+        "title": "血液检验报告单",
+        "number": "SIM-CBC-0903",
+        "sample": "EDTA抗凝全血",
+        "collected": "09-03 06:00",
+        "received": "06:12",
+        "reported": "06:40",
+        "rows": [
+          {
+            "name": "白细胞计数 WBC",
+            "value": "9.4",
+            "unit": "×10⁹/L",
+            "reference": "3.5 - 9.5",
+            "flag": ""
+          },
+          {
+            "name": "中性粒细胞比例",
+            "value": "71",
+            "unit": "%",
+            "reference": "40 - 75",
+            "flag": ""
+          },
+          {
+            "name": "淋巴细胞比例",
+            "value": "20",
+            "unit": "%",
+            "reference": "20 - 50",
+            "flag": ""
+          },
+          {
+            "name": "单核细胞比例",
+            "value": "7",
+            "unit": "%",
+            "reference": "3 - 10",
+            "flag": ""
+          },
+          {
+            "name": "嗜酸性粒细胞比例",
+            "value": "1.5",
+            "unit": "%",
+            "reference": "0.4 - 8",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞比例",
+            "value": "0.5",
+            "unit": "%",
+            "reference": "0 - 1",
+            "flag": ""
+          },
+          {
+            "name": "中性粒细胞计数",
+            "value": "6.67",
+            "unit": "×10⁹/L",
+            "reference": "1.8 - 6.3",
+            "flag": "↑"
+          },
+          {
+            "name": "淋巴细胞计数",
+            "value": "1.88",
+            "unit": "×10⁹/L",
+            "reference": "1.1 - 3.2",
+            "flag": ""
+          },
+          {
+            "name": "单核细胞计数",
+            "value": "0.66",
+            "unit": "×10⁹/L",
+            "reference": "0.1 - 0.6",
+            "flag": "↑"
+          },
+          {
+            "name": "嗜酸性粒细胞计数",
+            "value": "0.14",
+            "unit": "×10⁹/L",
+            "reference": "0.02 - 0.52",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞计数",
+            "value": "0.05",
+            "unit": "×10⁹/L",
+            "reference": "0 - 0.06",
+            "flag": ""
+          },
+          {
+            "name": "红细胞计数 RBC",
+            "value": "4.75",
+            "unit": "×10¹²/L",
+            "reference": "4.3 - 5.8",
+            "flag": ""
+          },
+          {
+            "name": "血红蛋白 Hb",
+            "value": "143",
+            "unit": "g/L",
+            "reference": "130 - 175",
+            "flag": ""
+          },
+          {
+            "name": "红细胞压积 HCT",
+            "value": "42.8",
+            "unit": "%",
+            "reference": "40 - 50",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞体积 MCV",
+            "value": "90.1",
+            "unit": "fL",
+            "reference": "82 - 100",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞血红蛋白 MCH",
+            "value": "30.1",
+            "unit": "pg",
+            "reference": "27 - 34",
+            "flag": ""
+          },
+          {
+            "name": "平均Hb浓度 MCHC",
+            "value": "334",
+            "unit": "g/L",
+            "reference": "316 - 354",
+            "flag": ""
+          },
+          {
+            "name": "红细胞分布宽度 RDW-CV",
+            "value": "12.9",
+            "unit": "%",
+            "reference": "11.5 - 14.5",
+            "flag": ""
+          },
+          {
+            "name": "血小板计数 PLT",
+            "value": "221",
+            "unit": "×10⁹/L",
+            "reference": "125 - 350",
+            "flag": ""
+          },
+          {
+            "name": "平均血小板体积 MPV",
+            "value": "10.1",
+            "unit": "fL",
+            "reference": "7 - 13",
+            "flag": ""
+          }
+        ],
+        "note": "新增分类计数及红细胞指数为本版补充的合成数据，与既有WBC/Hb/PLT保持一致。"
+      },
+      "positive": "中性粒细胞计数 6.67 ×10⁹/L ↑（参考：1.8 - 6.3）；单核细胞计数 0.66 ×10⁹/L ↑（参考：0.1 - 0.6）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "cbc_06": {
+      "name": "血常规（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：06:40。\n白细胞计数 WBC 7.2 ×10⁹/L （参考：3.5 - 9.5）\n中性粒细胞比例 63 % （参考：40 - 75）\n淋巴细胞比例 27 % （参考：20 - 50）\n单核细胞比例 7 % （参考：3 - 10）\n嗜酸性粒细胞比例 2.5 % （参考：0.4 - 8）\n嗜碱性粒细胞比例 0.5 % （参考：0 - 1）\n中性粒细胞计数 4.54 ×10⁹/L （参考：1.8 - 6.3）\n淋巴细胞计数 1.94 ×10⁹/L （参考：1.1 - 3.2）\n单核细胞计数 0.5 ×10⁹/L （参考：0.1 - 0.6）\n嗜酸性粒细胞计数 0.18 ×10⁹/L （参考：0.02 - 0.52）\n嗜碱性粒细胞计数 0.04 ×10⁹/L （参考：0 - 0.06）\n红细胞计数 RBC 4.81 ×10¹²/L （参考：4.3 - 5.8）\n血红蛋白 Hb 145 g/L （参考：130 - 175）\n红细胞压积 HCT 43.5 % （参考：40 - 50）\n平均红细胞体积 MCV 90.4 fL （参考：82 - 100）\n平均红细胞血红蛋白 MCH 30.1 pg （参考：27 - 34）\n平均Hb浓度 MCHC 333 g/L （参考：316 - 354）\n红细胞分布宽度 RDW-CV 12.8 % （参考：11.5 - 14.5）\n血小板计数 PLT 229 ×10⁹/L （参考：125 - 350）\n平均血小板体积 MPV 10.2 fL （参考：7 - 13）",
+      "sheet": {
+        "title": "血液检验报告单",
+        "number": "SIM-CBC-0906",
+        "sample": "EDTA抗凝全血",
+        "collected": "09-06 06:00",
+        "received": "06:12",
+        "reported": "06:40",
+        "rows": [
+          {
+            "name": "白细胞计数 WBC",
+            "value": "7.2",
+            "unit": "×10⁹/L",
+            "reference": "3.5 - 9.5",
+            "flag": ""
+          },
+          {
+            "name": "中性粒细胞比例",
+            "value": "63",
+            "unit": "%",
+            "reference": "40 - 75",
+            "flag": ""
+          },
+          {
+            "name": "淋巴细胞比例",
+            "value": "27",
+            "unit": "%",
+            "reference": "20 - 50",
+            "flag": ""
+          },
+          {
+            "name": "单核细胞比例",
+            "value": "7",
+            "unit": "%",
+            "reference": "3 - 10",
+            "flag": ""
+          },
+          {
+            "name": "嗜酸性粒细胞比例",
+            "value": "2.5",
+            "unit": "%",
+            "reference": "0.4 - 8",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞比例",
+            "value": "0.5",
+            "unit": "%",
+            "reference": "0 - 1",
+            "flag": ""
+          },
+          {
+            "name": "中性粒细胞计数",
+            "value": "4.54",
+            "unit": "×10⁹/L",
+            "reference": "1.8 - 6.3",
+            "flag": ""
+          },
+          {
+            "name": "淋巴细胞计数",
+            "value": "1.94",
+            "unit": "×10⁹/L",
+            "reference": "1.1 - 3.2",
+            "flag": ""
+          },
+          {
+            "name": "单核细胞计数",
+            "value": "0.5",
+            "unit": "×10⁹/L",
+            "reference": "0.1 - 0.6",
+            "flag": ""
+          },
+          {
+            "name": "嗜酸性粒细胞计数",
+            "value": "0.18",
+            "unit": "×10⁹/L",
+            "reference": "0.02 - 0.52",
+            "flag": ""
+          },
+          {
+            "name": "嗜碱性粒细胞计数",
+            "value": "0.04",
+            "unit": "×10⁹/L",
+            "reference": "0 - 0.06",
+            "flag": ""
+          },
+          {
+            "name": "红细胞计数 RBC",
+            "value": "4.81",
+            "unit": "×10¹²/L",
+            "reference": "4.3 - 5.8",
+            "flag": ""
+          },
+          {
+            "name": "血红蛋白 Hb",
+            "value": "145",
+            "unit": "g/L",
+            "reference": "130 - 175",
+            "flag": ""
+          },
+          {
+            "name": "红细胞压积 HCT",
+            "value": "43.5",
+            "unit": "%",
+            "reference": "40 - 50",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞体积 MCV",
+            "value": "90.4",
+            "unit": "fL",
+            "reference": "82 - 100",
+            "flag": ""
+          },
+          {
+            "name": "平均红细胞血红蛋白 MCH",
+            "value": "30.1",
+            "unit": "pg",
+            "reference": "27 - 34",
+            "flag": ""
+          },
+          {
+            "name": "平均Hb浓度 MCHC",
+            "value": "333",
+            "unit": "g/L",
+            "reference": "316 - 354",
+            "flag": ""
+          },
+          {
+            "name": "红细胞分布宽度 RDW-CV",
+            "value": "12.8",
+            "unit": "%",
+            "reference": "11.5 - 14.5",
+            "flag": ""
+          },
+          {
+            "name": "血小板计数 PLT",
+            "value": "229",
+            "unit": "×10⁹/L",
+            "reference": "125 - 350",
+            "flag": ""
+          },
+          {
+            "name": "平均血小板体积 MPV",
+            "value": "10.2",
+            "unit": "fL",
+            "reference": "7 - 13",
+            "flag": ""
+          }
+        ],
+        "note": "新增分类计数及红细胞指数为本版补充的合成数据，与既有WBC/Hb/PLT保持一致。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "electrolytes_01": {
+      "name": "电解质（入院）",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：10:00。\n钾 K 3.8 mmol/L （参考：3.5 - 5.3）\n钠 Na 139 mmol/L （参考：137 - 147）\n镁 Mg 0.84 mmol/L （参考：0.75 - 1.02）",
+      "sheet": {
+        "title": "电解质检验报告单",
+        "number": "SIM-BIO-0901",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "10:00",
+        "rows": [
+          {
+            "name": "钾 K",
+            "value": "3.8",
+            "unit": "mmol/L",
+            "reference": "3.5 - 5.3",
+            "flag": ""
+          },
+          {
+            "name": "钠 Na",
+            "value": "139",
+            "unit": "mmol/L",
+            "reference": "137 - 147",
+            "flag": ""
+          },
+          {
+            "name": "镁 Mg",
+            "value": "0.84",
+            "unit": "mmol/L",
+            "reference": "0.75 - 1.02",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "renal_01": {
+      "name": "肾功能（入院）",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：10:00。\n肌酐 Cr 82 μmol/L （参考：57 - 97）\n估算肾小球滤过率 95 mL/min/1.73m² （参考：≥90）\n尿素 Urea 5.6 mmol/L （参考：3.1 - 8.0）",
+      "sheet": {
+        "title": "肾功能检验报告单",
+        "number": "SIM-BIO-0901",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "10:00",
+        "rows": [
+          {
+            "name": "肌酐 Cr",
+            "value": "82",
+            "unit": "μmol/L",
+            "reference": "57 - 97",
+            "flag": ""
+          },
+          {
+            "name": "估算肾小球滤过率",
+            "value": "95",
+            "unit": "mL/min/1.73m²",
+            "reference": "≥90",
+            "flag": ""
+          },
+          {
+            "name": "尿素 Urea",
+            "value": "5.6",
+            "unit": "mmol/L",
+            "reference": "3.1 - 8.0",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "liver_01": {
+      "name": "肝功能（入院）",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：10:00。\n丙氨酸氨基转移酶 ALT 28 U/L （参考：9 - 50）\n天门冬氨酸氨基转移酶 AST 36 U/L （参考：15 - 40）\n总胆红素 TBil 12.6 μmol/L （参考：5 - 21）\n白蛋白 ALB 43 g/L （参考：40 - 55）",
+      "sheet": {
+        "title": "肝功能检验报告单",
+        "number": "SIM-BIO-0901",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "10:00",
+        "rows": [
+          {
+            "name": "丙氨酸氨基转移酶 ALT",
+            "value": "28",
+            "unit": "U/L",
+            "reference": "9 - 50",
+            "flag": ""
+          },
+          {
+            "name": "天门冬氨酸氨基转移酶 AST",
+            "value": "36",
+            "unit": "U/L",
+            "reference": "15 - 40",
+            "flag": ""
+          },
+          {
+            "name": "总胆红素 TBil",
+            "value": "12.6",
+            "unit": "μmol/L",
+            "reference": "5 - 21",
+            "flag": ""
+          },
+          {
+            "name": "白蛋白 ALB",
+            "value": "43",
+            "unit": "g/L",
+            "reference": "40 - 55",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "electrolytes_03": {
+      "name": "电解质（9月3日）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-03 06:00；报告：07:05。\n钾 K 4.2 mmol/L （参考：3.5 - 5.3）\n钠 Na 140 mmol/L （参考：137 - 147）\n镁 Mg 0.89 mmol/L （参考：0.75 - 1.02）",
+      "sheet": {
+        "title": "电解质检验报告单",
+        "number": "SIM-BIO-0903",
+        "sample": "血清",
+        "collected": "09-03 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "钾 K",
+            "value": "4.2",
+            "unit": "mmol/L",
+            "reference": "3.5 - 5.3",
+            "flag": ""
+          },
+          {
+            "name": "钠 Na",
+            "value": "140",
+            "unit": "mmol/L",
+            "reference": "137 - 147",
+            "flag": ""
+          },
+          {
+            "name": "镁 Mg",
+            "value": "0.89",
+            "unit": "mmol/L",
+            "reference": "0.75 - 1.02",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "renal_03": {
+      "name": "肾功能（9月3日）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-03 06:00；报告：07:05。\n肌酐 Cr 84 μmol/L （参考：57 - 97）\n估算肾小球滤过率 92 mL/min/1.73m² （参考：≥90）\n尿素 Urea 5.4 mmol/L （参考：3.1 - 8.0）",
+      "sheet": {
+        "title": "肾功能检验报告单",
+        "number": "SIM-BIO-0903",
+        "sample": "血清",
+        "collected": "09-03 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "肌酐 Cr",
+            "value": "84",
+            "unit": "μmol/L",
+            "reference": "57 - 97",
+            "flag": ""
+          },
+          {
+            "name": "估算肾小球滤过率",
+            "value": "92",
+            "unit": "mL/min/1.73m²",
+            "reference": "≥90",
+            "flag": ""
+          },
+          {
+            "name": "尿素 Urea",
+            "value": "5.4",
+            "unit": "mmol/L",
+            "reference": "3.1 - 8.0",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "liver_03": {
+      "name": "肝功能（9月3日）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-03 06:00；报告：07:05。\n丙氨酸氨基转移酶 ALT 31 U/L （参考：9 - 50）\n天门冬氨酸氨基转移酶 AST 78 U/L ↑（参考：15 - 40）\n总胆红素 TBil 11.8 μmol/L （参考：5 - 21）",
+      "sheet": {
+        "title": "肝功能检验报告单",
+        "number": "SIM-BIO-0903",
+        "sample": "血清",
+        "collected": "09-03 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "丙氨酸氨基转移酶 ALT",
+            "value": "31",
+            "unit": "U/L",
+            "reference": "9 - 50",
+            "flag": ""
+          },
+          {
+            "name": "天门冬氨酸氨基转移酶 AST",
+            "value": "78",
+            "unit": "U/L",
+            "reference": "15 - 40",
+            "flag": "↑"
+          },
+          {
+            "name": "总胆红素 TBil",
+            "value": "11.8",
+            "unit": "μmol/L",
+            "reference": "5 - 21",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "天门冬氨酸氨基转移酶 AST 78 U/L ↑（参考：15 - 40）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "electrolytes_06": {
+      "name": "电解质（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：07:05。\n钾 K 4.3 mmol/L （参考：3.5 - 5.3）\n钠 Na 140 mmol/L （参考：137 - 147）\n镁 Mg 0.9 mmol/L （参考：0.75 - 1.02）",
+      "sheet": {
+        "title": "电解质检验报告单",
+        "number": "SIM-BIO-0906",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "钾 K",
+            "value": "4.3",
+            "unit": "mmol/L",
+            "reference": "3.5 - 5.3",
+            "flag": ""
+          },
+          {
+            "name": "钠 Na",
+            "value": "140",
+            "unit": "mmol/L",
+            "reference": "137 - 147",
+            "flag": ""
+          },
+          {
+            "name": "镁 Mg",
+            "value": "0.9",
+            "unit": "mmol/L",
+            "reference": "0.75 - 1.02",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "renal_06": {
+      "name": "肾功能（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：07:05。\n肌酐 Cr 80 μmol/L （参考：57 - 97）\n估算肾小球滤过率 98 mL/min/1.73m² （参考：≥90）\n尿素 Urea 5.2 mmol/L （参考：3.1 - 8.0）",
+      "sheet": {
+        "title": "肾功能检验报告单",
+        "number": "SIM-BIO-0906",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "肌酐 Cr",
+            "value": "80",
+            "unit": "μmol/L",
+            "reference": "57 - 97",
+            "flag": ""
+          },
+          {
+            "name": "估算肾小球滤过率",
+            "value": "98",
+            "unit": "mL/min/1.73m²",
+            "reference": "≥90",
+            "flag": ""
+          },
+          {
+            "name": "尿素 Urea",
+            "value": "5.2",
+            "unit": "mmol/L",
+            "reference": "3.1 - 8.0",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "liver_06": {
+      "name": "肝功能（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：07:05。\n丙氨酸氨基转移酶 ALT 30 U/L （参考：9 - 50）\n天门冬氨酸氨基转移酶 AST 29 U/L （参考：15 - 40）\n总胆红素 TBil 12.1 μmol/L （参考：5 - 21）\n白蛋白 ALB 41 g/L （参考：40 - 55）",
+      "sheet": {
+        "title": "肝功能检验报告单",
+        "number": "SIM-BIO-0906",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "06:12",
+        "reported": "07:05",
+        "rows": [
+          {
+            "name": "丙氨酸氨基转移酶 ALT",
+            "value": "30",
+            "unit": "U/L",
+            "reference": "9 - 50",
+            "flag": ""
+          },
+          {
+            "name": "天门冬氨酸氨基转移酶 AST",
+            "value": "29",
+            "unit": "U/L",
+            "reference": "15 - 40",
+            "flag": ""
+          },
+          {
+            "name": "总胆红素 TBil",
+            "value": "12.1",
+            "unit": "μmol/L",
+            "reference": "5 - 21",
+            "flag": ""
+          },
+          {
+            "name": "白蛋白 ALB",
+            "value": "41",
+            "unit": "g/L",
+            "reference": "40 - 55",
+            "flag": ""
+          }
+        ],
+        "note": "同一生化报告按项目组展示。eGFR采用CKD-EPI估算并四舍五入；单次结果不能用于诊断慢性肾病。9月3日白蛋白未复查。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "lipids": {
+      "name": "血脂",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：10:10。\n总胆固醇 TC 6.12 mmol/L ↑（参考：<5.2（理想水平））\n低密度脂蛋白 LDL-C 4.05 mmol/L ↑（参考：<3.4（一般人群））\n高密度脂蛋白 HDL-C 0.98 mmol/L ↓（参考：≥1.0）\n甘油三酯 TG 1.86 mmol/L ↑（参考：<1.7）\n非HDL-C 5.14 mmol/L ↑（参考：<4.1（一般人群））",
+      "sheet": {
+        "title": "血脂检验报告单",
+        "number": "SIM-LIP-0901",
+        "sample": "血清（入院、降脂前）",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "10:10",
+        "rows": [
+          {
+            "name": "总胆固醇 TC",
+            "value": "6.12",
+            "unit": "mmol/L",
+            "reference": "<5.2（理想水平）",
+            "flag": "↑"
+          },
+          {
+            "name": "低密度脂蛋白 LDL-C",
+            "value": "4.05",
+            "unit": "mmol/L",
+            "reference": "<3.4（一般人群）",
+            "flag": "↑"
+          },
+          {
+            "name": "高密度脂蛋白 HDL-C",
+            "value": "0.98",
+            "unit": "mmol/L",
+            "reference": "≥1.0",
+            "flag": "↓"
+          },
+          {
+            "name": "甘油三酯 TG",
+            "value": "1.86",
+            "unit": "mmol/L",
+            "reference": "<1.7",
+            "flag": "↑"
+          },
+          {
+            "name": "非HDL-C",
+            "value": "5.14",
+            "unit": "mmol/L",
+            "reference": "<4.1（一般人群）",
+            "flag": "↑"
+          }
+        ],
+        "note": "本例为ACS二级预防：LDL-C治疗目标＜1.4 mmol/L且较基线降低≥50%，严于表内一般人群提示界值。采样非空腹，TG需结合采样状态解读。"
+      },
+      "positive": "总胆固醇 TC 6.12 mmol/L ↑（参考：<5.2（理想水平））；低密度脂蛋白 LDL-C 4.05 mmol/L ↑（参考：<3.4（一般人群））；高密度脂蛋白 HDL-C 0.98 mmol/L ↓（参考：≥1.0）；甘油三酯 TG 1.86 mmol/L ↑（参考：<1.7）；非HDL-C 5.14 mmol/L ↑（参考：<4.1（一般人群））",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "coagulation": {
+      "name": "凝血功能",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：09:55。\n凝血酶原时间 PT 11.8 s （参考：10 - 14）\n国际标准化比值 INR 1.02  （参考：0.80 - 1.20）\n活化部分凝血活酶时间 29 s （参考：25 - 35）\n纤维蛋白原 FIB 3.4 g/L （参考：2.0 - 4.0）",
+      "sheet": {
+        "title": "凝血功能检验报告单",
+        "number": "SIM-COAG-0901",
+        "sample": "枸橼酸钠抗凝血浆",
+        "collected": "09-01 09:28",
+        "received": "09:32",
+        "reported": "09:55",
+        "rows": [
+          {
+            "name": "凝血酶原时间 PT",
+            "value": "11.8",
+            "unit": "s",
+            "reference": "10 - 14",
+            "flag": ""
+          },
+          {
+            "name": "国际标准化比值 INR",
+            "value": "1.02",
+            "unit": "",
+            "reference": "0.80 - 1.20",
+            "flag": ""
+          },
+          {
+            "name": "活化部分凝血活酶时间",
+            "value": "29",
+            "unit": "s",
+            "reference": "25 - 35",
+            "flag": ""
+          },
+          {
+            "name": "纤维蛋白原 FIB",
+            "value": "3.4",
+            "unit": "g/L",
+            "reference": "2.0 - 4.0",
+            "flag": ""
+          }
+        ],
+        "note": "本标本采集于肝素使用前。术中ACT 286秒见手术记录，不能用未抗凝凝血参考区间解释。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "markers_1": {
+      "name": "心肌标志物（09-01 15:00）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-01 15:00；报告：15:40。\nhs-cTnI 18600 ng/L ↑（参考：男性第99百分位：34）\nCK-MB 126 ng/mL ↑（参考：≤5.0）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-02",
+        "sample": "血清",
+        "collected": "09-01 15:00",
+        "received": "15:10",
+        "reported": "15:40",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "18600",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          },
+          {
+            "name": "CK-MB",
+            "value": "126",
+            "unit": "ng/mL",
+            "reference": "≤5.0",
+            "flag": "↑"
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 18600 ng/L ↑（参考：男性第99百分位：34）；CK-MB 126 ng/mL ↑（参考：≤5.0）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "markers_2": {
+      "name": "心肌标志物（09-02 06:00）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-02 06:00；报告：06:45。\nhs-cTnI 32400 ng/L ↑（参考：男性第99百分位：34）\nCK-MB 184 ng/mL ↑（参考：≤5.0）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-03",
+        "sample": "血清",
+        "collected": "09-02 06:00",
+        "received": "06:12",
+        "reported": "06:45",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "32400",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          },
+          {
+            "name": "CK-MB",
+            "value": "184",
+            "unit": "ng/mL",
+            "reference": "≤5.0",
+            "flag": "↑"
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 32400 ng/L ↑（参考：男性第99百分位：34）；CK-MB 184 ng/mL ↑（参考：≤5.0）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "markers_3": {
+      "name": "心肌标志物（09-03 06:00）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-03 06:00；报告：06:45。\nhs-cTnI 14800 ng/L ↑（参考：男性第99百分位：34）\nCK-MB 48 ng/mL ↑（参考：≤5.0）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-04",
+        "sample": "血清",
+        "collected": "09-03 06:00",
+        "received": "06:12",
+        "reported": "06:45",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "14800",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          },
+          {
+            "name": "CK-MB",
+            "value": "48",
+            "unit": "ng/mL",
+            "reference": "≤5.0",
+            "flag": "↑"
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 14800 ng/L ↑（参考：男性第99百分位：34）；CK-MB 48 ng/mL ↑（参考：≤5.0）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "markers_4": {
+      "name": "心肌标志物（09-04 06:00）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-04 06:00；报告：06:45。\nhs-cTnI 5260 ng/L ↑（参考：男性第99百分位：34）\nCK-MB 4.6 ng/mL （参考：≤5.0）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-05",
+        "sample": "血清",
+        "collected": "09-04 06:00",
+        "received": "06:12",
+        "reported": "06:45",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "5260",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          },
+          {
+            "name": "CK-MB",
+            "value": "4.6",
+            "unit": "ng/mL",
+            "reference": "≤5.0",
+            "flag": ""
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 5260 ng/L ↑（参考：男性第99百分位：34）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "markers_5": {
+      "name": "心肌标志物（09-06 06:00）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：06:45。\nhs-cTnI 780 ng/L ↑（参考：男性第99百分位：34）",
+      "sheet": {
+        "title": "心肌损伤标志物检验报告单",
+        "number": "SIM-MARK-06",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "06:12",
+        "reported": "06:45",
+        "rows": [
+          {
+            "name": "hs-cTnI",
+            "value": "780",
+            "unit": "ng/L",
+            "reference": "男性第99百分位：34",
+            "flag": "↑"
+          }
+        ],
+        "note": "高敏肌钙蛋白I：高敏免疫测定（模拟）；CK-MB：质量浓度法。"
+      },
+      "positive": "hs-cTnI 780 ng/L ↑（参考：男性第99百分位：34）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "glucose": {
+      "name": "随机血糖",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：采样后约60分钟。\n随机血糖（09-01 09:28） 8.2 mmol/L ↑（参考：3.9 - 7.8*）",
+      "sheet": {
+        "title": "随机血糖检验报告单",
+        "number": "SIM-OTHER / glucose",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "随机血糖（09-01 09:28）",
+            "value": "8.2",
+            "unit": "mmol/L",
+            "reference": "3.9 - 7.8*",
+            "flag": "↑"
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "随机血糖（09-01 09:28） 8.2 mmol/L ↑（参考：3.9 - 7.8*）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "bnp": {
+      "name": "NT-proBNP（入院）",
+      "stage": 0,
+      "category": "血液",
+      "text": "采样/检查：09-01 09:28；报告：采样后约60分钟。\nNT-proBNP（09-01 09:28） 210 pg/mL ↑（参考：<125*）",
+      "sheet": {
+        "title": "NT-proBNP（入院）检验报告单",
+        "number": "SIM-OTHER / bnp",
+        "sample": "血清",
+        "collected": "09-01 09:28",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "NT-proBNP（09-01 09:28）",
+            "value": "210",
+            "unit": "pg/mL",
+            "reference": "<125*",
+            "flag": "↑"
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "NT-proBNP（09-01 09:28） 210 pg/mL ↑（参考：<125*）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "glycemia": {
+      "name": "空腹血糖及HbA1c",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-02 06:00；报告：采样后约60分钟。\n空腹血糖（09-02 06:00） 5.7 mmol/L （参考：3.9 - 6.1）\nHbA1c（09-02 06:00） 5.6 % （参考：4.0 - 6.0）",
+      "sheet": {
+        "title": "空腹血糖及HbA1c检验报告单",
+        "number": "SIM-OTHER / glycemia",
+        "sample": "血清 / EDTA全血",
+        "collected": "09-02 06:00",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "空腹血糖（09-02 06:00）",
+            "value": "5.7",
+            "unit": "mmol/L",
+            "reference": "3.9 - 6.1",
+            "flag": ""
+          },
+          {
+            "name": "HbA1c（09-02 06:00）",
+            "value": "5.6",
+            "unit": "%",
+            "reference": "4.0 - 6.0",
+            "flag": ""
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "urine": {
+      "name": "尿液检查",
+      "stage": 2,
+      "category": "尿液",
+      "text": "采样/检查：09-02 06:20；报告：采样后约60分钟。\n尿蛋白（09-02 06:20） 阴性  （参考：阴性）\n尿潜血（同上） 阴性  （参考：阴性）\n尿糖（同上） 阴性  （参考：阴性）",
+      "sheet": {
+        "title": "尿液检查检验报告单",
+        "number": "SIM-OTHER / urine",
+        "sample": "晨尿",
+        "collected": "09-02 06:20",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "尿蛋白（09-02 06:20）",
+            "value": "阴性",
+            "unit": "",
+            "reference": "阴性",
+            "flag": ""
+          },
+          {
+            "name": "尿潜血（同上）",
+            "value": "阴性",
+            "unit": "",
+            "reference": "阴性",
+            "flag": ""
+          },
+          {
+            "name": "尿糖（同上）",
+            "value": "阴性",
+            "unit": "",
+            "reference": "阴性",
+            "flag": ""
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "bnp_02": {
+      "name": "NT-proBNP（9月2日）",
+      "stage": 2,
+      "category": "血液",
+      "text": "采样/检查：09-02 06:00；报告：采样后约60分钟。\nNT-proBNP（09-02 06:00） 680 pg/mL ↑（参考：<125*）",
+      "sheet": {
+        "title": "NT-proBNP（9月2日）检验报告单",
+        "number": "SIM-OTHER / bnp_02",
+        "sample": "血清",
+        "collected": "09-02 06:00",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "NT-proBNP（09-02 06:00）",
+            "value": "680",
+            "unit": "pg/mL",
+            "reference": "<125*",
+            "flag": "↑"
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "NT-proBNP（09-02 06:00） 680 pg/mL ↑（参考：<125*）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "glucose_06": {
+      "name": "空腹血糖（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：采样后约60分钟。\n空腹血糖（09-06 06:00） 5.5 mmol/L （参考：3.9 - 6.1）",
+      "sheet": {
+        "title": "空腹血糖（9月6日）检验报告单",
+        "number": "SIM-OTHER / glucose_06",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "空腹血糖（09-06 06:00）",
+            "value": "5.5",
+            "unit": "mmol/L",
+            "reference": "3.9 - 6.1",
+            "flag": ""
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "bnp_06": {
+      "name": "NT-proBNP（9月6日）",
+      "stage": 3,
+      "category": "血液",
+      "text": "采样/检查：09-06 06:00；报告：采样后约60分钟。\nNT-proBNP（09-06 06:00） 260 pg/mL ↑（参考：<125*）",
+      "sheet": {
+        "title": "NT-proBNP（9月6日）检验报告单",
+        "number": "SIM-OTHER / bnp_06",
+        "sample": "血清",
+        "collected": "09-06 06:00",
+        "received": "采样后约10分钟",
+        "reported": "采样后约60分钟",
+        "rows": [
+          {
+            "name": "NT-proBNP（09-06 06:00）",
+            "value": "260",
+            "unit": "pg/mL",
+            "reference": "<125*",
+            "flag": "↑"
+          }
+        ],
+        "note": "由原病例汇编按标本时间拆分。随机血糖、NT-proBNP的箭头为模拟实验室提示界值，不等同确诊阈值。"
+      },
+      "positive": "NT-proBNP（09-06 06:00） 260 pg/mL ↑（参考：<125*）",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "ecg_1": {
+      "name": "12导联心电图（再灌注后）",
+      "stage": 2,
+      "category": "心电",
+      "text": "采样/检查：2026-09-01 11:20；报告：原病例未单列报告时间。\n\n窦性心律。V₃ ST抬高由4 mm降至约1 mm，其他抬高导联明显回落，胸前导联ST抬高总幅度下降＞70%。",
+      "sheet": {
+        "title": "十二导联心电图报告单",
+        "number": "SIM-ECG-02",
+        "sample": "体表十二导联",
+        "collected": "2026-09-01 11:20",
+        "reported": "原病例未单列报告时间",
+        "findings": "窦性心律。V₃ ST抬高由4 mm降至约1 mm，其他抬高导联明显回落，胸前导联ST抬高总幅度下降＞70%。",
+        "image": "ecg_1.png",
+        "note": "原病例合成示意波形，非设备采集；不用于正式影像判读考核。"
+      },
+      "positive": "V₃ ST抬高由4 mm降至约1 mm，其他抬高导联明显回落，胸前导联ST抬高总幅度下降＞70%。",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "ecg_2": {
+      "name": "12导联心电图（梗死演变期）",
+      "stage": 2,
+      "category": "心电",
+      "text": "采样/检查：2026-09-02 07:00；报告：原病例未单列报告时间。\n\n窦性心律；V₂～V₄病理性Q波或QS波，V₂～V₆ T波倒置，残余ST抬高≤0.5 mm。",
+      "sheet": {
+        "title": "十二导联心电图报告单",
+        "number": "SIM-ECG-03",
+        "sample": "体表十二导联",
+        "collected": "2026-09-02 07:00",
+        "reported": "原病例未单列报告时间",
+        "findings": "窦性心律；V₂～V₄病理性Q波或QS波，V₂～V₆ T波倒置，残余ST抬高≤0.5 mm。",
+        "image": "ecg_2.png",
+        "note": "原病例合成示意波形，非设备采集；不用于正式影像判读考核。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "ecg_3": {
+      "name": "12导联心电图（出院前）",
+      "stage": 3,
+      "category": "心电",
+      "text": "采样/检查：2026-09-06 08:00；报告：原病例未单列报告时间。\n\n窦性心律；V₂～V₄ Q波持续，V₂～V₆ T波倒置，无新发ST抬高或压低。",
+      "sheet": {
+        "title": "十二导联心电图报告单",
+        "number": "SIM-ECG-04",
+        "sample": "体表十二导联",
+        "collected": "2026-09-06 08:00",
+        "reported": "原病例未单列报告时间",
+        "findings": "窦性心律；V₂～V₄ Q波持续，V₂～V₆ T波倒置，无新发ST抬高或压低。",
+        "image": "ecg_3.png",
+        "note": "原病例合成示意波形，非设备采集；不用于正式影像判读考核。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "echo_45": {
+      "name": "超声心动图（术后）",
+      "stage": 2,
+      "category": "影像",
+      "text": "采样/检查：2026-09-01 12:10；报告：原病例未单列报告时间。\n\nLVEF 45% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱；轻度二尖瓣反流。未见明确左室血栓；未见明确机械并发症。",
+      "sheet": {
+        "title": "超声心动图检查报告单",
+        "number": "SIM-ECHO-01",
+        "sample": "经胸超声",
+        "collected": "2026-09-01 12:10",
+        "reported": "原病例未单列报告时间",
+        "findings": "LVEF 45% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱；轻度二尖瓣反流。未见明确左室血栓；未见明确机械并发症。",
+        "image": "echo_schema_45.png",
+        "note": "原病例结构示意，非超声采集图。"
+      },
+      "positive": "LVEF 45% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱；轻度二尖瓣反流。",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "echo_50": {
+      "name": "超声心动图（出院前）",
+      "stage": 3,
+      "category": "影像",
+      "text": "采样/检查：2026-09-06 08:30；报告：原病例未单列报告时间。\n\nLVEF 50% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱，较前改善。未见明确左室血栓；未见明确机械并发症。",
+      "sheet": {
+        "title": "超声心动图检查报告单",
+        "number": "SIM-ECHO-02",
+        "sample": "经胸超声",
+        "collected": "2026-09-06 08:30",
+        "reported": "原病例未单列报告时间",
+        "findings": "LVEF 50% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱，较前改善。未见明确左室血栓；未见明确机械并发症。",
+        "image": "echo_schema_50.png",
+        "note": "原病例结构示意，非超声采集图。"
+      },
+      "positive": "LVEF 50% ↓（本模拟报告男性参考下限52%）；前壁、前间隔中远段及心尖运动减弱，较前改善。",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    },
+    "chest": {
+      "name": "床旁胸部X线（术后）",
+      "stage": 2,
+      "category": "影像",
+      "text": "采样/检查：2026-09-01 13:00；报告：13:30。\n\n双肺未见明显实变影或肺水肿征象，肋膈角未见明显变钝，未见明显胸腔积液。心影无明显增大。",
+      "sheet": {
+        "title": "胸部X线检查报告单",
+        "number": "SIM-CXR-0901",
+        "sample": "床旁胸部正位摄影",
+        "collected": "2026-09-01 13:00",
+        "reported": "13:30",
+        "findings": "双肺未见明显实变影或肺水肿征象，肋膈角未见明显变钝，未见明显胸腔积液。心影无明显增大。",
+        "image": "chest_schema.png",
+        "note": "PCI后检查。图为原病例教学示意，非原始胸片；床旁片评估存在局限。"
+      },
+      "positive": "",
+      "source": "build_case_pdf.py · 专家审核版v1.0，教学合成"
+    }
+  },
+  "STAGES": [
+    "接诊",
+    "处置与交接",
+    "病房查房",
+    "出院日",
+    "反馈"
+  ],
+  "TIMES": [
+    "9月1日 09:20",
+    "9月1日 09:35",
+    "9月3日 09:00",
+    "9月7日 09:00",
+    "演练结束"
+  ],
+  "TEACHING": {
+    "0": "根据已获病史、心电和查体讨论工作诊断，不能用未打开的报告或后来的冠脉结果倒推。病例参考：定位性ST段抬高与缺血症状支持启动紧急再灌注路径，不等待肌钙蛋白峰值。仅当相关体征已获时讨论Killip分级，1型机制不能冒称术前已由造影证实。",
+    "1": "病例参考路径为紧急协调导管室、抗血小板负荷、介入期抗凝、强化降脂、监护及风险沟通。药物须核对适用情况和禁忌。学生为接诊医生，不操作介入。所有指令只记为计划，执行应由流程确认。不要自行给未配置的剂量。",
+    "2": "病例术后继续双联抗血小板和降脂，观察再缺血、心衰、心律失常、出血、肾功能及穿刺点；无其他抗凝指征，不常规继续肝素。稳定后渐进康复。需要结合已打开交接和复评资料，不能把高肌钙蛋白单独等同再梗死。",
+    "3": "病例出院安排包含用药核对、抗血小板依从性、戒烟、康复、7～14天复诊评估症状及肾功能钾、4～6周复查血脂、6～12周复查超声；说明胸痛复发及出血的急诊处理。不能仅因支架置入判断治愈。具体剂量按审核病历，此演练不自动生成处方。",
+    "4": "只根据实际对话、打开的报告和病历文字复盘。列出做得好、尚未见证据的部分与下次建议。禁止数字评分、通过结论、将未记录行为算作完成。说明这是形成性反馈，病例及评分尚待专家审核。"
+  },
+  "everyday_background": {
+    "称呼": "可以称呼我老张或张先生。",
+    "选择医院的一般原因": "听说这家医院看病比较好，所以来这里看看。若本次此前已给过具体原因，沿用原说法；不添加行程、转诊或院前处置。",
+    "籍贯": "老家是安徽省合肥市。",
+    "现居地": "现在住在成都市武侯区康宁路18号春和苑2栋301室。",
+    "居住背景说明": "以上地名为固定教学虚构背景，该成都地址为当前权威登记信息，优先于旧对话中南京住址，不据此推断就医距离、暴露史或照护条件。",
+    "工作日常": "主要做企业行政工作，处理办公室事务。",
+    "交流偏好": "希望医生说得通俗些，有不明白的会再问。"
+  },
+  "syncNote": "来源任务：1.2胸痛病例-整体规划。完整医学主稿仍为v1.0；本次更新登记姓名、背景及附件，不代表病例v1.2。药品目录版本2026-09-11.2，共68项，未完成本地药学审核。原病例病程、手术和检验数值未变。",
+  "syncEdition": "2026-09-14",
+  "reviewStatus": "待专家审核",
+  "drugCatalog": {
+    "schema_version": 1,
+    "catalog_version": "2026-09-11.2",
+    "case_id": "SIM-AMI-20260901",
+    "reviewed_at": "2026-09-11",
+    "status": "teaching_draft_pending_pharmacy_review",
+    "guideline_basis": "本次检索到的最新综合ACS指南为2025 ACC/AHA；中国STEMI资料2019版，ESC综合ACS2023版作为版本核对。2026心梗定义更新不是用药指南替代。",
+    "sources": [
+      {
+        "id": "ACS2025",
+        "title": "2025 ACC/AHA ACS Guideline — AHA官方摘要",
+        "url": "https://professional.heart.org/en/science-news/2025-guideline-for-the-management-of-patients-with-acute-coronary-syndromes/top-things-to-know",
+        "scope": "抗血小板与强化降脂目录依据；不等于每个剂型已获本地批准"
+      },
+      {
+        "id": "CN2019",
+        "title": "中国STEMI诊疗指南（2019）",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "国内STEMI诊疗分类参考；具体制剂目录仍需药学核验"
+      },
+      {
+        "id": "HIS",
+        "title": "模拟HIS扩展目录",
+        "scope": "设计性补充；不声称这些药物均获2025 ACS指南推荐，规格、适应证及剂量待本地药学核验"
+      },
+      {
+        "id": "CASE",
+        "title": "本项目心肌梗死模拟病案",
+        "path": "../../build_case_pdf.py",
+        "scope": "保留既有病例剂量模板，非新指南自动推荐"
+      },
+      {
+        "id": "DOSE001",
+        "title": "阿司匹林普通片：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "ACS负荷"
+      },
+      {
+        "id": "DOSE002",
+        "title": "阿司匹林肠溶片：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "ACS维持"
+      },
+      {
+        "id": "DOSE003",
+        "title": "替格瑞洛片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1225fd45-9b56-1671-ee77-cd0c9f2174a5",
+        "scope": "ACS首年维持"
+      },
+      {
+        "id": "DOSE004",
+        "title": "硫酸氢氯吡格雷片：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "ACS维持"
+      },
+      {
+        "id": "DOSE005",
+        "title": "普拉格雷片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=35aa7f3e-bbd8-4eae-b61f-29d1abca2224",
+        "scope": "ACS行PCI后维持"
+      },
+      {
+        "id": "DOSE006",
+        "title": "盐酸替罗非班注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13ea7fb8-4b01-4286-9464-26c0b624bc3b",
+        "scope": "PCI选择性救援负荷"
+      },
+      {
+        "id": "DOSE007",
+        "title": "依替巴肽注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00ad7bbe-cadd-4647-b74b-adfc9f2b5e94",
+        "scope": "PCI选择性救援负荷"
+      },
+      {
+        "id": "DOSE008",
+        "title": "普通肝素注射液：常用成人方案资料",
+        "url": "https://professional.heart.org/~/media/PHD-Files-2/Science-News/2/2021/2021-Coronary-Artery-Revascularization-Guideline-Slide-Set.pdf",
+        "scope": "PCI术中抗凝，未合用GPI"
+      },
+      {
+        "id": "DOSE009",
+        "title": "依诺肝素钠注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=066f27ec-352c-4051-ba29-248e292690db",
+        "scope": "STEMI抗凝，<75岁且CrCl≥30"
+      },
+      {
+        "id": "DOSE010",
+        "title": "磺达肝癸钠注射液：常用成人方案资料",
+        "url": "https://www.medicines.org.uk/emc/product/3335/smpc",
+        "scope": "非直接PCI的STEMI后续抗凝"
+      },
+      {
+        "id": "DOSE011",
+        "title": "注射用比伐芦定：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19a4afc5-151d-4d3c-bfef-48aa8797d695",
+        "scope": "PCI比伐芦定负荷"
+      },
+      {
+        "id": "DOSE012",
+        "title": "注射用阿替普酶：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c669f77c-fa48-478b-a14b-80b20a0139c2",
+        "scope": "AMI阿替普酶90分钟加速方案首段"
+      },
+      {
+        "id": "DOSE013",
+        "title": "注射用瑞替普酶：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "STEMI瑞替普酶首剂"
+      },
+      {
+        "id": "DOSE014",
+        "title": "注射用替奈普酶：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84",
+        "scope": "STEMI，TNKase体重分档制剂方案"
+      },
+      {
+        "id": "DOSE015",
+        "title": "注射用尿激酶：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "STEMI尿激酶溶栓"
+      },
+      {
+        "id": "DOSE016",
+        "title": "阿托伐他汀钙片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00afce9b-48c9-487a-a738-e359c005c707",
+        "scope": "ACS强化降脂"
+      },
+      {
+        "id": "DOSE017",
+        "title": "瑞舒伐他汀钙片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02797697-300a-43db-92cf-9b78f08626be",
+        "scope": "亚洲成人降脂起始"
+      },
+      {
+        "id": "DOSE018",
+        "title": "依折麦布片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02b00cb2-7253-4fb4-a216-53691a929a28",
+        "scope": "降LDL-C"
+      },
+      {
+        "id": "DOSE019",
+        "title": "依洛尤单抗注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e",
+        "scope": "PCSK9抑制剂降脂"
+      },
+      {
+        "id": "DOSE020",
+        "title": "阿利西尤单抗注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=446f6b5c-0dd4-44ff-9bc2-c2b41f2806b4",
+        "scope": "PCSK9抑制剂降脂起始"
+      },
+      {
+        "id": "DOSE021",
+        "title": "英克司兰钠注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44",
+        "scope": "英克司兰初始注射"
+      },
+      {
+        "id": "DOSE022",
+        "title": "贝派地酸片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9",
+        "scope": "贝派地酸降脂"
+      },
+      {
+        "id": "DOSE023",
+        "title": "硝酸甘油片：常用成人方案资料",
+        "url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+        "scope": "缺血性胸痛发作"
+      },
+      {
+        "id": "DOSE024",
+        "title": "硝酸甘油注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=578d8159-5ec6-457f-b4a8-9add624d43a8",
+        "scope": "持续缺血性胸痛的静脉硝酸酯起始"
+      },
+      {
+        "id": "DOSE025",
+        "title": "硝酸异山梨酯片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0e5842f2-74f6-1f02-01bc-07578bd3b393",
+        "scope": "心绞痛预防，普通片"
+      },
+      {
+        "id": "DOSE026",
+        "title": "单硝酸异山梨酯缓释片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0a1e317a-7b05-4d30-9bbc-1d4ccd56ba3c",
+        "scope": "心绞痛预防，缓释片"
+      },
+      {
+        "id": "DOSE027",
+        "title": "琥珀酸美托洛尔缓释片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01908d20-0e16-4410-bd27-1b6df162ede4",
+        "scope": "本病例稳定后β受体阻滞剂起始"
+      },
+      {
+        "id": "DOSE028",
+        "title": "酒石酸美托洛尔片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00de1f16-f979-4dbf-aa60-246ffac8d410",
+        "scope": "稳定型心绞痛，普通片"
+      },
+      {
+        "id": "DOSE029",
+        "title": "富马酸比索洛尔片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=084308e4-3b8b-40d6-acbf-d775772a8a73",
+        "scope": "成人高血压起始"
+      },
+      {
+        "id": "DOSE030",
+        "title": "卡维地洛片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=010290af-81f4-0037-e063-6394a90a4638",
+        "scope": "稳定慢性心衰起始"
+      },
+      {
+        "id": "DOSE031",
+        "title": "盐酸艾司洛尔注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=017023a9-00f0-4284-861f-a3634d4fdb17",
+        "scope": "室上性心动过速控率维持起始"
+      },
+      {
+        "id": "DOSE032",
+        "title": "培哚普利叔丁胺片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=87768fbf-7c63-47da-8925-0316f343d6ef",
+        "scope": "本病例ACEI起始"
+      },
+      {
+        "id": "DOSE033",
+        "title": "雷米普利片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01da05d8-e72e-4208-bf92-a5cd929f15ab",
+        "scope": "心梗后心衰起始"
+      },
+      {
+        "id": "DOSE034",
+        "title": "马来酸依那普利片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=074fe718-88d8-365c-e063-6394a90a299d",
+        "scope": "心衰起始"
+      },
+      {
+        "id": "DOSE035",
+        "title": "卡托普利片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1395ba5b-2fc9-41ff-9c43-e0740d781dee",
+        "scope": "心梗后左室功能不全首次试用"
+      },
+      {
+        "id": "DOSE036",
+        "title": "缬沙坦胶囊：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03af7d09-314a-fe85-e063-6294a90afa25",
+        "scope": "成人高血压，胶囊"
+      },
+      {
+        "id": "DOSE037",
+        "title": "氯沙坦钾片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021cd76a-b093-4704-8410-5e7d01e20a54",
+        "scope": "成人高血压"
+      },
+      {
+        "id": "DOSE038",
+        "title": "沙库巴曲缬沙坦钠片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=000dc81d-ab91-450c-8eae-8eb74e72296f",
+        "scope": "HFrEF、未用或低剂量ACEI/ARB起始"
+      },
+      {
+        "id": "DOSE039",
+        "title": "螺内酯片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08738ad4-1607-4d55-af71-6790477353bd",
+        "scope": "HFrEF起始"
+      },
+      {
+        "id": "DOSE040",
+        "title": "依普利酮片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a",
+        "scope": "心梗后HFrEF起始"
+      },
+      {
+        "id": "DOSE041",
+        "title": "呋塞米注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e",
+        "scope": "水肿的初始利尿"
+      },
+      {
+        "id": "DOSE042",
+        "title": "托拉塞米注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf288ad5-d4e7-4b0b-bfd0-41c5327e6984",
+        "scope": "心衰水肿初始利尿"
+      },
+      {
+        "id": "DOSE043",
+        "title": "达格列净片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01f90c94-71cb-4a1f-81ff-8004b850529b",
+        "scope": "心衰/CKD适应证"
+      },
+      {
+        "id": "DOSE044",
+        "title": "恩格列净片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1782b947-4a72-4feb-a488-1469d9af82bd",
+        "scope": "心衰或2型糖尿病"
+      },
+      {
+        "id": "DOSE045",
+        "title": "重酒石酸去甲肾上腺素注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ea48ab6-e166-df31-b132-70ef982a2d02",
+        "scope": "急性低血压升压起始，按去甲肾上腺素碱基计"
+      },
+      {
+        "id": "DOSE046",
+        "title": "盐酸多巴酚丁胺注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3418aa46-2d9a-39f3-e063-6294a90a2961",
+        "scope": "低心排短期正性肌力起始"
+      },
+      {
+        "id": "DOSE047",
+        "title": "盐酸多巴胺注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=093312af-6eef-1f4b-e063-6294a90a155d",
+        "scope": "休克的多巴胺低速起始"
+      },
+      {
+        "id": "DOSE048",
+        "title": "盐酸肾上腺素注射液：常用成人方案资料",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support",
+        "scope": "成人心脏骤停复苏"
+      },
+      {
+        "id": "DOSE049",
+        "title": "盐酸胺碘酮注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0a28ae25-7cc4-4ac0-a2ba-7820fb93e25c",
+        "scope": "有脉室性心律失常负荷"
+      },
+      {
+        "id": "DOSE050",
+        "title": "盐酸胺碘酮片：常用成人方案资料",
+        "url": "https://www.medicines.org.uk/emc/product/101141/smpc",
+        "scope": "胺碘酮口服维持"
+      },
+      {
+        "id": "DOSE051",
+        "title": "硫酸阿托品注射液：常用成人方案资料",
+        "url": "https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-Bradycardia-LngDscrp-250725-Ed.pdf",
+        "scope": "有症状心动过缓"
+      },
+      {
+        "id": "DOSE052",
+        "title": "腺苷注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1809fc7e-f5d8-18d8-e063-6394a90a7713",
+        "scope": "规则室上性心动过速首剂"
+      },
+      {
+        "id": "DOSE053",
+        "title": "硫酸镁注射液：常用成人方案资料",
+        "url": "https://sps.nhs.uk/articles/treating-acute-hypomagnesaemia-in-adults/",
+        "scope": "低镁且无法口服时补镁"
+      },
+      {
+        "id": "DOSE054",
+        "title": "盐酸吗啡注射液：常用成人方案资料",
+        "url": "https://www.nhc.gov.cn/wjw/gfxwj/200703/14377de303d6428abc1be6dde4339a71.shtml",
+        "scope": "成人重度疼痛的盐酸吗啡镇痛"
+      },
+      {
+        "id": "DOSE055",
+        "title": "枸橼酸芬太尼注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0c10e465-4117-48ba-a454-23ccb7a3fcc7",
+        "scope": "介入/麻醉辅助镇痛"
+      },
+      {
+        "id": "DOSE056",
+        "title": "盐酸利多卡因注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01679d29-a592-8cbb-e063-6394a90ad82a",
+        "scope": "穿刺局麻示例，1%无肾上腺素制剂"
+      },
+      {
+        "id": "DOSE057",
+        "title": "泮托拉唑钠肠溶片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03dea010-4bae-43ab-893e-9bbddb58062d",
+        "scope": "胃食管反流/抑酸"
+      },
+      {
+        "id": "DOSE058",
+        "title": "注射用泮托拉唑钠：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=014f9762-6948-46b7-8659-5c89f35ad8bf",
+        "scope": "暂不能口服时抑酸"
+      },
+      {
+        "id": "DOSE059",
+        "title": "雷贝拉唑钠肠溶片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04e88b86-e1dd-4c56-8359-45fbcc161f7d",
+        "scope": "胃食管反流/抑酸"
+      },
+      {
+        "id": "DOSE060",
+        "title": "华法林钠片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cbce382-9c88-4f58-ae0f-532a841e8f95",
+        "scope": "需维生素K拮抗剂抗凝的起始"
+      },
+      {
+        "id": "DOSE061",
+        "title": "利伐沙班片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610",
+        "scope": "非瓣膜性房颤，CrCl>50"
+      },
+      {
+        "id": "DOSE062",
+        "title": "阿哌沙班片：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=095a08ac-cf0e-497e-a682-ddef38d6b29c",
+        "scope": "非瓣膜性房颤"
+      },
+      {
+        "id": "DOSE063",
+        "title": "达比加群酯胶囊：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13649035-a498-4e31-a7ea-8b18cedceca7",
+        "scope": "非瓣膜性房颤，CrCl>30的成人标准方案"
+      },
+      {
+        "id": "DOSE064",
+        "title": "碘海醇注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5088be1d-a708-1cac-e063-6394a90a2aff",
+        "scope": "冠脉造影单次注入，350 mgI/mL"
+      },
+      {
+        "id": "DOSE065",
+        "title": "碘克沙醇注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fe89ea2-04f7-46c5-9c35-220d8c144a95",
+        "scope": "右冠造影单次注入，320 mgI/mL"
+      },
+      {
+        "id": "DOSE066",
+        "title": "氯化钠注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=123bd10a-90c7-499e-97f6-acf7e0f0fb4e",
+        "scope": "0.9%氯化钠作溶媒的录入模板"
+      },
+      {
+        "id": "DOSE067",
+        "title": "葡萄糖注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ed365da-4e62-4329-c1b9-c197ab4fb6e1",
+        "scope": "低血糖纠正，50%葡萄糖"
+      },
+      {
+        "id": "DOSE068",
+        "title": "氯化钾注射液：常用成人方案资料",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=559a0a8c-a8fe-40a5-b196-21f9308780ab",
+        "scope": "非重症低钾的稀释补钾示例"
+      }
+    ],
+    "items": [
+      {
+        "id": "ami-drug-001",
+        "name": "阿司匹林普通片",
+        "pinyin_initials": "asplptp",
+        "category": "抗血小板",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "CASE",
+          "DOSE001"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "300",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "嚼服",
+          "remark": "ACS负荷；普通片负荷150–300 mg；维持75–100 mg Qd另开肠溶片；核对已服剂量，避免重复负荷。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "case_template": {
+          "dose": "300",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "嚼服",
+          "remark": "本病例入院负荷用药"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS负荷",
+          "dose": "300",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "嚼服",
+          "details": "普通片负荷150–300 mg；维持75–100 mg Qd另开肠溶片；核对已服剂量，避免重复负荷。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-002",
+        "name": "阿司匹林肠溶片",
+        "pinyin_initials": "asplcrp",
+        "category": "抗血小板",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "CASE",
+          "DOSE002"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "100",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "ACS维持；维持75–100 mg Qd；肠溶片整片吞服，非普通片嚼服负荷方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "case_template": {
+          "dose": "100",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "维持用药，整片吞服"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS维持",
+          "dose": "100",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "维持75–100 mg Qd；肠溶片整片吞服，非普通片嚼服负荷方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-003",
+        "name": "替格瑞洛片",
+        "pinyin_initials": "tgrlp",
+        "category": "抗血小板",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "CASE",
+          "DOSE003"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "90",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "ACS首年维持；负荷180 mg一次，随后90 mg Bid；约每12小时。负荷另列一行，不与维持首剂重复。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "case_template": {
+          "dose": "90",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "维持用药，约每12小时；负荷方案另核对"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS首年维持",
+          "dose": "90",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "负荷180 mg一次，随后90 mg Bid；约每12小时。负荷另列一行，不与维持首剂重复。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1225fd45-9b56-1671-ee77-cd0c9f2174a5",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-004",
+        "name": "硫酸氢氯吡格雷片",
+        "pinyin_initials": "lsqlbglp",
+        "category": "抗血小板",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE004"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "75",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "ACS维持；常用负荷300–600 mg一次，随后75 mg Qd；PCI与溶栓负荷方案不同，老年溶栓患者需单独核对。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS维持",
+          "dose": "75",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "常用负荷300–600 mg一次，随后75 mg Qd；PCI与溶栓负荷方案不同，老年溶栓患者需单独核对。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-005",
+        "name": "普拉格雷片",
+        "pinyin_initials": "plglp",
+        "category": "抗血小板",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE005"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "ACS行PCI后维持；负荷60 mg一次，维持10 mg Qd；<60 kg考虑5 mg；既往卒中/TIA禁用，≥75岁一般不推荐。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS行PCI后维持",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "负荷60 mg一次，维持10 mg Qd；<60 kg考虑5 mg；既往卒中/TIA禁用，≥75岁一般不推荐。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=35aa7f3e-bbd8-4eae-b61f-29d1abca2224",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-006",
+        "name": "盐酸替罗非班注射液",
+        "pinyin_initials": "ystlfbzsy",
+        "category": "静脉抗血小板",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE006"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "25",
+          "unit": "μg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "PCI选择性救援负荷；5分钟内给负荷25 μg/kg，后续0.15 μg/kg/min另开泵入，最长18小时；CrCl≤60时泵速减至0.075 μg/kg/min，监测出血及血小板。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCI选择性救援负荷",
+          "dose": "25",
+          "unit": "μg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "5分钟内给负荷25 μg/kg，后续0.15 μg/kg/min另开泵入，最长18小时；CrCl≤60时泵速减至0.075 μg/kg/min，监测出血及血小板。",
+          "dose_kind": "weight_based",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13ea7fb8-4b01-4286-9464-26c0b624bc3b",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-007",
+        "name": "依替巴肽注射液",
+        "pinyin_initials": "ytbtzsy",
+        "category": "静脉抗血小板",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE007"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "180",
+          "unit": "μg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "PCI选择性救援负荷；首剂180 μg/kg；10分钟后再180 μg/kg，后续2 μg/kg/min另开泵入；CrCl<50时泵速1 μg/kg/min，透析患者禁用。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCI选择性救援负荷",
+          "dose": "180",
+          "unit": "μg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "首剂180 μg/kg；10分钟后再180 μg/kg，后续2 μg/kg/min另开泵入；CrCl<50时泵速1 μg/kg/min，透析患者禁用。",
+          "dose_kind": "weight_based",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00ad7bbe-cadd-4647-b74b-adfc9f2b5e94",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-008",
+        "name": "普通肝素注射液",
+        "pinyin_initials": "ptgszsy",
+        "category": "抗凝",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "CASE",
+          "DOSE008"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "",
+          "unit": "U/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "剂量需填写；PCI术中抗凝，未合用GPI；按实际体重及ACT调整；合用GPI时常用50–70 U/kg。原病例7000 U另存病例模板，不能视为所有患者固定剂量。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "case_template": {
+          "dose": "7000",
+          "unit": "U",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "本病例仅介入期，监测ACT；非术后常规用药"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCI术中抗凝，未合用GPI",
+          "dose": "70–100",
+          "unit": "U/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "按实际体重及ACT调整；合用GPI时常用50–70 U/kg。原病例7000 U另存病例模板，不能视为所有患者固定剂量。",
+          "dose_kind": "range",
+          "source_url": "https://professional.heart.org/~/media/PHD-Files-2/Science-News/2/2021/2021-Coronary-Artery-Revascularization-Guideline-Slide-Set.pdf",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-009",
+        "name": "依诺肝素钠注射液",
+        "pinyin_initials": "yngsnzsy",
+        "category": "抗凝",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE009"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "1",
+          "unit": "mg/kg",
+          "frequency": "Q12h · 每12小时",
+          "route": "皮下注射",
+          "remark": "STEMI抗凝，<75岁且CrCl≥30；该行是皮下部分；首剂同时静注30 mg另列行；前两次皮下各≤100 mg。≥75岁不予静注负荷，皮下0.75 mg/kg Q12h，前两次各≤75 mg；CrCl<30需改Qd并核对年龄方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "STEMI抗凝，<75岁且CrCl≥30",
+          "dose": "1",
+          "unit": "mg/kg",
+          "frequency": "Q12h",
+          "route": "皮下注射",
+          "details": "该行是皮下部分；首剂同时静注30 mg另列行；前两次皮下各≤100 mg。≥75岁不予静注负荷，皮下0.75 mg/kg Q12h，前两次各≤75 mg；CrCl<30需改Qd并核对年龄方案。",
+          "dose_kind": "weight_based",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=066f27ec-352c-4051-ba29-248e292690db",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-010",
+        "name": "磺达肝癸钠注射液",
+        "pinyin_initials": "hdggnzsy",
+        "category": "抗凝",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE010"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "皮下注射",
+          "remark": "非直接PCI的STEMI后续抗凝；STEMI首剂2.5 mg静脉给药另列行，后续皮下Qd，最长8日或出院；不能单独用于直接PCI术中抗凝，核对肾功能及出血风险。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "非直接PCI的STEMI后续抗凝",
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "皮下注射",
+          "details": "STEMI首剂2.5 mg静脉给药另列行，后续皮下Qd，最长8日或出院；不能单独用于直接PCI术中抗凝，核对肾功能及出血风险。",
+          "dose_kind": "single_dose",
+          "source_url": "https://www.medicines.org.uk/emc/product/3335/smpc",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-011",
+        "name": "注射用比伐芦定",
+        "pinyin_initials": "zsybfld",
+        "category": "抗凝",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE011"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "0.75",
+          "unit": "mg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "PCI比伐芦定负荷；立即接1.75 mg/kg/h持续泵入，另列行；ACT在5分钟复测。CrCl<30时泵速1 mg/kg/h，透析0.25 mg/kg/h。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCI比伐芦定负荷",
+          "dose": "0.75",
+          "unit": "mg/kg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "立即接1.75 mg/kg/h持续泵入，另列行；ACT在5分钟复测。CrCl<30时泵速1 mg/kg/h，透析0.25 mg/kg/h。",
+          "dose_kind": "weight_based",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19a4afc5-151d-4d3c-bfef-48aa8797d695",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-012",
+        "name": "注射用阿替普酶",
+        "pinyin_initials": "zsyatpm",
+        "category": "溶栓",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE012"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "15",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "AMI阿替普酶90分钟加速方案首段；后续0.75 mg/kg（≤50 mg）30分钟，再0.5 mg/kg（≤35 mg）60分钟，分别列行；总量≤100 mg。需筛查溶栓适应证/禁忌，非脑卒中方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "AMI阿替普酶90分钟加速方案首段",
+          "dose": "15",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "后续0.75 mg/kg（≤50 mg）30分钟，再0.5 mg/kg（≤35 mg）60分钟，分别列行；总量≤100 mg。需筛查溶栓适应证/禁忌，非脑卒中方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c669f77c-fa48-478b-a14b-80b20a0139c2",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-013",
+        "name": "注射用瑞替普酶",
+        "pinyin_initials": "zsyrtpm",
+        "category": "溶栓",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE013"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "MU",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "STEMI瑞替普酶首剂；10 MU=1000万U，静注不少于2分钟；30分钟后重复10 MU，另列行；不能把MU当mg或普通U。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "STEMI瑞替普酶首剂",
+          "dose": "10",
+          "unit": "MU",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "10 MU=1000万U，静注不少于2分钟；30分钟后重复10 MU，另列行；不能把MU当mg或普通U。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-014",
+        "name": "注射用替奈普酶",
+        "pinyin_initials": "zsytnpm",
+        "category": "溶栓",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE014"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "剂量需填写；STEMI，TNKase体重分档制剂方案；<60 kg:30 mg；60–<70:35 mg；70–<80:40 mg；80–<90:45 mg；≥90:50 mg，5秒静注。先按体重确定单值；高龄需核对减量策略。此方案不直接套用国内16 mg rhTNK-tPA制剂。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "STEMI，TNKase体重分档制剂方案",
+          "dose": "30–50",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "<60 kg:30 mg；60–<70:35 mg；70–<80:40 mg；80–<90:45 mg；≥90:50 mg，5秒静注。先按体重确定单值；高龄需核对减量策略。此方案不直接套用国内16 mg rhTNK-tPA制剂。",
+          "dose_kind": "range",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-015",
+        "name": "注射用尿激酶",
+        "pinyin_initials": "zsynjm",
+        "category": "溶栓",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE015"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "150",
+          "unit": "万U",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "STEMI尿激酶溶栓；150万U溶于100 mL生理盐水，30分钟滴完；需筛查溶栓禁忌并配套抗栓监测。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "STEMI尿激酶溶栓",
+          "dose": "150",
+          "unit": "万U",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "150万U溶于100 mL生理盐水，30分钟滴完；需筛查溶栓禁忌并配套抗栓监测。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-016",
+        "name": "阿托伐他汀钙片",
+        "pinyin_initials": "atfttgp",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "CASE",
+          "DOSE016"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qn · 每晚一次",
+          "route": "口服",
+          "remark": "ACS强化降脂；常用40–80 mg每日一次；本病例40 mg每晚，首剂当日避免重复；按耐受、肝功能及相互作用调整。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "case_template": {
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qn · 每晚一次",
+          "route": "口服",
+          "remark": "本病例维持方案；首剂当日不重复"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "ACS强化降脂",
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qn",
+          "route": "口服",
+          "details": "常用40–80 mg每日一次；本病例40 mg每晚，首剂当日避免重复；按耐受、肝功能及相互作用调整。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00afce9b-48c9-487a-a738-e359c005c707",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-017",
+        "name": "瑞舒伐他汀钙片",
+        "pinyin_initials": "rsfttgp",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE017"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "亚洲成人降脂起始；亚洲成人说明书建议5 mg起始；ACS强化降脂常用20 mg Qd，需评估后调整，不能将40 mg默认套用；重度肾损害起始5 mg且≤10 mg。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "亚洲成人降脂起始",
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "亚洲成人说明书建议5 mg起始；ACS强化降脂常用20 mg Qd，需评估后调整，不能将40 mg默认套用；重度肾损害起始5 mg且≤10 mg。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02797697-300a-43db-92cf-9b78f08626be",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-018",
+        "name": "依折麦布片",
+        "pinyin_initials": "yzmbp",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "CASE",
+          "DOSE018"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "降LDL-C；10 mg每日一次，可与他汀合用；不能将复方制剂的总毫克数套用于单方。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "case_template": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "本病例9月2日起使用"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "降LDL-C",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "10 mg每日一次，可与他汀合用；不能将复方制剂的总毫克数套用于单方。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02b00cb2-7253-4fb4-a216-53691a929a28",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-019",
+        "name": "依洛尤单抗注射液",
+        "pinyin_initials": "ylydkzsy",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE019"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "140",
+          "unit": "mg",
+          "frequency": "每2周一次",
+          "route": "皮下注射",
+          "remark": "PCSK9抑制剂降脂；140 mg每2周一次，或420 mg每月一次；两种方案择一，记录实际给药日期。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCSK9抑制剂降脂",
+          "dose": "140",
+          "unit": "mg",
+          "frequency": "每2周一次",
+          "route": "皮下注射",
+          "details": "140 mg每2周一次，或420 mg每月一次；两种方案择一，记录实际给药日期。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-020",
+        "name": "阿利西尤单抗注射液",
+        "pinyin_initials": "alxydkzsy",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE020"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "75",
+          "unit": "mg",
+          "frequency": "每2周一次",
+          "route": "皮下注射",
+          "remark": "PCSK9抑制剂降脂起始；75 mg每2周或300 mg每4周；LDL-C反应不足可调150 mg每2周，不叠加两套方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "PCSK9抑制剂降脂起始",
+          "dose": "75",
+          "unit": "mg",
+          "frequency": "每2周一次",
+          "route": "皮下注射",
+          "details": "75 mg每2周或300 mg每4周；LDL-C反应不足可调150 mg每2周，不叠加两套方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=446f6b5c-0dd4-44ff-9bc2-c2b41f2806b4",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-021",
+        "name": "英克司兰钠注射液",
+        "pinyin_initials": "ykslnzsy",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE021"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "284",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "皮下注射",
+          "remark": "英克司兰初始注射；按活性英克司兰284 mg计（相当于英克司兰钠300 mg）；第0月、第3月，以后每6月一次，记录给药日期。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "英克司兰初始注射",
+          "dose": "284",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "皮下注射",
+          "details": "按活性英克司兰284 mg计（相当于英克司兰钠300 mg）；第0月、第3月，以后每6月一次，记录给药日期。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-022",
+        "name": "贝派地酸片",
+        "pinyin_initials": "bpdsp",
+        "category": "降脂",
+        "catalog_role": "guideline",
+        "source_ids": [
+          "ACS2025",
+          "DOSE022"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "180",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "贝派地酸降脂；180 mg每日一次；关注尿酸、痛风及肌腱症状；本地供应和批准适应证需核对。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "指南相关备选，结合当前适应证选择",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "贝派地酸降脂",
+          "dose": "180",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "180 mg每日一次；关注尿酸、痛风及肌腱症状；本地供应和批准适应证需核对。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-023",
+        "name": "硝酸甘油片",
+        "pinyin_initials": "xsgyp",
+        "category": "抗缺血/硝酸酯",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "CASE",
+          "DOSE023"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "0.5",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "舌下含服",
+          "remark": "缺血性胸痛发作；0.3–0.6 mg一次，必要时每5分钟重复，总计最多3次；先核对血压、右室梗死及近期PDE5抑制剂使用。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "case_template": {
+          "dose": "0.5",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "舌下含服",
+          "remark": "本病例入院单次用药；使用前核对血压、禁忌证"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "缺血性胸痛发作",
+          "dose": "0.5",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "舌下含服",
+          "details": "0.3–0.6 mg一次，必要时每5分钟重复，总计最多3次；先核对血压、右室梗死及近期PDE5抑制剂使用。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cmab.yiigle.com/uploads/guide_html/急性ST段抬高型心肌梗死诊断和治疗指南（2019）.html",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-024",
+        "name": "硝酸甘油注射液",
+        "pinyin_initials": "xsgyzsy",
+        "category": "抗缺血/硝酸酯",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE024"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "μg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "remark": "持续缺血性胸痛的静脉硝酸酯起始；从5 μg/min起，按血压和症状每3–5分钟滴定；稀释、使用适宜管路，不能静推；该剂量是泵速而非单次总量。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "持续缺血性胸痛的静脉硝酸酯起始",
+          "dose": "5",
+          "unit": "μg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "details": "从5 μg/min起，按血压和症状每3–5分钟滴定；稀释、使用适宜管路，不能静推；该剂量是泵速而非单次总量。",
+          "dose_kind": "rate",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=578d8159-5ec6-457f-b4a8-9add624d43a8",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-025",
+        "name": "硝酸异山梨酯片",
+        "pinyin_initials": "xsyslzp",
+        "category": "抗缺血/硝酸酯",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE025"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "心绞痛预防，普通片；起始5–20 mg Bid/Tid；维持10–40 mg Bid/Tid。安排每日不少于14小时无药间隔，不能机械等间隔覆盖24小时。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心绞痛预防，普通片",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "起始5–20 mg Bid/Tid；维持10–40 mg Bid/Tid。安排每日不少于14小时无药间隔，不能机械等间隔覆盖24小时。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0e5842f2-74f6-1f02-01bc-07578bd3b393",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-026",
+        "name": "单硝酸异山梨酯缓释片",
+        "pinyin_initials": "dxsyslzhsp",
+        "category": "抗缺血/硝酸酯",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE026"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "30",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "心绞痛预防，缓释片；30–60 mg每日晨起一次，可按疗效调整；不得嚼碎，不用于即时终止胸痛。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心绞痛预防，缓释片",
+          "dose": "30",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "30–60 mg每日晨起一次，可按疗效调整；不得嚼碎，不用于即时终止胸痛。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0a1e317a-7b05-4d30-9bbc-1d4ccd56ba3c",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-027",
+        "name": "琥珀酸美托洛尔缓释片",
+        "pinyin_initials": "hpsmtlehsp",
+        "category": "β受体阻滞剂",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "CASE",
+          "DOSE027"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "23.75",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "本病例稳定后β受体阻滞剂起始；本病例23.75 mg Qd，耐受后升47.5 mg；按心率、血压及心衰情况滴定。按琥珀酸盐标示，不与美版酒石酸盐等效标示25 mg混写。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "case_template": {
+          "dose": "23.75",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "本病例初始剂量；后续按心率、血压等复评调整"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "本病例稳定后β受体阻滞剂起始",
+          "dose": "23.75",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "本病例23.75 mg Qd，耐受后升47.5 mg；按心率、血压及心衰情况滴定。按琥珀酸盐标示，不与美版酒石酸盐等效标示25 mg混写。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01908d20-0e16-4410-bd27-1b6df162ede4",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对",
+          "case_source": "../../build_case_pdf.py"
+        }
+      },
+      {
+        "id": "ami-drug-028",
+        "name": "酒石酸美托洛尔片",
+        "pinyin_initials": "jssmtlep",
+        "category": "β受体阻滞剂",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE028"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "稳定型心绞痛，普通片；常用起始总量100 mg/日分2次，随餐或餐后；急性MI早期需较小剂量及更密切评估，不能直接套用该稳定期方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "稳定型心绞痛，普通片",
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "常用起始总量100 mg/日分2次，随餐或餐后；急性MI早期需较小剂量及更密切评估，不能直接套用该稳定期方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00de1f16-f979-4dbf-aa60-246ffac8d410",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-029",
+        "name": "富马酸比索洛尔片",
+        "pinyin_initials": "fmsbslep",
+        "category": "β受体阻滞剂",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE029"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "成人高血压起始；通常5 mg Qd；部分患者或肝/肾损害2.5 mg起始，按心率血压调整；心衰起始方案需另选。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "成人高血压起始",
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "通常5 mg Qd；部分患者或肝/肾损害2.5 mg起始，按心率血压调整；心衰起始方案需另选。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=084308e4-3b8b-40d6-acbf-d775772a8a73",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-030",
+        "name": "卡维地洛片",
+        "pinyin_initials": "kwdlp",
+        "category": "β受体阻滞剂",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE030"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "3.125",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "稳定慢性心衰起始；随餐服；至少每2周逐步增加至6.25、12.5、25 mg Bid。心梗后左室功能不全说明书常用6.25 mg Bid起始，低耐受者可更低。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "稳定慢性心衰起始",
+          "dose": "3.125",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "随餐服；至少每2周逐步增加至6.25、12.5、25 mg Bid。心梗后左室功能不全说明书常用6.25 mg Bid起始，低耐受者可更低。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=010290af-81f4-0037-e063-6394a90a4638",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-031",
+        "name": "盐酸艾司洛尔注射液",
+        "pinyin_initials": "ysaslezsy",
+        "category": "β受体阻滞剂",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE031"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "50",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "remark": "室上性心动过速控率维持起始；可先500 μg/kg于1分钟负荷另列行，再50 μg/kg/min，≥4分钟评估滴定；常用50–200 μg/kg/min，监测血压心率。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "室上性心动过速控率维持起始",
+          "dose": "50",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "details": "可先500 μg/kg于1分钟负荷另列行，再50 μg/kg/min，≥4分钟评估滴定；常用50–200 μg/kg/min，监测血压心率。",
+          "dose_kind": "rate",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=017023a9-00f0-4284-861f-a3634d4fdb17",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-032",
+        "name": "培哚普利叔丁胺片",
+        "pinyin_initials": "pdplsdap",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "CASE",
+          "DOSE032"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "2",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "本病例ACEI起始；本病例叔丁胺盐2 mg Qd，耐受后4 mg；一般稳定冠心病说明书4 mg起始至8 mg。不同盐型不可按同mg替换，监测血压/肌酐/血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "case_template": {
+          "dose": "2",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "本病例初始剂量，叔丁胺盐；后续复评调整"
+        },
+        "common_regimen": {
+          "population": "成人",
+          "indication": "本病例ACEI起始",
+          "dose": "2",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "本病例叔丁胺盐2 mg Qd，耐受后4 mg；一般稳定冠心病说明书4 mg起始至8 mg。不同盐型不可按同mg替换，监测血压/肌酐/血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=87768fbf-7c63-47da-8925-0316f343d6ef",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对",
+          "case_source": "../../build_case_pdf.py"
+        }
+      },
+      {
+        "id": "ami-drug-033",
+        "name": "雷米普利片",
+        "pinyin_initials": "lmplp",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE033"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "心梗后心衰起始；2.5 mg Bid，低血压可降1.25 mg Bid，逐步至5 mg Bid；监测血压、肾功能、血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心梗后心衰起始",
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "2.5 mg Bid，低血压可降1.25 mg Bid，逐步至5 mg Bid；监测血压、肾功能、血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01da05d8-e72e-4208-bf92-a5cd929f15ab",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-034",
+        "name": "马来酸依那普利片",
+        "pinyin_initials": "mlsynplp",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE034"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "心衰起始；2.5 mg Bid起始，耐受后逐步滴定，常用范围2.5–20 mg Bid；监测血压、肌酐和血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心衰起始",
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "2.5 mg Bid起始，耐受后逐步滴定，常用范围2.5–20 mg Bid；监测血压、肌酐和血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=074fe718-88d8-365c-e063-6394a90a299d",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-035",
+        "name": "卡托普利片",
+        "pinyin_initials": "ktplp",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE035"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "6.25",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "口服",
+          "remark": "心梗后左室功能不全首次试用；首次6.25 mg，随后12.5 mg Tid，逐步至25–50 mg Tid；餐前1小时；后续方案另列行，监测血压/肾功能/血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心梗后左室功能不全首次试用",
+          "dose": "6.25",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "口服",
+          "details": "首次6.25 mg，随后12.5 mg Tid，逐步至25–50 mg Tid；餐前1小时；后续方案另列行，监测血压/肾功能/血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1395ba5b-2fc9-41ff-9c43-e0740d781dee",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-036",
+        "name": "缬沙坦胶囊",
+        "pinyin_initials": "xstjn",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE036"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "80",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "成人高血压，胶囊；高血压常用80–160 mg Qd起始，按疗效调整。心梗后左室功能不全有20 mg Bid起始方案，应另选能准确给20 mg的剂型，不拆80 mg胶囊估量。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "成人高血压，胶囊",
+          "dose": "80",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "高血压常用80–160 mg Qd起始，按疗效调整。心梗后左室功能不全有20 mg Bid起始方案，应另选能准确给20 mg的剂型，不拆80 mg胶囊估量。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03af7d09-314a-fe85-e063-6294a90afa25",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-037",
+        "name": "氯沙坦钾片",
+        "pinyin_initials": "lstjp",
+        "category": "RAAS相关药品",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE037"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "成人高血压；50 mg Qd，容量不足或肝损害可25 mg起始，可调整至100 mg Qd；监测血压、肾功能、血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "成人高血压",
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "50 mg Qd，容量不足或肝损害可25 mg起始，可调整至100 mg Qd；监测血压、肾功能、血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021cd76a-b093-4704-8410-5e7d01e20a54",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-038",
+        "name": "沙库巴曲缬沙坦钠片",
+        "pinyin_initials": "skbqxstnp",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE038"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "HFrEF、未用或低剂量ACEI/ARB起始；50 mg复方总量≈24/26 mg两组分；常规起始100 mg Bid，耐受后目标200 mg Bid。停ACEI至少36小时，不与ACEI/ARB合用，监测血压/肾功能/血钾。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "HFrEF、未用或低剂量ACEI/ARB起始",
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "50 mg复方总量≈24/26 mg两组分；常规起始100 mg Bid，耐受后目标200 mg Bid。停ACEI至少36小时，不与ACEI/ARB合用，监测血压/肾功能/血钾。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=000dc81d-ab91-450c-8eae-8eb74e72296f",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-039",
+        "name": "螺内酯片",
+        "pinyin_initials": "lnzp",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE039"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "25",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "HFrEF起始；25 mg Qd适用于血钾≤5.0且eGFR>50；eGFR30–50考虑隔日25 mg，按血钾肾功能调整；需匹配可用规格。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "HFrEF起始",
+          "dose": "25",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "25 mg Qd适用于血钾≤5.0且eGFR>50；eGFR30–50考虑隔日25 mg，按血钾肾功能调整；需匹配可用规格。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08738ad4-1607-4d55-af71-6790477353bd",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-040",
+        "name": "依普利酮片",
+        "pinyin_initials": "ypltp",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE040"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "25",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "心梗后HFrEF起始；25 mg Qd，耐受后4周内可至50 mg Qd；血钾升高减量或停药，CrCl≤30禁用。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心梗后HFrEF起始",
+          "dose": "25",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "25 mg Qd，耐受后4周内可至50 mg Qd；血钾升高减量或停药，CrCl≤30禁用。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-041",
+        "name": "呋塞米注射液",
+        "pinyin_initials": "fsmzsy",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE041"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "水肿的初始利尿；常用20–40 mg缓慢静注1–2分钟；急性肺水肿常用40 mg起始，依据既往利尿剂、尿量、血压、电解质调整。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "水肿的初始利尿",
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "常用20–40 mg缓慢静注1–2分钟；急性肺水肿常用40 mg起始，依据既往利尿剂、尿量、血压、电解质调整。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-042",
+        "name": "托拉塞米注射液",
+        "pinyin_initials": "tlsmzsy",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE042"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "静脉注射",
+          "remark": "心衰水肿初始利尿；常用10–20 mg每日一次，约2分钟缓慢静注；按尿量及肾功能调整，监测电解质。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心衰水肿初始利尿",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "静脉注射",
+          "details": "常用10–20 mg每日一次，约2分钟缓慢静注；按尿量及肾功能调整，监测电解质。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf288ad5-d4e7-4b0b-bfd0-41c5327e6984",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-043",
+        "name": "达格列净片",
+        "pinyin_initials": "dgljp",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE043"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "心衰/CKD适应证；10 mg Qd；评估肾功能及容量状态，急性危重、酮症或禁食期间不常规启动；围手术期需停药方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心衰/CKD适应证",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "10 mg Qd；评估肾功能及容量状态，急性危重、酮症或禁食期间不常规启动；围手术期需停药方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01f90c94-71cb-4a1f-81ff-8004b850529b",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-044",
+        "name": "恩格列净片",
+        "pinyin_initials": "egljp",
+        "category": "合并心衰/容量管理",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE044"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "心衰或2型糖尿病；10 mg每日晨服；仅为进一步降糖时可考虑25 mg，不把心衰剂量自动加至25 mg；核对肾功能、禁食及酮症风险。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "心衰或2型糖尿病",
+          "dose": "10",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "10 mg每日晨服；仅为进一步降糖时可考虑25 mg，不把心衰剂量自动加至25 mg；核对肾功能、禁食及酮症风险。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1782b947-4a72-4feb-a488-1469d9af82bd",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-045",
+        "name": "重酒石酸去甲肾上腺素注射液",
+        "pinyin_initials": "zjssqjssxszsy",
+        "category": "急救/血流动力学",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE045"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "8",
+          "unit": "μg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "remark": "急性低血压升压起始，按去甲肾上腺素碱基计；说明书常用起始8–12 μg/min，按灌注及血压滴定；先评估容量，明确稀释浓度并防外渗；不是μg/kg/min，不能混用。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "急性低血压升压起始，按去甲肾上腺素碱基计",
+          "dose": "8",
+          "unit": "μg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "details": "说明书常用起始8–12 μg/min，按灌注及血压滴定；先评估容量，明确稀释浓度并防外渗；不是μg/kg/min，不能混用。",
+          "dose_kind": "rate",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ea48ab6-e166-df31-b132-70ef982a2d02",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-046",
+        "name": "盐酸多巴酚丁胺注射液",
+        "pinyin_initials": "ysdbfdazsy",
+        "category": "急救/血流动力学",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE046"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "0.5",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "remark": "低心排短期正性肌力起始；0.5–1 μg/kg/min起始，常用2–20 μg/kg/min，按血流动力学滴定；需持续监测，非单次静推。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "低心排短期正性肌力起始",
+          "dose": "0.5",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "details": "0.5–1 μg/kg/min起始，常用2–20 μg/kg/min，按血流动力学滴定；需持续监测，非单次静推。",
+          "dose_kind": "rate",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3418aa46-2d9a-39f3-e063-6294a90a2961",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-047",
+        "name": "盐酸多巴胺注射液",
+        "pinyin_initials": "ysdbazsy",
+        "category": "急救/血流动力学",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE047"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "2.5",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "remark": "休克的多巴胺低速起始；说明书低速起始2–5 μg/kg/min，逐步滴定；不作为肾保护用药。心动过缓算法为5–20 μg/kg/min，应另按情境选择。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "休克的多巴胺低速起始",
+          "dose": "2.5",
+          "unit": "μg/kg/min",
+          "frequency": "持续",
+          "route": "静脉泵入",
+          "details": "说明书低速起始2–5 μg/kg/min，逐步滴定；不作为肾保护用药。心动过缓算法为5–20 μg/kg/min，应另按情境选择。",
+          "dose_kind": "rate",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=093312af-6eef-1f4b-e063-6294a90a155d",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-048",
+        "name": "盐酸肾上腺素注射液",
+        "pinyin_initials": "ysssxszsy",
+        "category": "急救/血流动力学",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE048"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "1",
+          "unit": "mg",
+          "frequency": "ST · 立即一次",
+          "route": "静脉注射",
+          "remark": "成人心脏骤停复苏；1 mg IV，每3–5分钟可重复；核对复苏用浓度。本行不适用于有脉低血压持续泵入或过敏反应肌注。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "成人心脏骤停复苏",
+          "dose": "1",
+          "unit": "mg",
+          "frequency": "ST",
+          "route": "静脉注射",
+          "details": "1 mg IV，每3–5分钟可重复；核对复苏用浓度。本行不适用于有脉低血压持续泵入或过敏反应肌注。",
+          "dose_kind": "single_dose",
+          "source_url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-049",
+        "name": "盐酸胺碘酮注射液",
+        "pinyin_initials": "ysadtzsy",
+        "category": "心律失常相关",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE049"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "150",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "有脉室性心律失常负荷；150 mg用5%葡萄糖稀释，10分钟输注；随后1 mg/min 6小时，再0.5 mg/min 18小时，分别另列行；心脏骤停方案不同。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "有脉室性心律失常负荷",
+          "dose": "150",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "150 mg用5%葡萄糖稀释，10分钟输注；随后1 mg/min 6小时，再0.5 mg/min 18小时，分别另列行；心脏骤停方案不同。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0a28ae25-7cc4-4ac0-a2ba-7820fb93e25c",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-050",
+        "name": "盐酸胺碘酮片",
+        "pinyin_initials": "ysadtp",
+        "category": "心律失常相关",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE050"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "200",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "胺碘酮口服维持；常用维持200 mg/日或更低；口服负荷200 mg Tid一周、Bid一周需专科评估；监测QT、甲功、肝肺情况，不自动套用负荷。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "胺碘酮口服维持",
+          "dose": "200",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "常用维持200 mg/日或更低；口服负荷200 mg Tid一周、Bid一周需专科评估；监测QT、甲功、肝肺情况，不自动套用负荷。",
+          "dose_kind": "single_dose",
+          "source_url": "https://www.medicines.org.uk/emc/product/101141/smpc",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-051",
+        "name": "硫酸阿托品注射液",
+        "pinyin_initials": "lsatpzsy",
+        "category": "心律失常相关",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE051"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "1",
+          "unit": "mg",
+          "frequency": "ST · 立即一次",
+          "route": "静脉注射",
+          "remark": "有症状心动过缓；1 mg IV，可每3–5分钟重复，总量最多3 mg；无效时按复苏流程升级治疗。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "有症状心动过缓",
+          "dose": "1",
+          "unit": "mg",
+          "frequency": "ST",
+          "route": "静脉注射",
+          "details": "1 mg IV，可每3–5分钟重复，总量最多3 mg；无效时按复苏流程升级治疗。",
+          "dose_kind": "single_dose",
+          "source_url": "https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-Bradycardia-LngDscrp-250725-Ed.pdf",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-052",
+        "name": "腺苷注射液",
+        "pinyin_initials": "xgzsy",
+        "category": "心律失常相关",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE052"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "6",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "规则室上性心动过速首剂；1–2秒快速静推并立即盐水冲管；1–2分钟未转复可12 mg，另列行；核对心律、支气管痉挛及禁忌。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "规则室上性心动过速首剂",
+          "dose": "6",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "1–2秒快速静推并立即盐水冲管；1–2分钟未转复可12 mg，另列行；核对心律、支气管痉挛及禁忌。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1809fc7e-f5d8-18d8-e063-6394a90a7713",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-053",
+        "name": "硫酸镁注射液",
+        "pinyin_initials": "lsmzsy",
+        "category": "心律失常相关",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE053"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "1",
+          "unit": "g",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "低镁且无法口服时补镁；初始1–5 g按血镁选择，通常1–2 g/h稀释输注；肾损害减量、监测血镁/心电/血压；本行为低镁补充，非心梗常规给镁或尖端扭转抢救方案。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "低镁且无法口服时补镁",
+          "dose": "1",
+          "unit": "g",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "初始1–5 g按血镁选择，通常1–2 g/h稀释输注；肾损害减量、监测血镁/心电/血压；本行为低镁补充，非心梗常规给镁或尖端扭转抢救方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://sps.nhs.uk/articles/treating-acute-hypomagnesaemia-in-adults/",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-054",
+        "name": "盐酸吗啡注射液",
+        "pinyin_initials": "ysmfzsy",
+        "category": "镇痛/局麻",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE054"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "成人重度疼痛的盐酸吗啡镇痛；成人镇痛常用5–10 mg缓慢静注，按既往阿片暴露及呼吸循环状态减量滴定；ACS仅顽固疼痛个体化使用，可能延迟口服抗血小板药吸收。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "成人重度疼痛的盐酸吗啡镇痛",
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "成人镇痛常用5–10 mg缓慢静注，按既往阿片暴露及呼吸循环状态减量滴定；ACS仅顽固疼痛个体化使用，可能延迟口服抗血小板药吸收。",
+          "dose_kind": "single_dose",
+          "source_url": "https://www.nhc.gov.cn/wjw/gfxwj/200703/14377de303d6428abc1be6dde4339a71.shtml",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-055",
+        "name": "枸橼酸芬太尼注射液",
+        "pinyin_initials": "jysftnzsy",
+        "category": "镇痛/局麻",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "DOSE055"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "50",
+          "unit": "μg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "remark": "介入/麻醉辅助镇痛；成人常用初始50–100 μg（按芬太尼计），缓慢给药并监测呼吸/血压；需具备气道及复苏条件。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "介入/麻醉辅助镇痛",
+          "dose": "50",
+          "unit": "μg",
+          "frequency": "一次",
+          "route": "静脉注射",
+          "details": "成人常用初始50–100 μg（按芬太尼计），缓慢给药并监测呼吸/血压；需具备气道及复苏条件。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0c10e465-4117-48ba-a454-23ccb7a3fcc7",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-056",
+        "name": "盐酸利多卡因注射液",
+        "pinyin_initials": "ysldkyzsy",
+        "category": "镇痛/局麻",
+        "catalog_role": "conditional",
+        "source_ids": [
+          "CN2019",
+          "CASE",
+          "DOSE056"
+        ],
+        "case_medication": true,
+        "autofill": {
+          "dose": "",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "局部浸润",
+          "remark": "剂量需填写；穿刺局麻示例，1%无肾上腺素制剂；50 mg=1%溶液5 mL，为局部少量浸润模板，按范围用最低有效量；无肾上腺素时总量不超过4.5 mg/kg且≤300 mg，心/肝病减量。非静脉抗心律失常方案。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "限特定临床情境，需核对适应证及禁忌",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "穿刺局麻示例，1%无肾上腺素制剂",
+          "dose": "50",
+          "unit": "mg",
+          "frequency": "一次",
+          "route": "局部浸润",
+          "details": "50 mg=1%溶液5 mL，为局部少量浸润模板，按范围用最低有效量；无肾上腺素时总量不超过4.5 mg/kg且≤300 mg，心/肝病减量。非静脉抗心律失常方案。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01679d29-a592-8cbb-e063-6394a90ad82a",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对",
+          "template_note": "具体示例量为说明书原则范围内的教学录入模板，并非指南规定的统一剂量。"
+        }
+      },
+      {
+        "id": "ami-drug-057",
+        "name": "泮托拉唑钠肠溶片",
+        "pinyin_initials": "ptlzncrp",
+        "category": "胃肠保护",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE057"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "胃食管反流/抑酸；40 mg Qd，肠溶片整吞；ACS消化道保护按出血风险选择，不默认人人使用。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "胃食管反流/抑酸",
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "40 mg Qd，肠溶片整吞；ACS消化道保护按出血风险选择，不默认人人使用。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03dea010-4bae-43ab-893e-9bbddb58062d",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-058",
+        "name": "注射用泮托拉唑钠",
+        "pinyin_initials": "zsyptlzn",
+        "category": "胃肠保护",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE058"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "静脉滴注",
+          "remark": "暂不能口服时抑酸；40 mg稀释后约15分钟输注，能口服后转换；消化道活动性出血有不同方案，不套用此行。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "暂不能口服时抑酸",
+          "dose": "40",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "静脉滴注",
+          "details": "40 mg稀释后约15分钟输注，能口服后转换；消化道活动性出血有不同方案，不套用此行。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=014f9762-6948-46b7-8659-5c89f35ad8bf",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-059",
+        "name": "雷贝拉唑钠肠溶片",
+        "pinyin_initials": "lblzncrp",
+        "category": "胃肠保护",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE059"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "胃食管反流/抑酸；20 mg每日一次，肠溶片整吞；按病种及疗程调整，不与其他PPI重复。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "胃食管反流/抑酸",
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "20 mg每日一次，肠溶片整吞；按病种及疗程调整，不与其他PPI重复。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04e88b86-e1dd-4c56-8359-45fbcc161f7d",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-060",
+        "name": "华法林钠片",
+        "pinyin_initials": "hflnp",
+        "category": "额外抗凝指征/合并疾病",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE060"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "需维生素K拮抗剂抗凝的起始；常用起始2–5 mg Qd，按INR调整；房颤/VTE通常目标INR2–3，机械瓣另定；合并抗血小板时评估出血及疗程。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "需维生素K拮抗剂抗凝的起始",
+          "dose": "2.5",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "常用起始2–5 mg Qd，按INR调整；房颤/VTE通常目标INR2–3，机械瓣另定；合并抗血小板时评估出血及疗程。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cbce382-9c88-4f58-ae0f-532a841e8f95",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-061",
+        "name": "利伐沙班片",
+        "pinyin_initials": "lfsbp",
+        "category": "额外抗凝指征/合并疾病",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE061"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "Qd · 一日一次",
+          "route": "口服",
+          "remark": "非瓣膜性房颤，CrCl>50；20 mg随晚餐；CrCl15–50常用15 mg Qd，<15避免。VTE及CAD/PAD剂量不同，不能直接替换，也不是心梗常规加药。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "非瓣膜性房颤，CrCl>50",
+          "dose": "20",
+          "unit": "mg",
+          "frequency": "Qd",
+          "route": "口服",
+          "details": "20 mg随晚餐；CrCl15–50常用15 mg Qd，<15避免。VTE及CAD/PAD剂量不同，不能直接替换，也不是心梗常规加药。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-062",
+        "name": "阿哌沙班片",
+        "pinyin_initials": "apsbp",
+        "category": "额外抗凝指征/合并疾病",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE062"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "非瓣膜性房颤；通常5 mg Bid；年龄≥80岁、体重≤60 kg、肌酐≥1.5 mg/dL三项中≥2项改2.5 mg Bid；另核对肾功能/相互作用，VTE负荷方案不同。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "非瓣膜性房颤",
+          "dose": "5",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "通常5 mg Bid；年龄≥80岁、体重≤60 kg、肌酐≥1.5 mg/dL三项中≥2项改2.5 mg Bid；另核对肾功能/相互作用，VTE负荷方案不同。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=095a08ac-cf0e-497e-a682-ddef38d6b29c",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-063",
+        "name": "达比加群酯胶囊",
+        "pinyin_initials": "dbjqzjn",
+        "category": "额外抗凝指征/合并疾病",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE063"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "150",
+          "unit": "mg",
+          "frequency": "Bid · 一日两次",
+          "route": "口服",
+          "remark": "非瓣膜性房颤，CrCl>30的成人标准方案；150 mg Bid整粒吞服，不拆胶囊；高龄、肾损害、出血高风险及P-gp相互作用需按本地说明书选择减量，不能套用美国75 mg减量规格。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "非瓣膜性房颤，CrCl>30的成人标准方案",
+          "dose": "150",
+          "unit": "mg",
+          "frequency": "Bid",
+          "route": "口服",
+          "details": "150 mg Bid整粒吞服，不拆胶囊；高龄、肾损害、出血高风险及P-gp相互作用需按本地说明书选择减量，不能套用美国75 mg减量规格。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13649035-a498-4e31-a7ea-8b18cedceca7",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-064",
+        "name": "碘海醇注射液",
+        "pinyin_initials": "dhczsy",
+        "category": "介入造影/输液与电解质",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE064"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "5",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "冠状动脉内注射",
+          "remark": "冠脉造影单次注入，350 mgI/mL；常用单次5 mL（范围3–14 mL），按血管和成像调整；此为单次注入量，非整台手术总量，记录累计碘量、肾功能及过敏史。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "冠脉造影单次注入，350 mgI/mL",
+          "dose": "5",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "冠状动脉内注射",
+          "details": "常用单次5 mL（范围3–14 mL），按血管和成像调整；此为单次注入量，非整台手术总量，记录累计碘量、肾功能及过敏史。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5088be1d-a708-1cac-e063-6394a90a2aff",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-065",
+        "name": "碘克沙醇注射液",
+        "pinyin_initials": "dksczsy",
+        "category": "介入造影/输液与电解质",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE065"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "冠状动脉内注射",
+          "remark": "剂量需填写；右冠造影单次注入，320 mgI/mL；右冠单次3–8 mL、左冠3–10 mL，按造影效果确定单值；非手术总量，记录累计碘量、肾功能及过敏史。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "右冠造影单次注入，320 mgI/mL",
+          "dose": "3–8",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "冠状动脉内注射",
+          "details": "右冠单次3–8 mL、左冠3–10 mL，按造影效果确定单值；非手术总量，记录累计碘量、肾功能及过敏史。",
+          "dose_kind": "range",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fe89ea2-04f7-46c5-9c35-220d8c144a95",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-066",
+        "name": "氯化钠注射液",
+        "pinyin_initials": "lhnzsy",
+        "category": "介入造影/输液与电解质",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE066"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "剂量需填写；0.9%氯化钠作溶媒的录入模板；100 mL仅作相容药物的溶媒示例，不是心梗常规补液剂量；浓度0.9%，按配伍、容量状态及主药输注要求调整体积和速度。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "0.9%氯化钠作溶媒的录入模板",
+          "dose": "100",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "100 mL仅作相容药物的溶媒示例，不是心梗常规补液剂量；浓度0.9%，按配伍、容量状态及主药输注要求调整体积和速度。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=123bd10a-90c7-499e-97f6-acf7e0f0fb4e",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对",
+          "template_note": "具体示例量为说明书原则范围内的教学录入模板，并非指南规定的统一剂量。"
+        }
+      },
+      {
+        "id": "ami-drug-067",
+        "name": "葡萄糖注射液",
+        "pinyin_initials": "pttzsy",
+        "category": "介入造影/输液与电解质",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE067"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "20",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "低血糖纠正，50%葡萄糖；50%制剂20 mL=10 g；常用10–25 g（20–50 mL）缓慢静脉给药并复测血糖。非5%葡萄糖溶媒方案，核对浓度、静脉通路并防外渗。"
+        },
+        "dose_review_status": "reference_checked_teaching_template",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "低血糖纠正，50%葡萄糖",
+          "dose": "20",
+          "unit": "mL",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "50%制剂20 mL=10 g；常用10–25 g（20–50 mL）缓慢静脉给药并复测血糖。非5%葡萄糖溶媒方案，核对浓度、静脉通路并防外渗。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ed365da-4e62-4329-c1b9-c197ab4fb6e1",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对"
+        }
+      },
+      {
+        "id": "ami-drug-068",
+        "name": "氯化钾注射液",
+        "pinyin_initials": "lhjzsy",
+        "category": "介入造影/输液与电解质",
+        "catalog_role": "his_extension",
+        "source_ids": [
+          "HIS",
+          "DOSE068"
+        ],
+        "case_medication": false,
+        "autofill": {
+          "dose": "",
+          "unit": "g",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "remark": "剂量需填写；非重症低钾的稀释补钾示例；1 g≈13.4 mmol钾，稀释至500 mL示例；血钾>2.5 mmol/L时通常≤10 mmol/h、浓度≤40 mmol/L。严禁直接静推；心衰限液时另定浓度/通路，监测血钾肾功能。"
+        },
+        "dose_review_status": "individual_dose_required",
+        "specifications": [],
+        "availability": "local_formulary_not_verified",
+        "note": "HIS扩展备选，不表示本病例需要使用",
+        "common_regimen": {
+          "population": "成人",
+          "indication": "非重症低钾的稀释补钾示例",
+          "dose": "1",
+          "unit": "g",
+          "frequency": "一次",
+          "route": "静脉滴注",
+          "details": "1 g≈13.4 mmol钾，稀释至500 mL示例；血钾>2.5 mmol/L时通常≤10 mmol/h、浓度≤40 mmol/L。严禁直接静推；心衰限液时另定浓度/通路，监测血钾肾功能。",
+          "dose_kind": "single_dose",
+          "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=559a0a8c-a8fe-40a5-b196-21f9308780ab",
+          "checked_at": "2026-09-11",
+          "evidence_scope": "公开说明书/指南的特定方案；本地制剂与个体适用性仍需核对",
+          "template_note": "具体示例量为说明书原则范围内的教学录入模板，并非指南规定的统一剂量。"
+        }
+      }
+    ],
+    "dose_policy": "明确成人方案可自动填写；不强求全部填数值，个体化总量保留空白并提供参考。负荷/维持分别录入，按体重及泵速方案需换算；草稿不等于可执行处方。保留case_template作为原病案证据。"
+  },
+  "sourceFiles": [
+    {
+      "label": "build_case_pdf.py",
+      "url": "materials/mi/sources/build_case_pdf.py"
+    },
+    {
+      "label": "case.py",
+      "url": "materials/mi/sources/rehearsal/case.py"
+    },
+    {
+      "label": "report_data.json",
+      "url": "materials/mi/sources/rehearsal/report_data.json"
+    },
+    {
+      "label": "report_catalog.py",
+      "url": "materials/mi/sources/rehearsal/report_catalog.py"
+    },
+    {
+      "label": "timeline.py",
+      "url": "materials/mi/sources/rehearsal/timeline.py"
+    },
+    {
+      "label": "operation_orders.py",
+      "url": "materials/mi/sources/rehearsal/operation_orders.py"
+    },
+    {
+      "label": "medical_records.py",
+      "url": "materials/mi/sources/rehearsal/medical_records.py"
+    },
+    {
+      "label": "case-index.json",
+      "url": "materials/mi/sources/output/mi-case/case-index.json"
+    },
+    {
+      "label": "drug-catalog.json",
+      "url": "materials/mi/sources/output/mi-case/drug-catalog.json"
+    },
+    {
+      "label": "心肌梗死_药物清单.md",
+      "url": "materials/mi/sources/output/mi-case/心肌梗死_药物清单.md"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "sourceCaseId": "SIM-ASC-20260901",
+    "name": "肝硬化腹水患者接诊",
+    "patientName": "王建华",
+    "department": "medicine",
+    "subject": "消化内科",
+    "version": "腹水病例 v1.1 · 待临床专家审核",
+    "sourceNote": "来源任务：1.3肝硬化腹水。医学资料 v1.1 待临床专家审核；已接入入院接诊、首日处置、逐日查房、出院及复盘。按原病案时间开放检查。固定预设病程，不将参考治疗及疗效计作学员行为。",
+    "materialsUrl": "case-materials/materials-ascites.html",
+    "state": "已发布",
+    "teachers": [],
+    "scope": false,
+    "selfPractice": true,
+    "trainingAvailable": true
+  }
+]

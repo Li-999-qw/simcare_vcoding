@@ -1,0 +1,31 @@
+/* Longer English labels must wrap without separating medication fields. */
+/* Keep the complete input toolbar in the flex layout. English prompts can
+   occupy more lines than Chinese; only the transcript should shrink first. */
+html[lang=en] #clinical-rounds .conversation{min-height:0}
+html[lang=en] #clinical-rounds .conversation>.pad{overflow-y:auto;overscroll-behavior:contain}
+html[lang=en] #clinical-rounds .composer{flex:0 0 auto;min-width:0}
+html[lang=en] #clinical-rounds .conversation>.pad>.heading,
+html[lang=en] #clinical-rounds .conversation>.pad>.busy-state{flex-shrink:0}
+html[lang=en] #clinical-rounds .conversation .chat-log{min-height:64px}
+html[lang=en] #clinical-rounds .composer .row{row-gap:8px}
+html[lang=en] #clinical-rounds .composer [data-voice],
+html[lang=en] #clinical-rounds .composer [data-send]{flex-shrink:0;white-space:nowrap}
+@media(min-width:701px){html[lang=en] #clinical-rounds .conversation button.scene-picture{height:clamp(80px,12vh,120px)}}
+@media(min-width:701px) and (min-height:741px){html[lang=en] #clinical-rounds main{grid-template-rows:minmax(0,1fr)}}
+@media(max-height:740px),(max-width:700px){html[lang=en] #clinical-rounds .conversation{align-self:start}html[lang=en] #clinical-rounds .conversation .chat-log{flex:none;height:96px;max-height:180px}}
+html[lang=en] #clinical-rounds #cr-senior-log{height:clamp(96px,24dvh,220px);min-height:96px;max-height:220px;flex:none}
+html[lang=en] button,html[lang=en] .tab{white-space:normal;line-height:1.35}
+html[lang=en] .report-meta{grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:9px 16px}
+html[lang=en] .report-paper th,html[lang=en] .report-paper td{overflow-wrap:anywhere;vertical-align:top}
+html[lang=en] .report-paper th{line-height:1.35}
+html[lang=en] .composer .row{flex-wrap:wrap}
+html[lang=en] input,html[lang=en] select,html[lang=en] textarea{min-width:0}
+html[lang=en] .rx-table{min-width:1120px}
+html[lang=en] .hx-login h1{font-size:clamp(26px,3vw,44px);line-height:1.15;max-width:650px}
+html[lang=en] .hx-login{overflow-wrap:break-word}
+html[lang=en] .hx-photo{background:#17384a}
+html[lang=en] .hx-photo img{clip-path:inset(0 0 25% 0)}
+html[lang=en] .hx-photo::after{content:'Practice clinical reasoning in realistic encounters.\A History · Examination · Diagnosis · Management · Debrief';white-space:pre-line;position:absolute;bottom:0;left:0;right:0;min-height:27%;box-sizing:border-box;padding:24px;color:white;background:#17384a;font:500 22px/1.5 system-ui;display:flex;align-items:center}
+html[lang=en] h1,html[lang=en] h2,html[lang=en] h3{overflow-wrap:break-word}
+#clinical-language-switch [aria-current=page]{background:#e1f0ee;border-radius:6px;font-weight:700}
+@media(max-width:700px){html[lang=en] .report-meta{grid-template-columns:1fr 1fr}#clinical-language-switch{right:8px!important;bottom:8px!important}}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>消化内科临床思维训练室 · 文字演练</title>
+  <link rel="stylesheet" href="/style.css?v=rx-native-3">
+  <link rel="preload" as="image" href="/assets/patient-scenes-v1.png">
+
+  <script src="/app.js?v=rx-native-3" defer></script>
+</head>
+<body>
+<div id="clinical-rounds" aria-label="临床思维训练界面">
+  <header class="top">
+    <div><h1 class="brand">消化内科临床思维训练室 <span class="tag">文字演练</span></h1><div class="muted">腹胀患者 · 接诊医生视角</div></div>
+    <div class="row"><button id="cr-flow-toggle" data-action="flow" aria-controls="cr-flow-panel" aria-expanded="false">训练流程</button><button id="cr-teacher-top" data-action="teacher">请教上级医师</button><span id="cr-mode" class="tag"></span><button data-action="export">导出记录</button><button data-action="new">新建演练</button></div>
+  </header>
+  <section id="cr-flow-panel" class="flow-panel hidden" role="dialog" aria-label="训练流程"><div class="heading"><h2>训练流程</h2><button data-action="close-flow" aria-label="收起训练流程">✕</button></div><nav aria-label="训练进程"></nav><p class="muted">按顺序推进，可回看已完成的场景。</p></section>
+  <div id="cr-error" class="error hidden" role="alert"></div>
+  <div id="cr-review" class="review-banner hidden"></div>
+  <main aria-label="问诊与病历工作台"><p class="muted">正在恢复本次演练…</p></main>
+  <footer class="footer"><div><span id="cr-status" class="muted" role="status">正在连接本地演练…</span><div class="muted">教学模拟病例 · 待专家审核 · 检查按病程时间返回，本轮不评分</div></div><button class="primary" id="cr-next" disabled>进入处置与交接 →</button></footer>
+  <dialog id="cr-dialog" aria-labelledby="cr-dialog-title"><section class="dialog"><div class="heading"><h2 id="cr-dialog-title"></h2><button data-action="close" aria-label="关闭弹窗">✕</button></div><div id="cr-dialog-body"></div></section></dialog>
+</div>
+</body>
+</html>

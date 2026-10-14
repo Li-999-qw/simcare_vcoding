@@ -1,0 +1,76 @@
+{
+  "query": "nitroglycerin",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22nitroglycerin%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "NITROGLYCERIN"
+      ],
+      "brand": [
+        "NITROGLYCERIN"
+      ],
+      "route": [
+        "SUBLINGUAL"
+      ],
+      "setid": "041f127e-5166-4484-bc1a-0a373d1187ae",
+      "effective_time": "20241015",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. • At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. ( 2 ) • If chest pain persists after three tablets, seek prompt medical attention. ( 2 ) • May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. ( 2 )"
+    },
+    {
+      "generic": [
+        "GOLD TRICHLORIDE, SOLANUM DULCAMARA TOP, EUPHRASIA STRICTA, NITROGLYCERIN, HEDERA HELIX FLOWERING TWIG, RUTA GRAVEOLENS FLOWERING TOP, TOBACCO LEAF, AND CYNARA SCOLYMUS WHOLE"
+      ],
+      "brand": [
+        "GLAUTARAKT"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0aac4f4f-8f71-44fa-906f-2bf35afea431",
+      "effective_time": "20221215",
+      "dosage": "Dosage Unless otherwise prescribed, adults take 15-20 drops, 3 times per day. For pediatric dosages, consult your practitioner."
+    },
+    {
+      "generic": [
+        "NITROGLYCERIN"
+      ],
+      "brand": [
+        "nitroglycerin"
+      ],
+      "route": [
+        "SUBLINGUAL"
+      ],
+      "setid": "141b6098-dd8e-4c99-a581-197d46f9e0b1",
+      "effective_time": "20250117",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 minutes to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. (2) If chest pain persists after three tablets, seek prompt medical attention. (2) May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. (2)"
+    },
+    {
+      "generic": [
+        "NITROGLYCERIN"
+      ],
+      "brand": [
+        "NITROGLYCERIN"
+      ],
+      "route": [
+        "SUBLINGUAL"
+      ],
+      "setid": "160b85ac-d964-463b-9f1e-1429f14ed318",
+      "effective_time": "20240201",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 minutes to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. • At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. ( 2 ) • If chest pain persists after three tablets, seek prompt medical attention. ( 2 ) • May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. ( 2 )"
+    },
+    {
+      "generic": [
+        "NITROGLYCERIN"
+      ],
+      "brand": [
+        "NITROGLYCERIN"
+      ],
+      "route": [
+        "SUBLINGUAL"
+      ],
+      "setid": "26c314ea-077e-490b-826b-2aafcb6e9564",
+      "effective_time": "20231101",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. ( 2 ) If chest pain persists after three tablets, seek prompt medical attention. ( 2 ) May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. ( 2 )"
+    }
+  ]
+}

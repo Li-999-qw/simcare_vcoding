@@ -1,0 +1,21 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pip
+  - fastapi>=0.115,<1
+  - uvicorn>=0.30,<1
+  - sqlalchemy>=2.0,<3
+  - httpx>=0.28,<1
+  - websockets>=15,<16
+  - numpy>=2,<3
+  - onnxruntime>=1.20,<2
+  - pillow>=11,<13
+  - python-dotenv>=1,<2
+  # The upstream Windows Python release of sherpa-onnx is distributed as wheels.
+  # Conda manages this environment and installs these two wheels into it.
+  - pip:
+      - PyMySQL>=1.1,<2
+      - sherpa-onnx-core==1.13.8
+      - sherpa-onnx==1.13.8

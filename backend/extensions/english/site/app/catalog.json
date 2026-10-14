@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "sourceCaseId": "SIM-AMI-20260901",
+    "name": "Initial assessment of a patient with chest pain",
+    "patientName": "Zhang Jianguo",
+    "department": "medicine",
+    "subject": "Cardiology",
+    "version": "Expert review edition v1.0 · Pending expert review",
+    "sourceNote": "Source task: 1.2 Chest Pain Case—Overall Planning. The complete medical master draft remains v1.0; this update records the name, background, and attachments and does not constitute case v1.2. Medication catalog version 2026-09-11.2 contains 68 entries and has not completed local pharmacy review. The original case course, surgery, and laboratory values are unchanged.",
+    "materialsUrl": "case-materials/materials-mi.html",
+    "state": "Published",
+    "teachers": [],
+    "scope": false,
+    "selfPractice": true
+  },
+  {
+    "id": 2,
+    "sourceCaseId": "SIM-LDH-20260903",
+    "name": "Consultation for a Patient with low back and leg pain",
+    "patientName": "Li Zhiqiang",
+    "department": "surgery",
+    "subject": "Spine Surgery",
+    "version": "Lumbar spine case v1.1 · Pending review by clinical and imaging experts.",
+    "sourceNote": "Source task: 1.1 Lumbar disc herniation case. The master medical draft remains v1.1; this was a synchronization and consolidation on 2026-09-14, not a new medical version or an indication of review approval. The initial consultation was changed to a general orthopedic outpatient visit; the subsequent hospitalization dates have not been added. Previous episodes, name, and residential address are newly added teaching details. Inclusion in the medication library does not mean a medication was administered; 19 items still await clinical/pharmacy review. The images contain known anatomical flaws and are not in DICOM format.",
+    "materialsUrl": "case-materials/materials-lumbar.html",
+    "state": "Published",
+    "teachers": [],
+    "scope": false,
+    "selfPractice": true
+  },
+  {
+    "sourceCaseId": "SIM-ASC-20260901",
+    "name": "Cirrhosis with Ascites",
+    "patientName": "Wang Jianhua",
+    "department": "medicine",
+    "subject": "Gastroenterology",
+    "version": "Ascites Case v1.1 · Pending clinical expert review",
+    "sourceNote": "Source task：1.3 Cirrhosis with ascites. Clinical materials v1.1 Pending clinical expert review. Includes admission assessment, first-day management, daily rounds, discharge and debriefing. Investigations become available according to the source timeline. The course is preset; reference treatment and outcomes are not attributed to the learner。",
+    "materialsUrl": "case-materials/materials-ascites.html",
+    "state": "Published",
+    "teachers": [],
+    "scope": false,
+    "selfPractice": true,
+    "id": 3,
+    "trainingAvailable": true
+  }
+]

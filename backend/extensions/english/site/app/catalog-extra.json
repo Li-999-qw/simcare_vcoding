@@ -1,0 +1,17 @@
+[
+  {
+    "sourceCaseId": "SIM-ASC-20260901",
+    "name": "Cirrhosis with Ascites",
+    "patientName": "Wang Jianhua",
+    "department": "medicine",
+    "subject": "Gastroenterology",
+    "version": "Ascites Case v1.1 · Pending clinical expert review",
+    "sourceNote": "Source task：1.3 Cirrhosis with ascites. Clinical materials v1.1 Pending clinical expert review. Includes admission assessment, first-day management, daily rounds, discharge and debriefing. Investigations become available according to the source timeline. The course is preset; reference treatment and outcomes are not attributed to the learner。",
+    "materialsUrl": "case-materials/materials-ascites.html",
+    "state": "Published",
+    "teachers": [],
+    "scope": false,
+    "selfPractice": true,
+    "trainingAvailable": true
+  }
+]

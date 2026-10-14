@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91a39295-15c6-4dc2-abc5-5a809cb24d9f" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/configure_nginx.py" beforeDir="false" afterPath="$PROJECT_DIR$/configure_nginx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/bailian.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/bailian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/learning.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/learning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/models.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/models.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/conf/local-preview.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/conf/local-preview.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KZfe7OveltEOOImt8uoNMmq7kP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="91a39295-15c6-4dc2-abc5-5a809cb24d9f" name="更改" comment="" />
+      <created>1791770104469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791770104469</updated>
+      <workItem from="1791770105109" duration="551000" />
+    </task>
+    <servers />
+  </component>
+</project>

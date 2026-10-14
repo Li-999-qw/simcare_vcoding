@@ -1,0 +1,23 @@
+<!doctype html><html lang="en"><style>
+#clinical-language-bar{position:static;display:flex;justify-content:flex-end;box-sizing:border-box;width:100%;max-width:1500px;margin:0 auto;padding:12px;clear:both;color-scheme:light}
+#clinical-language-bar #clinical-language-switch{position:static!important;inset:auto!important;float:none!important;transform:none!important;display:flex;flex-wrap:wrap;gap:4px;padding:5px;border:1px solid #b7cbcd;border-radius:10px;background:#fff;box-shadow:0 2px 12px #1232;font:14px system-ui;direction:ltr}
+#clinical-language-switch a{display:block;padding:8px 14px;color:#174d52;text-decoration:none;border-radius:6px;white-space:nowrap}
+#clinical-language-switch a[aria-current="page"]{background:#e5f3f1;font-weight:600}
+#clinical-language-switch a:focus-visible{outline:2px solid #116c60;outline-offset:2px}
+body:has(.hx-language) #clinical-language-bar{display:none!important}
+#clinical-language-bar{display:none!important}
+#clinical-roles .hx-mast{flex-wrap:wrap}
+#clinical-roles .hx-brand{min-width:0;overflow-wrap:anywhere}
+#clinical-roles .hx-language{display:flex;position:static!important;gap:4px;margin-left:auto;padding:5px;border:1px solid #b7cbcd;border-radius:10px;background:#fff;flex-shrink:0;align-self:center}
+#clinical-roles .hx-language a{display:block;padding:8px 14px;color:#174d52;text-decoration:none;border-radius:6px;font:14px system-ui;white-space:nowrap}
+#clinical-roles .hx-language a[aria-current="page"]{background:#e5f3f1;font-weight:600}
+#clinical-roles .hx-columns{grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);box-sizing:border-box;max-width:1500px;width:100%;margin-left:auto;margin-right:auto}
+#clinical-roles .hx-photo{min-height:0!important;aspect-ratio:942 / 710;align-self:start}
+#clinical-roles .hx-photo img{position:absolute!important;width:168.153%!important;height:auto!important;max-width:none!important;left:-3.7155%!important;top:-20.5634%!important}
+#clinical-roles .hx-card{min-width:0;box-sizing:border-box}
+@media(max-width:700px){#clinical-roles .hx-columns{grid-template-columns:minmax(0,1fr)}#clinical-roles .hx-language{margin-left:auto}}
+</style><div id="clinical-language-bar"><nav id="clinical-language-switch" aria-label="Language / 语言">
+<a href="/portal.html?ui=language-v3" lang="zh-CN" >中文 · 中文版</a>
+<a href="/en/portal.html?ui=language-v3" lang="en" aria-current="page">English · 英文版</a></nav></div>
+<script>(()=>{const current="en";document.querySelectorAll('#clinical-language-switch a').forEach(a=>a.addEventListener('click',e=>{if(a.lang===(current==='en'?'en':'zh-CN')){e.preventDefault();return}if(location.pathname.includes('/training/')&&!confirm(current==='en'?'Switch language and return to the learning platform? Your saved practice is retained. Unsent text will not be transferred.':'切换语言并返回学习平台？已保存的练习会保留，尚未发送的文字不会转移。'))e.preventDefault()}));})();</script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>学习记录与知识库</title><link rel="stylesheet" href="/en/learning.css"><header><a href="/en/portal.html">← 返回学习平台</a><strong>临床思维训练 · 学习档案</strong></header><main id="learning"><p>正在加载…</p></main><script src="/en/learning.js"></script></html>
+<script src="/en/shared-ui.js"></script>

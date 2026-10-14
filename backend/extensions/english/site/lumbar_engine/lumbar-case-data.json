@@ -1,0 +1,467 @@
+{
+  "id": "SIM-LDH-20260903",
+  "version": "1.1",
+  "reviewStatus": "Pending review by clinical and imaging specialists",
+  "patient": {
+    "name": "Li Zhiqiang (fictional）",
+    "sex": "male",
+    "age": 46,
+    "height": 176,
+    "weight": 78,
+    "admission": "2026-09-03 09:00",
+    "discharge": "2026-09-07 10:00"
+  },
+  "title": "Left L4/5 disc extrusion with left L5 radiculopathy: A surgical treatment case",
+  "history": [
+    [
+      "General information",
+      "Male, 46 years old, married, warehouse management worker. History provided by the Patient and his spouse; reliable. Admitting department: Spine Surgery. No actual identity, address, telephone number, or hospital code."
+    ],
+    [
+      "Chief complaint",
+      "Low back pain radiating to the left lower limb for 8 weeks, worsening with left foot dorsiflexion weakness for 2 days."
+    ],
+    [
+      "History of present illness",
+      "Low back pain began on July 9, 2026, after bending to move boxes. The following day, radiating pain and numbness developed from the left buttock through the posterolateral left thigh to the lateral lower leg, dorsum of the foot, and first toe web space. Symptoms worsen with coughing, sneezing, prolonged sitting, and bending, and improve when lying on the side with the hips and knees flexed. Initially, low back pain was NRS 4/10 and leg pain 6/10; currently, leg pain is 8/10 and low back pain 4/10. He needs to stop after walking approximately 100 meters and wakes at night because of pain. Bilateral intermittent claudication is not the predominant symptom pattern."
+    ],
+    [
+      "Course of conservative treatment",
+      "After symptom onset, approximately 8 weeks of outpatient nonsurgical treatment were provided for suspected lumbar disc herniation, including a short course of celecoxib 200 mg once daily, acetaminophen as needed, rehabilitation exercises that did not provoke leg pain, and modifications to lifting and prolonged sitting. NSAIDs were not used continuously for the full 8 weeks. Pain recurred after temporary relief, and work and sleep remained substantially impaired. No lumbar injections or previous surgery. The outpatient record dated 2026-08-28 documented left great toe dorsiflexion of 4/5, with other major muscle groups at 5/5. Imaging was performed to assess bony structures and stability."
+    ],
+    [
+      "Recent progression",
+      "Difficulty lifting the left foot and frequent toe catching began on September 1 and worsened on September 2, with inability to walk on the left heel alone. On admission at 09:00 on September 3, left ankle dorsiflexion and great-toe extension were both 3/5. Because of progressive motor decline, MRI and spine surgery assessment were prioritized that morning, followed by early decompression surgery the next day; neurological assessment was not delayed to await completion of conservative treatment or additional X-rays/CT."
+    ],
+    [
+      "Red-flag symptoms and pertinent negative history",
+      "No urinary retention, urinary incontinence, fecal incontinence, perineal numbness, or new sexual dysfunction; no simultaneous weakness of both lower limbs. No fever, chills, progressively worsening nighttime pain at rest, or unexplained weight loss; no history of malignancy, immunosuppression, intravenous drug abuse, or recent infection. No major trauma or long-term steroid use. Appetite is fair; recent sleep has been affected by pain. Bladder and bowel function are normal."
+    ],
+    [
+      "Past medical history",
+      "Denies a history of hypertension, diabetes mellitus, coronary artery disease, stroke, chronic kidney disease, or gastrointestinal ulcer bleeding. No history of spinal surgery, anesthesia-related adverse events, bleeding disorders, or venous thrombosis. No long-term anticoagulant or antiplatelet use."
+    ],
+    [
+      "Medication and allergy history",
+      "Intermittent celecoxib use at 200 mg/day over the past week, most recently on 2026-09-02; occasional acetaminophen use. Denies known drug, latex, or contrast agent allergies. All imaging is specified as noncontrast, with no contrast exposure."
+    ],
+    [
+      "Personal, marital, reproductive, and family history",
+      "Smoking history approximately 15 pack-years, averaging 10 cigarettes/day in recent years; occasional alcohol use. Work involves prolonged alternating sitting and standing, with frequent heavy lifting in the past. Married with one daughter and good family support. No family history of spinal deformities or hereditary neuromuscular disorders."
+    ],
+    [
+      "General physical examination",
+      "T 36.6°C, P 78 beats/min, R 18 breaths/min, BP 128/78 mmHg, SpO₂ 98%. Height 176 cm, weight 78 kg, BMI 25.2 kg/m². Alert, with a pained expression; no significant abnormalities on cardiac, pulmonary, or abdominal examination. No lower-extremity swelling; dorsalis pedis pulses are symmetric."
+    ],
+    [
+      "Spinal and neurological examination",
+      "Mild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL."
+    ],
+    [
+      "Functional assessment",
+      "On admission, leg pain NRS 8/10 and low back pain 4/10; ODI 58% (synthetic score, severe functional limitation). Right lower-extremity strength is normal. Left ankle inversion and eversion are also mildly weak, while plantarflexion is normal. Together with lumbar-origin radiating pain and the sensory distribution, these findings support L5 nerve root involvement rather than isolated common peroneal nerve entrapment."
+    ],
+    [
+      "Provisional diagnosis",
+      "Lumbar disc herniation: Left paracentral/lateral recess extrusion at L4/5 with mild caudal migration, compressing the traversing left L5 nerve root; left L5 radiculopathy with progressive motor decline. Mild L5/S1 degeneration is an accompanying imaging finding, not the symptomatic level in this episode."
+    ],
+    [
+      "Differential diagnosis",
+      "Common peroneal nerve entrapment: Usually does not explain radiating low-back and buttock pain, a positive straight-leg raise test, or impaired inversion. Lumbar spinal stenosis: This case is dominated by unilateral radicular symptoms and a single-level soft disc extrusion. Hip disease: No typical groin pain, and hip movement did not provoke the main symptoms. Infection, tumor, fracture, and cauda equina syndrome: Currently lack supporting evidence, but monitoring will continue during hospitalization."
+    ],
+    [
+      "Surgical indications and options",
+      "Radicular pain and functional impairment remained significant after approximately 8 weeks of treatment, with objective, progressive weakness of left ankle dorsiflexion/great toe extension. MRI findings were concordant with left L5 localization. Left L4/5 microdiscectomy and nerve root decompression are planned. There is no spondylolisthesis or definite dynamic instability; fusion or instrumentation is not routinely indicated. The procedure depends on the patient’s condition and the surgical team; no claim is made that any minimally invasive technique is universally superior to other approaches."
+    ]
+  ],
+  "strength": [
+    [
+      "Hip flexion",
+      "5/5",
+      "5/5",
+      "5/5",
+      "5/5"
+    ],
+    [
+      "Knee extension",
+      "5/5",
+      "5/5",
+      "5/5",
+      "5/5"
+    ],
+    [
+      "Ankle dorsiflexion (tibialis anterior）",
+      "5/5",
+      "3/5 ↓",
+      "4/5 ↓",
+      "5/5"
+    ],
+    [
+      "Great toe dorsiflexion (extensor hallucis longus）",
+      "4/5 ↓",
+      "3/5 ↓",
+      "4/5 ↓",
+      "5/5"
+    ],
+    [
+      "Ankle inversion",
+      "5/5",
+      "4/5 ↓",
+      "4/5 ↓",
+      "5/5"
+    ],
+    [
+      "Ankle eversion",
+      "5/5",
+      "4/5 ↓",
+      "4/5 ↓",
+      "5/5"
+    ],
+    [
+      "Ankle plantar flexion",
+      "5/5",
+      "5/5",
+      "5/5",
+      "5/5"
+    ]
+  ],
+  "labs": [
+    [
+      "White blood cells",
+      6.8,
+      "×10⁹/L",
+      "3.5～9.5",
+      ""
+    ],
+    [
+      "Hemoglobin",
+      151,
+      "g/L",
+      "130～175",
+      ""
+    ],
+    [
+      "Platelets",
+      242,
+      "×10⁹/L",
+      "125～350",
+      ""
+    ],
+    [
+      "CRP",
+      1.6,
+      "mg/L",
+      "<5",
+      ""
+    ],
+    [
+      "ESR",
+      7,
+      "mm/h",
+      "0～15",
+      ""
+    ],
+    [
+      "Creatinine",
+      79,
+      "μmol/L",
+      "57～97",
+      ""
+    ],
+    [
+      "ALT",
+      24,
+      "U/L",
+      "9～50",
+      ""
+    ],
+    [
+      "Albumin",
+      44,
+      "g/L",
+      "40～55",
+      ""
+    ],
+    [
+      "Fasting blood glucose",
+      5.3,
+      "mmol/L",
+      "3.9～6.1",
+      ""
+    ],
+    [
+      "potassium",
+      4.1,
+      "mmol/L",
+      "3.5～5.3",
+      ""
+    ],
+    [
+      "sodium",
+      140,
+      "mmol/L",
+      "137～147",
+      ""
+    ],
+    [
+      "INR",
+      1.01,
+      "",
+      "0.8～1.2",
+      ""
+    ],
+    [
+      "APTT",
+      29,
+      "s",
+      "25～35",
+      ""
+    ]
+  ],
+  "reports": [
+    {
+      "id": "xr",
+      "title": "Lumbar spine AP, lateral, and flexion-extension X-rays",
+      "date": "2026-08-28 10:00",
+      "reportTime": "2026-08-28 11:00",
+      "findings": "Five lumbar vertebrae with preserved vertebral body heights; mild straightening of lumbar lordosis. Mild L4/5 disc space narrowing and mild L5/S1 degeneration. No definite fracture, destructive lesion, or spondylolisthesis. No definite abnormal segmental translation on active flexion–extension views. The examination was completed within the Patient’s tolerance; pain limited movement, restricting assessment of dynamic instability.",
+      "impression": "Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+      "reason": "Persistent low back and leg pain during conservative treatment, and preoperative assessment of bony structures/stability; functional views are not routinely required for every Patient with disc herniation."
+    },
+    {
+      "id": "ct",
+      "title": "Noncontrast lumbar spine CT with coronal and sagittal 2D reconstructions",
+      "date": "2026-08-28 10:30",
+      "reportTime": "2026-08-28 12:00",
+      "findings": "The specified scan range extends from the inferior margin of T12 to S2, using thin-section noncontrast imaging with coronal and sagittal reconstructions. A left-sided soft-tissue density is visible at the posterior margin of L4/5, with narrowing of the left lateral recess. No obvious extensive calcification of the nucleus pulposus is seen; the cortical bone of the vertebral bodies, pedicles, and pars interarticularis is intact. Mild facet degeneration, without definite spondylolysis, severe bony spinal canal stenosis, or fracture.",
+      "impression": "Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+      "reason": "Additional assessment of suspected posterior-margin osteophytes/calcification on outpatient imaging and of bony structures. CT does not replace MRI, nor is repeat CT indicated for all patients undergoing surgery for lumbar disc herniation. The simulated MPR appearance is not reconstructed from actual volumetric data."
+    },
+    {
+      "id": "mr",
+      "title": "Lumbar spine MRI Noncontrast scan",
+      "date": "2026-09-03 10:10",
+      "reportTime": "2026-09-03 11:05",
+      "findings": "Teaching sequence setup: sagittal T1WI and T2WI, and axial T2WI covering the inferior border of T12 to S2. The actual MRI coverage and axial angulation must be determined according to clinical protocols. The conus medullaris terminates at approximately L1, with no definite signal abnormality. The L4/5 disc shows decreased T2 signal and mild disc space narrowing. A left paracentral/lateral recess nucleus pulposus extrusion with slight caudal migration compresses the left anterior margin of the thecal sac and the traversing left L5 nerve root. The causative lesion is not an extraforaminal L4/5 disc herniation, nor is compression of the exiting left L4 nerve root the predominant finding. There is a mild L5/S1 disc bulge without definite corresponding nerve root compression; no major compressive lesion is seen at the other levels. No major findings support infection, tumor, or acute fracture.",
+      "impression": "Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+      "reason": "MRI was prioritized because of progressive left foot dorsiflexion weakness, without waiting for further nonsurgical treatment; noncontrast imaging is sufficient as the primary imaging modality for this case."
+    }
+  ],
+  "course": [
+    [
+      "2026-09-03 09:30｜Initial progress note",
+      "On admission, left ankle and great-toe dorsiflexion strength was 3/5, decreased from the outpatient assessment, consistent with progressive neurological impairment; no cauda equina symptoms. Prioritize MRI and spine surgery assessment, implement fall precautions, suspend exercises that provoke symptoms, and document baseline neurological findings. Pain improvement alone cannot establish neurological safety."
+    ],
+    [
+      "2026-09-03 11:30｜Supervising Physician rounds",
+      "The MRI report is concordant with localization to the left L5 nerve root, establishing a clear surgical indication. Compare the benefits and risks of continued nonsurgical treatment versus early decompression; the decision is to proceed with surgery promptly. Repeat examination shows no urinary retention or altered perineal sensation; left dorsiflexion remains 3/5 without further deterioration."
+    ],
+    [
+      "2026-09-03 16:00｜Preoperative discussion",
+      "Left L4/5 microdiscectomy and left L5 nerve root decompression are planned. There is no definite instability, spondylolisthesis, or predominant mechanical low back pain; fusion is not routinely indicated. Discuss the risks of dural tear/CSF leak, nerve injury, infection, hematoma, recurrence, residual numbness or incomplete motor recovery, wrong-level surgery, and reoperation. General anesthesia assessment: ASA I. Simulated informed consent; no actual signature was generated."
+    ],
+    [
+      "2026-09-04 08:30—09:45｜Operative note",
+      "After induction of general anesthesia, the patient was positioned prone with the abdomen free. L4/5 was localized fluoroscopically, and the level and left side were verified. Cefazolin 2 g was administered intravenously for prophylaxis 30 minutes before skin incision. A short left-sided incision and limited paraspinal muscle dissection were performed, followed by a limited interlaminar fenestration under the microscope, preserving sufficient facet joint tissue. The left L5 nerve root was exposed, revealing ventral compression by extruded nucleus pulposus. Extruded and loose nucleus pulposus fragments were removed, avoiding excessive disc curettage. Exploration confirmed nerve root decompression and restoration of thecal sac pulsation. Hemostasis was achieved, with no cerebrospinal fluid leak observed. No internal fixation or fusion was performed. Estimated blood loss was 30 mL. The procedure was uneventful, with no transfusion. Synthetic pathology conclusion for the submitted specimen: degenerative fibrocartilage/nucleus pulposus tissue."
+    ],
+    [
+      "2026-09-04 13:00｜First postoperative progress note",
+      "Alert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it."
+    ],
+    [
+      "2026-09-05 09:00｜Postoperative day 1 day",
+      "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk."
+    ],
+    [
+      "2026-09-06 09:00｜Postoperative day 2 day",
+      "No fever, new leg pain, progressive weakness, or bowel or bladder abnormalities. Improved walking tolerance, left dorsiflexion strength 4/5, and symmetric bilateral reflexes. Continue staged rehabilitation, incision monitoring, and smoking cessation education; do not promise immediate full recovery of muscle strength."
+    ],
+    [
+      "2026-09-07 09:00｜Discharge summary",
+      "Discharge diagnoses: Left-sided extruded lumbar disc herniation at L4/5 with left L5 radiculopathy; status post left L4/5 microdiscectomy and nerve root decompression. The wound is dry, leg pain is 1/10, left ankle dorsiflexion is 4/5, and great toe dorsiflexion is 4/5. Mild numbness over the dorsum of the foot persists. Able to walk with protection; bladder and bowel function are normal. Outcome: Improved. No long-term antibiotics or routine prophylactic anticoagulation prescription is needed; reassess based on individual risk."
+    ],
+    [
+      "Discharge medications and follow-up",
+      "Acetaminophen 500 mg orally as needed, at least 6 hours apart; in this case, a maximum of 2 g/day for no more than 3 days. Avoid concurrent use of other products containing the same ingredient. Reassess the incision and neurological function 10–14 days after surgery, with a rehabilitation follow-up at 4–6 weeks. Gradually increase walking; avoid repeated bending, twisting, and heavy lifting early in recovery. Assess readiness to return to work according to recovery. Seek emergency care immediately for new or worsening muscle weakness, urinary retention, perineal numbness, or abnormal bowel function; seek prompt medical attention for fever or incision redness, swelling, or drainage."
+    ],
+    [
+      "Review status",
+      "All clinical events, doses, and examinations are teaching assumptions and have not yet been signed off by clinical experts. There are no follow-up images or real evidence of muscle strength recovery. The case is intended for discussion of surgical indications, localization, procedure selection, and perioperative care, and does not claim a guaranteed treatment effect."
+    ]
+  ],
+  "sources": [
+    {
+      "title": "WFNS: Recommendations for Surgery for Lumbar Disc Herniation (published in 2024)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38496347/",
+      "note": "Supports individualized consideration of surgery when nonsurgical treatment fails or neurological impairment progresses; fusion is not routinely indicated for a first episode of uncomplicated disc herniation."
+    },
+    {
+      "title": "WFNS Spine Committee：Diagnostic and treatment recommendations",
+      "url": "https://wfns-spine.org/lower-back-pain-and-lumbar-disc-herniation-recommendations",
+      "note": "Establish clinical localization using the history, muscle strength, sensation, sphincter function, and straight-leg raise test; MRI is the primary examination for confirming disc herniation and soft-tissue compression."
+    },
+    {
+      "title": "ACR Appropriateness Criteria：Low Back Pain",
+      "url": "https://acsearch.acr.org/list/TopicNarrativePdf?topicId=141",
+      "note": "Select appropriate imaging for persistent or progressive symptoms or when surgery is being considered; this case involves declining motor function and requires prompt assessment."
+    }
+  ],
+  "imageLimitations": "Identified issue: The three lumbar X-ray sets—lateral, flexion, and extension—show too many lumbar-like vertebrae, inconsistent with the five lumbar vertebrae specified for this case. One targeted correction attempt did not reliably resolve this. The original images without misleading numbering have been retained, and each set has been marked as unacceptable imaging, for interface demonstration only. Sagittal T1 images have been corrected using T2 images as a reference and still await expert review. The axial CT and MRI series have each been expanded to 16 representative levels from the inferior border of T12 to S2; each other plane contains 4 images. These are not clinical contiguous thin-section scans. The upper-left sagittal localizer and the reference line that moves with the slices are manually assigned approximate correspondences, not DICOM spatial registration. Sacral morphology and vertebral body/intervertebral disc boundaries are synthetic illustrations. The localizer also shows an L3/4 disc bulge; an expert must verify consistency with the axial images and report. Each plane was synthesized independently, so three-dimensional anatomical consistency and continuity between slices cannot be guaranteed. There are no actual HU values, pixel spacing, DICOM orientation matrices, or examination dose data. The PACS only simulates series selection, scrolling, zooming, panning, grayscale inversion, display brightness/contrast, and four-window comparison; it does not provide diagnostic-grade measurements or true MPR.",
+  "axialLevels": [
+    "T12 Lower margin",
+    "T12/L1",
+    "L1 Vertebral body",
+    "L1/2",
+    "L2 Vertebral body",
+    "L2/3",
+    "L3 Vertebral body",
+    "L3/4",
+    "L4 Upper part",
+    "L4 Lower part",
+    "L4/5",
+    "L5 Upper part",
+    "L5 Middle part",
+    "L5/S1",
+    "S1 Upper part",
+    "S2"
+  ],
+  "series": [
+    {
+      "id": "xr-ap",
+      "name": "Anteroposterior lumbar spine view",
+      "modality": "XR",
+      "group": "XR · 08.28",
+      "plane": "Frontal view",
+      "grid": 1,
+      "report": "xr"
+    },
+    {
+      "id": "xr-lateral",
+      "name": "Lateral lumbar spine view",
+      "modality": "XR",
+      "group": "XR · 08.28",
+      "plane": "Lateral view",
+      "grid": 1,
+      "report": "xr",
+      "defect": "The generated image contains too many lumbar-like vertebrae, inconsistent with the five lumbar vertebrae specified in the case. For interface demonstration only; do not use for vertebral level localization."
+    },
+    {
+      "id": "xr-flexion",
+      "name": "Flexion view",
+      "modality": "XR",
+      "group": "XR · 08.28",
+      "plane": "Flexion lateral view",
+      "grid": 1,
+      "report": "xr",
+      "defect": "The generated image contains too many lumbar-like vertebrae. For interface demonstration only; not suitable for measuring actual range of motion or assessing instability."
+    },
+    {
+      "id": "xr-extension",
+      "name": "Extension view",
+      "modality": "XR",
+      "group": "XR · 08.28",
+      "plane": "Extension lateral view",
+      "grid": 1,
+      "report": "xr",
+      "defect": "The generated image contains too many lumbar-like vertebrae. For interface demonstration only; not suitable for measuring actual range of motion or assessing instability."
+    },
+    {
+      "id": "ct-axial",
+      "name": "CT Axial view",
+      "modality": "CT",
+      "group": "CT · 08.28",
+      "plane": "Axial view · T12–S2",
+      "grid": 4,
+      "report": "ct",
+      "asset": "ct-axial-whole.png",
+      "locator": {
+        "panel": 0,
+        "positions": [
+          0.12,
+          0.15,
+          0.21,
+          0.27,
+          0.34,
+          0.405,
+          0.475,
+          0.54,
+          0.58,
+          0.62,
+          0.66,
+          0.7,
+          0.73,
+          0.77,
+          0.81,
+          0.89
+        ]
+      }
+    },
+    {
+      "id": "ct-coronal",
+      "name": "CT Coronal reconstruction",
+      "modality": "CT",
+      "group": "CT · 08.28",
+      "plane": "Coronal plane · Simulation MPR",
+      "grid": 2,
+      "report": "ct"
+    },
+    {
+      "id": "ct-sagittal",
+      "name": "CT Sagittal reconstruction",
+      "modality": "CT",
+      "group": "CT · 08.28",
+      "plane": "Sagittal view · Simulation MPR",
+      "grid": 2,
+      "report": "ct"
+    },
+    {
+      "id": "mr-t1-sagittal",
+      "name": "MRI T1WI Sagittal view",
+      "modality": "MR",
+      "group": "MRI · 09.03",
+      "plane": "T1WI · Sagittal view",
+      "grid": 2,
+      "report": "mr"
+    },
+    {
+      "id": "mr-t2-sagittal",
+      "name": "MRI T2WI Sagittal view",
+      "modality": "MR",
+      "group": "MRI · 09.03",
+      "plane": "T2WI · Sagittal view",
+      "grid": 2,
+      "report": "mr"
+    },
+    {
+      "id": "mr-t2-axial",
+      "name": "MRI T2WI Axial view",
+      "modality": "MR",
+      "group": "MRI · 09.03",
+      "plane": "T2WI · Axial view · T12–S2",
+      "grid": 4,
+      "report": "mr",
+      "asset": "mr-t2-axial-whole.png",
+      "locator": {
+        "panel": 1,
+        "positions": [
+          0.12,
+          0.15,
+          0.21,
+          0.27,
+          0.34,
+          0.405,
+          0.475,
+          0.54,
+          0.58,
+          0.62,
+          0.66,
+          0.7,
+          0.73,
+          0.77,
+          0.81,
+          0.89
+        ]
+      }
+    }
+  ]
+}

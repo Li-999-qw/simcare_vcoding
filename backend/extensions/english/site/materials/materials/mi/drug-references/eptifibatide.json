@@ -1,0 +1,26 @@
+{
+  "drug": "eptifibatide",
+  "labels": [
+    {
+      "title": "EPTIFIBATIDE INJECTION, SOLUTION [AVENACY, LLC]",
+      "setid": "c0781dae-3ef6-4cab-b084-01d2e45f3764",
+      "published": "Jul 29, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764",
+      "dosage": "\n                   Before infusion of eptifibatide injection, the following laboratory tests should be performed to identify pre-existing hemostatic abnormalities: hematocrit or hemoglobin, platelet count, serum creatinine, and PT/aPTT. In patients undergoing PCI, the activated clotting time (ACT) should also be measured.\n \n                   The activated partial thromboplastin time (aPTT) should be maintained between 50 and 70 seconds unless PCI is to be performed. In patients treated with heparin, bleeding can be minimized by close monitoring of the aPTT and ACT.\n \n               "
+    },
+    {
+      "title": "EPTIFIBATIDE INJECTION [BAXTER HEALTHCARE COMPANY]",
+      "setid": "5f46b76b-5c83-49b9-ada8-4ad5cf81a38c",
+      "published": "May 21, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f46b76b-5c83-49b9-ada8-4ad5cf81a38c",
+      "dosage": "\n                   Eptifibatide injection in  Galaxy  container is for intravenous infusion only, not for intravenous bolus use.  Before infusion of eptifibatide injection, the following laboratory tests should be performed to identify pre-existing hemostatic abnormalities:  hematocrit or hemoglobin, platelet count, serum creatinine, and PT/aPTT.  In patients undergoing PCI, the activated clotting time (ACT) should also be measured.  \n                   The activated partial thromboplastin time (aPTT) should be maintained between 50 and 70 seconds unless PCI is to be performed. In patients treated with heparin, bleeding can be minimized by close monitoring of the aPTT and ACT. \n               "
+    },
+    {
+      "title": "EPTIFIBATIDE INJECTION [SLATE RUN PHARMACEUTICALS, LLC]",
+      "setid": "2ab98ecd-c578-4032-a3d5-ae14d58d86a7",
+      "published": "Feb 10, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ab98ecd-c578-4032-a3d5-ae14d58d86a7",
+      "dosage": "\n                   Before infusion of eptifibatide injection, the following laboratory tests should be performed to identify pre-existing hemostatic abnormalities: hematocrit or hemoglobin, platelet count, serum creatinine, and PT/aPTT. In patients undergoing PCI, the activated clotting time (ACT) should also be measured. \n                   The activated partial thromboplastin time (aPTT) should be maintained between 50 and 70 seconds unless PCI is to be performed. In patients treated with heparin, bleeding can be minimized by close monitoring of the aPTT and ACT. \n               "
+    }
+  ]
+}

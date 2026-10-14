@@ -1,0 +1,1 @@
+{"type": "object", "properties": {"fact_ids": {"type": "array", "items": {"type": "string"}}, "gap": {"type": "boolean"}, "hint": {"type": "boolean"}, "reply": {"type": "string", "maxLength": 10000}}, "required": ["fact_ids", "gap", "hint", "reply"], "additionalProperties": false}

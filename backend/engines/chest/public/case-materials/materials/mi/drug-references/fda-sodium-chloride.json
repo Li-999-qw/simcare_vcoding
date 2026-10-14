@@ -1,0 +1,76 @@
+{
+  "query": "sodium chloride",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22sodium%20chloride%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "SODIUM CHLORIDE"
+      ],
+      "brand": [
+        "Sodium Chloride"
+      ],
+      "route": [
+        "IRRIGATION"
+      ],
+      "setid": "009bef3c-e8ac-46be-b564-a2556adf0081",
+      "effective_time": "20251031",
+      "dosage": "DOSAGE AND ADMINISTRATION The dose is dependent upon the capacity or surface area of the structure to be irrigated and the nature of the procedure. When used as a diluent or vehicle for other drugs, the manufacturer's recommendations should be followed. For use in cell washing, the manufacturer's recommendations for blood salvaging and red cell processing should be followed. Drug Interactions Additives may be incompatible. Consult with pharmacist, if available. When introducing additives, use aseptic technique, mix thoroughly and do not store. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution container permits. See PRECAUTIONS ."
+    },
+    {
+      "generic": [
+        "SODIUM CHLORIDE, CALCIUM CHLORIDE, AND POTASSIUM CHLORIDE"
+      ],
+      "brand": [
+        "Ringers"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "01721071-af03-4894-95c1-10b8bc64b888",
+      "effective_time": "20251105",
+      "dosage": "2 DOSAGE AND ADMINISTRATION The recommended dosage and duration are based on the patient’s age, weight, clinical condition, and concomitant therapy. ( 2.1 ) To reduce the risk of air embolism, adhere to the preparation instructions. ( 2.2 , 5.2 ) Ringer’s Injection is for intravenous use ( 2.3 ) Do not administer Ringer’s Injection simultaneously with ceftriaxone in neonates (28 days of age or younger) due to serious risks. ( 2.4 ) See full prescribing information for information dosage considerations, preparation, administration, and drug incompatibilities. ( 2 ) 2.1 Dosage Considerations The recommended dosage and duration of Ringer’s Injection is based on the patient’s age, weight, clinical condition, and concomitant therapy. Evaluate the patient’s clinical status and monitor changes in electrolyte concentrations especially during prolonged use of Ringer’s Injection to optimize clinical status. Fluid administration should be based on calculated maintenance or replacement fluid requirements for each patient. 2.2 Important Preparation Instructions Visually inspect the Ringer’s Injection solution for particulate matter and discoloration. Do not administer Ringer’s Injection unless the solution is clear and the container seals are intact. If additives are determined to be compatible with Ringer’s Injection, then using aseptic technique, mix thoroughly; do not store solutions containing additives. After mixing, do not use if there is discoloration or formation of precipitates. To reduce the risk of air embolism, adhere to the following Ringer’s Injection preparation instructions [see Warnings and Precautions (5.2) ] : Use a non-vented infusion set or close the vent on a vented set. Use a dedicated line without any connections (do not connect flexible containers in series). The use of pressure infusion is not recommended as a method to increase flow rates. However, if pressure infusion is required, ensure that any air within the bag is fully evacuated prior to initiation of infusion. If using a pumping device to administer Ringer’s Injection, turn off the pump before the container is empty. Preparation Instructions for EXCEL ® Containers Tear overwrap down at notch and remove solution container. Check for minute leaks by squeezing solution container firmly. If leaks are found, discard solution as sterility may be impaired. If supplemental medication is desired, follow directions below before preparing for administration. Inspect each container. Read the label. Ensure solution is the one ordered and is within the expiration date. Invert container and carefully inspect the solution in good light for cloudiness, haze, or particulate matter. Any container which is suspect should not be used. If supplemental medication is desired, follow directions below [see Dosage and Administration (2.3) ] . Preparation for Administration Remove plastic protector from sterile set port at bottom of container. Attach administration set according to its accompanying directions. 2.3 Important Administration Instructions Ringer’s Injection is for intravenous use. Use immediately after opening the container. Discard the unused portion. It is recommended that intravenous administration apparatus be replaced at least once every 24 hours. Some additives may be incompatible [see Dosage and Administration (2.4) ] . To Add Medication Before Solution Administration Prepare medication site. Using syringe with 18-22 gauge needle, puncture medication port and inner diaphragm and inject. Squeeze and tap ports while ports are upright and mix solution and medication thoroughly. To Add Medication During Solution Administration Close clamp on the set. Prepare medication site. Using syringe with 18-22 gauge needle of appropriate length (at least 5/8 inch), puncture resealable medication port and inner diaphragm and inject. Remove container from IV pole and/or turn to an upright position. Evacuate both ports by tapping and squeezing them while container is in the upright position. Mix solution and medication thoroughly. Return container to in use position and continue administration. 2.4 Drug Incompatibilities Do not administer Ringer’s Injection simultaneously with ceftriaxone in neonates (28 days of age or younger) due to serious risks [see Contraindications (4) and Warnings and Precautions (5.1) ]. However, in patients older than 28 days, ceftriaxone and Ringer’s Injection may be administered sequentially if the infusion lines are thoroughly flushed between infusions with a compatible fluid [see Warnings and Precautions (5.1) ] . Do not administer Ringer’s Injection simultaneously with citrate anticoagulated/preserved blood through the same administration set because of the likelihood of coagulation precipitated by the calcium content of Ringer’s Injection."
+    },
+    {
+      "generic": [
+        "SODIUM CHLORIDE"
+      ],
+      "brand": [
+        "Sodium Chloride"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "018a8807-1331-41c3-4889-c7ec502a9043",
+      "effective_time": "20260309",
+      "dosage": "DOSAGE AND ADMINISTRATION 14.6% Sodium Chloride Injection, USP Additive Solution is administered intravenously only after addition to a larger volume of fluid. The dose, dilution and rate of injection are dependent upon the individual needs of each patient. All or part of the contents of one or more additive containers may be added to an intravenous solution container. Concentrations of up to 5% sodium chloride have been administered. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. (See PRECAUTIONS .)"
+    },
+    {
+      "generic": [
+        "ESMOLOL HYDROCHLORIDE IN SODIUM CHLORIDE"
+      ],
+      "brand": [
+        "esmolol hydrochloride in sodium chloride"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "01ad7942-99c3-40ee-9cfb-272fb6c44e2b",
+      "effective_time": "20260305",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • Administer intravenously ( 2.1 , 2.2 ) • Titrate using ventricular rate or blood pressure at ≥ 4-minute intervals ( 2.1 , 2.2 ) • Supraventricular tachycardia (SVT) or noncompensatory sinus tachycardia ( 2.1 ) o Optional loading dose: 500 mcg per kg infused over one minute o Then 50 mcg per kg per minute for the next 4 minutes o Adjust dose as needed to a maximum of 200 mcg per kg per minute o Additional loading doses may be administered • Perioperative tachycardia and hypertension ( 2.2 ) o Loading dose: 500 mcg per kg over 1 minute for gradual control (1 mg per kg over 30 seconds for immediate control) o Then 50 mcg per kg per min for gradual control (150 mcg per kg per minute for immediate control) adjusted to a maximum of 200 (tachycardia) or 300 (hypertension) mcg per kg per min ( 2.2 ) 2.1 Dosing for the Treatment of Supraventricular Tachycardia or Noncompensatory Sinus Tachycardia Esmolol hydrochloride in sodium chloride injection is administered by continuous intravenous infusion with or without a loading dose. Additional loading doses and/or titration of the maintenance infusion (step-wise dosing) may be necessary based on desired ventricular response. Table 1 Step-Wise Dosing Step Action 1 Optional loading dose (500 mcg per kg over 1 minute), then 50 mcg per kg per min for 4 min 2 Optional loading dose if necessary, then 100 mcg per kg per min for 4 min 3 Optional loading dose if necessary, then 150 mcg per kg per min for 4 min 4 If necessary, increase dose to 200 mcg per kg per min In the absence of loading doses, continuous infusion of a single concentration of esmolol reaches pharmacokinetic and pharmacodynamic steady-state in about 30 minutes. The effective maintenance dose for continuous and step-wise dosing is 50 to 200 mcg per kg per minute, although doses as low as 25 mcg per kg per minute have been adequate. Dosages greater than 200 mcg per kg per minute provide little added heart rate lowering effect, and the rate of adverse reactions increases. Maintenance infusions may be continued for up to 48 hours. 2.2 Intraoperative and Postoperative Tachycardia and Hypertension In this setting it is not always advisable to slowly titrate to a therapeutic effect. Therefore two dosing options are presented: immediate control and gradual control. Immediate Control • Administer 1 mg per kg as a bolus dose over 30 seconds followed by an infusion of 150 mcg per kg per min if necessary. • Adjust the infusion rate as required to maintain desired heart rate and blood pressure. Refer to Maximum Recommended Doses below. Gradual Control • Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes. • Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia. Refer to Maximum Recommended Doses below. Maximum Recommended Doses • For the treatment of tachycardia, maintenance infusion dosages greater than 200 mcg per kg per min are not recommended; dosages greater than 200 mcg per kg per min provide little additional heart rate-lowering effect, and the rate of adverse reactions increases. • For the treatment of hypertension, higher maintenance infusion dosages (250 to 300 mcg per kg per min) may be required. The safety of doses above 300 mcg per kg per minute has not been studied. 2.3 Transition from Esmolol Hydrochloride in Sodium Chloride Injection Therapy to Alternative Drugs After patients achieve adequate control of the heart rate and a stable clinical status, transition to alternative antiarrhythmic drugs may be accomplished. When transitioning from esmolol hydrochloride in sodium chloride injection to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of esmolol hydrochloride in sodium chloride injection as follows: 1. Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride in sodium chloride injection infusion rate by one-half (50%). 2. After administration of the second dose of the alternative drug, monitor the patient’s response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride in sodium chloride infusion. 2.4 Directions for Use Esmolol hydrochloride in sodium chloride injection is available in a pre-mixed bag. Esmolol hydrochloride in sodium chloride injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation). Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Premixed Bag • The medication port is to be used solely for withdrawing an initial bolus from the bag. • Use aseptic technique when withdrawing the bolus dose. • Do not add any additional medications to the bag. Figure 1: Two-Port INTRAVIA Bag Figure 1"
+    },
+    {
+      "generic": [
+        "CROTON OIL, DAPHNE MEZEREUM BARK, SODIUM CHLORIDE, AND TOXICODENDRON PUBESCENS LEAF"
+      ],
+      "brand": [
+        "D-68"
+      ],
+      "route": [
+        "SUBLINGUAL"
+      ],
+      "setid": "01ae098b-aadd-4edc-bf73-6bc60903e779",
+      "effective_time": "20250113",
+      "dosage": "SUGGESTED DOSAGE One dropper under tongue two times daily. Acute symptoms ½ dropper under tongue every 30 minutes for two hours."
+    }
+  ]
+}

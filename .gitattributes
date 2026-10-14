@@ -1,0 +1,2 @@
+backend/extensions/voice_models/uyghur/model_q4.onnx filter=lfs diff=lfs merge=lfs -text
+backend/voice-models/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2024-07-17/model.int8.onnx filter=lfs diff=lfs merge=lfs -text

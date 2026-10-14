@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="腰椎间盘突出症手术病例与教学合成影像PACS阅片演示。"><meta name="color-scheme" content="dark"><title>腰椎病例 · 教学PACS</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header class="topbar"><div class="brand"><a class="brand-mark" href="index.html#surgery" title="返回外科病例列表" aria-label="返回外科病例列表">‹</a><div><strong>教学 PACS</strong><span>脊柱影像工作站</span></div></div><div class="patient-strip"><b>李志强</b><span>男 · 46岁</span><span class="mono">SIM-LDH-20260903</span></div><span class="review-state">合成病例 · 待专家审核</span><button id="caseBtn" class="primary">完整病历与报告 <span>↗</span></button></header>
+<div class="workspace">
+<aside class="series-panel"><div class="panel-heading"><h1>检查序列</h1><span id="seriesCount"></span></div><div class="case-meta">腰椎 · 术前影像<br><span>2026.08.28 — 2026.09.03</span></div><nav id="seriesList" aria-label="影像序列"></nav><div class="series-foot">单击序列 → 当前视窗<br>滚轮或 ← → 浏览代表层面</div></aside>
+<main class="reader"><div class="toolbar" role="toolbar" aria-label="阅片工具"><div class="tool-group"><button id="singleBtn" class="selected" title="单视窗">▣ 单窗</button><button id="quadBtn" title="四视窗对照">▦ 四窗</button></div><div class="tool-group"><button id="zoomOut" aria-label="缩小">−</button><span id="zoomText" class="mono">100%</span><button id="zoomIn" aria-label="放大">＋</button></div><div class="tool-group"><button id="invertBtn" aria-pressed="false">反色</button><button id="resetBtn">复位</button></div><button id="reportBtn" class="report-link">当前报告</button></div>
+<div id="viewerGrid" class="viewer-grid"></div>
+<div class="image-controls"><div class="frame-controls"><button id="prevFrame" aria-label="上一图">‹</button><span id="frameLabel">代表图 1 / 4</span><button id="nextFrame" aria-label="下一图">›</button><input id="frameSlider" type="range" min="1" max="4" value="1" aria-label="代表层面"></div><label>亮度 <input id="brightness" type="range" min="40" max="180" value="100"></label><label>对比度 <input id="contrast" type="range" min="40" max="220" value="100"></label></div>
+<div class="viewer-note"><span>教学合成影像</span>横断面覆盖T12–S2的代表层面；滚轮翻片，左上角定位线同步移动（示意配准）。合成图非完整DICOM扫描，非实时MPR。</div></main>
+</div>
+<dialog id="caseDialog"><div class="dialog-header"><div><span class="eyebrow">SIM-LDH-20260903 · v1.1</span><h2>病例与检查报告</h2></div><button id="closeDialog" aria-label="关闭病历">✕</button></div><div class="dialog-tabs" role="tablist"><button data-tab="history" role="tab" aria-selected="true">完整病史</button><button data-tab="reports" role="tab" aria-selected="false">检查报告</button><button data-tab="course" role="tab" aria-selected="false">手术与病程</button><button data-tab="sources" role="tab" aria-selected="false">审核说明</button></div><div id="dialogBody" class="dialog-body"></div><div class="dialog-footer"><span>全部为虚构资料，医学与影像一致性待专家审核。</span><a href="case.pdf" download>下载病案 PDF（9月14日同步）↓</a></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="case-data.js"></script><script src="app.js"></script>
+</body></html>

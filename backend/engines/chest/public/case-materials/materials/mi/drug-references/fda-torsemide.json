@@ -1,0 +1,62 @@
+{
+  "query": "torsemide",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22torsemide%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "TORSEMIDE"
+      ],
+      "brand": [
+        "Torsemide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "03fbbb85-4e0f-4f3b-b4b0-87f84cb33d47",
+      "effective_time": "20230630",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Edema associated with: Heart failure: Initial dose is 10 or 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. ( 2.1 ) Chronic Renal Failure: Initial dose is 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. ( 2.1 ) Hepatic Cirrhosis: Initial dose is 5 or 10 mg once daily. Titrate by factors of two; doses above 40 mg have not been studied. ( 2.1 ) Hypertension: The recommended initial dose is 5 mg once daily. After 4 to 6 weeks, increase to 10 mg once daily, if needed. If 10 mg is insufficient, consider adding another agent. ( 2.2 ) 2.1 Treatment of Edema Edema associated with heart failure The recommended initial dose is 10 mg or 20 mg oral torsemide once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with chronic renal failure The recommended initial dose is 20 mg oral torsemide once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with hepatic cirrhosis The recommended initial dose is 5 mg or 10 mg oral torsemide once daily, administered together with an aldosterone antagonist or a potassium-sparing diuretic. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 40 mg have not been adequately studied in this population. 2.2 Treatment of Hypertension The recommended initial dose is 5 mg once daily. If the 5 mg dose does not provide adequate reduction in blood pressure within 4 to 6 weeks, increase to 10 mg once daily. If the response to 10 mg is insufficient, add another antihypertensive agent to the treatment regimen."
+    },
+    {
+      "generic": [
+        "TORSEMIDE"
+      ],
+      "brand": [
+        "Torsemide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "05c8a6ee-9517-453f-8dd6-7e5ca83c5a68",
+      "effective_time": "20241001",
+      "dosage": "2 DOSAGE & ADMINISTRATION Edema associated with: • Heart failure: Initial dose is 10 or 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Chronic Renal Failure: Initial dose is 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Hepatic Cirrhosis: Initial dose is 5 or 10 mg once daily. Titrate by factors of two; doses above 40 mg have not been studied. (2.1) Hypertension: • The recommended initial dose is 5 mg once daily. After 4 to 6 weeks, increase to 10 mg once daily, if needed. If 10 mg is insufficient, consider adding another agent. (2.2) 2.1 Treatment of Edema Edema associated with heart failure The recommended initial dose is 10 mg or 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with chronic renal failure The recommended initial dose is 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with hepatic cirrhosis The recommended initial dose is 5 mg or 10 mg oral torsemide tablets once daily, administered together with an aldosterone antagonist or a potassium-sparing diuretic. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 40 mg have not been adequately studied in this population. 2.2 Treatment of Hypertension The recommended initial dose is 5 mg once daily. If the 5 mg dose does not provide adequate reduction in blood pressure within 4 to 6 weeks, increase to 10 mg once daily. If the response to 10 mg is insufficient, add another antihypertensive agent to the treatment regimen."
+    },
+    {
+      "generic": [
+        "TORSEMIDE"
+      ],
+      "brand": [
+        "Torsemide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "09305350-e317-419c-96f5-aa8fbeb4044d",
+      "effective_time": "20260326",
+      "dosage": "2 DOSAGE & ADMINISTRATION Edema associated with: • Heart failure: Initial dose is 10 or 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Chronic Renal Failure: Initial dose is 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. (2.1) • Hepatic Cirrhosis: Initial dose is 5 or 10 mg once daily. Titrate by factors of two; doses above 40 mg have not been studied. (2.1) Hypertension: • The recommended initial dose is 5 mg once daily. After 4 to 6 weeks, increase to 10 mg once daily, if needed. If 10 mg is insufficient, consider adding another agent. (2.2) 2.1 Treatment of Edema Edema associated with heart failure The recommended initial dose is 10 mg or 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with chronic renal failure The recommended initial dose is 20 mg oral torsemide tablets once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with hepatic cirrhosis The recommended initial dose is 5 mg or 10 mg oral torsemide tablets once daily, administered together with an aldosterone antagonist or a potassium-sparing diuretic. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 40 mg have not been adequately studied in this population. 2.2 Treatment of Hypertension The recommended initial dose is 5 mg once daily. If the 5 mg dose does not provide adequate reduction in blood pressure within 4 to 6 weeks, increase to 10 mg once daily. If the response to 10 mg is insufficient, add another antihypertensive agent to the treatment regimen."
+    },
+    {
+      "generic": [
+        "TORSEMIDE"
+      ],
+      "brand": [
+        "Torsemide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0b3cfce4-61fc-42ba-9ea7-51f81ea014f7",
+      "effective_time": "20251022",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Edema associated with: Heart failure: Initial dose is 10 or 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. ( 2.1 ) Chronic Renal Failure: Initial dose is 20 mg once daily. Titrate by factors of two; doses above 200 mg have not been studied. ( 2.1 ) Hepatic Cirrhosis: Initial dose is 5 or 10 mg once daily. Titrate by factors of two; doses above 40 mg have not been studied. ( 2.1 ) Hypertension: The recommended initial dose is 5 mg once daily. After 4 to 6 weeks, increase to 10 mg once daily, if needed. If 10 mg is insufficient, consider adding another agent. ( 2.2 ) 2.1 Treatment of Edema Edema associated with heart failure The recommended initial dose is 10 mg or 20 mg oral torsemide once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with chronic renal failure The recommended initial dose is 20 mg oral torsemide once daily. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 200 mg have not been adequately studied. Edema associated with hepatic cirrhosis The recommended initial dose is 5 mg or 10 mg oral torsemide once daily, administered together with an aldosterone antagonist or a potassium-sparing diuretic. If the diuretic response is inadequate, titrate upward by approximately doubling until the desired diuretic response is obtained. Doses higher than 40 mg have not been adequately studied in this population. 2.2 Treatment of Hypertension The recommended initial dose is 5 mg once daily. If the 5 mg dose does not provide adequate reduction in blood pressure within 4 to 6 weeks, increase to 10 mg once daily. If the response to 10 mg is insufficient, add another antihypertensive agent to the treatment regimen."
+    }
+  ]
+}

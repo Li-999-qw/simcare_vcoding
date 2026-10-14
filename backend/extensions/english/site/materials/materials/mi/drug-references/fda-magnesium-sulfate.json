@@ -1,0 +1,78 @@
+{
+  "query": "magnesium sulfate",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22magnesium%20sulfate%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "MAGNESIUM SULFATE IN DEXTROSE"
+      ],
+      "brand": [
+        "Magnesium Sulfate in Dextrose"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "03ebeabb-8386-4af4-3086-bdf3c3fc4a5a",
+      "effective_time": "20260824",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • Administer via intravenous infusion pump ( 2.1 ) • Recommended loading dosage is 4 to 6 grams over 15 minutes followed by a recommended maintenance dosage of 1 to 2 grams every hour; maximum recommended dosage is 30 to 40 grams over 24 hours ( 2.2 ) • Obtain serum magnesium concentrations and assess clinical status to adjust the dose ( 2.2 ) • Administration beyond 5 to 7 days is not recommended ( 2.2 , 5.1 ) • In patients with severe renal impairment and/or urine output less than 0.5 mL/kg/hour, administer a 4 gram loading dose followed by a maintenance dosage of 1 gram every hour; do not exceed the maximum recommended dosage of 20 grams over 48 hours ( 2.3 ) • Do not administer Magnesium Sulfate in 5% Dextrose Injection with incompatible drugs through the same intravenous line, specifically with salicylates and alkali carbonates ( 2.4 ) 2.1 Important Administration Instructions Magnesium Sulfate in 5% Dextrose Injection is: • A clear solution. Visually inspect Magnesium Sulfate in 5% Dextrose Injection for particulate matter and discoloration prior to administration. Do not administer unless solution is clear and colorless to slightly yellow. • For intravenous use only • Administered via intravenous infusion pump Magnesium Sulfate in 5% Dextrose Injection does not require dilution prior to intravenous administration. After removing the overwrap, check for minute leaks by squeezing the container fully. Do not administer Magnesium Sulfate in 5% Dextrose Injection if there is a leak or there is greater than 2 mL of water in the overwrap [see Description (11) ]. Do not administer Magnesium Sulfate in 5% Dextrose Injection with incompatible drugs through the same intravenous line [see Dosage and Administration (2.4) ] . Do not use Magnesium Sulfate in 5% Dextrose Injection in series connections. 2.2 Recommended Dosage • The recommended loading dosage of Magnesium Sulfate in 5% Dextrose Injection in patients with eclampsia or preeclampsia is 4 to 6 grams over 15 minutes followed by a recommended maintenance dosage of 1 to 2 grams every hour. • Obtain serum magnesium concentrations and assess clinical status to adjust the dosage. • In patients with eclampsia, consider targeting the maintenance dosage to achieve serum magnesium concentrations of 3 to 6 mg per 100 mL (2.5 to 5 mEq per liter). For patients with recurrent eclampsia, consider giving an additional 2 gram intravenous bolus. • For patients with eclampsia, therapy should continue until seizures cease. • The maximum recommended dosage is 30 to 40 grams of magnesium sulfate over 24 hours. • Administration of Magnesium Sulfate in 5% Dextrose Injection beyond 5 to 7 days is not recommended [see Warnings and Precautions (5.1) ] . 2.3 Dosage in Patients with Severe Renal Impairment and/or Oliguria • In patients with severe renal impairment and/or a urine output less than 0.5 mL/kg/hour, initiate Magnesium Sulfate in 5% Dextrose Injection with a 4 gram loading dose followed by a maintenance dosage of 1 gram every hour. • Titrate the magnesium sulfate maintenance dosage to maintain concentrations in the target range through frequent monitoring of magnesium concentrations and observation for clinical signs of magnesium toxicity (e.g., facial edema, diminished strength of deep tendon reflexes, respiratory depression). A lower maintenance dosage requirement is likely in these patients. • Do not exceed the maximum recommended dosage of 20 grams of Magnesium Sulfate in 5% Dextrose Injection over 48 hours. 2.4 Drug Incompatibilities Magnesium Sulfate in 5% Dextrose Injection is not compatible with administration of a variety of solutions and forms precipitates of magnesium salts. Before using Magnesium Sulfate in 5% Dextrose Injection with another parenteral product, investigate potential incompatibilities. Incompatible products that should not be coadministered include salicylates and alkali carbonates."
+    },
+    {
+      "generic": [
+        "SODIUM CATION, SODIUM BICARBONATE, ANHYDROUS DEXTROSE, MAGNESIUM SULFATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE, SODIUM PHOSPHATE"
+      ],
+      "brand": [
+        "Elliotts B"
+      ],
+      "route": [
+        "INTRATHECAL"
+      ],
+      "setid": "08036dbd-55b3-47b9-9890-000f253544f3",
+      "effective_time": "20241016",
+      "dosage": "DOSAGE AND ADMINISTRATION See product labeling for methotrexate sodium and cytarabine. Elliotts B Solution is intended for intrathecal administration only. Elliotts B Solution does not contain antibacterial preservatives and introduction of contaminated solutions into the cerebrospinal fluid may have extremely serious consequences. Therefore, administration of intrathecal solutions should be accomplished as soon as possible after preparation. A sterile filter-needle should be used to withdraw the contents of the ampule. Intrathecal drug products should be inspected visually for particulate matter and discoloration prior to administration. Preparation and Administration Precautions Elliotts B Solution is a diluent for the cytotoxic anticancer agents, methotrexate sodium and cytarabine. Care should be exercised in the handling and preparation of infusion solutions with these products. (See product labeling for methotrexate sodium and cytarabine.)"
+    },
+    {
+      "generic": [
+        "MAGNESIUM SULFATE, UNSPECIFIED FORM"
+      ],
+      "brand": [
+        "Theraworx Relief for Muscle Cramps Roll-On"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "09bd49cd-ace8-49ac-9b83-2926c0436b56",
+      "effective_time": "20240926",
+      "dosage": "Directions shake well roll a thin layer to each impacted muscle group and allow to air dry repeat use as needed"
+    },
+    {
+      "generic": [
+        "MAGNESIUM SULFATE"
+      ],
+      "brand": [
+        "Epsom Salt"
+      ],
+      "route": [
+        "ORAL",
+        "TOPICAL"
+      ],
+      "setid": "0b757160-f9eb-4413-9b43-97544c49c72f",
+      "effective_time": "20260810",
+      "dosage": "Directions do not exceed recommended daily dosage drink a full glass (8 ounces) of liquid with each dose may be taken as a single daily dose or in divided doses dissolve the dose in 8 ounces of water. Lemon juice may be added to improve the taste. adults and children 12 years and over - 2 to 6 level teaspoons (10 to 30 grams) daily children 6 to under 12 years - 1 to 2 level teaspoons (5 to 10 grams) daily children under 6 years - consult a doctor"
+    },
+    {
+      "generic": [
+        "MAGNESIUM SULFATE"
+      ],
+      "brand": [
+        "Epsom Salt"
+      ],
+      "route": [
+        "ORAL",
+        "TOPICAL"
+      ],
+      "setid": "1a8b540c-b66e-4dca-b7af-23705ae247b6",
+      "effective_time": "20260206",
+      "dosage": "Directions do not exceed recommended daily dosage drink a full glass (8 ounces) of liquid with each dose may be taken as a single daily dose or in divided doses dissolve the dose in 8 ounces of water. Lemon juice may be added to improve the taste. adults and children 12 years and over - 2 to 6 level teaspoons (10 to 30 grams) daily children 6 to under 12 years - 1 to 2 level teaspoons (5 to 10 grams) daily children under 6 years - consult a doctor"
+    }
+  ]
+}

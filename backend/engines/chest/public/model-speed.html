@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>模型响应速度测试</title>
+<link rel="stylesheet" href="/model-speed.css">
+<body>
+<main class="bench">
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">LLM API Benchmark</p>
+      <h1>模型响应速度测试</h1>
+    </div>
+    <a href="/">返回训练系统</a>
+  </header>
+
+  <section class="workspace">
+    <form id="test-form" class="panel" autocomplete="off">
+      <div class="section-title">
+        <h2>接口与模型</h2>
+        <span id="status" role="status">API Key 仅用于本次请求，不保存。</span>
+      </div>
+
+      <label>平台预设
+        <select id="provider">
+          <option value="">自定义 OpenAI-compatible 接口</option>
+          <option value="openai">OpenAI</option>
+          <option value="deepseek">DeepSeek</option>
+          <option value="qwen">通义千问 DashScope</option>
+          <option value="moonshot">Moonshot</option>
+          <option value="zhipu">智谱 GLM</option>
+        </select>
+      </label>
+
+      <div class="two">
+        <label>Base URL
+          <input name="base_url" required placeholder="https://api.openai.com/v1">
+        </label>
+        <label>模型名称
+          <input name="model" required placeholder="gpt-4.1-mini / deepseek-chat / qwen-plus">
+        </label>
+      </div>
+
+      <label>API Key
+        <input name="api_key" type="password" required placeholder="只在本机后端内存中使用一次">
+      </label>
+
+      <label>系统提示词
+        <textarea name="system" rows="2">请用简洁中文回答。</textarea>
+      </label>
+
+      <label>测试问题
+        <textarea name="prompt" rows="5" required>请用三句话解释：为什么急性胸痛接诊时要同时关注生命体征、心电图和肌钙蛋白？</textarea>
+      </label>
+
+      <div class="controls">
+        <label>最大输出
+          <input name="max_tokens" type="number" min="1" max="4096" value="256">
+        </label>
+        <label>Temperature
+          <input name="temperature" type="number" min="0" max="2" step="0.1" value="0.2">
+        </label>
+        <label class="check">
+          <input name="stream" type="checkbox" checked>
+          流式测试首 token
+        </label>
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="primary">开始测试</button>
+        <button type="button" id="clear-results">清空结果</button>
+      </div>
+    </form>
+
+    <section class="results">
+      <div class="metric-grid">
+        <article>
+          <span>首字节</span>
+          <strong id="first-byte">-</strong>
+        </article>
+        <article>
+          <span>首 token</span>
+          <strong id="first-token">-</strong>
+        </article>
+        <article>
+          <span>总耗时</span>
+          <strong id="total-time">-</strong>
+        </article>
+        <article>
+          <span>输出速度</span>
+          <strong id="speed">-</strong>
+        </article>
+      </div>
+
+      <section class="answer-panel">
+        <div class="section-title">
+          <h2>模型回复</h2>
+          <span id="model-name">尚未测试</span>
+        </div>
+        <pre id="answer">填写左侧信息后开始测试。</pre>
+      </section>
+
+      <section class="history-panel">
+        <div class="section-title">
+          <h2>本次对比记录</h2>
+          <span>保存在当前页面内，刷新即清空。</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>时间</th>
+                <th>模型</th>
+                <th>首 token</th>
+                <th>总耗时</th>
+                <th>速度</th>
+              </tr>
+            </thead>
+            <tbody id="history">
+              <tr><td colspan="5">暂无记录</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </section>
+  </section>
+</main>
+<script src="/model-speed.js"></script>
+</body>
+</html>

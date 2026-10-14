@@ -1,0 +1,994 @@
+{
+  "CASE_ID": "SIM-LDH-20260903",
+  "VERSION": "Lumbar spine case v1.1 · Pending review by clinical and imaging specialists",
+  "REGISTRATION": {
+    "name": "Li Zhiqiang",
+    "sex": "male",
+    "age": "46 years old",
+    "marital_status": "Married",
+    "occupation": "Warehouse management staff",
+    "ethnicity": "Han ethnicity (registration setting for teaching）",
+    "birthplace": "Chengdu, Sichuan Province (simulated registration for teaching)",
+    "address": "Room 502, Building 3, No. 26 Anhe Road, Wuhou District, Chengdu (fictional teaching address)",
+    "history_source": "Patient and spouse",
+    "admission_status": "General orthopedic outpatient clinic; registration information complete, not yet admitted"
+  },
+  "FACTS": {
+    "identity": "Name: Li Zhiqiang (fictional teaching patient). Male, 46 years old, married, warehouse management employee. History provided by the patient and spouse; reliable. Department: general orthopedic outpatient clinic; not yet admitted. No real identity, address, phone number, or hospital identifier.",
+    "pain": "Lower back pain with radiating pain in the left lower limb for 8 weeks, worsening with left foot dorsiflexion weakness for 2 days. Lower back pain began on July 9, 2026, after bending over to move boxes. The following day, radiating pain and numbness developed in the left buttock, posterolateral thigh, lateral lower leg, dorsum of the foot, and first toe web space. Symptoms worsen with coughing, sneezing, prolonged sitting, and bending, and improve when lying on the side with the hips and knees flexed. Initially, lower back pain was NRS 4/10 and leg pain 6/10; currently, leg pain is 8/10 and lower back pain 4/10. He needs to stop after walking approximately 100 meters and wakes at night because of pain. Bilateral intermittent claudication is not the predominant symptom. Since September 1, he has had difficulty lifting the left foot, with the toes tending to catch on the ground. This worsened on September 2, and he cannot walk on the left heel alone.",
+    "previous": "After symptom onset, approximately 8 weeks of outpatient nonsurgical treatment were provided for suspected lumbar disc herniation, including a short course of celecoxib 200 mg once daily, acetaminophen as needed, rehabilitation exercises that did not provoke leg pain, and modifications to lifting and prolonged sitting. NSAIDs were not used continuously for the full 8 weeks. Pain recurred after temporary relief, and work and sleep remained substantially impaired. No lumbar injections or previous surgery. The outpatient record dated 2026-08-28 documented left great toe dorsiflexion of 4/5, with other major muscle groups at 5/5. Imaging was performed to assess bony structures and stability.",
+    "negatives": "No urinary retention, urinary incontinence, fecal incontinence, perineal numbness, or new sexual dysfunction; no simultaneous weakness of both lower limbs. No fever, chills, progressively worsening nighttime pain at rest, or unexplained weight loss; no history of malignancy, immunosuppression, intravenous drug abuse, or recent infection. No major trauma or long-term steroid use. Appetite is fair; recent sleep has been affected by pain. Bladder and bowel function are normal.",
+    "past": "Denies a history of hypertension, diabetes mellitus, coronary artery disease, stroke, chronic kidney disease, or gastrointestinal ulcer bleeding. No history of spinal surgery, anesthesia-related adverse events, bleeding disorders, or venous thrombosis. No long-term anticoagulant or antiplatelet use.",
+    "allergy": "Intermittent celecoxib use at 200 mg/day over the past week, most recently on 2026-09-02; occasional acetaminophen use. Denies known drug, latex, or contrast agent allergies. All imaging is specified as noncontrast, with no contrast exposure.",
+    "social": "Smoking history approximately 15 pack-years, averaging 10 cigarettes/day in recent years; occasional alcohol use. Work involves prolonged alternating sitting and standing, with frequent heavy lifting in the past. Married with one daughter and good family support. No family history of spinal deformities or hereditary neuromuscular disorders.",
+    "ward_patient": "Postoperative day 1: left leg pain 1–2/10, reduced numbness over the dorsum of the foot, able to walk with support, and normal spontaneous urination.",
+    "discharge_patient": "Leg pain 1/10, mild residual numbness over the dorsum of the foot, able to walk with protection, and normal bladder and bowel function.",
+    "prior_episodes": "During the two or three years before this episode, he occasionally experienced aching and a sense of fullness in the lower back after moving many items, bending to organize goods, or a busy day, approximately two or three times a year, though he cannot recall the exact frequency. It usually resolved after one or two days of rest, after which he could work as usual. Previously, there was only low back aching and fullness, without pain extending from the left buttock down to the lower leg and top of the foot as in this episode, and without foot numbness, difficulty lifting the foot, or tripping while walking. He did not seek specific medical care, undergo imaging, or receive prescription treatment for those brief episodes of low back aching, and had not been diagnosed with lumbar disc herniation. The similarity to this episode is low back discomfort, but previous episodes did not involve the current persistent radiating leg pain and weakness. This episode began with persistent pain after moving boxes on July 9, followed by radiating left leg pain and numbness the next day; difficulty lifting the foot did not appear until September 1. The previous occasional low back aching must not be counted as part of the duration of this persistent episode.",
+    "daily_life": "Originally from Pidu District, Chengdu; has worked and lived in Chengdu since starting a family and currently lives in Wuhou District. Refer to the outpatient registration for the detailed address. Married, living with his wife and one daughter; his wife knows about the current low back and leg symptoms and accompanied him to the visit. Has worked in warehouse management for over ten years, usually checking inventory, recording incoming and outgoing stock, and inspecting the warehouse, sometimes helping move boxes. His work involves both sitting to enter records and standing or walking, rather than sitting in an office all day. After work, he enjoys watching the news and chatting with his family. Before the onset of his low back and leg symptoms, he would walk around his residential complex; he has no regular high-intensity exercise routine. Recent pain has affected his work and sleep. His main concern is that difficulty lifting his foot may affect future walking and work, and he wants to understand how treatment may help recovery; this does not mean he has agreed to or refused any particular treatment. He came to this hospital because an acquaintance said its orthopedic care was good, and he also wants to understand why this episode has not improved; do not invent appointments, referrals, travel times, or prehospital treatment. He may generally be addressed as Mr. Li. He is unfamiliar with medical terminology and describes his symptoms in everyday terms such as an aching lower back, pulling pain in the leg, numbness on the top of the foot, and difficulty lifting the foot."
+  },
+  "REPORTS": {
+    "exam": {
+      "name": "General and spinal neurological examination",
+      "stage": 0,
+      "category": "Physical examination",
+      "text": "T 36.6°C, P 78 beats/min, R 18 breaths/min, BP 128/78 mmHg, SpO₂ 98%. Height 176 cm, weight 78 kg, BMI 25.2 kg/m². Alert, with a pained expression; no significant abnormalities on cardiac, pulmonary, or abdominal examination. No lower-extremity swelling; dorsalis pedis pulses are symmetric.\nMild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.\n Left-Sided Muscle Strength at Admission：Hip flexion 5/5；Knee extension 5/5；Ankle dorsiflexion (tibialis anterior） 3/5 ↓；Great toe dorsiflexion (extensor hallucis longus） 3/5 ↓；Ankle inversion 4/5 ↓；Ankle eversion 4/5 ↓；Ankle plantar flexion 5/5",
+      "sheet": {
+        "title": "General and spinal neurological examinationReport",
+        "number": "LDH-exam",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "T 36.6°C, P 78 beats/min, R 18 breaths/min, BP 128/78 mmHg, SpO₂ 98%. Height 176 cm, weight 78 kg, BMI 25.2 kg/m². Alert, with a pained expression; no significant abnormalities on cardiac, pulmonary, or abdominal examination. No lower-extremity swelling; dorsalis pedis pulses are symmetric.\nMild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.\n Left-Sided Muscle Strength at Admission：Hip flexion 5/5；Knee extension 5/5；Ankle dorsiflexion (tibialis anterior） 3/5 ↓；Great toe dorsiflexion (extensor hallucis longus） 3/5 ↓；Ankle inversion 4/5 ↓；Ankle eversion 4/5 ↓；Ankle plantar flexion 5/5",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Mild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.Left ankle dorsiflexion and great toe dorsiflexion 3/5。"
+    },
+    "xr": {
+      "name": "Lumbar spine AP, lateral, and flexion-extension X-rays",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "Five lumbar vertebrae with preserved vertebral body heights; mild straightening of lumbar lordosis. Mild L4/5 disc space narrowing and mild L5/S1 degeneration. No definite fracture, destructive lesion, or spondylolisthesis. No definite abnormal segmental translation on active flexion–extension views. The examination was completed within the Patient’s tolerance; pain limited movement, restricting assessment of dynamic instability.\n Imaging impression：Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+      "sheet": {
+        "title": "Lumbar spine AP, lateral, and flexion-extension X-raysReport",
+        "number": "LDH-xr",
+        "sample": "Examination record",
+        "collected": "2026-08-28 10:00",
+        "received": "2026-08-28 10:00",
+        "reported": "2026-08-28 11:00",
+        "findings": "Five lumbar vertebrae with preserved vertebral body heights; mild straightening of lumbar lordosis. Mild L4/5 disc space narrowing and mild L5/S1 degeneration. No definite fracture, destructive lesion, or spondylolisthesis. No definite abnormal segmental translation on active flexion–extension views. The examination was completed within the Patient’s tolerance; pain limited movement, restricting assessment of dynamic instability.\n Imaging impression：Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-08-28 10:00；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+      "pacs": "xr"
+    },
+    "ct": {
+      "name": "Noncontrast lumbar spine CT with coronal and sagittal 2D reconstructions",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "The specified scan range extends from the inferior margin of T12 to S2, using thin-section noncontrast imaging with coronal and sagittal reconstructions. A left-sided soft-tissue density is visible at the posterior margin of L4/5, with narrowing of the left lateral recess. No obvious extensive calcification of the nucleus pulposus is seen; the cortical bone of the vertebral bodies, pedicles, and pars interarticularis is intact. Mild facet degeneration, without definite spondylolysis, severe bony spinal canal stenosis, or fracture.\n Imaging impression：Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+      "sheet": {
+        "title": "Noncontrast lumbar spine CT with coronal and sagittal 2D reconstructionsReport",
+        "number": "LDH-ct",
+        "sample": "Examination record",
+        "collected": "2026-08-28 10:30",
+        "received": "2026-08-28 10:30",
+        "reported": "2026-08-28 12:00",
+        "findings": "The specified scan range extends from the inferior margin of T12 to S2, using thin-section noncontrast imaging with coronal and sagittal reconstructions. A left-sided soft-tissue density is visible at the posterior margin of L4/5, with narrowing of the left lateral recess. No obvious extensive calcification of the nucleus pulposus is seen; the cortical bone of the vertebral bodies, pedicles, and pars interarticularis is intact. Mild facet degeneration, without definite spondylolysis, severe bony spinal canal stenosis, or fracture.\n Imaging impression：Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-08-28 10:30；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+      "pacs": "ct"
+    },
+    "mr": {
+      "name": "Lumbar spine MRI Noncontrast scan",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "Teaching sequence setup: sagittal T1WI and T2WI, and axial T2WI covering the inferior border of T12 to S2. The actual MRI coverage and axial angulation must be determined according to clinical protocols. The conus medullaris terminates at approximately L1, with no definite signal abnormality. The L4/5 disc shows decreased T2 signal and mild disc space narrowing. A left paracentral/lateral recess nucleus pulposus extrusion with slight caudal migration compresses the left anterior margin of the thecal sac and the traversing left L5 nerve root. The causative lesion is not an extraforaminal L4/5 disc herniation, nor is compression of the exiting left L4 nerve root the predominant finding. There is a mild L5/S1 disc bulge without definite corresponding nerve root compression; no major compressive lesion is seen at the other levels. No major findings support infection, tumor, or acute fracture.\n Imaging impression：Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+      "sheet": {
+        "title": "Lumbar spine MRI Noncontrast scanReport",
+        "number": "LDH-mr",
+        "sample": "Examination record",
+        "collected": "2026-09-03 10:10",
+        "received": "2026-09-03 10:10",
+        "reported": "2026-09-03 11:05",
+        "findings": "Teaching sequence setup: sagittal T1WI and T2WI, and axial T2WI covering the inferior border of T12 to S2. The actual MRI coverage and axial angulation must be determined according to clinical protocols. The conus medullaris terminates at approximately L1, with no definite signal abnormality. The L4/5 disc shows decreased T2 signal and mild disc space narrowing. A left paracentral/lateral recess nucleus pulposus extrusion with slight caudal migration compresses the left anterior margin of the thecal sac and the traversing left L5 nerve root. The causative lesion is not an extraforaminal L4/5 disc herniation, nor is compression of the exiting left L4 nerve root the predominant finding. There is a mild L5/S1 disc bulge without definite corresponding nerve root compression; no major compressive lesion is seen at the other levels. No major findings support infection, tumor, or acute fracture.\n Imaging impression：Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-09-03 10:10；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+      "pacs": "mr"
+    },
+    "cbc": {
+      "name": "Complete blood count",
+      "stage": 0,
+      "category": "Blood",
+      "text": "White blood cells 6.8×10⁹/L；Hemoglobin 151g/L；Platelets 242×10⁹/L",
+      "sheet": {
+        "title": "Complete blood countReport",
+        "number": "LDH-cbc",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "White blood cells 6.8×10⁹/L；Hemoglobin 151g/L；Platelets 242×10⁹/L",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "6.8",
+            "unit": "×10⁹/L",
+            "reference": "3.5～9.5",
+            "flag": ""
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "151",
+            "unit": "g/L",
+            "reference": "130～175",
+            "flag": ""
+          },
+          {
+            "name": "Platelets",
+            "value": "242",
+            "unit": "×10⁹/L",
+            "reference": "125～350",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "inflammation": {
+      "name": "Inflammatory markers",
+      "stage": 0,
+      "category": "Blood",
+      "text": "CRP 1.6mg/L；ESR 7mm/h",
+      "sheet": {
+        "title": "Inflammatory markersReport",
+        "number": "LDH-inflammation",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "CRP 1.6mg/L；ESR 7mm/h",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "CRP",
+            "value": "1.6",
+            "unit": "mg/L",
+            "reference": "<5",
+            "flag": ""
+          },
+          {
+            "name": "ESR",
+            "value": "7",
+            "unit": "mm/h",
+            "reference": "0～15",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "renal_liver": {
+      "name": "Liver and kidney function",
+      "stage": 0,
+      "category": "Blood",
+      "text": "Creatinine 79μmol/L；ALT 24U/L；Albumin 44g/L",
+      "sheet": {
+        "title": "Liver and kidney functionReport",
+        "number": "LDH-renal_liver",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Creatinine 79μmol/L；ALT 24U/L；Albumin 44g/L",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "79",
+            "unit": "μmol/L",
+            "reference": "57～97",
+            "flag": ""
+          },
+          {
+            "name": "ALT",
+            "value": "24",
+            "unit": "U/L",
+            "reference": "9～50",
+            "flag": ""
+          },
+          {
+            "name": "Albumin",
+            "value": "44",
+            "unit": "g/L",
+            "reference": "40～55",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "other_labs": {
+      "name": "Other preoperative tests",
+      "stage": 0,
+      "category": "Blood",
+      "text": "Fasting blood glucose 5.3mmol/L；potassium 4.1mmol/L；sodium 140mmol/L；INR 1.01；APTT 29s",
+      "sheet": {
+        "title": "Other preoperative testsReport",
+        "number": "LDH-other_labs",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Fasting blood glucose 5.3mmol/L；potassium 4.1mmol/L；sodium 140mmol/L；INR 1.01；APTT 29s",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "Fasting blood glucose",
+            "value": "5.3",
+            "unit": "mmol/L",
+            "reference": "3.9～6.1",
+            "flag": ""
+          },
+          {
+            "name": "potassium",
+            "value": "4.1",
+            "unit": "mmol/L",
+            "reference": "3.5～5.3",
+            "flag": ""
+          },
+          {
+            "name": "sodium",
+            "value": "140",
+            "unit": "mmol/L",
+            "reference": "137～147",
+            "flag": ""
+          },
+          {
+            "name": "INR",
+            "value": "1.01",
+            "unit": "",
+            "reference": "0.8～1.2",
+            "flag": ""
+          },
+          {
+            "name": "APTT",
+            "value": "29",
+            "unit": "s",
+            "reference": "25～35",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "ecg": {
+      "name": "Preoperative 12-lead ECG",
+      "stage": 0,
+      "category": "Electrocardiography",
+      "text": "Sinus rhythm, 78 beats/min, no significant abnormalities.",
+      "sheet": {
+        "title": "Preoperative 12-lead ECGReport",
+        "number": "LDH-ecg",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Sinus rhythm, 78 beats/min, no significant abnormalities.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": ""
+    },
+    "handoff": {
+      "name": "Surgical team report",
+      "stage": 1,
+      "category": "Handover",
+      "text": "After induction of general anesthesia, the patient was positioned prone with the abdomen free. L4/5 was localized fluoroscopically, and the level and left side were verified. Cefazolin 2 g was administered intravenously for prophylaxis 30 minutes before skin incision. A short left-sided incision and limited paraspinal muscle dissection were performed, followed by a limited interlaminar fenestration under the microscope, preserving sufficient facet joint tissue. The left L5 nerve root was exposed, revealing ventral compression by extruded nucleus pulposus. Extruded and loose nucleus pulposus fragments were removed, avoiding excessive disc curettage. Exploration confirmed nerve root decompression and restoration of thecal sac pulsation. Hemostasis was achieved, with no cerebrospinal fluid leak observed. No internal fixation or fusion was performed. Estimated blood loss was 30 mL. The procedure was uneventful, with no transfusion. Synthetic pathology conclusion for the submitted specimen: degenerative fibrocartilage/nucleus pulposus tissue.\nAlert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it.",
+      "sheet": {
+        "title": "Surgical team reportReport",
+        "number": "LDH-handoff",
+        "sample": "Examination record",
+        "collected": "2026-09-04 13:00",
+        "received": "2026-09-04 13:00",
+        "reported": "2026-09-04 13:00",
+        "findings": "After induction of general anesthesia, the patient was positioned prone with the abdomen free. L4/5 was localized fluoroscopically, and the level and left side were verified. Cefazolin 2 g was administered intravenously for prophylaxis 30 minutes before skin incision. A short left-sided incision and limited paraspinal muscle dissection were performed, followed by a limited interlaminar fenestration under the microscope, preserving sufficient facet joint tissue. The left L5 nerve root was exposed, revealing ventral compression by extruded nucleus pulposus. Extruded and loose nucleus pulposus fragments were removed, avoiding excessive disc curettage. Exploration confirmed nerve root decompression and restoration of thecal sac pulsation. Hemostasis was achieved, with no cerebrospinal fluid leak observed. No internal fixation or fusion was performed. Estimated blood loss was 30 mL. The procedure was uneventful, with no transfusion. Synthetic pathology conclusion for the submitted specimen: degenerative fibrocartilage/nucleus pulposus tissue.\nAlert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Alert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it."
+    },
+    "ward": {
+      "name": "Postoperative reassessment of neurological function and incision",
+      "stage": 2,
+      "category": "Reassessment",
+      "text": "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk.",
+      "sheet": {
+        "title": "Postoperative reassessment of neurological function and incisionReport",
+        "number": "LDH-ward",
+        "sample": "Examination record",
+        "collected": "2026-09-05 09:00",
+        "received": "2026-09-05 09:00",
+        "reported": "2026-09-05 09:00",
+        "findings": "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Left ankle and great toe dorsiflexion strength 4/5; reduced numbness over the dorsum of the foot."
+    },
+    "discharge": {
+      "name": "Reassessment before discharge",
+      "stage": 3,
+      "category": "Reassessment",
+      "text": "Discharge diagnoses: Left-sided extruded lumbar disc herniation at L4/5 with left L5 radiculopathy; status post left L4/5 microdiscectomy and nerve root decompression. The wound is dry, leg pain is 1/10, left ankle dorsiflexion is 4/5, and great toe dorsiflexion is 4/5. Mild numbness over the dorsum of the foot persists. Able to walk with protection; bladder and bowel function are normal. Outcome: Improved. No long-term antibiotics or routine prophylactic anticoagulation prescription is needed; reassess based on individual risk.",
+      "sheet": {
+        "title": "Reassessment before dischargeReport",
+        "number": "LDH-discharge",
+        "sample": "Examination record",
+        "collected": "2026-09-07 09:00",
+        "received": "2026-09-07 09:00",
+        "reported": "2026-09-07 09:00",
+        "findings": "Discharge diagnoses: Left-sided extruded lumbar disc herniation at L4/5 with left L5 radiculopathy; status post left L4/5 microdiscectomy and nerve root decompression. The wound is dry, leg pain is 1/10, left ankle dorsiflexion is 4/5, and great toe dorsiflexion is 4/5. Mild numbness over the dorsum of the foot persists. Able to walk with protection; bladder and bowel function are normal. Outcome: Improved. No long-term antibiotics or routine prophylactic anticoagulation prescription is needed; reassess based on individual risk.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Left ankle dorsiflexion and great toe dorsiflexion 4/5, with mild numbness over the dorsum of the foot."
+    }
+  },
+  "LEGACY_REPORTS": {
+    "exam": {
+      "name": "General and spinal neurological examination",
+      "stage": 0,
+      "category": "Physical examination",
+      "text": "T 36.6°C, P 78 beats/min, R 18 breaths/min, BP 128/78 mmHg, SpO₂ 98%. Height 176 cm, weight 78 kg, BMI 25.2 kg/m². Alert, with a pained expression; no significant abnormalities on cardiac, pulmonary, or abdominal examination. No lower-extremity swelling; dorsalis pedis pulses are symmetric.\nMild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.\n Left-Sided Muscle Strength at Admission：Hip flexion 5/5；Knee extension 5/5；Ankle dorsiflexion (tibialis anterior） 3/5 ↓；Great toe dorsiflexion (extensor hallucis longus） 3/5 ↓；Ankle inversion 4/5 ↓；Ankle eversion 4/5 ↓；Ankle plantar flexion 5/5",
+      "sheet": {
+        "title": "General and spinal neurological examinationReport",
+        "number": "LDH-exam",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "T 36.6°C, P 78 beats/min, R 18 breaths/min, BP 128/78 mmHg, SpO₂ 98%. Height 176 cm, weight 78 kg, BMI 25.2 kg/m². Alert, with a pained expression; no significant abnormalities on cardiac, pulmonary, or abdominal examination. No lower-extremity swelling; dorsalis pedis pulses are symmetric.\nMild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.\n Left-Sided Muscle Strength at Admission：Hip flexion 5/5；Knee extension 5/5；Ankle dorsiflexion (tibialis anterior） 3/5 ↓；Great toe dorsiflexion (extensor hallucis longus） 3/5 ↓；Ankle inversion 4/5 ↓；Ankle eversion 4/5 ↓；Ankle plantar flexion 5/5",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Mild rightward trunk shift when standing, with limited lumbar forward flexion; left-sided paraspinal tenderness at L4/5, with no significant bony pain on percussion. Left straight leg raising at 35° elicited typical ipsilateral radiating pain, with a positive ankle dorsiflexion augmentation test. Right straight leg raising at 70° caused no ipsilateral leg pain; the crossed straight leg raise test was negative. Pinprick sensation was reduced over the left lateral lower leg, dorsum of the foot, and first toe web space. Patellar and Achilles reflexes were 2+ bilaterally, with no pathological reflexes. Perineal sensation was preserved, and voluntary anal contraction was normal; postvoid residual urine volume was 35 mL.Left ankle dorsiflexion and great toe dorsiflexion 3/5。"
+    },
+    "xr": {
+      "name": "Lumbar spine AP, lateral, and flexion-extension X-rays",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "Five lumbar vertebrae with preserved vertebral body heights; mild straightening of lumbar lordosis. Mild L4/5 disc space narrowing and mild L5/S1 degeneration. No definite fracture, destructive lesion, or spondylolisthesis. No definite abnormal segmental translation on active flexion–extension views. The examination was completed within the Patient’s tolerance; pain limited movement, restricting assessment of dynamic instability.\n Imaging impression：Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+      "sheet": {
+        "title": "Lumbar spine AP, lateral, and flexion-extension X-raysReport",
+        "number": "LDH-xr",
+        "sample": "Examination record",
+        "collected": "2026-08-28 10:00",
+        "received": "2026-08-28 10:00",
+        "reported": "2026-08-28 11:00",
+        "findings": "Five lumbar vertebrae with preserved vertebral body heights; mild straightening of lumbar lordosis. Mild L4/5 disc space narrowing and mild L5/S1 degeneration. No definite fracture, destructive lesion, or spondylolisthesis. No definite abnormal segmental translation on active flexion–extension views. The examination was completed within the Patient’s tolerance; pain limited movement, restricting assessment of dynamic instability.\n Imaging impression：Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-08-28 10:00；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Degenerative narrowing of the L4/5 disc space; no definite dynamic instability. Radiographs cannot directly establish nucleus pulposus herniation or nerve root compression.",
+      "pacs": "xr"
+    },
+    "ct": {
+      "name": "Noncontrast lumbar spine CT with coronal and sagittal 2D reconstructions",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "The specified scan range extends from the inferior margin of T12 to S2, using thin-section noncontrast imaging with coronal and sagittal reconstructions. A left-sided soft-tissue density is visible at the posterior margin of L4/5, with narrowing of the left lateral recess. No obvious extensive calcification of the nucleus pulposus is seen; the cortical bone of the vertebral bodies, pedicles, and pars interarticularis is intact. Mild facet degeneration, without definite spondylolysis, severe bony spinal canal stenosis, or fracture.\n Imaging impression：Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+      "sheet": {
+        "title": "Noncontrast lumbar spine CT with coronal and sagittal 2D reconstructionsReport",
+        "number": "LDH-ct",
+        "sample": "Examination record",
+        "collected": "2026-08-28 10:30",
+        "received": "2026-08-28 10:30",
+        "reported": "2026-08-28 12:00",
+        "findings": "The specified scan range extends from the inferior margin of T12 to S2, using thin-section noncontrast imaging with coronal and sagittal reconstructions. A left-sided soft-tissue density is visible at the posterior margin of L4/5, with narrowing of the left lateral recess. No obvious extensive calcification of the nucleus pulposus is seen; the cortical bone of the vertebral bodies, pedicles, and pars interarticularis is intact. Mild facet degeneration, without definite spondylolysis, severe bony spinal canal stenosis, or fracture.\n Imaging impression：Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-08-28 10:30；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Possible left posterolateral L4/5 disc herniation; MRI is recommended to assess nerve roots and soft tissues. No definite bony contraindication to surgery or indication for fixation.",
+      "pacs": "ct"
+    },
+    "mr": {
+      "name": "Lumbar spine MRI Noncontrast scan",
+      "stage": 0,
+      "category": "Imaging",
+      "text": "Teaching sequence setup: sagittal T1WI and T2WI, and axial T2WI covering the inferior border of T12 to S2. The actual MRI coverage and axial angulation must be determined according to clinical protocols. The conus medullaris terminates at approximately L1, with no definite signal abnormality. The L4/5 disc shows decreased T2 signal and mild disc space narrowing. A left paracentral/lateral recess nucleus pulposus extrusion with slight caudal migration compresses the left anterior margin of the thecal sac and the traversing left L5 nerve root. The causative lesion is not an extraforaminal L4/5 disc herniation, nor is compression of the exiting left L4 nerve root the predominant finding. There is a mild L5/S1 disc bulge without definite corresponding nerve root compression; no major compressive lesion is seen at the other levels. No major findings support infection, tumor, or acute fracture.\n Imaging impression：Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+      "sheet": {
+        "title": "Lumbar spine MRI Noncontrast scanReport",
+        "number": "LDH-mr",
+        "sample": "Examination record",
+        "collected": "2026-09-03 10:10",
+        "received": "2026-09-03 10:10",
+        "reported": "2026-09-03 11:05",
+        "findings": "Teaching sequence setup: sagittal T1WI and T2WI, and axial T2WI covering the inferior border of T12 to S2. The actual MRI coverage and axial angulation must be determined according to clinical protocols. The conus medullaris terminates at approximately L1, with no definite signal abnormality. The L4/5 disc shows decreased T2 signal and mild disc space narrowing. A left paracentral/lateral recess nucleus pulposus extrusion with slight caudal migration compresses the left anterior margin of the thecal sac and the traversing left L5 nerve root. The causative lesion is not an extraforaminal L4/5 disc herniation, nor is compression of the exiting left L4 nerve root the predominant finding. There is a mild L5/S1 disc bulge without definite corresponding nerve root compression; no major compressive lesion is seen at the other levels. No major findings support infection, tumor, or acute fracture.\n Imaging impression：Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report. Examination from the original source：2026-09-03 10:10；The simulated performance time is displayed after this request. Synthetic images cannot replace diagnostic-quality imaging。"
+      },
+      "positive": "Left-sided extruded lumbar disc herniation at L4/5, with caudal migration and compression of the left L5 nerve root, consistent with the physical findings. Confirm morphology, level, and laterality using the original imaging data; the current image is AI-generated for teaching and lacks diagnostic-grade spatial consistency.",
+      "pacs": "mr"
+    },
+    "cbc": {
+      "name": "Complete blood count",
+      "stage": 0,
+      "category": "Blood",
+      "text": "White blood cells 6.8×10⁹/L；Hemoglobin 151g/L；Platelets 242×10⁹/L",
+      "sheet": {
+        "title": "Complete blood countReport",
+        "number": "LDH-cbc",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "White blood cells 6.8×10⁹/L；Hemoglobin 151g/L；Platelets 242×10⁹/L",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "6.8",
+            "unit": "×10⁹/L",
+            "reference": "3.5～9.5",
+            "flag": ""
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "151",
+            "unit": "g/L",
+            "reference": "130～175",
+            "flag": ""
+          },
+          {
+            "name": "Platelets",
+            "value": "242",
+            "unit": "×10⁹/L",
+            "reference": "125～350",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "inflammation": {
+      "name": "Inflammatory markers",
+      "stage": 0,
+      "category": "Blood",
+      "text": "CRP 1.6mg/L；ESR 7mm/h",
+      "sheet": {
+        "title": "Inflammatory markersReport",
+        "number": "LDH-inflammation",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "CRP 1.6mg/L；ESR 7mm/h",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "CRP",
+            "value": "1.6",
+            "unit": "mg/L",
+            "reference": "<5",
+            "flag": ""
+          },
+          {
+            "name": "ESR",
+            "value": "7",
+            "unit": "mm/h",
+            "reference": "0～15",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "renal_liver": {
+      "name": "Liver and kidney function",
+      "stage": 0,
+      "category": "Blood",
+      "text": "Creatinine 79μmol/L；ALT 24U/L；Albumin 44g/L",
+      "sheet": {
+        "title": "Liver and kidney functionReport",
+        "number": "LDH-renal_liver",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Creatinine 79μmol/L；ALT 24U/L；Albumin 44g/L",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "79",
+            "unit": "μmol/L",
+            "reference": "57～97",
+            "flag": ""
+          },
+          {
+            "name": "ALT",
+            "value": "24",
+            "unit": "U/L",
+            "reference": "9～50",
+            "flag": ""
+          },
+          {
+            "name": "Albumin",
+            "value": "44",
+            "unit": "g/L",
+            "reference": "40～55",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "other_labs": {
+      "name": "Other preoperative tests",
+      "stage": 0,
+      "category": "Blood",
+      "text": "Fasting blood glucose 5.3mmol/L；potassium 4.1mmol/L；sodium 140mmol/L；INR 1.01；APTT 29s",
+      "sheet": {
+        "title": "Other preoperative testsReport",
+        "number": "LDH-other_labs",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Fasting blood glucose 5.3mmol/L；potassium 4.1mmol/L；sodium 140mmol/L；INR 1.01；APTT 29s",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report.",
+        "rows": [
+          {
+            "name": "Fasting blood glucose",
+            "value": "5.3",
+            "unit": "mmol/L",
+            "reference": "3.9～6.1",
+            "flag": ""
+          },
+          {
+            "name": "potassium",
+            "value": "4.1",
+            "unit": "mmol/L",
+            "reference": "3.5～5.3",
+            "flag": ""
+          },
+          {
+            "name": "sodium",
+            "value": "140",
+            "unit": "mmol/L",
+            "reference": "137～147",
+            "flag": ""
+          },
+          {
+            "name": "INR",
+            "value": "1.01",
+            "unit": "",
+            "reference": "0.8～1.2",
+            "flag": ""
+          },
+          {
+            "name": "APTT",
+            "value": "29",
+            "unit": "s",
+            "reference": "25～35",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "ecg": {
+      "name": "Preoperative 12-lead ECG",
+      "stage": 0,
+      "category": "Electrocardiography",
+      "text": "Sinus rhythm, 78 beats/min, no significant abnormalities.",
+      "sheet": {
+        "title": "Preoperative 12-lead ECGReport",
+        "number": "LDH-ecg",
+        "sample": "Examination record",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "Sinus rhythm, 78 beats/min, no significant abnormalities.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": ""
+    },
+    "handoff": {
+      "name": "Surgical team report",
+      "stage": 1,
+      "category": "Handover",
+      "text": "After induction of general anesthesia, the patient was positioned prone with the abdomen free. L4/5 was localized fluoroscopically, and the level and left side were verified. Cefazolin 2 g was administered intravenously for prophylaxis 30 minutes before skin incision. A short left-sided incision and limited paraspinal muscle dissection were performed, followed by a limited interlaminar fenestration under the microscope, preserving sufficient facet joint tissue. The left L5 nerve root was exposed, revealing ventral compression by extruded nucleus pulposus. Extruded and loose nucleus pulposus fragments were removed, avoiding excessive disc curettage. Exploration confirmed nerve root decompression and restoration of thecal sac pulsation. Hemostasis was achieved, with no cerebrospinal fluid leak observed. No internal fixation or fusion was performed. Estimated blood loss was 30 mL. The procedure was uneventful, with no transfusion. Synthetic pathology conclusion for the submitted specimen: degenerative fibrocartilage/nucleus pulposus tissue.\nAlert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it.",
+      "sheet": {
+        "title": "Surgical team reportReport",
+        "number": "LDH-handoff",
+        "sample": "Examination record",
+        "collected": "2026-09-04 13:00",
+        "received": "2026-09-04 13:00",
+        "reported": "2026-09-04 13:00",
+        "findings": "After induction of general anesthesia, the patient was positioned prone with the abdomen free. L4/5 was localized fluoroscopically, and the level and left side were verified. Cefazolin 2 g was administered intravenously for prophylaxis 30 minutes before skin incision. A short left-sided incision and limited paraspinal muscle dissection were performed, followed by a limited interlaminar fenestration under the microscope, preserving sufficient facet joint tissue. The left L5 nerve root was exposed, revealing ventral compression by extruded nucleus pulposus. Extruded and loose nucleus pulposus fragments were removed, avoiding excessive disc curettage. Exploration confirmed nerve root decompression and restoration of thecal sac pulsation. Hemostasis was achieved, with no cerebrospinal fluid leak observed. No internal fixation or fusion was performed. Estimated blood loss was 30 mL. The procedure was uneventful, with no transfusion. Synthetic pathology conclusion for the submitted specimen: degenerative fibrocartilage/nucleus pulposus tissue.\nAlert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Alert, with stable vital signs; left leg pain decreased to 2/10 and incision pain is 3/10. Left ankle dorsiflexion and great toe extension remain 3/5, sensory loss persists, and the toes are warm. No new perineal numbness or difficulty urinating, and no significant incisional bleeding. Short-term analgesia, neurological examinations, mechanical prophylaxis, and early mobilization; no routine repeat CT/MRI without an abnormal finding warranting it."
+    },
+    "ward": {
+      "name": "Postoperative reassessment of neurological function and incision",
+      "stage": 2,
+      "category": "Reassessment",
+      "text": "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk.",
+      "sheet": {
+        "title": "Postoperative reassessment of neurological function and incisionReport",
+        "number": "LDH-ward",
+        "sample": "Examination record",
+        "collected": "2026-09-05 09:00",
+        "received": "2026-09-05 09:00",
+        "reported": "2026-09-05 09:00",
+        "findings": "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Left ankle and great toe dorsiflexion strength 4/5; reduced numbness over the dorsum of the foot."
+    },
+    "discharge": {
+      "name": "Reassessment before discharge",
+      "stage": 3,
+      "category": "Reassessment",
+      "text": "Discharge diagnoses: Left-sided extruded lumbar disc herniation at L4/5 with left L5 radiculopathy; status post left L4/5 microdiscectomy and nerve root decompression. The wound is dry, leg pain is 1/10, left ankle dorsiflexion is 4/5, and great toe dorsiflexion is 4/5. Mild numbness over the dorsum of the foot persists. Able to walk with protection; bladder and bowel function are normal. Outcome: Improved. No long-term antibiotics or routine prophylactic anticoagulation prescription is needed; reassess based on individual risk.",
+      "sheet": {
+        "title": "Reassessment before dischargeReport",
+        "number": "LDH-discharge",
+        "sample": "Examination record",
+        "collected": "2026-09-07 09:00",
+        "received": "2026-09-07 09:00",
+        "reported": "2026-09-07 09:00",
+        "findings": "Discharge diagnoses: Left-sided extruded lumbar disc herniation at L4/5 with left L5 radiculopathy; status post left L4/5 microdiscectomy and nerve root decompression. The wound is dry, leg pain is 1/10, left ankle dorsiflexion is 4/5, and great toe dorsiflexion is 4/5. Mild numbness over the dorsum of the foot persists. Able to walk with protection; bladder and bowel function are normal. Outcome: Improved. No long-term antibiotics or routine prophylactic anticoagulation prescription is needed; reassess based on individual risk.",
+        "note": "Original lumbar spine case v1.1 teaching material; not an actual patient report."
+      },
+      "positive": "Left ankle dorsiflexion and great toe dorsiflexion 4/5, with mild numbness over the dorsum of the foot."
+    }
+  },
+  "TEACHING": {
+    "0": "Focus on the level and side of radicular symptoms, progression of neurological dysfunction, and red-flag screening. Motor deficits must be confirmed using available examination findings; the Patient’s report cannot replace muscle strength grading. MRI is used to assess progressive neurological decline. X-rays and CT are not both mandatory and must not delay assessment merely to complete testing. Do not disclose imaging that has not been opened.",
+    "1": "Radicular pain and functional impairment remained significant after approximately 8 weeks of treatment, with objective, progressive weakness of left ankle dorsiflexion/great toe extension. MRI findings were concordant with left L5 localization. Left L4/5 microdiscectomy and nerve root decompression are planned. There is no spondylolisthesis or definite dynamic instability; fusion or instrumentation is not routinely indicated. The procedure depends on the patient’s condition and the surgical team; no claim is made that any minimally invasive technique is universally superior to other approaches.",
+    "2": "Left leg pain is 1–2/10; left ankle and great toe dorsiflexion have improved to 4/5, with reduced numbness over the dorsum of the foot. The wound is dry, and spontaneous urination is normal. Mobilize out of bed and walk with protection; use a short-term ankle-foot orthosis if needed to prevent tripping. Stop prophylactic antibiotics within 24 hours after surgery; reassess venous thrombosis prevention based on mobility, bleeding, and individual risk. No fever, new leg pain, progressive weakness, or bowel or bladder abnormalities. Improved walking tolerance, left dorsiflexion strength 4/5, and symmetric bilateral reflexes. Continue staged rehabilitation, incision monitoring, and smoking cessation education; do not promise immediate full recovery of muscle strength.",
+    "3": "Acetaminophen 500 mg orally as needed, at least 6 hours apart; in this case, a maximum of 2 g/day for no more than 3 days. Avoid concurrent use of other products containing the same ingredient. Reassess the incision and neurological function 10–14 days after surgery, with a rehabilitation follow-up at 4–6 weeks. Gradually increase walking; avoid repeated bending, twisting, and heavy lifting early in recovery. Assess readiness to return to work according to recovery. Seek emergency care immediately for new or worsening muscle weakness, urinary retention, perineal numbness, or abnormal bowel function; seek prompt medical attention for fever or incision redness, swelling, or drainage.",
+    "4": "Debrief based on actual history-taking, images reviewed, localization diagnosis, surgical decision-making, orders, neurological reassessment, and discharge guidance. Do not count surgery predefined in the case as having been performed by the Student; no scoring."
+  },
+  "STAGES": [
+    "Seen in the general orthopedic clinic",
+    "Preoperative decision-making and surgery",
+    "Postoperative ward round",
+    "Discharge instructions",
+    "Debrief"
+  ],
+  "source_stages": [
+    "骨科普通诊室接诊",
+    "术前决策与手术",
+    "术后查房",
+    "出院指导",
+    "复盘"
+  ],
+  "source_reports": {
+    "exam": {
+      "name": "一般及脊柱神经查体",
+      "stage": 0,
+      "category": "查体",
+      "text": "T 36.6℃，P 78次/分，R 18次/分，BP 128/78 mmHg，SpO₂ 98%。身高176 cm，体重78 kg，BMI 25.2 kg/m²。意识清楚，痛苦面容；心肺腹查体无明显异常，无下肢肿胀，足背动脉搏动对称。\n站立时轻度躯干右偏、腰椎前屈受限；L4/5旁左侧压痛，叩击无明显骨性痛。左直腿抬高35°诱发同侧典型放射痛，踝背伸加强试验阳性；右侧70°无同侧腿痛，交叉直腿抬高试验阴性。左小腿外侧、足背及第1趾间隙针刺觉减退。双侧膝反射及跟腱反射均2+，病理反射阴性。会阴感觉保留，肛门自主收缩正常；排尿后膀胱残余尿35 mL。\n入院左侧肌力：髋屈曲 5/5；膝伸直 5/5；踝背伸（胫前肌） 3/5 ↓；踇趾背伸（踇长伸肌） 3/5 ↓；踝内翻 4/5 ↓；踝外翻 4/5 ↓；踝跖屈 5/5",
+      "sheet": {
+        "title": "一般及脊柱神经查体报告",
+        "number": "LDH-exam",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "T 36.6℃，P 78次/分，R 18次/分，BP 128/78 mmHg，SpO₂ 98%。身高176 cm，体重78 kg，BMI 25.2 kg/m²。意识清楚，痛苦面容；心肺腹查体无明显异常，无下肢肿胀，足背动脉搏动对称。\n站立时轻度躯干右偏、腰椎前屈受限；L4/5旁左侧压痛，叩击无明显骨性痛。左直腿抬高35°诱发同侧典型放射痛，踝背伸加强试验阳性；右侧70°无同侧腿痛，交叉直腿抬高试验阴性。左小腿外侧、足背及第1趾间隙针刺觉减退。双侧膝反射及跟腱反射均2+，病理反射阴性。会阴感觉保留，肛门自主收缩正常；排尿后膀胱残余尿35 mL。\n入院左侧肌力：髋屈曲 5/5；膝伸直 5/5；踝背伸（胫前肌） 3/5 ↓；踇趾背伸（踇长伸肌） 3/5 ↓；踝内翻 4/5 ↓；踝外翻 4/5 ↓；踝跖屈 5/5",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。"
+      },
+      "positive": "站立时轻度躯干右偏、腰椎前屈受限；L4/5旁左侧压痛，叩击无明显骨性痛。左直腿抬高35°诱发同侧典型放射痛，踝背伸加强试验阳性；右侧70°无同侧腿痛，交叉直腿抬高试验阴性。左小腿外侧、足背及第1趾间隙针刺觉减退。双侧膝反射及跟腱反射均2+，病理反射阴性。会阴感觉保留，肛门自主收缩正常；排尿后膀胱残余尿35 mL。左踝背伸、踇趾背伸3/5。"
+    },
+    "xr": {
+      "name": "腰椎X线正侧位及屈伸功能位",
+      "stage": 0,
+      "category": "影像",
+      "text": "五个腰椎椎体，椎体高度保留；腰椎生理前凸轻度变直。L4/5椎间隙轻度变窄，L5/S1轻度退变。未见明确骨折、破坏或椎体滑脱。主动屈伸位未见明确异常节段平移。检查在患者可耐受范围完成，疼痛限制活动，动态不稳评估有局限。\n影像印象：L4/5椎间隙退变性变窄；未见明确动态不稳。X线不能直接确定突出髓核或神经根受压。",
+      "sheet": {
+        "title": "腰椎X线正侧位及屈伸功能位报告",
+        "number": "LDH-xr",
+        "sample": "检查记录",
+        "collected": "2026-08-28 10:00",
+        "received": "2026-08-28 10:00",
+        "reported": "2026-08-28 11:00",
+        "findings": "五个腰椎椎体，椎体高度保留；腰椎生理前凸轻度变直。L4/5椎间隙轻度变窄，L5/S1轻度退变。未见明确骨折、破坏或椎体滑脱。主动屈伸位未见明确异常节段平移。检查在患者可耐受范围完成，疼痛限制活动，动态不稳评估有局限。\n影像印象：L4/5椎间隙退变性变窄；未见明确动态不稳。X线不能直接确定突出髓核或神经根受压。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。 原来源检查：2026-08-28 10:00；本次申请后显示模拟执行时间。合成图不能替代诊断级影像。"
+      },
+      "positive": "L4/5椎间隙退变性变窄；未见明确动态不稳。X线不能直接确定突出髓核或神经根受压。",
+      "pacs": "xr"
+    },
+    "ct": {
+      "name": "腰椎CT平扫及冠状位、矢状位二维重建",
+      "stage": 0,
+      "category": "影像",
+      "text": "设定扫描范围T12下缘至S2，薄层平扫并作冠矢状重建。L4/5后缘可见左偏软组织密度影，左侧隐窝变窄。未见明显大片钙化髓核；椎体、椎弓根及峡部骨皮质连续。轻度关节突退变，无明确峡部裂、骨性严重椎管狭窄或骨折。\n影像印象：L4/5左偏后方椎间盘突出可能，建议MRI评价神经根及软组织；无明确骨性手术禁忌或固定指征。",
+      "sheet": {
+        "title": "腰椎CT平扫及冠状位、矢状位二维重建报告",
+        "number": "LDH-ct",
+        "sample": "检查记录",
+        "collected": "2026-08-28 10:30",
+        "received": "2026-08-28 10:30",
+        "reported": "2026-08-28 12:00",
+        "findings": "设定扫描范围T12下缘至S2，薄层平扫并作冠矢状重建。L4/5后缘可见左偏软组织密度影，左侧隐窝变窄。未见明显大片钙化髓核；椎体、椎弓根及峡部骨皮质连续。轻度关节突退变，无明确峡部裂、骨性严重椎管狭窄或骨折。\n影像印象：L4/5左偏后方椎间盘突出可能，建议MRI评价神经根及软组织；无明确骨性手术禁忌或固定指征。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。 原来源检查：2026-08-28 10:30；本次申请后显示模拟执行时间。合成图不能替代诊断级影像。"
+      },
+      "positive": "L4/5左偏后方椎间盘突出可能，建议MRI评价神经根及软组织；无明确骨性手术禁忌或固定指征。",
+      "pacs": "ct"
+    },
+    "mr": {
+      "name": "腰椎MRI平扫",
+      "stage": 0,
+      "category": "影像",
+      "text": "矢状位T1WI、T2WI及覆盖T12下缘至S2的轴位T2WI教学序列设定。实际MRI扫描范围和轴位角度需按临床协议确定。脊髓圆锥末端约L1水平，信号未见明确异常。L4/5椎间盘T2信号降低、间隙轻度变窄；左旁中央/侧隐窝型髓核脱出并轻度向尾侧移位，压迫硬膜囊左前缘与走行的左L5神经根。责任病灶不是L4/5椎间孔外突出，也不是以出口左L4神经根受压为主。L5/S1轻度膨出，未见明确对应神经根压迫；其余节段无主要压迫灶。未见支持感染、肿瘤或急性骨折的主要征象。\n影像印象：L4/5左侧脱出型腰椎间盘突出，伴尾侧移位及左L5神经根受压，与体征相符。需结合影像原始数据确认形态、节段与侧别；当前图片为AI教学合成，不具备诊断级空间一致性。",
+      "sheet": {
+        "title": "腰椎MRI平扫报告",
+        "number": "LDH-mr",
+        "sample": "检查记录",
+        "collected": "2026-09-03 10:10",
+        "received": "2026-09-03 10:10",
+        "reported": "2026-09-03 11:05",
+        "findings": "矢状位T1WI、T2WI及覆盖T12下缘至S2的轴位T2WI教学序列设定。实际MRI扫描范围和轴位角度需按临床协议确定。脊髓圆锥末端约L1水平，信号未见明确异常。L4/5椎间盘T2信号降低、间隙轻度变窄；左旁中央/侧隐窝型髓核脱出并轻度向尾侧移位，压迫硬膜囊左前缘与走行的左L5神经根。责任病灶不是L4/5椎间孔外突出，也不是以出口左L4神经根受压为主。L5/S1轻度膨出，未见明确对应神经根压迫；其余节段无主要压迫灶。未见支持感染、肿瘤或急性骨折的主要征象。\n影像印象：L4/5左侧脱出型腰椎间盘突出，伴尾侧移位及左L5神经根受压，与体征相符。需结合影像原始数据确认形态、节段与侧别；当前图片为AI教学合成，不具备诊断级空间一致性。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。 原来源检查：2026-09-03 10:10；本次申请后显示模拟执行时间。合成图不能替代诊断级影像。"
+      },
+      "positive": "L4/5左侧脱出型腰椎间盘突出，伴尾侧移位及左L5神经根受压，与体征相符。需结合影像原始数据确认形态、节段与侧别；当前图片为AI教学合成，不具备诊断级空间一致性。",
+      "pacs": "mr"
+    },
+    "cbc": {
+      "name": "血常规",
+      "stage": 0,
+      "category": "血液",
+      "text": "白细胞 6.8×10⁹/L；血红蛋白 151g/L；血小板 242×10⁹/L",
+      "sheet": {
+        "title": "血常规报告",
+        "number": "LDH-cbc",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "白细胞 6.8×10⁹/L；血红蛋白 151g/L；血小板 242×10⁹/L",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。",
+        "rows": [
+          {
+            "name": "白细胞",
+            "value": "6.8",
+            "unit": "×10⁹/L",
+            "reference": "3.5～9.5",
+            "flag": ""
+          },
+          {
+            "name": "血红蛋白",
+            "value": "151",
+            "unit": "g/L",
+            "reference": "130～175",
+            "flag": ""
+          },
+          {
+            "name": "血小板",
+            "value": "242",
+            "unit": "×10⁹/L",
+            "reference": "125～350",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "inflammation": {
+      "name": "炎症指标",
+      "stage": 0,
+      "category": "血液",
+      "text": "CRP 1.6mg/L；ESR 7mm/h",
+      "sheet": {
+        "title": "炎症指标报告",
+        "number": "LDH-inflammation",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "CRP 1.6mg/L；ESR 7mm/h",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。",
+        "rows": [
+          {
+            "name": "CRP",
+            "value": "1.6",
+            "unit": "mg/L",
+            "reference": "<5",
+            "flag": ""
+          },
+          {
+            "name": "ESR",
+            "value": "7",
+            "unit": "mm/h",
+            "reference": "0～15",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "renal_liver": {
+      "name": "肝肾功能",
+      "stage": 0,
+      "category": "血液",
+      "text": "肌酐 79μmol/L；ALT 24U/L；白蛋白 44g/L",
+      "sheet": {
+        "title": "肝肾功能报告",
+        "number": "LDH-renal_liver",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "肌酐 79μmol/L；ALT 24U/L；白蛋白 44g/L",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "79",
+            "unit": "μmol/L",
+            "reference": "57～97",
+            "flag": ""
+          },
+          {
+            "name": "ALT",
+            "value": "24",
+            "unit": "U/L",
+            "reference": "9～50",
+            "flag": ""
+          },
+          {
+            "name": "白蛋白",
+            "value": "44",
+            "unit": "g/L",
+            "reference": "40～55",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "other_labs": {
+      "name": "术前其他检验",
+      "stage": 0,
+      "category": "血液",
+      "text": "空腹血糖 5.3mmol/L；钾 4.1mmol/L；钠 140mmol/L；INR 1.01；APTT 29s",
+      "sheet": {
+        "title": "术前其他检验报告",
+        "number": "LDH-other_labs",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "空腹血糖 5.3mmol/L；钾 4.1mmol/L；钠 140mmol/L；INR 1.01；APTT 29s",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。",
+        "rows": [
+          {
+            "name": "空腹血糖",
+            "value": "5.3",
+            "unit": "mmol/L",
+            "reference": "3.9～6.1",
+            "flag": ""
+          },
+          {
+            "name": "钾",
+            "value": "4.1",
+            "unit": "mmol/L",
+            "reference": "3.5～5.3",
+            "flag": ""
+          },
+          {
+            "name": "钠",
+            "value": "140",
+            "unit": "mmol/L",
+            "reference": "137～147",
+            "flag": ""
+          },
+          {
+            "name": "INR",
+            "value": "1.01",
+            "unit": "",
+            "reference": "0.8～1.2",
+            "flag": ""
+          },
+          {
+            "name": "APTT",
+            "value": "29",
+            "unit": "s",
+            "reference": "25～35",
+            "flag": ""
+          }
+        ]
+      },
+      "positive": ""
+    },
+    "ecg": {
+      "name": "术前十二导联心电图",
+      "stage": 0,
+      "category": "心电",
+      "text": "窦性心律，78次/分，无明显异常。",
+      "sheet": {
+        "title": "术前十二导联心电图报告",
+        "number": "LDH-ecg",
+        "sample": "检查记录",
+        "collected": "2026-09-03 09:00",
+        "received": "2026-09-03 09:00",
+        "reported": "2026-09-03 09:00",
+        "findings": "窦性心律，78次/分，无明显异常。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。"
+      },
+      "positive": ""
+    },
+    "handoff": {
+      "name": "手术团队回报",
+      "stage": 1,
+      "category": "交接",
+      "text": "全麻后俯卧，腹部悬空，透视定位L4/5并核对节段与左侧。切皮前30分钟头孢唑林2 g静脉预防给药。左侧短切口、椎旁肌有限剥离，显微镜下行有限椎板间开窗，保留足够关节突；显露左L5神经根，见腹侧脱出髓核压迫，摘除脱出及松动髓核，避免过度刮除椎间盘。探查根松解、硬膜囊搏动恢复，止血，未见脑脊液漏；无内固定，无融合。估计失血30 mL，手术顺利，无输血。送检标本合成病理结论：退变纤维软骨/髓核组织。\n清醒，生命体征稳定，左腿痛降至2/10，切口痛3/10。左踝背伸3/5、踇趾背伸3/5，感觉减退仍在，足趾温暖。无新发会阴麻木或排尿困难，无明显切口渗血。短程镇痛、神经查体、机械预防与早期活动；无异常指征不常规复查CT/MRI。",
+      "sheet": {
+        "title": "手术团队回报报告",
+        "number": "LDH-handoff",
+        "sample": "检查记录",
+        "collected": "2026-09-04 13:00",
+        "received": "2026-09-04 13:00",
+        "reported": "2026-09-04 13:00",
+        "findings": "全麻后俯卧，腹部悬空，透视定位L4/5并核对节段与左侧。切皮前30分钟头孢唑林2 g静脉预防给药。左侧短切口、椎旁肌有限剥离，显微镜下行有限椎板间开窗，保留足够关节突；显露左L5神经根，见腹侧脱出髓核压迫，摘除脱出及松动髓核，避免过度刮除椎间盘。探查根松解、硬膜囊搏动恢复，止血，未见脑脊液漏；无内固定，无融合。估计失血30 mL，手术顺利，无输血。送检标本合成病理结论：退变纤维软骨/髓核组织。\n清醒，生命体征稳定，左腿痛降至2/10，切口痛3/10。左踝背伸3/5、踇趾背伸3/5，感觉减退仍在，足趾温暖。无新发会阴麻木或排尿困难，无明显切口渗血。短程镇痛、神经查体、机械预防与早期活动；无异常指征不常规复查CT/MRI。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。"
+      },
+      "positive": "清醒，生命体征稳定，左腿痛降至2/10，切口痛3/10。左踝背伸3/5、踇趾背伸3/5，感觉减退仍在，足趾温暖。无新发会阴麻木或排尿困难，无明显切口渗血。短程镇痛、神经查体、机械预防与早期活动；无异常指征不常规复查CT/MRI。"
+    },
+    "ward": {
+      "name": "术后神经功能与切口复评",
+      "stage": 2,
+      "category": "复评",
+      "text": "左腿痛1～2/10，左踝及踇趾背伸改善至4/5，足背麻木减轻。伤口干燥，自主排尿正常。在保护下下床步行，必要时短期踝足矫形器防绊倒。预防抗菌药于术后24小时内停止；静脉血栓防治根据活动、出血与个体风险复评。",
+      "sheet": {
+        "title": "术后神经功能与切口复评报告",
+        "number": "LDH-ward",
+        "sample": "检查记录",
+        "collected": "2026-09-05 09:00",
+        "received": "2026-09-05 09:00",
+        "reported": "2026-09-05 09:00",
+        "findings": "左腿痛1～2/10，左踝及踇趾背伸改善至4/5，足背麻木减轻。伤口干燥，自主排尿正常。在保护下下床步行，必要时短期踝足矫形器防绊倒。预防抗菌药于术后24小时内停止；静脉血栓防治根据活动、出血与个体风险复评。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。"
+      },
+      "positive": "左踝及踇趾背伸4/5，足背麻木减轻。"
+    },
+    "discharge": {
+      "name": "出院前复评",
+      "stage": 3,
+      "category": "复评",
+      "text": "出院诊断：L4/5左侧脱出型腰椎间盘突出伴左L5神经根病；L4/5左侧显微椎间盘摘除及神经根减压术后。伤口干燥，腿痛1/10，左踝背伸4/5、踇趾背伸4/5，足背轻度麻木，可保护下步行，二便正常。转归：好转。无需长期抗菌药或常规预防性抗凝处方，结合个体风险复评。",
+      "sheet": {
+        "title": "出院前复评报告",
+        "number": "LDH-discharge",
+        "sample": "检查记录",
+        "collected": "2026-09-07 09:00",
+        "received": "2026-09-07 09:00",
+        "reported": "2026-09-07 09:00",
+        "findings": "出院诊断：L4/5左侧脱出型腰椎间盘突出伴左L5神经根病；L4/5左侧显微椎间盘摘除及神经根减压术后。伤口干燥，腿痛1/10，左踝背伸4/5、踇趾背伸4/5，足背轻度麻木，可保护下步行，二便正常。转归：好转。无需长期抗菌药或常规预防性抗凝处方，结合个体风险复评。",
+        "note": "原腰椎病例v1.1教学资料；非真实患者报告。"
+      },
+      "positive": "左踝背伸、踇趾背伸4/5，足背轻度麻木。"
+    }
+  },
+  "opening_content": {
+    "openers": [
+      "Doctor, my lower back and left leg have been hurting for quite a while, and lately it has been hard to lift my left foot.。",
+      "Complete the preoperative decision-making; select surgery to receive the team’s report。",
+      "Doctor, my left leg hurts less than before, but the top of my foot is still a little numb.。",
+      "Doctor, how should I manage physical activity after going home, and when should I return for follow-up?？",
+      "Simulation submitted。"
+    ],
+    "general": "Name：Li Zhiqiang；Sex：male；Age：46 years old；Ethnicity：Han ethnicity (registration setting for teaching）\n Marital status：Married；Occupation：Warehouse management staff；Place of origin：Chengdu, Sichuan Province (simulated registration for teaching)\n Current address：Room 502, Building 3, No. 26 Anhe Road, Wuhou District, Chengdu (fictional teaching address)\n History provided by：Patient and spouse\n Outpatient registration：General orthopedic outpatient clinic; registration information complete, not yet admitted"
+  },
+  "source_opening_content": {
+    "openers": [
+      "医生，我腰和左腿痛了好一阵，最近左脚抬起来也费劲。",
+      "请完成术前决策，选择手术后接收团队回报。",
+      "医生，左腿比之前不那么痛了，脚背还有点麻。",
+      "医生，回去后怎么活动、什么时候复查？",
+      "演练已提交。"
+    ],
+    "general": "姓名：李志强；性别：男；年龄：46岁；民族：汉族（教学登记设定）\n婚姻：已婚；职业：仓储管理人员；籍贯：四川省成都市（教学登记设定）\n现住址：成都市武侯区安和路26号3栋502室（教学虚构地址）\n病史陈述者：患者本人及配偶\n门诊登记：骨科普通门诊；挂号资料齐备，尚未办理入院"
+  }
+}

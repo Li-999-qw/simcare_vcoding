@@ -1,0 +1,8 @@
+{
+  "case_id": "SIM-AMI-20260901",
+  "case_builder": "../../build_case_pdf.py",
+  "case_pdf": "../pdf/心肌梗死住院病案_模拟复印件_专家审核版.pdf",
+  "medication_list": "心肌梗死_药物清单.md",
+  "drug_catalog": "drug-catalog.json",
+  "catalog_version": "2026-09-11.2"
+}

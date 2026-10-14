@@ -1,0 +1,76 @@
+{
+  "query": "isosorbide dinitrate",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isosorbide%20dinitrate%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "brand": [
+        "Isosorbide Dinitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0e5842f2-74f6-1f02-01bc-07578bd3b393",
+      "effective_time": "20260210",
+      "dosage": "DOSAGE AND ADMINISTRATION As noted under \" CLINICAL PHARMACOLOGY ,\" multiple-dose studies with isosorbide dinitrate and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance. With immediate-release isosorbide dinitrate, it appears that one daily dose-free interval must be at least 14 hours long. As also noted under \" CLINICAL PHARMACOLOGY ,\" the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first. Large controlled studies with other nitrates suggest that no dosing regimen with isosorbide dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day. As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. The usual starting dose of isosorbide dinitrate is 5 mg to 20 mg, two or three times daily. For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended. Some patients may require higher doses. A daily dose-free interval of at least 14 hours is advisable to minimize tolerance. The optimal interval will vary with the individual patient, dose and regimen."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "brand": [
+        "Isosorbide dinitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "16818b32-ee5e-4e07-b848-31e892c4b98a",
+      "effective_time": "20240808",
+      "dosage": "DOSAGE AND ADMINISTRATION As noted under CLINICAL PHARMACOLOGY , multiple-dose studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance. With immediate-release ISDN, it appears that one daily dose-free interval must be at least 14 hours long. As also noted under CLINICAL PHARMACOLOGY , the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first. Large controlled studies with other nitrates suggest that no dosing regimen with isosorbide dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day. As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. The usual starting dose of isosorbide dinitrate tablets is 5 mg to 20 mg, two or three times daily. For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended. Some patients may require higher doses. A daily dose-free interval of at least 14 hours is advisable to minimize tolerance. The optimal interval will vary with the individual patient, dose and regimen."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "brand": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "1cf9b6dd-9d4e-4ea1-95ae-e9e46a3d1b20",
+      "effective_time": "20240801",
+      "dosage": "DOSAGE AND ADMINISTRATION As noted under Error! Hyperlink reference not valid. , multiple-dose studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance. With immediate-release ISDN, it appears that one daily dose-free interval must be at least 14 hours long. As also noted under Error! Hyperlink reference not valid. , the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first. Large controlled studies with other nitrates suggest that no dosing regimen with isosorbide dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day. As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. The usual starting dose of isosorbide dinitrate is 5 mg to 20 mg, two or three times daily. For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended. Some patients may require higher doses. A daily dose-free interval of at least 14 hours is advisable to minimize tolerance. The optimal interval will vary with the individual patient, dose and regimen."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "brand": [
+        "Isosorbide dinitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "246c749d-aa28-44ce-8d42-984660afff2a",
+      "effective_time": "20250821",
+      "dosage": "DOSAGE AND ADMINISTRATION As noted under CLINICAL PHARMACOLOGY , multiple-dose studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance. With immediate-release ISDN, it appears that one daily dose-free interval must be at least 14 hours long. As also noted under CLINICAL PHARMACOLOGY , the effects of the second and later doses have been smaller and shorter-lasting than the effects of the first. Large controlled studies with other nitrates suggest that no dosing regimen with isosorbide dinitrate tablets should be expected to provide more than about 12 hours of continuous anti-anginal efficacy per day. As with all titratable drugs, it is important to administer the minimum dose which produces the desired clinical effect. The usual starting dose of isosorbide dinitrate tablets is 5 mg to 20 mg, two or three times daily. For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended. Some patients may require higher doses. A daily dose-free interval of at least 14 hours is advisable to minimize tolerance. The optimal interval will vary with the individual patient, dose and regimen."
+    },
+    {
+      "generic": [
+        "HYDRALAZINE HYDROCHLORIDE AND ISOSORBIDE DINITRATE"
+      ],
+      "brand": [
+        "isosorbide dinitrate and hydralazine hydrochloride"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "2a6fe05a-fcd4-42d1-bf5d-1d39ac273363",
+      "effective_time": "20240701",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Isosorbide dinitrate and hydralazine hydrochloride tablets should be initiated at a dose of one isosorbide dinitrate and hydralazine hydrochloride tablet, three times a day. Titrate to a maximum of two tablets three times daily, if tolerated. Although titration of isosorbide dinitrate and hydralazine hydrochloride tablets can be rapid (3-5 days), some patients may experience side effects and may take longer to reach their maximum tolerated dose. The dosage may be decreased to as little as one-half isosorbide dinitrate and hydralazine hydrochloride tablet three times a day if intolerable side effects occur. Efforts should be made to titrate up as soon as side effects subside. One tablet three times a day titrated to a maximum tolerated dose up to two tablets three times a day ( 2 ) Dosage may be decreased to as little as one-half tablet three times a day if intolerable side effects occur. Efforts should be made to titrate up as soon as side effects subside ( 2 )"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "query": "inclisiran",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22inclisiran%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "INCLISIRAN"
+      ],
+      "brand": [
+        "LEQVIO"
+      ],
+      "route": [
+        "SUBCUTANEOUS"
+      ],
+      "setid": "6fc0afca-4513-4c35-b594-6544aee29a44",
+      "effective_time": "20260819",
+      "dosage": "2 DOSAGE AND ADMINISTRATION The recommended dosage of LEQVIO for adults and pediatric patients aged 12 years and older is 284 mg administered as a single subcutaneous injection initially, again at 3 months, and then every 6 months. ( 2.1 ) LEQVIO should be administered by a healthcare professional. ( 2.2 ) Inject LEQVIO subcutaneously into the abdomen, upper arm, or thigh. ( 2.2 ) 2.1 Recommended Dosage The recommended dosage of LEQVIO for adults and pediatric patients aged 12 years and older is 284 mg administered as a single subcutaneous injection initially, again at 3 months, and then every 6 months. If a planned dose is missed by less than 3 months, administer LEQVIO and maintain dosing according to the patient’s original schedule. If a planned dose is missed by more than 3 months, restart with a new dosing schedule - administer LEQVIO initially, again at 3 months, and then every 6 months. Assess LDL-C when clinically indicated. The LDL-lowering effect of LEQVIO may be measured as early as 30 days after initiation and anytime thereafter without regard to timing of the dose. 2.2 Important Administration Instructions LEQVIO should be administered by a healthcare professional. Inject LEQVIO subcutaneously into the abdomen, upper arm, or thigh. Do not inject in areas of active skin disease or injury, such as sunburns, skin rashes, inflammation, or skin infections. Inspect LEQVIO visually before use. It should appear clear and colorless to pale yellow. Do not use if particulate matter or discoloration is seen. For more detailed instruction on administration of the prefilled syringe, see Instructions for Use."
+    }
+  ]
+}

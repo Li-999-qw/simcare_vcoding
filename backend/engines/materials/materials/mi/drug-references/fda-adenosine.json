@@ -1,0 +1,76 @@
+{
+  "query": "adenosine",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22adenosine%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "ADENOSINE, NIACINAMIDE"
+      ],
+      "brand": [
+        "PETITCOCHON TONE UP BODY SUN"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "00301649-549d-e4af-e063-6394a90a0a1b",
+      "effective_time": "20230711",
+      "dosage": "topical use only"
+    },
+    {
+      "generic": [
+        "NIACINAMIDE, ADENOSINE"
+      ],
+      "brand": [
+        "COXIR INTENSIVE EGF PEPTIDE SERUM"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "03a97ef0-6ad1-47ef-a8f4-fd32fd02a199",
+      "effective_time": "20210714",
+      "dosage": "Directions ■ Can be used daily, AM and PM. Gently massage onto face in circular motions untill absorbed."
+    },
+    {
+      "generic": [
+        "ARBUTIN, NIACINAMIDE, ADENOSINE"
+      ],
+      "brand": [
+        "Reoganic EX Whitening Pore Care Deodorant"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "05ece831-63e8-d347-e063-6294a90a4347",
+      "effective_time": "20230922",
+      "dosage": "topical use only"
+    },
+    {
+      "generic": [
+        "NIACINAMIDE, ADENOSINE"
+      ],
+      "brand": [
+        "Reoganic Body Firming StretchCream"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "05ee1e29-0daa-9cbd-e063-6394a90a0749",
+      "effective_time": "20230922",
+      "dosage": "topical use only"
+    },
+    {
+      "generic": [
+        "ADENOSINE"
+      ],
+      "brand": [
+        "Tissen NF 10"
+      ],
+      "route": [
+        "TOPICAL"
+      ],
+      "setid": "0c71d3f0-949d-4c00-8758-4ae7c9fd11ed",
+      "effective_time": "20241125",
+      "dosage": "Directions Directions: 1. Wash the face and pat dry skin. Do not use toner before applying this product. 2. Apply 1/3 up to 2/2 of a dropper of the essence to face and neck, massaging in gently and evenly. 3. Allow the essence to dry. 4. The product may precipitate during long-term storage. However, it will not cause any quality problems. Make sure to shake well before using. 5. Reapplication to rapidly aging spots such as around the eyes and mouth is recommended. 6. After 1-2 minutes, when you feel some tension in your skin, apply moisturizer as usual. 7. For best results, apply twice a day, morning and night. 8. Single treatments are recommended at nighttime. 9. Store in a refrigerator (2-15℃) after each use."
+    }
+  ]
+}

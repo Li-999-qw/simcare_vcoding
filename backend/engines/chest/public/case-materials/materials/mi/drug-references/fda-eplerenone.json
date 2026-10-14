@@ -1,0 +1,76 @@
+{
+  "query": "eplerenone",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22eplerenone%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "EPLERENONE"
+      ],
+      "brand": [
+        "Inspra"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "1a52bedc-8e2c-4116-a296-a87770676b4a",
+      "effective_time": "20250623",
+      "dosage": "2 DOSAGE AND ADMINISTRATION HFrEF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. ( 2.1 ) Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting INSPRA and periodically thereafter. ( 2.3 ) 2.1 Heart Failure Post-Myocardial Infarction Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. Once treatment with INSPRA has begun, adjust the dose based on the serum potassium level as shown in Table 1. Table 1. Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment <5.0 25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily 5.0-5.4 No adjustment 5.5-5.9 50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold ≥6.0 Withhold and restart at 25 mg every other day when potassium levels fall to <5.5 mEq/L 2.2 Hypertension The recommended starting dose of INSPRA is 50 mg administered once daily. The full therapeutic effect of INSPRA is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of INSPRA to 50 mg twice daily. Higher dosages of INSPRA are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see Clinical Studies (14.2) ] . 2.3 Recommended Monitoring Measure serum potassium before initiating INSPRA therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3-7 days of a patient initiating a moderate CYP3A inhibitor ACE inhibitors, angiotensin II blockers or nonsteroidal anti-inflammatories. 2.4 Dose Modification for Use with Moderate CYP3A Inhibitors In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily. In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see Drug Interactions (7.1) ] ."
+    },
+    {
+      "generic": [
+        "EPLERENONE"
+      ],
+      "brand": [
+        "Eplerenone"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "2002cf90-2d4a-43b1-bcd6-c447cbc7010f",
+      "effective_time": "20240528",
+      "dosage": "2 DOSAGE AND ADMINISTRATION HFrEF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. ( 2.1 ) Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting eplerenone tablets and periodically thereafter. ( 2.3 ) 2.1 Heart Failure Post-Myocardial Infarction Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. Once treatment with eplerenone has begun, adjust the dose based on the serum potassium level as shown in Table 1. Table 1. Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment less than 5.0 25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily 5.0 to 5.4 No adjustment 5.5 to 5.9 50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold greater than or equal to 6.0 Withhold and restart at 25 mg every other day when potassium levels fall to less than 5.5 mEq/L 2.2 Hypertension The recommended starting dose of eplerenone tablet is 50 mg administered once daily. The full therapeutic effect of eplerenone is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of eplerenone tablets to 50 mg twice daily. Higher dosages of eplerenone are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see CLINICAL STUDIES (14.2) ]. 2.3 Recommended Monitoring Measure serum potassium before initiating eplerenone therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3 to 7 days of a patient initiating a moderate CYP3A inhibitor ACE inhibitors, angiotensin-II blockers or non-steroidal-anti-inflammatories. 2.4 Dose Modifications for Use with Moderate CYP3A Inhibitors In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily. In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see DRUG INTERACTIONS (7.1) ]."
+    },
+    {
+      "generic": [
+        "EPLERENONE"
+      ],
+      "brand": [
+        "EPLERENONE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "25a1c77c-7008-4b07-af14-5522a282783a",
+      "effective_time": "20230615",
+      "dosage": "2 DOSAGE AND ADMINISTRATION HFrEF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. ( 2.1 ) Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting eplerenone tablets and periodically thereafter. ( 2.3 ) 2.1 Heart Failure Post-Myocardial Infarction Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. Once treatment with eplerenone tablets has begun, adjust the dose based on the serum potassium level as shown in Table 1. Table 1. Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment <5.0 25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily 5.0 to 5.4 No adjustment 5.5 to 5.9 50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold ≥6.0 Withhold and restart at 25 mg every other day when potassium levels fall to <5.5 mEq/L 2.2 Hypertension The recommended starting dose of eplerenone tablets is 50 mg administered once daily. The full therapeutic effect of eplerenone tablets is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of eplerenone tablets to 50 mg twice daily. Higher dosages of eplerenone tablets are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see Clinical Studies ( 14.2 )]. 2.3 Recommended Monitoring Measure serum potassium before initiating eplerenone tablets therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3 to 7 days of a patient initating a moderate CYP3A inhibitor ACE inhibitors, angiotensin-II blockers or non-steroidal-anti-inflammatories. 2.4 Dose Modification for Use with Moderate CYP3A Inhibitors In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily. In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see Drug Interactions ( 7.1 )]."
+    },
+    {
+      "generic": [
+        "EPLERENONE"
+      ],
+      "brand": [
+        "Eplerenone"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "316d3a98-4cd1-4499-a34c-cac87e016944",
+      "effective_time": "20211115",
+      "dosage": "2 DOSAGE AND ADMINISTRATION HFrEF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. ( 2.1 ) Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting eplerenone tablets and periodically thereafter. ( 2.3 ) 2.1 Heart Failure Post-Myocardial Infarction Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. Once treatment with eplerenone has begun, adjust the dose based on the serum potassium level as shown in Table 1. Table 1. Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment less than 5.0 25 mg every other day to 25 mg once daily 25 mg once daily to 50 mg once daily 5.0 to 5.4 No adjustment 5.5 to 5.9 50 mg once daily to 25 mg once daily 25 mg once daily to 25 mg every other day 25 mg every other day to withhold greater than or equal to 6.0 Withhold and restart at 25 mg every other day when potassium levels fall to less than 5.5 mEq/L 2.2 Hypertension The recommended starting dose of eplerenone tablet is 50 mg administered once daily. The full therapeutic effect of eplerenone is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of eplerenone tablets to 50 mg twice daily. Higher dosages of eplerenone are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see CLINICAL STUDIES (14.2) ]. 2.3 Recommended Monitoring Measure serum potassium before initiating eplerenone therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3 to 7 days of a patient initiating a moderate CYP3A inhibitor ACE inhibitors, angiotensin-II blockers or non-steroidal-anti-inflammatories. 2.4 Dose Modifications for Use with Moderate CYP3A Inhibitors In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily. In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see DRUG INTERACTIONS (7.1) ]."
+    },
+    {
+      "generic": [
+        "EPLERENONE"
+      ],
+      "brand": [
+        "EPLERENONE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "3a3047f2-0155-4a07-955f-839a312cf879",
+      "effective_time": "20260828",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Hypertension: 50 mg once daily, For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. ( 2.2 ) For all patients: Measure serum potassium before starting Eplerenone Tablets and periodically thereafter. ( 2.3 ) 2.2 Hypertension The recommended starting dose of Eplerenone Tablets is 50 mg administered once daily. The full therapeutic effect of Eplerenone Tablets is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of eplerenone tablets to 50 mg twice daily. Higher dosages of Eplerenone Tablets are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia [see Clinical Studies (14.2) ]. 2.3 Recommended Monitoring Measure serum potassium before initiating eplerenone tablets therapy, within the first week, and at one month after the start of treatment or dose adjustment. Assess serum potassium periodically thereafter. Check serum potassium and serum creatinine within 3-7 days of a patient initiating a moderate CYP3A inhibitor, angiotensin-II blockers or non-steroidal-anti-inflammatories. 2.4 Dose Modification for Use with Moderate CYP3A Inhibitors In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily. For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily [see Drug Interactions (7.1) ]."
+    }
+  ]
+}

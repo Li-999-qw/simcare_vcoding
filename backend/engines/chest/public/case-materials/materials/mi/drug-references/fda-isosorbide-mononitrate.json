@@ -1,0 +1,76 @@
+{
+  "query": "isosorbide mononitrate",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22isosorbide%20mononitrate%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "brand": [
+        "Isosorbide Mononitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "06839534-85b8-42aa-b0e3-079ed236be44",
+      "effective_time": "20260327",
+      "dosage": "DOSAGE AND ADMINISTRATION The recommended regimen of isosorbide mononitrate tablets is 20 mg twice daily, with the doses seven hours apart. A starting dose of 5 mg (½ tablet of the 10 mg dosing strength) might be appropriate for persons of particularly small stature but should be increased to at least 10 mg by the second or third day of therapy. Dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. As noted above ( CLINICAL PHARMACOLOGY ), multiple studies of organic nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. The asymmetric (2 doses, 7 hours apart) dosing regimen for isosorbide mononitrate tablets provides a daily nitrate-free interval to minimize the development of tolerance. As also noted under CLINICAL PHARMACOLOGY , well-controlled studies have shown that tolerance to isosorbide mononitrate tablets occurs to some extent when using the twice-daily regimen in which the two doses are given seven hours apart. This regimen has been shown to have antianginal efficacy beginning one hour after the first dose and lasting at least seven hours after the second dose. The duration (if any) of antianginal activity beyond fourteen hours has not been studied. In clinical trials, isosorbide mononitrate has been administered in a variety of regimens and doses. Doses above 20 mg twice a day (with the doses seven hours apart) have not been adequately studied. Doses of 5 mg twice a day are clearly effective (effectiveness based on exercise tolerance) for only the first day of a twice-a-day (with doses 7 hours apart) regimen."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "brand": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0a1e317a-7b05-4d30-9bbc-1d4ccd56ba3c",
+      "effective_time": "20260511",
+      "dosage": "DOSAGE AND ADMINISTRATION The recommended starting dose of isosorbide mononitrate extended-release tablets is 30 mg (given as a single 30 mg tablet or as 1/2 of a 60 mg tablet) or 60 mg (given as a single tablet) once daily. After several days, the dosage may be increased to 120 mg (given as a single 120 mg tablet or as two 60 mg tablets) once daily. Rarely, 240 mg may be required. The daily dose of isosorbide mononitrate extended-release tablets should be taken in the morning on arising. Isosorbide mononitrate extended-release tablets should not be chewed or crushed and should be swallowed together with a half-glassful of fluid."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "brand": [
+        "Isosorbide Mononitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0af6c67f-919d-4515-8074-f6c3aaa835b5",
+      "effective_time": "20240206",
+      "dosage": "DOSAGE AND ADMINISTRATION The recommended starting dose of Isosorbide Mononitrate Extended-Release Tablets, USP is 30 mg (given as a single 30 mg tablet or as 1/2 of a 60 mg tablet) or 60 mg (given as a single tablet) once daily. After several days, the dosage may be increased to 120 mg (given as a single 120 mg tablet or as two 60 mg tablets) once daily. Rarely, 240 mg may be required. The daily dose of Isosorbide Mononitrate Extended-Release Tablets, USP should be taken in the morning on arising. Isosorbide Mononitrate Extended-Release Tablets, USP should not be chewed or crushed and should be swallowed together with a half-glassful of fluid."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "brand": [
+        "Isosorbide Mononitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0d739bf3-0672-4504-9064-b39d6b200b47",
+      "effective_time": "20260409",
+      "dosage": "DOSAGE AND ADMINISTRATION The recommended regimen of isosorbide mononitrate tablets is 20 mg twice daily, with the doses seven hours apart. A starting dose of 5 mg (½ tablet of the 10 mg dosing strength) might be appropriate for persons of particularly small stature but should be increased to at least 10 mg by the second or third day of therapy. Dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. As noted above ( CLINICAL PHARMACOLOGY ), multiple studies of organic nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. The asymmetric (2 doses, 7 hours apart) dosing regimen for isosorbide mononitrate tablets provides a daily nitrate-free interval to minimize the development of tolerance. As also noted under CLINICAL PHARMACOLOGY , well-controlled studies have shown that tolerance to isosorbide mononitrate tablets occurs to some extent when using the twice-daily regimen in which the two doses are given seven hours apart. This regimen has been shown to have antianginal efficacy beginning one hour after the first dose and lasting at least seven hours after the second dose. The duration (if any) of antianginal activity beyond fourteen hours has not been studied. In clinical trials, isosorbide mononitrate has been administered in a variety of regimens and doses. Doses above 20 mg twice-a-day (with the doses seven hours apart) have not been adequately studied. Doses of 5 mg twice-a-day are clearly effective (effectiveness based on exercise tolerance) for only the first day of a twice-a-day (with doses 7 hours apart) regimen."
+    },
+    {
+      "generic": [
+        "ISOSORBIDE MONONITRATE"
+      ],
+      "brand": [
+        "Isosorbide Mononitrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0e3c4461-2e04-481f-a9e5-29f21cc71ec5",
+      "effective_time": "20250606",
+      "dosage": "DOSAGE & ADMINISTRATION The recommended starting dose of Isosorbide Mononitrate Extended-Release Tablets, USP is 30 mg (given as a single 30 mg tablet or as 1/2 of a 60 mg tablet) or 60 mg (given as a single tablet) once daily. After several days, the dosage may be increased to 120 mg (given as a single 120 mg tablet or as two 60 mg tablets) once daily. Rarely, 240 mg may be required. The daily dose of Isosorbide Mononitrate Extended-Release Tablets, USP should be taken in the morning on arising. Isosorbide Mononitrate Extended-Release Tablets, USP should not be chewed or crushed and should be swallowed together with a half-glassful of fluid. Do not break the 30 mg tablet."
+    }
+  ]
+}

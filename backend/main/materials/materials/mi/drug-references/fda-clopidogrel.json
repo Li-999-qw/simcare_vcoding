@@ -1,0 +1,76 @@
+{
+  "query": "clopidogrel",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22clopidogrel%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "CLOPIDOGREL BISULFATE"
+      ],
+      "brand": [
+        "Clopidogrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0078fb3d-3595-4ae1-a059-1d5e81c879cf",
+      "effective_time": "20240517",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) – Initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. – Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days. Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology (12.3) and Clinical Studies (14.1) ] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.2) ] ."
+    },
+    {
+      "generic": [
+        "CLOPIDOGREL"
+      ],
+      "brand": [
+        "Clopidogrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "02f0eaf8-0fc2-425d-8259-cef00156e25d",
+      "effective_time": "20241031",
+      "dosage": "2 DOSAGE & ADMINISTRATION • Acute coronary syndrome ( 2.1 ) - Initiate clopidogrel with a single 300 mg oral loading dose and then continue at 75 mg once daily. - Initiating clopidogrel without a loading dose will delay establishment of an antiplatelet effect by several days. • Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel without a loading dose will delay establishment of an antiplatelet effect by several days [ see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.1 ) ]. 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [ see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.2 ) ]."
+    },
+    {
+      "generic": [
+        "CLOPIDOGREL BISULFATE"
+      ],
+      "brand": [
+        "Clopidogrel Bisulfate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "03bec9ad-cd22-44d3-9b82-2796157de1d1",
+      "effective_time": "20250227",
+      "dosage": "2 DOSAGE AND ADMINISTRATION ● Acute coronary syndrome ( 2.1 ) – Initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. – Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days. ● Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.1 )] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.2 )] ."
+    },
+    {
+      "generic": [
+        "CLOPIDOGREL"
+      ],
+      "brand": [
+        "Clopidogrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "063cd1eb-98fd-422e-8145-bba04c497efe",
+      "effective_time": "20240320",
+      "dosage": "2 DOSAGE & ADMINISTRATION • Acute coronary syndrome ( 2.1 ) - Initiate clopidogrel with a single 300 mg oral loading dose and then continue at 75 mg once daily. - Initiating clopidogrel without a loading dose will delay establishment of an antiplatelet effect by several days. • Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel without a loading dose will delay establishment of an antiplatelet effect by several days [ see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.1 ) ]. 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [ see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14.2 ) ]."
+    },
+    {
+      "generic": [
+        "CLOPIDOGREL"
+      ],
+      "brand": [
+        "Clopidogrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0d010775-1160-4b2e-a928-563a02edd191",
+      "effective_time": "20250723",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) Initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days. Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology (12.3) and Clinical Studies (14.1) ] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.2) ] ."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "query": "spironolactone",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22spironolactone%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "SPIRONOLACTONE"
+      ],
+      "brand": [
+        "Spironolactone"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "08738ad4-1607-4d55-af71-6790477353bd",
+      "effective_time": "20251119",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). Hypertension: Initiate treatment at 25 to 100 mg daily in either single or divided doses ( 2.3 ). Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). Primary hyperaldosteronism: Initiate treatment at 100 to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations Spironolactone can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology (12.3) ] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5.0 mEq/L and eGFR >50 mL/min/1.73 m², initiate treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [see Warnings and Precautions (5.1) ] . In patients with an eGFR between 30 and 50 mL/min/1.73 m 2 , consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations (8.6) ]. 2.3 Treatment of Essential Hypertension The recommended initial daily dose is 25 to 100 mg of spironolactone administered in either single or divided doses is recommended. Dosage can be titrated at two-week intervals. Doses greater than 100 mg/day generally do not provide additional reductions in blood pressure. 2.4 Treatment of Edema In patients with cirrhosis, initiate therapy in a hospital setting and titrate slowly [see Use in Specific Populations (8.7) ] . The recommended initial daily dosage is 100 mg of spironolactone administered in either single or divided doses, but may range from 25 to 200 mg daily. When given as the sole agent for diuresis, administer for at least five days before increasing dose to obtain desired effect. 2.5 Treatment of Primary Hyperaldosteronism Administer spironolactone in doses of 100 to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, spironolactone can be used as long-term maintenance therapy at the lowest effective dosage determined for the individual patient."
+    },
+    {
+      "generic": [
+        "SPIRONOLACTONE"
+      ],
+      "brand": [
+        "spironolactone"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0c45d793-6f2f-4622-b5ed-6875acfbc02b",
+      "effective_time": "20251229",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). • Hypertension: Initiate treatment at 25 mg to 100 mg daily in either single or divided doses ( 2.3 ). • Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). • Primary hyperaldosteronism: Initiate treatment at 100 mg to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations Spironolactone can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology ( 12.3 )] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5.0 mEq/L and eGFR >50 mL/min/1.73 m 2 , initiate treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [see Warnings and Precautions ( 5.1 )] . In patients with an eGFR between 30 and 50 mL/min/1.73 m 2 , consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations ( 8.6 )]. 2.3 Treatment of Essential Hypertension The recommended initial daily dose is 25 mg to 100 mg of spironolactone administered in either single or divided doses is recommended. Dosage can be titrated at two-week intervals. Doses greater than 100 mg/day generally do not provide additional reductions in blood pressure. 2.4 Treatment of Edema In patients with cirrhosis, initiate therapy in a hospital setting and titrate slowly [see Use in Specific Populations ( 8.7 )] . The recommended initial daily dosage is 100 mg of spironolactone administered in either single or divided doses, but may range from 25 mg to 200 mg daily. When given as the sole agent for diuresis, administer for at least five days before increasing dose to obtain desired effect. 2.5 Treatment of Primary Hyperaldosteronism Administer spironolactone in doses of 100 mg to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, spironolactone can be used as long-term maintenance therapy at the lowest effective dosage determined for the individual patient."
+    },
+    {
+      "generic": [
+        "SPIRONOLACTONE AND HYDROCHLOROTHIAZIDE"
+      ],
+      "brand": [
+        "Spironolactone and Hydrochlorothiazide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0c8c973f-13a2-4883-8316-4006398e2931",
+      "effective_time": "20260311",
+      "dosage": "DOSAGE AND ADMINISTRATION Optimal dosage should be established by individual titration of the components. Edema in adults ( congestive heart failure, hepatic cirrhosis, or nephrotic syndrome) The usual maintenance dose of spironolactone and hydrochlorothiazide tablets is 100 mg each of spironolactone and hydrochlorothiazide daily, administered in a single dose or in divided doses, but may range from 25 mg to 200 mg of each component daily depending on the response to the initial titration. In some instances it may be desirable to administer separate tablets of either spironolactone or hydrochlorothiazide in addition to spironolactone and hydrochlorothiazide tablets in order to provide optimal individual therapy. The onset of diuresis with spironolactone and hydrochlorothiazide tablets occurs promptly and, due to prolonged effect of the spironolactone component, persists for two to three days after spironolactone and hydrochlorothiazide tablets are discontinued. Essential hypertension Although the dosage will vary depending on the results of titration of the individual ingredients, many patients will be found to have an optimal response to 50 mg to 100 mg each of spironolactone and hydrochlorothiazide daily, given in a single dose or in divided doses. Concurrent potassium supplementation is not recommended when spironolactone and hydrochlorothiazide tablets are used in the long-term management of hypertension or in the treatment of most edematous conditions, since the spironolactone content of spironolactone and hydrochlorothiazide tablets is usually sufficient to minimize loss induced by the hydrochlorothiazide component."
+    },
+    {
+      "generic": [
+        "SPIRONOLACTONE"
+      ],
+      "brand": [
+        "SPIRONOLACTONE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0cc23419-e6d5-4036-8011-dc1d2455e0cb",
+      "effective_time": "20260909",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). Hypertension: Initiate treatment at 25 to 100 mg daily in either single or divided doses ( 2.3 ). Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). Primary hyperaldosteronism: Initiate treatment at 100 to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations Spironolactone tablets can be taken with or without food, but should be taken consistently with respect to food [ see Clinical Pharmacology (12.3) ] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5 mEq/L and eGFR >50 mL/min/1.73 m², initiate treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [ see Warnings and Precautions (5.1) ] . In patients with an eGFR between 30 and 50 mL/min/1.73 m 2 , consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [ see Use in Specific Populations (8.6 ) ]. 2.3 Treatment of Essential Hypertension The recommended initial daily dose is 25 to 100 mg of spironolactone tablets administered in either single or divided doses is recommended. Dosage can be titrated at two-week intervals. Doses greater than 100 mg/day generally do not provide additional reductions in blood pressure. 2.4 Treatment of Edema In patients with cirrhosis, initiate therapy in a hospital setting and titrate slowly [ see Use in Specific Populations (8.7) ] . The recommended initial daily dosage is 100 mg of spironolactone tablets administered in either single or divided doses, but may range from 25 to 200 mg daily. When given as the sole agent for diuresis, administer for at least five days before increasing dose to obtain desired effect. 2.5 Treatment of Primary Hyperaldosteronism Administer spironolactone tablets in doses of 100 to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, spironolactone tablets can be used as long-term maintenance therapy at the lowest effective dosage determined for the individual patient."
+    },
+    {
+      "generic": [
+        "SPIRONOLACTONE"
+      ],
+      "brand": [
+        "Aldactone"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+      "effective_time": "20251128",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). • Hypertension: Initiate treatment at 25 to 100 mg daily in either single or divided doses ( 2.3 ). • Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). • Primary hyperaldosteronism: Initiate treatment at 100 to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations ALDACTONE can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology (12.3) ] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5.0 mEq/L and eGFR >50 mL/min/1.73 m 2 , initiate treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [see Warnings and Precautions (5.1) ] . In patients with an eGFR between 30 and 50 mL/min/1.73 m 2 , consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations (8.6) ]. 2.3 Treatment of Essential Hypertension The recommended initial daily dose is 25 to 100 mg of ALDACTONE administered in either single or divided doses is recommended. Dosage can be titrated at two-week intervals. Doses greater than 100 mg/day generally do not provide additional reductions in blood pressure. 2.4 Treatment of Edema In patients with cirrhosis, initiate therapy in a hospital setting and titrate slowly [see Use in Specific Populations (8.7) ] . The recommended initial daily dosage is 100 mg of ALDACTONE administered in either single or divided doses, but may range from 25 to 200 mg daily. When given as the sole agent for diuresis, administer for at least five days before increasing dose to obtain desired effect. 2.5 Treatment of Primary Hyperaldosteronism Administer ALDACTONE in doses of 100 to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, ALDACTONE can be used as long-term maintenance therapy at the lowest effective dosage determined for the individual patient."
+    }
+  ]
+}

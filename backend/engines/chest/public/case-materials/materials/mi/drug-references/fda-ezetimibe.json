@@ -1,0 +1,76 @@
+{
+  "query": "ezetimibe",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22ezetimibe%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "EZETIMIBE AND SIMVASTATIN"
+      ],
+      "brand": [
+        "Ezetimibe and Simvastatin"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "023ca87a-1b04-8c17-dc4f-e2758b0771e2",
+      "effective_time": "20250718",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • Dose range is 10 mg/10 mg/day to 10 mg/40 mg/day. ( 2.1 ) • Recommended usual starting dose is 10 mg/10 mg or 10 mg/20 mg/day. ( 2.1 ) • Due to the increased risk of myopathy, including rhabdomyolysis, use of the 10 mg/80 mg dose of ezetimibe and simvastatin tablets should be restricted to patients who have been taking ezetimibe and simvastatin tablets 10 mg/80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity. ( 2.2 ) • Patients who are currently tolerating the 10 mg/80 mg dose of ezetimibe and simvastatin tablets who need to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin should be switched to an alternative statin or statin-based regimen with less potential for the drug-drug interaction. ( 2.2 ) • Due to the increased risk of myopathy, including rhabdomyolysis, associated with the 10 mg/80 mg dose of ezetimibe and simvastatin tablets, patients unable to achieve their LDL-C goal utilizing the 10 mg/40 mg dose of ezetimibe and simvastatin tablets should not be titrated to the 10 mg/80 mg dose, but should be placed on alternative LDL-C-lowering treatment(s) that provides greater LDL-C lowering. ( 2.2 ) • Dosing of ezetimibe and simvastatin tablets should occur either ≥ 2 hours before or ≥ 4 hours after administration of a bile acid sequestrant. ( 2.3 , 7.5 ) 2.1 Recommended Dosing The usual dosage range is 10 mg/10 mg/day to 10 mg/40 mg/day. The recommended usual starting dose is 10 mg/10 mg/day or 10 mg/20 mg/day. Ezetimibe and simvastatin tablets should be taken as a single daily dose in the evening, with or without food. Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10 mg/40 mg/day in the absence of moderate to severe renal impairment (estimated glomerular filtration rate less than 60 mL/min/1.73 m 2 ). After initiation or titration of ezetimibe and simvastatin tablets, lipid levels may be analyzed after 2 or more weeks and dosage adjusted, if needed. 2.2 Restricted Dosing for 10 mg/80 mg Due to the increased risk of myopathy, including rhabdomyolysis, particularly during the first year of treatment, use of the 10 mg/80 mg dose of ezetimibe and simvastatin tablets should be restricted to patients who have been taking ezetimibe and simvastatin tablets 10 mg/80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity [ see Warnings and Precautions ( 5.1 ) ]. Patients who are currently tolerating the 10 mg/80 mg dose of ezetimibe and simvastatin tablets who need to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin should be switched to an alternative statin or statin-based regimen with less potential for the drug-drug interaction. Due to the increased risk of myopathy, including rhabdomyolysis, associated with the 10 mg/80 mg dose of ezetimibe and simvastatin tablets, patients unable to achieve their LDL-C goal utilizing the 10 mg/40 mg dose of ezetimibe and simvastatin tablets should not be titrated to the 10 mg/80 mg dose, but should be placed on alternative LDL-C-lowering treatment(s) that provides greater LDL-C lowering. 2.3 Coadministration with Other Drugs Patients taking Verapamil, Diltiazem, or Dronedarone • The dose of ezetimibe and simvastatin tablets should not exceed 10 mg/10 mg/day [ see Warnings and Precautions ( 5.1 ), Drug Interactions ( 7.3 ), and Clinical Pharmacology ( 12.3 ) ]. Patients taking Amiodarone, Amlodipine or Ranolazine • The dose of ezetimibe and simvastatin tablets should not exceed 10 mg/20 mg/day [ see Warnings and Precautions ( 5.1 ), Drug Interactions ( 7.3 ), and Clinical Pharmacology ( 12.3 ) ]. Patients taking Bile Acid Sequestrants • Dosing of ezetimibe and simvastatin tablets should occur either greater than or equal to 2 hours before or greater than or equal to 4 hours after administration of a bile acid sequestrant [ see Drug Interactions ( 7.5 ) ]. 2.4 Patients with Homozygous Familial Hypercholesterolemia The recommended dosage for patients with homozygous familial hypercholesterolemia is ezetimibe and simvastatin tablets 10 mg/40 mg/day in the evening [ see Dosage and Administration, Restricted Dosing for 10 mg/80 mg ( 2.2 ) ]. Ezetimibe and simvastatin tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable. Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of ezetimibe and simvastatin tablets should be reduced by 50% if initiating lomitapide. Ezetimibe and simvastatin tablet dosage should not exceed 10 mg/20 mg/day (or 10 mg/40 mg/day for patients who have previously taken simvastatin 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide. 2.5 Patients with Renal Impairment/Chronic Kidney Disease In patients with mild renal impairment (estimated GFR greater than or equal to 60 mL/min/1.73 m 2 ), no dosage adjustment is necessary. In patients with chronic kidney disease and estimated glomerular filtration rate less than 60 mL/min/1.73 m 2 , the dose of ezetimibe and simvastatin tablets is 10 mg/20 mg/day in the evening. In such patients, higher doses should be used with caution and close monitoring [ see Warnings and Precautions ( 5.1 ); Clinical Pharmacology ( 12.3 ) ]. 2.6 Geriatric Patients No dosage adjustment is necessary in geriatric patients [ see Clinical Pharmacology ( 12.3 ) ]."
+    },
+    {
+      "generic": [
+        "EZETIMIBE"
+      ],
+      "brand": [
+        "EZETIMIBE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "02b00cb2-7253-4fb4-a216-53691a929a28",
+      "effective_time": "20260217",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • The recommended dose of ezetimibe tablets is 10 mg orally once daily, administered with or without food. • If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. • Administer ezetimibe tablets at least 2 hours before or 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7) ]. • 10 mg orally once daily, with or without food ( 2 ) • Administer ezetimibe tablets either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant. ( 2 ) • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. ( 2 )"
+    },
+    {
+      "generic": [
+        "EZETIMIBE"
+      ],
+      "brand": [
+        "Ezetimibe"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "03609879-bad2-4e75-83fe-1e1a2fd300c3",
+      "effective_time": "20240403",
+      "dosage": "2 DOSAGE AND ADMINISTRATION • The recommended dose of ezetimibe is 10 mg orally once daily, administered with or without food. • If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe. • In patients taking a bile acid sequestrant, administer ezetimibe at least 2 hours before or 4 hours after the bile acid sequestrant [see Drug Interactions ( 7 )] . • 10-mg orally once daily, with or without food ( 2 ) • Administer ezetimibe either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant. ( 2 ) • Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe. ( 2 )"
+    },
+    {
+      "generic": [
+        "EZETIMIBE"
+      ],
+      "brand": [
+        "Ezetimibe"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "090776cf-f211-49a3-a993-ff5d707311f2",
+      "effective_time": "20260706",
+      "dosage": "2 DOSAGE AND ADMINISTRATION The recommended dose of ezetimibe tablets is 10 mg orally once daily, administered with or without food. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. Administer ezetimibe tablets at least 2 hours before or 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7) ] . 10-mg orally once daily, with or without food ( 2 ) Administer ezetimibe tablets either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant. ( 2 ) Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. ( 2 )"
+    },
+    {
+      "generic": [
+        "EZETIMIBE"
+      ],
+      "brand": [
+        "Ezetimibe"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0e9a9eda-1b2a-4475-8483-0f410a17c524",
+      "effective_time": "20251014",
+      "dosage": "2 DOSAGE AND ADMINISTRATION The recommended dose of ezetimibe tablets is 10 mg orally once daily, administered with or without food. If as dose is missed, take the missed dose as soon as possible. Do not double the next dose. Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. Administer ezetimibe tablets at least 2 hours before or 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7) ]. 10-mg orally once daily, with or without food (2) Administer ezetimibe tablets either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant. (2) Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ezetimibe tablets. (2)"
+    }
+  ]
+}

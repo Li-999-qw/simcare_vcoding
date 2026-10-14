@@ -1,0 +1,1038 @@
+{
+  "source": "build_case_pdf.py · Expert review version v1.0，Synthetic teaching material",
+  "labs": [
+    {
+      "title": "Hematology laboratory report",
+      "number": "SIM-CBC-0901",
+      "sample": "EDTA Anticoagulated whole blood",
+      "collected": "09-01 09:28",
+      "received": "09:32",
+      "reported": "09:45",
+      "rows": [
+        [
+          "White blood cell count WBC",
+          12.6,
+          "×10⁹/L",
+          3.5,
+          9.5,
+          "3.5 - 9.5"
+        ],
+        [
+          "Neutrophil percentage",
+          82,
+          "%",
+          40,
+          75,
+          "40 - 75"
+        ],
+        [
+          "Lymphocyte percentage",
+          11,
+          "%",
+          20,
+          50,
+          "20 - 50"
+        ],
+        [
+          "Monocyte percentage",
+          6,
+          "%",
+          3,
+          10,
+          "3 - 10"
+        ],
+        [
+          "Eosinophil percentage",
+          0.5,
+          "%",
+          0.4,
+          8,
+          "0.4 - 8"
+        ],
+        [
+          "Basophil percentage",
+          0.5,
+          "%",
+          0,
+          1,
+          "0 - 1"
+        ],
+        [
+          "Neutrophil count",
+          10.33,
+          "×10⁹/L",
+          1.8,
+          6.3,
+          "1.8 - 6.3"
+        ],
+        [
+          "Lymphocyte count",
+          1.39,
+          "×10⁹/L",
+          1.1,
+          3.2,
+          "1.1 - 3.2"
+        ],
+        [
+          "Monocyte count",
+          0.76,
+          "×10⁹/L",
+          0.1,
+          0.6,
+          "0.1 - 0.6"
+        ],
+        [
+          "Eosinophil count",
+          0.06,
+          "×10⁹/L",
+          0.02,
+          0.52,
+          "0.02 - 0.52"
+        ],
+        [
+          "Basophil count",
+          0.06,
+          "×10⁹/L",
+          0,
+          0.06,
+          "0 - 0.06"
+        ],
+        [
+          "Red blood cell count RBC",
+          4.9,
+          "×10¹²/L",
+          4.3,
+          5.8,
+          "4.3 - 5.8"
+        ],
+        [
+          "Hemoglobin Hb",
+          148,
+          "g/L",
+          130,
+          175,
+          "130 - 175"
+        ],
+        [
+          "Hematocrit HCT",
+          44.1,
+          "%",
+          40,
+          50,
+          "40 - 50"
+        ],
+        [
+          "Mean corpuscular volume MCV",
+          90.0,
+          "fL",
+          82,
+          100,
+          "82 - 100"
+        ],
+        [
+          "Mean corpuscular hemoglobin MCH",
+          30.2,
+          "pg",
+          27,
+          34,
+          "27 - 34"
+        ],
+        [
+          "Average Hb Concentration MCHC",
+          336,
+          "g/L",
+          316,
+          354,
+          "316 - 354"
+        ],
+        [
+          "Red cell distribution width RDW-CV",
+          12.8,
+          "%",
+          11.5,
+          14.5,
+          "11.5 - 14.5"
+        ],
+        [
+          "Platelet count PLT",
+          236,
+          "×10⁹/L",
+          125,
+          350,
+          "125 - 350"
+        ],
+        [
+          "Mean platelet volume MPV",
+          10.2,
+          "fL",
+          7,
+          13,
+          "7 - 13"
+        ]
+      ],
+      "note": "The newly added differential counts and red cell indices are supplementary synthetic data for this edition, consistent with the existing WBC/Hb/PLT values."
+    },
+    {
+      "title": "Hematology laboratory report",
+      "number": "SIM-CBC-0903",
+      "sample": "EDTA Anticoagulated whole blood",
+      "collected": "09-03 06:00",
+      "received": "06:12",
+      "reported": "06:40",
+      "rows": [
+        [
+          "White blood cell count WBC",
+          9.4,
+          "×10⁹/L",
+          3.5,
+          9.5,
+          "3.5 - 9.5"
+        ],
+        [
+          "Neutrophil percentage",
+          71,
+          "%",
+          40,
+          75,
+          "40 - 75"
+        ],
+        [
+          "Lymphocyte percentage",
+          20,
+          "%",
+          20,
+          50,
+          "20 - 50"
+        ],
+        [
+          "Monocyte percentage",
+          7,
+          "%",
+          3,
+          10,
+          "3 - 10"
+        ],
+        [
+          "Eosinophil percentage",
+          1.5,
+          "%",
+          0.4,
+          8,
+          "0.4 - 8"
+        ],
+        [
+          "Basophil percentage",
+          0.5,
+          "%",
+          0,
+          1,
+          "0 - 1"
+        ],
+        [
+          "Neutrophil count",
+          6.67,
+          "×10⁹/L",
+          1.8,
+          6.3,
+          "1.8 - 6.3"
+        ],
+        [
+          "Lymphocyte count",
+          1.88,
+          "×10⁹/L",
+          1.1,
+          3.2,
+          "1.1 - 3.2"
+        ],
+        [
+          "Monocyte count",
+          0.66,
+          "×10⁹/L",
+          0.1,
+          0.6,
+          "0.1 - 0.6"
+        ],
+        [
+          "Eosinophil count",
+          0.14,
+          "×10⁹/L",
+          0.02,
+          0.52,
+          "0.02 - 0.52"
+        ],
+        [
+          "Basophil count",
+          0.05,
+          "×10⁹/L",
+          0,
+          0.06,
+          "0 - 0.06"
+        ],
+        [
+          "Red blood cell count RBC",
+          4.75,
+          "×10¹²/L",
+          4.3,
+          5.8,
+          "4.3 - 5.8"
+        ],
+        [
+          "Hemoglobin Hb",
+          143,
+          "g/L",
+          130,
+          175,
+          "130 - 175"
+        ],
+        [
+          "Hematocrit HCT",
+          42.8,
+          "%",
+          40,
+          50,
+          "40 - 50"
+        ],
+        [
+          "Mean corpuscular volume MCV",
+          90.1,
+          "fL",
+          82,
+          100,
+          "82 - 100"
+        ],
+        [
+          "Mean corpuscular hemoglobin MCH",
+          30.1,
+          "pg",
+          27,
+          34,
+          "27 - 34"
+        ],
+        [
+          "Average Hb Concentration MCHC",
+          334,
+          "g/L",
+          316,
+          354,
+          "316 - 354"
+        ],
+        [
+          "Red cell distribution width RDW-CV",
+          12.9,
+          "%",
+          11.5,
+          14.5,
+          "11.5 - 14.5"
+        ],
+        [
+          "Platelet count PLT",
+          221,
+          "×10⁹/L",
+          125,
+          350,
+          "125 - 350"
+        ],
+        [
+          "Mean platelet volume MPV",
+          10.1,
+          "fL",
+          7,
+          13,
+          "7 - 13"
+        ]
+      ],
+      "note": "The newly added differential counts and red cell indices are supplementary synthetic data for this edition, consistent with the existing WBC/Hb/PLT values."
+    },
+    {
+      "title": "Hematology laboratory report",
+      "number": "SIM-CBC-0906",
+      "sample": "EDTA Anticoagulated whole blood",
+      "collected": "09-06 06:00",
+      "received": "06:12",
+      "reported": "06:40",
+      "rows": [
+        [
+          "White blood cell count WBC",
+          7.2,
+          "×10⁹/L",
+          3.5,
+          9.5,
+          "3.5 - 9.5"
+        ],
+        [
+          "Neutrophil percentage",
+          63,
+          "%",
+          40,
+          75,
+          "40 - 75"
+        ],
+        [
+          "Lymphocyte percentage",
+          27,
+          "%",
+          20,
+          50,
+          "20 - 50"
+        ],
+        [
+          "Monocyte percentage",
+          7,
+          "%",
+          3,
+          10,
+          "3 - 10"
+        ],
+        [
+          "Eosinophil percentage",
+          2.5,
+          "%",
+          0.4,
+          8,
+          "0.4 - 8"
+        ],
+        [
+          "Basophil percentage",
+          0.5,
+          "%",
+          0,
+          1,
+          "0 - 1"
+        ],
+        [
+          "Neutrophil count",
+          4.54,
+          "×10⁹/L",
+          1.8,
+          6.3,
+          "1.8 - 6.3"
+        ],
+        [
+          "Lymphocyte count",
+          1.94,
+          "×10⁹/L",
+          1.1,
+          3.2,
+          "1.1 - 3.2"
+        ],
+        [
+          "Monocyte count",
+          0.5,
+          "×10⁹/L",
+          0.1,
+          0.6,
+          "0.1 - 0.6"
+        ],
+        [
+          "Eosinophil count",
+          0.18,
+          "×10⁹/L",
+          0.02,
+          0.52,
+          "0.02 - 0.52"
+        ],
+        [
+          "Basophil count",
+          0.04,
+          "×10⁹/L",
+          0,
+          0.06,
+          "0 - 0.06"
+        ],
+        [
+          "Red blood cell count RBC",
+          4.81,
+          "×10¹²/L",
+          4.3,
+          5.8,
+          "4.3 - 5.8"
+        ],
+        [
+          "Hemoglobin Hb",
+          145,
+          "g/L",
+          130,
+          175,
+          "130 - 175"
+        ],
+        [
+          "Hematocrit HCT",
+          43.5,
+          "%",
+          40,
+          50,
+          "40 - 50"
+        ],
+        [
+          "Mean corpuscular volume MCV",
+          90.4,
+          "fL",
+          82,
+          100,
+          "82 - 100"
+        ],
+        [
+          "Mean corpuscular hemoglobin MCH",
+          30.1,
+          "pg",
+          27,
+          34,
+          "27 - 34"
+        ],
+        [
+          "Average Hb Concentration MCHC",
+          333,
+          "g/L",
+          316,
+          354,
+          "316 - 354"
+        ],
+        [
+          "Red cell distribution width RDW-CV",
+          12.8,
+          "%",
+          11.5,
+          14.5,
+          "11.5 - 14.5"
+        ],
+        [
+          "Platelet count PLT",
+          229,
+          "×10⁹/L",
+          125,
+          350,
+          "125 - 350"
+        ],
+        [
+          "Mean platelet volume MPV",
+          10.2,
+          "fL",
+          7,
+          13,
+          "7 - 13"
+        ]
+      ],
+      "note": "The newly added differential counts and red cell indices are supplementary synthetic data for this edition, consistent with the existing WBC/Hb/PLT values."
+    },
+    {
+      "title": "Biochemistry laboratory report",
+      "number": "SIM-BIO-0901",
+      "sample": "Serum",
+      "collected": "09-01 09:28",
+      "received": "09:32",
+      "reported": "10:00",
+      "rows": [
+        [
+          "potassium K",
+          3.8,
+          "mmol/L",
+          3.5,
+          5.3,
+          "3.5 - 5.3"
+        ],
+        [
+          "sodium Na",
+          139,
+          "mmol/L",
+          137,
+          147,
+          "137 - 147"
+        ],
+        [
+          "magnesium Mg",
+          0.84,
+          "mmol/L",
+          0.75,
+          1.02,
+          "0.75 - 1.02"
+        ],
+        [
+          "Creatinine Cr",
+          82,
+          "μmol/L",
+          57,
+          97,
+          "57 - 97"
+        ],
+        [
+          "Estimated glomerular filtration rate",
+          95,
+          "mL/min/1.73m²",
+          90,
+          null,
+          "≥90"
+        ],
+        [
+          "Urea Urea",
+          5.6,
+          "mmol/L",
+          3.1,
+          8.0,
+          "3.1 - 8.0"
+        ],
+        [
+          "Alanine aminotransferase ALT",
+          28,
+          "U/L",
+          9,
+          50,
+          "9 - 50"
+        ],
+        [
+          "Aspartate aminotransferase (AST)",
+          36,
+          "U/L",
+          15,
+          40,
+          "15 - 40"
+        ],
+        [
+          "Total bilirubin TBil",
+          12.6,
+          "μmol/L",
+          5,
+          21,
+          "5 - 21"
+        ],
+        [
+          "Albumin ALB",
+          43,
+          "g/L",
+          40,
+          55,
+          "40 - 55"
+        ]
+      ],
+      "note": "eGFR is estimated using CKD-EPI and rounded; a single result cannot diagnose chronic kidney disease. Albumin was not rechecked on September 3."
+    },
+    {
+      "title": "Biochemistry laboratory report",
+      "number": "SIM-BIO-0903",
+      "sample": "Serum",
+      "collected": "09-03 06:00",
+      "received": "06:12",
+      "reported": "07:05",
+      "rows": [
+        [
+          "potassium K",
+          4.2,
+          "mmol/L",
+          3.5,
+          5.3,
+          "3.5 - 5.3"
+        ],
+        [
+          "sodium Na",
+          140,
+          "mmol/L",
+          137,
+          147,
+          "137 - 147"
+        ],
+        [
+          "magnesium Mg",
+          0.89,
+          "mmol/L",
+          0.75,
+          1.02,
+          "0.75 - 1.02"
+        ],
+        [
+          "Creatinine Cr",
+          84,
+          "μmol/L",
+          57,
+          97,
+          "57 - 97"
+        ],
+        [
+          "Estimated glomerular filtration rate",
+          92,
+          "mL/min/1.73m²",
+          90,
+          null,
+          "≥90"
+        ],
+        [
+          "Urea Urea",
+          5.4,
+          "mmol/L",
+          3.1,
+          8.0,
+          "3.1 - 8.0"
+        ],
+        [
+          "Alanine aminotransferase ALT",
+          31,
+          "U/L",
+          9,
+          50,
+          "9 - 50"
+        ],
+        [
+          "Aspartate aminotransferase (AST)",
+          78,
+          "U/L",
+          15,
+          40,
+          "15 - 40"
+        ],
+        [
+          "Total bilirubin TBil",
+          11.8,
+          "μmol/L",
+          5,
+          21,
+          "5 - 21"
+        ]
+      ],
+      "note": "eGFR is estimated using CKD-EPI and rounded; a single result cannot diagnose chronic kidney disease. Albumin was not rechecked on September 3."
+    },
+    {
+      "title": "Biochemistry laboratory report",
+      "number": "SIM-BIO-0906",
+      "sample": "Serum",
+      "collected": "09-06 06:00",
+      "received": "06:12",
+      "reported": "07:05",
+      "rows": [
+        [
+          "potassium K",
+          4.3,
+          "mmol/L",
+          3.5,
+          5.3,
+          "3.5 - 5.3"
+        ],
+        [
+          "sodium Na",
+          140,
+          "mmol/L",
+          137,
+          147,
+          "137 - 147"
+        ],
+        [
+          "magnesium Mg",
+          0.9,
+          "mmol/L",
+          0.75,
+          1.02,
+          "0.75 - 1.02"
+        ],
+        [
+          "Creatinine Cr",
+          80,
+          "μmol/L",
+          57,
+          97,
+          "57 - 97"
+        ],
+        [
+          "Estimated glomerular filtration rate",
+          98,
+          "mL/min/1.73m²",
+          90,
+          null,
+          "≥90"
+        ],
+        [
+          "Urea Urea",
+          5.2,
+          "mmol/L",
+          3.1,
+          8.0,
+          "3.1 - 8.0"
+        ],
+        [
+          "Alanine aminotransferase ALT",
+          30,
+          "U/L",
+          9,
+          50,
+          "9 - 50"
+        ],
+        [
+          "Aspartate aminotransferase (AST)",
+          29,
+          "U/L",
+          15,
+          40,
+          "15 - 40"
+        ],
+        [
+          "Total bilirubin TBil",
+          12.1,
+          "μmol/L",
+          5,
+          21,
+          "5 - 21"
+        ],
+        [
+          "Albumin ALB",
+          41,
+          "g/L",
+          40,
+          55,
+          "40 - 55"
+        ]
+      ],
+      "note": "eGFR is estimated using CKD-EPI and rounded; a single result cannot diagnose chronic kidney disease. Albumin was not rechecked on September 3."
+    },
+    {
+      "title": "Lipid laboratory report",
+      "number": "SIM-LIP-0901",
+      "sample": "Serum (on admission, before lipid-lowering therapy）",
+      "collected": "09-01 09:28",
+      "received": "09:32",
+      "reported": "10:10",
+      "rows": [
+        [
+          "Total cholesterol TC",
+          6.12,
+          "mmol/L",
+          null,
+          5.2,
+          "<5.2（Optimal level）"
+        ],
+        [
+          "Low-density lipoprotein LDL-C",
+          4.05,
+          "mmol/L",
+          null,
+          3.4,
+          "<3.4（General population）"
+        ],
+        [
+          "High-density lipoprotein HDL-C",
+          0.98,
+          "mmol/L",
+          1.0,
+          null,
+          "≥1.0"
+        ],
+        [
+          "Triglycerides TG",
+          1.86,
+          "mmol/L",
+          null,
+          1.7,
+          "<1.7"
+        ],
+        [
+          "non-HDL-C",
+          5.14,
+          "mmol/L",
+          null,
+          4.1,
+          "<4.1（General population）"
+        ]
+      ],
+      "note": "This case involves secondary prevention after ACS: the LDL-C treatment target is <1.4 mmol/L and a reduction of ≥50% from baseline, stricter than the general-population threshold shown in the table. The sample was nonfasting; interpret TG in light of the sampling status."
+    },
+    {
+      "title": "Coagulation test report",
+      "number": "SIM-COAG-0901",
+      "sample": "Sodium citrate-anticoagulated plasma",
+      "collected": "09-01 09:28",
+      "received": "09:32",
+      "reported": "09:55",
+      "rows": [
+        [
+          "Prothrombin time PT",
+          11.8,
+          "s",
+          10,
+          14,
+          "10 - 14"
+        ],
+        [
+          "International normalized ratio INR",
+          1.02,
+          "",
+          0.8,
+          1.2,
+          "0.80 - 1.20"
+        ],
+        [
+          "Activated partial thromboplastin time",
+          29,
+          "s",
+          25,
+          35,
+          "25 - 35"
+        ],
+        [
+          "Fibrinogen FIB",
+          3.4,
+          "g/L",
+          2,
+          4,
+          "2.0 - 4.0"
+        ]
+      ],
+      "note": "This specimen was collected before heparin administration. The intraoperative ACT of 286 seconds is documented in the procedure record and cannot be interpreted using coagulation reference intervals for patients not receiving anticoagulation."
+    },
+    {
+      "title": "Compilation of glucose metabolism, heart failure biomarker, and urine reports",
+      "number": "SIM-OTHER",
+      "sample": "See item description",
+      "collected": "See table below",
+      "received": "Approximately after sampling 10 Minutes",
+      "reported": "See notes",
+      "rows": [
+        [
+          "Random blood glucose（09-01 09:28）",
+          8.2,
+          "mmol/L",
+          3.9,
+          7.8,
+          "3.9 - 7.8*"
+        ],
+        [
+          "Fasting blood glucose（09-02 06:00）",
+          5.7,
+          "mmol/L",
+          3.9,
+          6.1,
+          "3.9 - 6.1"
+        ],
+        [
+          "Fasting blood glucose（09-06 06:00）",
+          5.5,
+          "mmol/L",
+          3.9,
+          6.1,
+          "3.9 - 6.1"
+        ],
+        [
+          "HbA1c（09-02 06:00）",
+          5.6,
+          "%",
+          4,
+          6,
+          "4.0 - 6.0"
+        ],
+        [
+          "NT-proBNP（09-01 09:28）",
+          210,
+          "pg/mL",
+          null,
+          125,
+          "<125*"
+        ],
+        [
+          "NT-proBNP（09-02 06:00）",
+          680,
+          "pg/mL",
+          null,
+          125,
+          "<125*"
+        ],
+        [
+          "NT-proBNP（09-06 06:00）",
+          260,
+          "pg/mL",
+          null,
+          125,
+          "<125*"
+        ],
+        [
+          "Urine protein（09-02 06:20）",
+          "Negative",
+          "",
+          null,
+          null,
+          "Negative"
+        ],
+        [
+          "Urine occult blood (as above）",
+          "Negative",
+          "",
+          null,
+          null,
+          "Negative"
+        ],
+        [
+          "Urine glucose (same as above）",
+          "Negative",
+          "",
+          null,
+          null,
+          "Negative"
+        ]
+      ],
+      "note": "*Random glucose arrows reflect only the alert cutoffs used by this simulated laboratory and cannot establish a diagnosis of diabetes. NT-proBNP uses a non-acute reference cutoff, not a diagnostic threshold for acute heart failure; this case has no clinical heart failure. Serum is used for glucose and NT-proBNP, EDTA whole blood for HbA1c, and morning urine for urinalysis. Each test is reported approximately 60 minutes after collection; this page is a compilation, not an original report for a single specimen."
+    }
+  ],
+  "markers": [
+    [
+      "09-01 09:28",
+      "09:32",
+      "09:50",
+      186,
+      8.6
+    ],
+    [
+      "09-01 15:00",
+      "15:10",
+      "15:40",
+      18600,
+      126
+    ],
+    [
+      "09-02 06:00",
+      "06:12",
+      "06:45",
+      32400,
+      184
+    ],
+    [
+      "09-03 06:00",
+      "06:12",
+      "06:45",
+      14800,
+      48
+    ],
+    [
+      "09-04 06:00",
+      "06:12",
+      "06:45",
+      5260,
+      4.6
+    ],
+    [
+      "09-06 06:00",
+      "06:12",
+      "06:45",
+      780,
+      null
+    ]
+  ],
+  "ecgs": [
+    [
+      "2026-09-01 09:25",
+      92,
+      "Acute phase",
+      "Sinus rhythm; PR 160 ms, QRS 90 ms (case-defined values). ST elevation in V₁–V₆ of approximately 1.5, 3, 4, 3, 2, and 1 mm, respectively; slight elevation in I and aVL, and approximately 0.5–1 mm depression in III and aVF; tall T waves in V₂–V₄. Impression: Acute extensive anterior STEMI."
+    ],
+    [
+      "2026-09-01 11:20",
+      78,
+      "After reperfusion",
+      "Sinus rhythm. ST elevation in V₃ decreased from 4 mm to approximately 1 mm, with marked resolution in the other leads showing elevation. Total ST elevation across the precordial leads decreased by >70%. Together with resolution of chest pain and TIMI grade 3 flow, this supports effective reperfusion."
+    ],
+    [
+      "2026-09-02 07:00",
+      70,
+      "Evolving phase of infarction",
+      "Sinus rhythm; pathological Q waves or QS complexes in V₂–V₄, T-wave inversion in V₂–V₆, and residual ST elevation ≤0.5 mm. Findings suggest evolving anterior wall MI, with no new acute ischemic changes."
+    ],
+    [
+      "2026-09-06 08:00",
+      66,
+      "Before discharge",
+      "Sinus rhythm; persistent Q waves in V₂–V₄ and T-wave inversion in V₂–V₆, with no new ST elevation or depression. Findings suggest post-infarction evolution."
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Medication Orders · Enter Line by Line</title><style>*{box-sizing:border-box}body{margin:0;background:#f2f5f5;color:#264047;font:15px/1.5 system-ui}main{max-width:1380px;margin:0 auto;padding:16px;background:white;border:1px solid #dbe5e6;border-radius:12px}header{display:flex;justify-content:space-between;align-items:center}h1{font-size:22px;margin:0}small{color:#7a8b90}table{width:100%;border-collapse:collapse;margin:22px 0}th{text-align:left;background:#f1f6f6;font-size:14px;font-weight:500;padding:12px}td{padding:12px 8px;border-bottom:1px solid #e1e9ea;vertical-align:top}th:first-child{width:26%}th:nth-child(2){width:14%}th:nth-child(3){width:16%}th:nth-child(4){width:13%}th:nth-child(5){width:14%}th:nth-child(6){width:17%}input,select,button{font:inherit;border:1px solid #cad8db;border-radius:6px;padding:9px;background:white;color:inherit}input,select{width:100%;height:42px}button{cursor:pointer}button:hover{border-color:#287e83}.primary{background:#287e83;color:white;border-color:#287e83}footer{display:flex;gap:10px;align-items:center}#status{font-size:13px;color:#617c80;margin-left:auto}.drug-cell{position:relative}.matches{position:absolute;top:57px;left:8px;right:8px;background:white;border:1px solid #bbced0;border-radius:7px;box-shadow:0 8px 22px #233f4225;z-index:5;max-height:240px;overflow:auto}.matches:empty{display:none}.matches button{display:block;width:100%;border:0;border-radius:0;text-align:left;font-size:14px;padding:10px}.matches button:hover{background:#e9f4f2}.matches small{display:block}.confirmed{font-size:12px;color:#287e83;min-height:18px;margin-top:4px}.dose{display:flex;gap:6px}.dose input{min-width:90px;flex:1}.dose select{width:72px;font-size:13px;flex:0 0 72px;padding:7px}.table-wrap{overflow-x:auto;padding-bottom:130px;margin-bottom:-120px}table{min-width:1040px}input:focus,select:focus{outline:2px solid #287e8370;outline-offset:1px}.remove{border:0;background:transparent;font-size:12px;padding:0;margin-left:12px;color:#888}@media(max-width:760px){main{margin:0;padding:16px;border-radius:0}}</style><style>/* Longer English labels must wrap without separating medication fields. */
+/* Keep the complete input toolbar in the flex layout. English prompts can
+   occupy more lines than Chinese; only the transcript should shrink first. */
+html[lang=en] #clinical-rounds .conversation{min-height:0}
+html[lang=en] #clinical-rounds .conversation>.pad{overflow-y:auto;overscroll-behavior:contain}
+html[lang=en] #clinical-rounds .composer{flex:0 0 auto;min-width:0}
+html[lang=en] #clinical-rounds .conversation>.pad>.heading,
+html[lang=en] #clinical-rounds .conversation>.pad>.busy-state{flex-shrink:0}
+html[lang=en] #clinical-rounds .conversation .chat-log{min-height:64px}
+html[lang=en] #clinical-rounds .composer .row{row-gap:8px}
+html[lang=en] #clinical-rounds .composer [data-voice],
+html[lang=en] #clinical-rounds .composer [data-send]{flex-shrink:0;white-space:nowrap}
+@media(min-width:701px){html[lang=en] #clinical-rounds .conversation button.scene-picture{height:clamp(80px,12vh,120px)}}
+@media(min-width:701px) and (min-height:741px){html[lang=en] #clinical-rounds main{grid-template-rows:minmax(0,1fr)}}
+@media(max-height:740px),(max-width:700px){html[lang=en] #clinical-rounds .conversation{align-self:start}html[lang=en] #clinical-rounds .conversation .chat-log{flex:none;height:96px;max-height:180px}}
+html[lang=en] #clinical-rounds #cr-senior-log{height:clamp(96px,24dvh,220px);min-height:96px;max-height:220px;flex:none}
+html[lang=en] button,html[lang=en] .tab{white-space:normal;line-height:1.35}
+html[lang=en] .report-meta{grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:9px 16px}
+html[lang=en] .report-paper th,html[lang=en] .report-paper td{overflow-wrap:anywhere;vertical-align:top}
+html[lang=en] .report-paper th{line-height:1.35}
+html[lang=en] .composer .row{flex-wrap:wrap}
+html[lang=en] input,html[lang=en] select,html[lang=en] textarea{min-width:0}
+html[lang=en] .rx-table{min-width:1120px}
+html[lang=en] .hx-login h1{font-size:clamp(26px,3vw,44px);line-height:1.15;max-width:650px}
+html[lang=en] .hx-login{overflow-wrap:break-word}
+html[lang=en] .hx-photo{background:#17384a}
+html[lang=en] .hx-photo img{clip-path:inset(0 0 25% 0)}
+html[lang=en] .hx-photo::after{content:'Practice clinical reasoning in realistic encounters.\A History · Examination · Diagnosis · Management · Debrief';white-space:pre-line;position:absolute;bottom:0;left:0;right:0;min-height:27%;box-sizing:border-box;padding:24px;color:white;background:#17384a;font:500 22px/1.5 system-ui;display:flex;align-items:center}
+html[lang=en] h1,html[lang=en] h2,html[lang=en] h3{overflow-wrap:break-word}
+#clinical-language-switch [aria-current=page]{background:#e1f0ee;border-radius:6px;font-weight:700}
+@media(max-width:700px){html[lang=en] .report-meta{grid-template-columns:1fr 1fr}#clinical-language-switch{right:8px!important;bottom:8px!important}}
+</style><main><header><h1>Medication Orders</h1><small>Chinese / Search by Pinyin Initials</small></header><div class="table-wrap"><table><thead><tr><th>Medicinal products</th><th>Dose</th><th>Directions for use</th><th>Route of Administration</th><th>Order type</th><th>Notes</th></tr></thead><tbody id="rows"></tbody></table></div><footer><button id="add">＋ Add Row</button><button id="save" class="primary">Save draft</button><span id="status">Selecting a medication fills in a standard regimen, which can be edited; individualized doses may be left for later.</span></footer></main><script src="/order-drug-catalog.js"></script><script>
+const drugs=window.MI_DRUG_CATALOG.items.map(x=>[x.name,x.pinyin_initials,x.note]);
+const defaults=Object.fromEntries(window.MI_DRUG_CATALOG.items.map(x=>[x.name,[x.autofill.dose,x.autofill.unit,x.autofill.frequency,x.autofill.route,x.autofill.remark]]));
+const catalogOptions=(key,base)=>[...new Set([...base,...window.MI_DRUG_CATALOG.items.map(x=>x.autofill[key]).filter(Boolean)])];
+const $=s=>document.querySelector(s), storeKey='clinical-rx-simple-v2-en';
+function option(value){const o=document.createElement('option');o.textContent=value;return o;}
+function select(values,value,label){const el=document.createElement('select');el.setAttribute('aria-label',label);values.forEach(v=>el.append(option(v)));el.value=value||values[0];return el;}
+function addRow(data={}){
+ const tr=document.createElement('tr');const cells=Array.from({length:6},()=>{const td=document.createElement('td');tr.append(td);return td;});
+ const name=document.createElement('input');name.placeholder='Enter Medication Name / Pinyin Abbreviation';name.setAttribute('aria-label','Medication Search');name.value=data.name||'';tr.dataset.drug=data.name||'';
+ cells[0].className='drug-cell';const results=document.createElement('div');results.className='matches';const confirm=document.createElement('div');confirm.className='confirmed';
+ function picked(){confirm.replaceChildren();if(tr.dataset.drug){const label=document.createElement('span');label.textContent='✓ Selected';confirm.append(label);}const remove=document.createElement('button');remove.textContent='Delete this row';remove.className='remove';remove.onclick=()=>{tr.remove();if(!$('#rows').children.length)addRow();};confirm.append(remove);}
+ name.oninput=()=>{tr.dataset.drug='';picked();results.replaceChildren();const q=name.value.trim().toLowerCase();if(!q)return;const found=drugs.filter(d=>d[0].includes(q)||d[1].replaceAll(' ','').includes(q));for(const d of found){const b=document.createElement('button');b.type='button';b.textContent=d[0];b.onclick=()=>{name.value=d[0];tr.dataset.drug=d[0];results.replaceChildren();picked();const preset=defaults[d[0]];if(preset){[dose.value,unit.value,use.value,route.value]=preset;remark.title=remark.value;unit.title=unit.value;dose.title=unit.value.includes('/')?'This field is for the dose per kilogram or administration rate':'Single dose';$('#status').textContent=preset[0]?'Dose, administration instructions, and route have been filled in and can be edited; enter the notes yourself.。':'Administration instructions and route have been filled in; enter the dose based on the specific circumstances.。';}dose.focus();};results.append(b);}if(!found.length){const hint=document.createElement('small');hint.textContent='No matching medication found；AI Supplementary medication lookup pending integration。';hint.style.padding='10px';results.append(hint);}};
+ name.onkeydown=e=>{if(e.key==='Escape')results.replaceChildren();if(e.key==='Enter'&&results.querySelector('button')){e.preventDefault();results.querySelector('button').click();}};
+ cells[0].append(name,results,confirm);picked();
+ const dose=document.createElement('input');dose.type='number';dose.min='0';dose.step='any';dose.placeholder='Single occurrence';dose.value=data.dose||'';dose.setAttribute('aria-label','Single dose');dose.dataset.key='dose';
+ const unit=select(catalogOptions('unit',['mg','μg','g','U','mL','Piece','mg/kg/h','mg/min']),data.unit,'Dose unit');unit.dataset.key='unit';const doseWrap=document.createElement('div');doseWrap.className='dose';doseWrap.append(dose,unit);cells[1].append(doseWrap);
+ const use=select(catalogOptions('frequency',['Please select','Qd · Once daily','Bid · Twice daily','Tid · Three times daily','Q12h · each 12 Hours','Qn · Once nightly','ST · Once immediately','Once','PRN · As needed']),data.use,'Directions for use');use.dataset.key='use';cells[2].append(use);
+ const route=select(catalogOptions('route',['Please select','Oral','Chew and swallow','Sublingual administration','Intravenous injection','Intravenous drip infusion','Intravenous infusion via pump','Subcutaneous injection','Local infiltration']),data.route,'Route of Administration');route.dataset.key='route';cells[3].append(route);
+ const type=select(['One-time orders','Long-term orders','Long-term medication present','One-time medication available'],data.type,'Order type');type.dataset.key='type';cells[4].append(type);
+ const remark=document.createElement('input');remark.placeholder='Optional Notes';remark.setAttribute('aria-label','Notes');remark.dataset.key='remark';remark.value=data.remark||'';remark.title=remark.value;remark.oninput=()=>{remark.title=remark.value;};cells[5].append(remark);
+ $('#rows').append(tr);
+}
+document.addEventListener('click',e=>{document.querySelectorAll('.drug-cell').forEach(c=>{if(!c.contains(e.target))c.querySelector('.matches').replaceChildren();});});
+$('#add').onclick=()=>{addRow();$('#rows').lastElementChild.querySelector('input').focus();};
+$('#save').onclick=()=>{const rows=[];for(const tr of $('#rows').children){const r={name:tr.dataset.drug};tr.querySelectorAll('[data-key]').forEach(el=>r[el.dataset.key]=el.value);const typed=tr.querySelector('input').value.trim();if(!typed&&!r.dose&&r.use==='Please select'&&r.route==='Please select'&&!r.remark)continue;if(!r.name){$('#status').textContent='Click the matching medication to confirm its name first。';tr.querySelector('input').focus();return;}if(!(Number(r.dose)>0)||r.use==='Please select'||r.route==='Please select'){$('#status').textContent='Please fill in the missing information '+r.name+' dosage, instructions for use, and route of administration。';return;}rows.push(r);}try{localStorage.setItem(storeKey,JSON.stringify(rows));$('#status').textContent='Saved '+rows.length+' lines; not saved to the formal exercise。';}catch(e){$('#status').textContent='The browser has not allowed saving. Keep this page open for now。';}};
+let saved=[];try{saved=JSON.parse(localStorage.getItem(storeKey)||'[]');}catch(e){}if(Array.isArray(saved)&&saved.length)saved.forEach(addRow);else{addRow();}
+</script></html>
+

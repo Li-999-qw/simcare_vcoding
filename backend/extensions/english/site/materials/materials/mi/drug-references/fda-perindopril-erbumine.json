@@ -1,0 +1,20 @@
+{
+  "query": "perindopril erbumine",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22perindopril%20erbumine%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "PERINDOPRIL ERBUMINE"
+      ],
+      "brand": [
+        "Perindopril Erbumine"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "87768fbf-7c63-47da-8925-0316f343d6ef",
+      "effective_time": "20240313",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Hypertension The recommended initial dose is 4 mg once a day. The dosage may be titrated upward until blood pressure, when measured just before the next dose, is controlled or to a maximum of 16 mg per day. (2.1) Stable Coronary Artery Disease Perindopril erbumine tablets should be given at an initial dose of 4 mg once daily for 2 weeks, and then increased, as tolerated, to a maintenance dose of 8 mg once daily. (2.2) 2.1 Hypertension Use in Uncomplicated Hypertensive Patients: In patients with essential hypertension, the recommended initial dose is 4 mg once a day. The dose may be titrated, as needed to a maximum of 16 mg per day. The usual maintenance dose range is 4 mg to 8 mg administered as a single daily dose or in two divided doses. Use in Elderly Patients: The recommended initial daily dosage of perindopril erbumine tablets for the elderly is 4 mg daily, given in one or two divided doses. Experience with perindopril erbumine tablets is limited in the elderly at doses exceeding 8 mg. Dosages above 8 mg should be administered with careful blood pressure monitoring and dose titration [see Use in Specific Populations (8.5) ] . Use with Diuretics: In patients who are currently being treated with a diuretic, symptomatic hypotension can occur following the initial dose of perindopril erbumine tablets. Consider reducing the dose of diuretic prior to starting perindopril erbumine tablets [see Drug Interactions (7.1) ] . 2.2 Stable Coronary Artery Disease In patients with stable coronary artery disease, perindopril erbumine tablets should be given at an initial dose of 4 mg once daily for 2 weeks, and then increased as tolerated, to a maintenance dose of 8 mg once daily. In elderly patients (greater than 70 years), perindopril erbumine tablets should be given as a 2 mg dose once daily in the first week, followed by 4 mg once daily in the second week and 8 mg once daily for maintenance dose if tolerated. 2.3 Dose Adjustment in Renal Impairment and Dialysis Perindoprilat elimination is decreased in renally impaired patients. Perindopril erbumine tablets are not recommended in patients with creatinine clearance <30 mL/min. For patients with lesser degrees of impairment, the initial dosage should be 2 mg/day and dosage should not exceed 8 mg/day. During dialysis, perindopril is removed with the same clearance as in patients with normal renal function."
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "case_id": "SIM-ASC-20260901",
+  "audience": "teacher_only",
+  "objectives": [
+    [
+      "O1 Problem representation",
+      "Summarize the liver disease background, changes in ascites, and red flags in one sentence; prioritize evaluation for infection and hypoperfusion.",
+      "Initial progress note/Verbal handover"
+    ],
+    [
+      "O2 Etiology of ascites",
+      "Calculate SAAG = 25 − 7 = 18 g/L; integrate ascitic fluid protein and clinical findings to differentiate cardiac, malignant, tuberculous, and other causes.",
+      "Test selection and result interpretation"
+    ],
+    [
+      "O3 Occult infection",
+      "Perform prompt paracentesis even without fever; PMN 640 triggers SBP management without waiting for culture results.",
+      "Timing and rationale for actions"
+    ],
+    [
+      "O4 AKI Dynamic identification",
+      "Recognize the short-term change from 118 to 150; do not infer onset solely from a baseline more than 7 days old.",
+      "Trend interpretation and diagnostic revision"
+    ],
+    [
+      "O5 Individualized treatment",
+      "Distinguish the infection phase, renal recovery phase, and ascites control phase; explain when to stop/resume diuretics and the indications for albumin.",
+      "Medical orders and reassessment plan"
+    ],
+    [
+      "O6 Treatment response",
+      "PMN decreased by 81.25%, with concurrent improvement in symptoms and creatinine; continue treatment according to susceptibility results and avoid escalation without supporting evidence.",
+      "Ward round note"
+    ],
+    [
+      "O7 Escalation and differential diagnosis",
+      "Reassess for HRS and other causes if kidney injury persists; investigate secondary peritonitis if treatment fails; verify the definition of refractory ascites.",
+      "Branching reasoning"
+    ],
+    [
+      "O8 Continuity of care",
+      "Specify secondary SBP prophylaxis, nutrition, etiologic treatment, monitoring, and transplant evaluation; the Patient can explain these back.",
+      "Discharge planning and communication"
+    ]
+  ],
+  "stages": [
+    {
+      "id": "intake",
+      "name": "Patient intake",
+      "time": "09-01 09:20-11:00",
+      "available": [
+        "Three-page admission history and physical examination",
+        "Previous outpatient summary",
+        "ASC-L01",
+        "ASC-L02",
+        "ASC-L03",
+        "ASC-L04 Urine section",
+        "ASC-US01",
+        "ASC-ECG01"
+      ],
+      "withheld": [
+        "Ascites PMN And culture",
+        "Subsequent clinical course",
+        "Discharge diagnosis"
+      ],
+      "tasks": [
+        "Complete the problem representation and differential diagnosis",
+        "Propose paracentesis and necessary tests",
+        "Propose initial volume/diuretic management"
+      ]
+    },
+    {
+      "id": "treatment",
+      "name": "Management and handover",
+      "time": "09-01 11:45-18:00",
+      "available": [
+        "ASC-A01",
+        "Response to treatment on day 1"
+      ],
+      "withheld": [
+        "Final culture report",
+        "Subsequent creatinine trend"
+      ],
+      "tasks": [
+        "Calculate SAAG and PMN",
+        "Management SBP And provide monitoring instructions",
+        "Distinguish indications for albumin"
+      ]
+    },
+    {
+      "id": "ward",
+      "name": "Ward round",
+      "time": "09-02 to 09-08 Advance by date",
+      "available": [
+        "Daily laboratory results unlock according to report time",
+        "Preliminary and final culture reports unlocked separately",
+        "Procedure materials are visible after execution"
+      ],
+      "withheld": [
+        "Tests not yet performed and treatment effects not yet observed",
+        "Teacher reference answer"
+      ],
+      "tasks": [
+        "Confirm AKI And differentiation",
+        "Adjust medication and volume management plans",
+        "Reassess treatment response and decide on ascitic fluid drainage and resumption of diuretics"
+      ]
+    },
+    {
+      "id": "discharge",
+      "name": "Discharge summary",
+      "time": "09-09",
+      "available": [
+        "All information obtained previously",
+        "Examination before discharge"
+      ],
+      "withheld": [
+        "Teacher’s standard discharge summary and evaluation"
+      ],
+      "tasks": [
+        "Document the diagnosis and outcome accurately",
+        "Discharge medications and follow-up",
+        "Risk communication"
+      ]
+    },
+    {
+      "id": "feedback",
+      "name": "Feedback",
+      "time": "After release by the Teacher or completion of the exercise",
+      "available": [
+        "Teacher’s Teaching Manual and Complete Medical Record"
+      ],
+      "withheld": [],
+      "tasks": [
+        "Compare the evidence available at the time of decision-making",
+        "Explain omissions or reasons for adjustments",
+        "Reflect on acceptable alternatives"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "title": "Case Design and Teaching Objectives for Teachers",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "Version and scope of use",
+          "text": "v1.1 / 2026-09-15 / Pending clinical expert review. This booklet contains answers and a preset clinical course. The Patient is Wang Jianhua, a 56-year-old man. The core clinical course involves worsening cirrhotic ascites, SBP, reversible AKI, and improvement after treatment."
+        },
+        {
+          "type": "section",
+          "title": "Overall goal",
+          "text": "Senior residents can independently formulate the clinical problem, set priorities, select investigations, interpret results, provide treatment and reassessment as information is released in stages, and explain the evidence that triggers changes to the plan."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Target",
+            "Observable findings",
+            "Assessment evidence"
+          ],
+          "rows": [
+            [
+              "O1 Problem representation",
+              "Summarize the liver disease background, changes in ascites, and red flags in one sentence; prioritize evaluation for infection and hypoperfusion.",
+              "Initial progress note/Verbal handover"
+            ],
+            [
+              "O2 Etiology of ascites",
+              "Calculate SAAG = 25 − 7 = 18 g/L; integrate ascitic fluid protein and clinical findings to differentiate cardiac, malignant, tuberculous, and other causes.",
+              "Test selection and result interpretation"
+            ],
+            [
+              "O3 Occult infection",
+              "Perform prompt paracentesis even without fever; PMN 640 triggers SBP management without waiting for culture results.",
+              "Timing and rationale for actions"
+            ],
+            [
+              "O4 AKI Dynamic identification",
+              "Recognize the short-term change from 118 to 150; do not infer onset solely from a baseline more than 7 days old.",
+              "Trend interpretation and diagnostic revision"
+            ],
+            [
+              "O5 Individualized treatment",
+              "Distinguish the infection phase, renal recovery phase, and ascites control phase; explain when to stop/resume diuretics and the indications for albumin.",
+              "Medical orders and reassessment plan"
+            ],
+            [
+              "O6 Treatment response",
+              "PMN decreased by 81.25%, with concurrent improvement in symptoms and creatinine; continue treatment according to susceptibility results and avoid escalation without supporting evidence.",
+              "Ward round note"
+            ],
+            [
+              "O7 Escalation and differential diagnosis",
+              "Reassess for HRS and other causes if kidney injury persists; investigate secondary peritonitis if treatment fails; verify the definition of refractory ascites.",
+              "Branching reasoning"
+            ],
+            [
+              "O8 Continuity of care",
+              "Specify secondary SBP prophylaxis, nutrition, etiologic treatment, monitoring, and transplant evaluation; the Patient can explain these back.",
+              "Discharge planning and communication"
+            ]
+          ],
+          "widths": [
+            83,
+            320,
+            108
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Assessment focuses on evidence, timing, and the ability to revise decisions. Scoring weights, the passing threshold, and whether critical errors result in automatic failure have not been established and await review and approval by experts and the teaching team."
+        }
+      ]
+    },
+    {
+      "title": "Case Answer Key · Key Clinical Reasoning Steps",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "1. Why screen for infection first",
+          "text": "Hospitalized for recently worsening ascites, with abdominal discomfort and renal dysfunction; absence of high fever and a normal blood WBC count do not exclude SBP. The absolute ascitic fluid PMN count, rather than a positive culture, is the key to timely action."
+        },
+        {
+          "type": "section",
+          "title": "2. Why this should not be directly equated with hepatorenal syndrome",
+          "text": "A creatinine increase of 32 μmol/L within 20 hours confirms AKI. Recent inadequate intake, self-increased diuretic dosing, and infection may coexist. Urine sediment and ultrasound help exclude alternative causes, but normal results alone cannot establish HRS. Rapid recovery followed diuretic withdrawal and treatment of infection; the final diagnosis must not state confirmed HRS-AKI. [S5]"
+        },
+        {
+          "type": "section",
+          "title": "3. Why treatment is staged",
+          "text": "On day 1, control infection, withhold diuretics, and assess circulatory status. Perform paracentesis after infection and renal function improve, then resume low-dose diuretics. Calculate albumin for SBP using estimated dry weight; calculate albumin for paracentesis using the volume drained. These must not be conflated as “give albumin whenever albumin is low.” [S3,S4]"
+        },
+        {
+          "type": "section",
+          "title": "4. Why not currently use TIPS",
+          "text": "Refractory ascites has not been established after adequate, tolerated treatment and verification of adherence; the current episode has improved. TIPS is an option for recurrent refractory ascites and requires assessment of cardiopulmonary status, liver function, infection, and encephalopathy risk. Transplant evaluation may begin after decompensation rather than waiting until all treatments have failed. [S2,S6]"
+        },
+        {
+          "type": "section",
+          "title": "5. Why follow-up is still needed after discharge",
+          "text": "AKI has resolved, but hyponatremia, hypoalbuminemia, portal hypertension, and chronic liver disease persist. After SBP, discuss secondary prophylaxis, antiviral treatment, nutrition, and management of liver cancer and varices. The word “improved” cannot replace a specific follow-up testing and safety plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline update: ADQI-ICA 2024 recommends against routinely requiring 48 hours of albumin administration before diagnosing HRS-AKI; volume management should be guided by clinical assessment. Debate continues in this area, and scoring is not tied to a single rigid protocol."
+        }
+      ]
+    },
+    {
+      "title": "Information Disclosure and Role Conventions for Five Scenarios",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Scenario",
+            "Material release",
+            "Student tasks"
+          ],
+          "rows": [
+            [
+              "Patient intake",
+              "09-01 09:20–11:00; three-page admission history and physical examination, prior outpatient summary, ASC-L01, ASC-L02, ASC-L03, urine section of ASC-L04, ASC-US01, ASC-ECG01",
+              "Complete problem representation and differential diagnosis; propose paracentesis and necessary investigations; propose initial volume/diuretic management."
+            ],
+            [
+              "Management and handover",
+              "09-01 11:45-18:00；ASC-A01、Response to treatment on day 1",
+              "Calculate SAAG and PMN; manage SBP and specify monitoring; distinguish indications for albumin."
+            ],
+            [
+              "Ward round",
+              "Progress by date from 09-02 to 09-08; daily laboratory results unlock at their report times, preliminary and final culture reports unlock separately, and procedure information becomes visible after performance.",
+              "Confirm AKI and assess the differential diagnosis; adjust medications and volume management; reassess response and decide on paracentesis and resumption of diuretics"
+            ],
+            [
+              "Discharge summary",
+              "09-09; all information obtained previously and pre-discharge investigations.",
+              "Document accurate diagnoses and outcomes; discharge medications and follow-up; risk communication."
+            ],
+            [
+              "Feedback",
+              "After release by the Teacher or completion of the exercise; Teacher’s teaching manual and complete case record.",
+              "Compare evidence available at the time of decision-making; explain omissions or adjustments; reflect on acceptable alternatives."
+            ]
+          ],
+          "widths": [
+            65,
+            272,
+            174
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Patient role guidelines",
+          "text": "The Patient may describe symptoms, recent medication additions, diet, urine output, and known medical history, but should not volunteer technical diagnoses or terms such as “SBP, SAAG, HRS.” Provide truthful information when asked; do not conceal preset facts to increase difficulty."
+        },
+        {
+          "type": "section",
+          "title": "Supervising role conventions",
+          "text": "Practice mode may provide graded hints on request about what evidence is still missing; examination mode does not disclose the standard diagnosis or future test results in advance. Feedback is based only on information available at the time."
+        },
+        {
+          "type": "section",
+          "title": "Limits on data use",
+          "text": "The JSON contains the complete Teacher facts and clinical course for future integration only; it does not implement server-side permissions, automated scoring, or causal simulation of the clinical course. The current course is a reference pathway and does not mean that every Student action will produce the same outcome."
+        }
+      ]
+    },
+    {
+      "title": "Advanced branches and acceptable alternatives",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Trigger conditions (did not occur in the main scenario)",
+            "Reasoning to be demonstrated",
+            "Separate from the main pathway"
+          ],
+          "rows": [
+            [
+              "Insufficient PMN decrease at 48 hours or worsening abdominal pain",
+              "Check antimicrobial coverage, resistance, and sampling; consider secondary peritonitis, repeat imaging, and seek surgical consultation as appropriate",
+              "Do not incorporate polymicrobial or perforation findings into this patient’s facts"
+            ],
+            [
+              "Creatinine continues to rise/Hypoperfusion",
+              "Assess infection control, volume status, nephrotoxic medications, and renal parenchymal disease; discuss HRS treatment only if criteria are met.",
+              "Failure to improve after stopping diuretics must not be used alone as evidence of HRS."
+            ],
+            [
+              "Recurrent large-volume ascites despite adequate treatment, or treatment intolerance",
+              "Verify sodium restriction and medication adherence; assess for refractory ascites and discuss repeated paracentesis/TIPS/transplantation.",
+              "Refractory ascites has not been diagnosed in this case"
+            ],
+            [
+              "New-onset melena or altered mental status",
+              "Prioritize stabilization, identify precipitating factors, and assess according to the relevant complication pathway.",
+              "Do not add these complications merely to increase case complexity"
+            ]
+          ],
+          "widths": [
+            137,
+            254,
+            120
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Acceptable variation",
+          "text": "Antibiotic selection may vary with local resistance patterns, community versus hospital onset, and prior exposure. Albumin dosing strategies and timing of diuretic resumption may vary across regional protocols. Require a rationale and monitoring; do not mark an answer wrong solely because it differs from this reference prescription."
+        },
+        {
+          "type": "section",
+          "title": "Medication catalog and actual medication use",
+          "text": "Only actual medication data for this case are provided. Terlipressin, lactulose, rifaximin, and similar agents are options for discussion, not documented as medications administered in this case. The entecavir dosing interval was adjusted once at the peak of AKI; this must remain consistent with the progress notes and orders."
+        }
+      ]
+    },
+    {
+      "title": "Expert review form · Not yet reviewed",
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "Review specialty",
+            "Key verification points",
+            "Opinion / Edit"
+          ],
+          "rows": [
+            [
+              "Liver disease and infection",
+              "Whether the history, SBP evidence, culture results, treatment duration, and secondary prevention are appropriate",
+              "________________"
+            ],
+            [
+              "Kidneys and volume status",
+              "AKI time window/staging, volume assessment, HRS differential diagnosis, diuretic resumption, and medication dose adjustment.",
+              "________________"
+            ],
+            [
+              "Pharmacy",
+              "Local formulations, administration methods, albumin dosing, ciprofloxacin risks, and renal dose adjustment of entecavir.",
+              "________________"
+            ],
+            [
+              "Procedures and nursing care",
+              "Informed consent, safe ultrasound window, drainage volume, monitoring, and bleeding risk assessment.",
+              "________________"
+            ],
+            [
+              "Imaging and laboratory tests",
+              "Plausibility of the written report and numerical values; suitability of synthetic images for display, not as a diagnostic gold standard.",
+              "________________"
+            ],
+            [
+              "Teaching",
+              "Target difficulty, information sequence, acceptable alternatives, and feedback method.",
+              "________________"
+            ]
+          ],
+          "widths": [
+            85,
+            306,
+            120
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Key omissions (pending review）",
+          "text": "Failure to arrange timely paracentesis; delaying SBP treatment while awaiting cultures; reflexively increasing diuretics during AKI; diagnosing all AKI in cirrhosis directly as HRS; failure to reassess treatment nonresponse; no discharge monitoring or secondary prophylaxis plan."
+        },
+        {
+          "type": "section",
+          "title": "Review conclusion",
+          "text": "□ Major revisions required　□ Minor revisions required　□ Suitable for limited teaching use　□ Other: __________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Expert reviewer：____________　Specialty：____________　Date：____________"
+        },
+        {
+          "type": "paragraph",
+          "text": "The above are blank manual review fields and do not indicate expert sign-off. Automated checks cover only numerical values, chronology, and formatting and cannot replace medical review."
+        }
+      ]
+    },
+    {
+      "title": "Rationale and version notes",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "S1 · Knowledge framework for the cirrhosis chapter in Internal Medicine",
+          "text": "The user did not specify an edition, and the original textbook text was not obtained. Do not fabricate page numbers or verbatim quotations. Experts will supplement the textbook cross-reference."
+        },
+        {
+          "type": "section",
+          "title": "S2 · Chinese Society of Hepatology, Chinese Medical Association: Guidelines for the Diagnosis and Treatment of Cirrhotic Ascites (2023 Edition)",
+          "text": "Chinese Journal of Hepatology 2023;31:813–826. Used as a domestic framework for diagnosing and treating ascites; access to the full Chinese-language journal article is restricted.\nhttps://pubmed.ncbi.nlm.nih.gov/37723063/"
+        },
+        {
+          "type": "section",
+          "title": "S3 · AASLD：Ascites, SBP and HRS Practice Guidance (2021)",
+          "text": "Supports initial SBP management, albumin, and long-term management; the kidney injury section incorporates the S5 update.\nhttps://doi.org/10.1002/hep.31884"
+        },
+        {
+          "type": "section",
+          "title": "S4 · BSG/BASL：Guidelines on the management of ascites in cirrhosis (2021)",
+          "text": "Supports ascites investigations, albumin at 8 g/L after paracentesis, and alternatives for secondary SBP prophylaxis.\nhttps://doi.org/10.1136/gutjnl-2020-321790"
+        },
+        {
+          "type": "section",
+          "title": "S5 · ADQI-ICA：Acute kidney injury in patients with cirrhosis (2024)",
+          "text": "Supports AKI recognition, volume assessment, and differential diagnosis of HRS-AKI; opposes making routine albumin infusion for 48 hours a mandatory diagnostic prerequisite.\nhttps://pubmed.ncbi.nlm.nih.gov/38527522/"
+        },
+        {
+          "type": "paragraph",
+          "text": "Search and verification date: 2026-09-15. No claim is made that all guidelines available by that date were exhaustively reviewed. Recommendations vary by region; follow expert-defined teaching standards and local protocols."
+        }
+      ]
+    },
+    {
+      "title": "Add supporting evidence and verify calculations",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "S6 · Chinese Guidelines for Clinical Diagnosis, Treatment, and Management of Cirrhosis (2025)",
+          "text": "Review the framework for nutrition, etiology, and long-term follow-up in decompensated cirrhosis.\nhttps://doi.org/10.14218/JCTH.2025.00517"
+        },
+        {
+          "type": "section",
+          "title": "S7 · KASL clinical practice guidelines: Ascites and related complications (2026)",
+          "text": "Supplementary 2026 updates retrieved for experts to compare regional differences; not local prescribing standards for China.\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC13430399/"
+        },
+        {
+          "type": "section",
+          "title": "S8 · DailyMed：Entecavir tablets prescribing information",
+          "text": "For adults with decompensated disease: 1 mg once daily; fasting administration and renal dose-adjustment rationale. Verify the local prescribing information before actual use.\nhttps://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a905283-0057-a7dd-e063-6394a90a1909"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Items to verify",
+            "Calculate / Description"
+          ],
+          "rows": [
+            [
+              "SAAG",
+              "25-7=18 g/L（Paired sampling before albumin infusion）"
+            ],
+            [
+              "Initial PMN",
+              "1000×64%=640 item/μL"
+            ],
+            [
+              "48 Hours PMN Change",
+              "(640-120)/640=81.25%Decrease"
+            ],
+            [
+              "AKI Evidence",
+              "150-118=32 μmol/L / approximately 20 Hours；150/78=1.923 times"
+            ],
+            [
+              "SBP Albumin",
+              "68×1.5=102 g；68×1=68 g"
+            ],
+            [
+              "Albumin after fluid drainage",
+              "6 L×8 g/L=48 g；Total for three administrations 218 g"
+            ],
+            [
+              "Albumin volume",
+              "20%=0.2 g/mL；510+340+240=1090 mL（minutes 3 day）"
+            ]
+          ],
+          "widths": [
+            130,
+            381
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The teaching case is an original synthetic case and does not copy guideline cases or original reports. Ultrasound images were created using the built-in image generation tool; prompts and asset sources are provided in the asset notes. ECGs were drawn using a local program."
+        }
+      ]
+    }
+  ],
+  "scoring_status": "not_approved",
+  "implemented_in_training_system": false
+}

@@ -1,0 +1,4034 @@
+{
+  "CASE_ID": "SIM-ASC-20260901",
+  "VERSION": "Ascites Case v1.1 · Pending clinical expert review",
+  "REGISTRATION": {
+    "name": "Wang Jianhua",
+    "sex": "male",
+    "age": "56 years old",
+    "marital_status": "Married",
+    "occupation": "Work involving standing and light manual handling",
+    "ethnicity": "Not listed separately",
+    "birthplace": "Chengdu, Sichuan",
+    "address": "Chengdu, Sichuan (detailed address not specified）",
+    "history_source": "Patient personally",
+    "admission_status": "Gastroenterology admission intake"
+  },
+  "FACTS": {
+    "identity": "Wang Jianhua, male，56 years old, married, from Chengdu。",
+    "pain": "Record time：2026-09-01 10:00\nChief complaint：Recurrent abdominal distension for 6 months, worsening with lower-extremity edema for 10 days and decreased urine output for 2 days.\nHistory of present illness：The Patient was found to be hepatitis B surface antigen-positive during a health examination 20 years ago and was diagnosed with hepatitis B-related cirrhosis by liver imaging and blood tests 3 years ago. Abdominal distension and bilateral lower-extremity edema first developed 6 months ago and improved with outpatient antiviral and oral diuretic treatment; there was no hospitalization or paracentesis. Abdominal girth has been essentially stable over the past month. On August 20, weight was 68 kg and creatinine was 78 μmol/L.\nAbdominal distension gradually worsened after a group meal and increased consumption of preserved foods 10 days ago, with a tighter waistband, early satiety, and bilateral ankle edema extending to the lower legs. From August 28 to 30, the patient independently increased furosemide from 20 mg/day to 40 mg/day while continuing spironolactone at 50 mg/day, without significant relief of abdominal distension. Over the past 3 days, food intake has been approximately half the usual amount, with water intake of approximately 1000 mL/day. Over the past 2 days, estimated urine output decreased from approximately 1500 mL/day to 800–1000 mL/day, with dark urine and worsening fatigue after activity.\nNo chills; maximum self-measured temperature 37.4°C. Only mild, diffuse, dull abdominal pain, without persistent, localized severe pain. No vomiting, diarrhea, hematemesis, or melena; recent stools have been yellow-brown, once daily. No cough, sputum production, or dysuria; no sleep–wake reversal, abnormal behavior, or confusion. Able to lie flat at night, with no chest pain or orthopnea. Marked ascites and relatively low blood pressure were noted at today’s outpatient visit, prompting admission.\nRecent medication use and exposures：Regularly takes entecavir 1 mg/day (previous decompensation), spironolactone 50 mg/day, and furosemide 20 mg/day; had not yet taken diuretics on the day of admission. Denies recent NSAIDs, Chinese herbal medicines, contrast agents, or other nephrotoxic drugs. No hospitalization or antibiotic use in the past 3 months, and no known history of colonization with resistant organisms.\nSince onset, slightly reduced energy, sleep affected by abdominal distension, and decreased appetite. Recent weight gain is primarily attributed to fluid retention; weight gain does not exclude nutritional risk.",
+    "past": "History of liver disease：Hepatitis B for approximately 20 years; follow-up was irregular initially. Started entecavir 1 mg once daily on an empty stomach after developing ascites 6 months ago; denies missed doses or prior use of nucleoside analogues such as lamivudine. No prior SBP, hepatic encephalopathy, gastrointestinal bleeding, liver cancer, or portal vein thrombosis.\nPrevious examinations：2026-06-15 outpatient gastroscopy summary: small varices in the lower esophagus, without red signs or active bleeding; mild portal hypertensive gastropathy. A nonselective beta-blocker has not yet been started because outpatient systolic blood pressure is usually 95–100 mmHg, with occasional dizziness; hepatology reassessment is planned. On 2026-08-20, creatinine was 78 μmol/L, sodium 135 mmol/L, and potassium 4.2 mmol/L; there was no significant edema at that time, and weight was 68 kg. The above is a summary of historical records; no original gastroscopy images have been fabricated.\nOther past medical history：Denies a history of hypertension, diabetes, coronary artery disease, heart failure, chronic kidney disease, tuberculosis, or malignancy. No history of surgery, trauma, or transfusion. Vaccination details are unknown. Denies known food or drug allergies.\nPersonal history：Born in and a long-term resident of Chengdu, Sichuan; married, lives with his wife, and has one son. Approximately 10 pack-years of smoking; quit 5 years ago. Previously drank small amounts of alcohol; stopped after diagnosis of cirrhosis. No intravenous drug use, tattoos, or recent exposure to contaminated water in endemic areas. Work mainly involves standing and light manual handling.\nFamily history：Mother is hepatitis B surface antigen positive; no known history of liver cancer. Father has hypertension. No known hereditary liver or kidney disease.\nReview of systems：No recent significant weight loss or night sweats; no chest tightness, palpitations, or unilateral lower-limb swelling and pain; no frequent small-volume urination, hematuria, or foamy urine; no rash or joint swelling and pain; no visual abnormalities or focal neurological symptoms.\nRecording physician: Zhao Heng (simulated signature for teaching)",
+    "daily_life": "Lives with his wife and has one son; work mainly involves standing and light manual handling.。",
+    "ward_patient": "Abdominal distension persists; mild abdominal pain has improved。",
+    "discharge_patient": "Food intake and sleep improved; abdominal pain and edema resolved。"
+  },
+  "REPORTS": {
+    "exam": {
+      "name": "Admission Physical Examination",
+      "stage": 0,
+      "category": "Physical examination",
+      "sheet": {
+        "title": "Admission Physical Examination",
+        "number": "exam",
+        "sample": "Physical examination",
+        "collected": "2026-09-01 09:20",
+        "received": "2026-09-01 09:20",
+        "reported": "2026-09-01 09:20",
+        "findings": "Vital signs；T 37.3℃；P 96 times/min；R 20 times/min；BP 98/62 mmHg；SpO2 97%（Air）\nHeight / Body weight / Abdominal circumference；170 cm / 76.0 kg / 106 cm; recent weight of 68 kg without edema used as estimated dry weight.\nGeneral condition；Alert and fully oriented, with features of chronic liver disease; mild scleral icterus, palmar erythema, and spider angiomas on the upper chest\nNutrition and skin；Reduced muscle bulk at the temples and upper arms; skin intact, with no active ecchymoses or foci of infection.\nHead and neck；No jugular venous distention or palpable superficial lymphadenopathy\nCardiopulmonary；Heart rate 96/min, regular rhythm, no appreciable murmur; clear breath sounds bilaterally, no crackles\nAbdominal inspection and palpation；Distended abdomen, slightly tense abdominal wall, and flat umbilicus; mild diffuse tenderness without rebound tenderness or guarding; liver not palpable below the costal margin, spleen approximately 2 cm below the costal margin…\nAbdominal percussion and auscultation；Positive shifting dullness and fluid wave; bowel sounds 4/min; no appreciable vascular bruit\nUrinary system and extremities；No tenderness to percussion over the renal areas; symmetric 2+ pitting edema of both lower legs; extremities warm.\nNervous system；No asterixis, pathological reflexes, or focal signs.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Vital signs；T 37.3℃；P 96 times/min；R 20 times/min；BP 98/62 mmHg；SpO2 97%（Air）\nHeight / Body weight / Abdominal circumference；170 cm / 76.0 kg / 106 cm; recent weight of 68 kg without edema used as estimated dry weight.\nGeneral condition；Alert and fully oriented, with features of chronic liver disease; mild scleral icterus, palmar erythema, and spider angiomas on the upper chest\nNutrition and skin；Reduced muscle bulk at the temples and upper arms; skin intact, with no active ecchymoses or foci of infection.\nHead and neck；No jugular venous distention or palpable superficial lymphadenopathy\nCardiopulmonary；Heart rate 96/min, regular rhythm, no appreciable murmur; clear breath sounds bilaterally, no crackles\nAbdominal inspection and palpation；Distended abdomen, slightly tense abdominal wall, and flat umbilicus; mild diffuse tenderness without rebound tenderness or guarding; liver not palpable below the costal margin, spleen approximately 2 cm below the costal margin…\nAbdominal percussion and auscultation；Positive shifting dullness and fluid wave; bowel sounds 4/min; no appreciable vascular bruit\nUrinary system and extremities；No tenderness to percussion over the renal areas; symmetric 2+ pitting edema of both lower legs; extremities warm.\nNervous system；No asterixis, pathological reflexes, or focal signs.",
+      "positive": "",
+      "source_page": 5,
+      "available_at": "2026-09-01 09:20"
+    },
+    "cbc": {
+      "name": "Complete blood count",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Complete blood count",
+        "number": "cbc",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:15",
+        "findings": "",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "7.8",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Neutrophil percentage",
+            "value": "78",
+            "flag": "↑",
+            "unit": "%",
+            "reference": "40-75"
+          },
+          {
+            "name": "Neutrophil count",
+            "value": "6.08",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "1.8-6.3"
+          },
+          {
+            "name": "Lymphocyte percentage",
+            "value": "13",
+            "flag": "↓",
+            "unit": "%",
+            "reference": "20-50"
+          },
+          {
+            "name": "Lymphocyte count",
+            "value": "1.01",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "1.1-3.2"
+          },
+          {
+            "name": "Monocyte percentage",
+            "value": "7",
+            "flag": "",
+            "unit": "%",
+            "reference": "3-10"
+          },
+          {
+            "name": "Eosinophil percentage",
+            "value": "1.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0.4-8"
+          },
+          {
+            "name": "Basophil percentage",
+            "value": "0.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0-1"
+          },
+          {
+            "name": "Red blood cells",
+            "value": "3.65",
+            "flag": "↓",
+            "unit": "10^12/L",
+            "reference": "4.3-5.8"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "118",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Hematocrit",
+            "value": "0.35",
+            "flag": "↓",
+            "unit": "L/L",
+            "reference": "0.4-0.5"
+          },
+          {
+            "name": "Mean corpuscular volume",
+            "value": "95.9",
+            "flag": "",
+            "unit": "fL",
+            "reference": "82-100"
+          },
+          {
+            "name": "Mean corpuscular hemoglobin",
+            "value": "32.3",
+            "flag": "",
+            "unit": "pg",
+            "reference": "27-34"
+          },
+          {
+            "name": "Mean corpuscular hemoglobin concentration",
+            "value": "337",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "316-354"
+          },
+          {
+            "name": "Platelets",
+            "value": "68",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "White blood cells 7.8 10^9/L （Reference：3.5-9.5）\nNeutrophil percentage 78 % ↑（Reference：40-75）\nNeutrophil count 6.08 10^9/L （Reference：1.8-6.3）\nLymphocyte percentage 13 % ↓（Reference：20-50）\nLymphocyte count 1.01 10^9/L ↓（Reference：1.1-3.2）\nMonocyte percentage 7 % （Reference：3-10）\nEosinophil percentage 1.5 % （Reference：0.4-8）\nBasophil percentage 0.5 % （Reference：0-1）\nRed blood cells 3.65 10^12/L ↓（Reference：4.3-5.8）\nHemoglobin 118 g/L ↓（Reference：130-175）\nHematocrit 0.35 L/L ↓（Reference：0.4-0.5）\nMean corpuscular volume 95.9 fL （Reference：82-100）\nMean corpuscular hemoglobin 32.3 pg （Reference：27-34）\nMean corpuscular hemoglobin concentration 337 g/L （Reference：316-354）\nPlatelets 68 10^9/L ↓（Reference：125-350）",
+      "positive": "Neutrophil percentage 78 % ↑；Lymphocyte percentage 13 % ↓；Lymphocyte count 1.01 10^9/L ↓；Red blood cells 3.65 10^12/L ↓；Hemoglobin 118 g/L ↓；Hematocrit 0.35 L/L ↓；Platelets 68 10^9/L ↓",
+      "source_page": 7,
+      "available_at": "2026-09-01 09:45"
+    },
+    "chemistry": {
+      "name": "Liver and renal function and electrolytes",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Liver and renal function and electrolytes",
+        "number": "chemistry",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:40",
+        "findings": "",
+        "rows": [
+          {
+            "name": "ALT",
+            "value": "38",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "9-50"
+          },
+          {
+            "name": "AST",
+            "value": "56",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "15-40"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "48",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "Direct bilirubin",
+            "value": "26",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-7"
+          },
+          {
+            "name": "Albumin",
+            "value": "25",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total protein",
+            "value": "61",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "65-85"
+          },
+          {
+            "name": "ALP",
+            "value": "112",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "45-125"
+          },
+          {
+            "name": "GGT",
+            "value": "78",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "10-60"
+          },
+          {
+            "name": "Urea",
+            "value": "10.2",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8.0"
+          },
+          {
+            "name": "Creatinine",
+            "value": "118",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "129",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "chlorine",
+            "value": "97",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "Total carbon dioxide",
+            "value": "22",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "Glucose",
+            "value": "5.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.9-6.1"
+          },
+          {
+            "name": "LDH",
+            "value": "180",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "120-250"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "ALT 38 U/L （Reference：9-50）\nAST 56 U/L ↑（Reference：15-40）\nTotal bilirubin 48 μmol/L ↑（Reference：0-21）\nDirect bilirubin 26 μmol/L ↑（Reference：0-7）\nAlbumin 25 g/L ↓（Reference：40-55）\nTotal protein 61 g/L ↓（Reference：65-85）\nALP 112 U/L （Reference：45-125）\nGGT 78 U/L ↑（Reference：10-60）\nUrea 10.2 mmol/L ↑（Reference：3.1-8.0）\nCreatinine 118 μmol/L ↑（Reference：57-97）\nsodium 129 mmol/L ↓（Reference：135-145）\npotassium 4.6 mmol/L （Reference：3.5-5.3）\nchlorine 97 mmol/L ↓（Reference：99-110）\nTotal carbon dioxide 22 mmol/L （Reference：22-29）\nGlucose 5.8 mmol/L （Reference：3.9-6.1）\nLDH 180 U/L （Reference：120-250）",
+      "positive": "AST 56 U/L ↑；Total bilirubin 48 μmol/L ↑；Direct bilirubin 26 μmol/L ↑；Albumin 25 g/L ↓；Total protein 61 g/L ↓；GGT 78 U/L ↑；Urea 10.2 mmol/L ↑；Creatinine 118 μmol/L ↑；sodium 129 mmol/L ↓；chlorine 97 mmol/L ↓",
+      "source_page": 8,
+      "available_at": "2026-09-01 09:45"
+    },
+    "coagulation": {
+      "name": "Coagulation and inflammatory markers",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Coagulation and inflammatory markers",
+        "number": "coagulation",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:45",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Prothrombin time",
+            "value": "17.8",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "11-14.5"
+          },
+          {
+            "name": "INR",
+            "value": "1.55",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "APTT",
+            "value": "38",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "25-35"
+          },
+          {
+            "name": "Fibrinogen",
+            "value": "1.8",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "2-4"
+          },
+          {
+            "name": "CRP",
+            "value": "42",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          },
+          {
+            "name": "Procalcitonin",
+            "value": "0.32",
+            "flag": "↑",
+            "unit": "ng/mL",
+            "reference": "0-0.05"
+          },
+          {
+            "name": "Venous lactate",
+            "value": "1.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "0.5-2.2"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Prothrombin time 17.8 s ↑（Reference：11-14.5）\nINR 1.55  ↑（Reference：0.8-1.2）\nAPTT 38 s ↑（Reference：25-35）\nFibrinogen 1.8 g/L ↓（Reference：2-4）\nCRP 42 mg/L ↑（Reference：0-8）\nProcalcitonin 0.32 ng/mL ↑（Reference：0-0.05）\nVenous lactate 1.8 mmol/L （Reference：0.5-2.2）",
+      "positive": "Prothrombin time 17.8 s ↑；INR 1.55  ↑；APTT 38 s ↑；Fibrinogen 1.8 g/L ↓；CRP 42 mg/L ↑；Procalcitonin 0.32 ng/mL ↑",
+      "source_page": 9,
+      "available_at": "2026-09-01 09:45"
+    },
+    "urine": {
+      "name": "Urinalysis",
+      "stage": 0,
+      "category": "Urine",
+      "sheet": {
+        "title": "Urinalysis",
+        "number": "urine",
+        "sample": "Urine",
+        "collected": "2026-09-01 10:00",
+        "received": "2026-09-01 10:00",
+        "reported": "2026-09-01 11:20",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Urine specific gravity",
+            "value": "1.02",
+            "flag": "",
+            "unit": "",
+            "reference": "1.005-1.03"
+          },
+          {
+            "name": "Urine protein",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "Urine occult blood",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "Urinary red blood cells",
+            "value": "1",
+            "flag": "",
+            "unit": "item/HPF",
+            "reference": "0-3"
+          },
+          {
+            "name": "Urinary white blood cells",
+            "value": "2",
+            "flag": "",
+            "unit": "item/HPF",
+            "reference": "0-5"
+          },
+          {
+            "name": "Granular casts",
+            "value": "Not observed",
+            "flag": "",
+            "unit": "",
+            "reference": "Not observed"
+          },
+          {
+            "name": "Urine protein/Creatinine ratio",
+            "value": "0.09",
+            "flag": "",
+            "unit": "g/g",
+            "reference": "0-0.15"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Urine specific gravity 1.02  （Reference：1.005-1.03）\nUrine protein Negative  （Reference：Negative）\nUrine occult blood Negative  （Reference：Negative）\nUrinary red blood cells 1 item/HPF （Reference：0-3）\nUrinary white blood cells 2 item/HPF （Reference：0-5）\nGranular casts Not observed  （Reference：Not observed）\nUrine protein/Creatinine ratio 0.09 g/g （Reference：0-0.15）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 10:00"
+    },
+    "etiology": {
+      "name": "Etiologic Screening",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Etiologic Screening",
+        "number": "etiology",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-02 09:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "HBsAg",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "HBeAg",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "anti--HBe",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Interpret according to infection status"
+          },
+          {
+            "name": "anti--HBc",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Interpret according to infection status"
+          },
+          {
+            "name": "HBV DNA",
+            "value": "<20",
+            "flag": "",
+            "unit": "IU/mL",
+            "reference": "Below the lower limit of quantification 20"
+          },
+          {
+            "name": "anti--HCV",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "HIV Antigen/Antibody",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "AFP",
+            "value": "4.2",
+            "flag": "",
+            "unit": "ng/mL",
+            "reference": "0-7"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "HBsAg Positive  （Reference：Negative）\nHBeAg Negative  （Reference：Negative）\nanti--HBe Positive  （Reference：Interpret according to infection status）\nanti--HBc Positive  （Reference：Interpret according to infection status）\nHBV DNA <20 IU/mL （Reference：Below the lower limit of quantification 20）\nanti--HCV Negative  （Reference：Negative）\nHIV Antigen/Antibody Negative  （Reference：Negative）\nAFP 4.2 ng/mL （Reference：0-7）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 09:45"
+    },
+    "ultrasound": {
+      "name": "Ultrasound of the liver, gallbladder, spleen, and urinary tract",
+      "stage": 0,
+      "category": "Imaging",
+      "sheet": {
+        "title": "Ultrasound of the liver, gallbladder, spleen, and urinary tract",
+        "number": "ultrasound",
+        "sample": "Imaging",
+        "collected": "2026-09-01 10:35",
+        "received": "2026-09-01 10:35",
+        "reported": "2026-09-01 11:00",
+        "findings": "Examination items：Liver, gallbladder, spleen, portal vein, and localization of ascites; both kidneys and bladder.\nNarrative findings (synthetic case setting)：The liver capsule is mildly irregular, with coarse, heterogeneous parenchymal echotexture and no definite focal mass. The main portal vein measures approximately 14 mm in internal diameter; color Doppler shows hepatopetal flow, with no definite filling defect. The spleen measures approximately 145 mm in length and 48 mm in thickness. Multiple anechoic fluid collections are present in the abdomen and pelvis, including the perihepatic and perisplenic regions and bilateral iliac fossae. A safe paracentesis window can be selected in the left lower abdomen. No significant bile duct dilatation. Both kidneys are of reasonably normal size and shape, with no collecting system dilatation and no significant urinary retention in the bladder.\nUltrasound suggests：Sonographic changes of cirrhosis; splenomegaly; large-volume ascites. No definite signs of portal vein thrombosis, focal hepatic lesions, or urinary tract obstruction on this examination.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。",
+        "image": "ultrasound-synthetic.png"
+      },
+      "text": "Examination items：Liver, gallbladder, spleen, portal vein, and localization of ascites; both kidneys and bladder.\nNarrative findings (synthetic case setting)：The liver capsule is mildly irregular, with coarse, heterogeneous parenchymal echotexture and no definite focal mass. The main portal vein measures approximately 14 mm in internal diameter; color Doppler shows hepatopetal flow, with no definite filling defect. The spleen measures approximately 145 mm in length and 48 mm in thickness. Multiple anechoic fluid collections are present in the abdomen and pelvis, including the perihepatic and perisplenic regions and bilateral iliac fossae. A safe paracentesis window can be selected in the left lower abdomen. No significant bile duct dilatation. Both kidneys are of reasonably normal size and shape, with no collecting system dilatation and no significant urinary retention in the bladder.\nUltrasound suggests：Sonographic changes of cirrhosis; splenomegaly; large-volume ascites. No definite signs of portal vein thrombosis, focal hepatic lesions, or urinary tract obstruction on this examination.",
+      "positive": "",
+      "source_page": 11,
+      "available_at": "2026-09-01 10:35"
+    },
+    "ecg": {
+      "name": "Twelve-lead ECG",
+      "stage": 0,
+      "category": "Electrocardiography",
+      "sheet": {
+        "title": "Twelve-lead ECG",
+        "number": "ecg",
+        "sample": "Electrocardiography",
+        "collected": "2026-09-01 10:10",
+        "received": "2026-09-01 10:10",
+        "reported": "2026-09-01 10:20",
+        "findings": "Heart rate / Rhythm；96 times/min / Sinus rhythm\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\nElectrical axis / ST-T；Approximately +45°; no acute ischemic ST-T changes (case specification).",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。",
+        "image": "ecg-synthetic.png"
+      },
+      "text": "Heart rate / Rhythm；96 times/min / Sinus rhythm\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\nElectrical axis / ST-T；Approximately +45°; no acute ischemic ST-T changes (case specification).",
+      "positive": "",
+      "source_page": 12,
+      "available_at": "2026-09-01 10:10"
+    },
+    "ascites": {
+      "name": "Diagnostic paracentesis and ascitic fluid analysis",
+      "stage": 0,
+      "category": "Ascites",
+      "sheet": {
+        "title": "Diagnostic paracentesis and ascitic fluid analysis",
+        "number": "ascites",
+        "sample": "Ascites",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-01 12:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Color / Clarity",
+            "value": "Pale yellow / Slightly cloudy",
+            "flag": "",
+            "unit": "",
+            "reference": "Descriptive items"
+          },
+          {
+            "name": "Total nucleated cell count",
+            "value": "1000",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "No standardized normal reference interval"
+          },
+          {
+            "name": "Neutrophil percentage",
+            "value": "64",
+            "flag": "",
+            "unit": "%",
+            "reference": "Consider absolute counts"
+          },
+          {
+            "name": "Absolute neutrophil count",
+            "value": "640",
+            "flag": "↑",
+            "unit": "item/μL",
+            "reference": "<250；≥250 is SBP Diagnostic threshold"
+          },
+          {
+            "name": "Red blood cells",
+            "value": "400",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "Consider puncture circumstances"
+          },
+          {
+            "name": "Ascitic fluid albumin",
+            "value": "7",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "Interpret alongside concurrent serum albumin"
+          },
+          {
+            "name": "Ascitic fluid total protein",
+            "value": "10",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "Consider the etiology; <15 suggests low-protein ascites"
+          },
+          {
+            "name": "Glucose",
+            "value": "5.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "Considering blood glucose and clinical"
+          },
+          {
+            "name": "LDH",
+            "value": "72",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "In conjunction with serum LDH Upper limit 250"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Color / Clarity Pale yellow / Slightly cloudy  （Reference：Descriptive items）\nTotal nucleated cell count 1000 item/μL （Reference：No standardized normal reference interval）\nNeutrophil percentage 64 % （Reference：Consider absolute counts）\nAbsolute neutrophil count 640 item/μL ↑（Reference：<250；≥250 is SBP Diagnostic threshold）\nRed blood cells 400 item/μL （Reference：Consider puncture circumstances）\nAscitic fluid albumin 7 g/L （Reference：Interpret alongside concurrent serum albumin）\nAscitic fluid total protein 10 g/L （Reference：Consider the etiology; <15 suggests low-protein ascites）\nGlucose 5.5 mmol/L （Reference：Considering blood glucose and clinical）\nLDH 72 U/L （Reference：In conjunction with serum LDH Upper limit 250）",
+      "positive": "Absolute neutrophil count 640 item/μL ↑",
+      "source_page": 14,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-prelim": {
+      "name": "Preliminary ascitic fluid culture report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Preliminary ascitic fluid culture report",
+        "number": "culture-prelim",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-02 16:00",
+        "findings": "Gram-negative bacilli; identification and antimicrobial susceptibility results are still pending。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Gram-negative bacilli; identification and antimicrobial susceptibility results are still pending。",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-final": {
+      "name": "Final ascitic fluid culture and antimicrobial susceptibility report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final ascitic fluid culture and antimicrobial susceptibility report",
+        "number": "culture-final",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-03 09:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Culture results",
+            "value": "Escherichia coli",
+            "flag": "",
+            "unit": "",
+            "reference": "Positive; a single bacterial species"
+          },
+          {
+            "name": "Ceftriaxone",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Piperacillin/Tazobactam",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Meropenem",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Ciprofloxacin",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Trimethoprim-sulfamethoxazole",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Ampicillin",
+            "value": "Drug resistance（R）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "ESBL Screening",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Culture results Escherichia coli  （Reference：Positive; a single bacterial species）\nCeftriaxone Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nPiperacillin/Tazobactam Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nMeropenem Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nCiprofloxacin Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nTrimethoprim-sulfamethoxazole Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nAmpicillin Drug resistance（R）  （Reference：Simulated antimicrobial susceptibility categories）\nESBL Screening Negative  （Reference：Negative）",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "renal-day2": {
+      "name": "No.2 Renal function and electrolytes on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.2 Renal function and electrolytes on day",
+        "number": "renal-day2",
+        "sample": "Blood",
+        "collected": "2026-09-02 06:00",
+        "received": "2026-09-02 06:00",
+        "reported": "2026-09-02 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "150",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "11.8",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "128",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "chlorine",
+            "value": "96",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "Total carbon dioxide",
+            "value": "21",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "Albumin",
+            "value": "30",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "46",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "CRP",
+            "value": "38",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 150 μmol/L ↑（Reference：57-97）\nUrea 11.8 mmol/L ↑（Reference：3.1-8）\nsodium 128 mmol/L ↓（Reference：135-145）\npotassium 4.8 mmol/L （Reference：3.5-5.3）\nchlorine 96 mmol/L ↓（Reference：99-110）\nTotal carbon dioxide 21 mmol/L ↓（Reference：22-29）\nAlbumin 30 g/L ↓（Reference：40-55）\nTotal bilirubin 46 μmol/L ↑（Reference：0-21）\nCRP 38 mg/L ↑（Reference：0-8）",
+      "positive": "Creatinine 150 μmol/L ↑；Urea 11.8 mmol/L ↑；sodium 128 mmol/L ↓；chlorine 96 mmol/L ↓；Total carbon dioxide 21 mmol/L ↓；Albumin 30 g/L ↓；Total bilirubin 46 μmol/L ↑；CRP 38 mg/L ↑",
+      "source_page": 16,
+      "available_at": "2026-09-02 06:00"
+    },
+    "blood-day3": {
+      "name": "No.3 Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.3 Repeat blood tests on day",
+        "number": "blood-day3",
+        "sample": "Blood",
+        "collected": "2026-09-03 06:00",
+        "received": "2026-09-03 06:00",
+        "reported": "2026-09-03 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "5.6",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "116",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Platelets",
+            "value": "70",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          },
+          {
+            "name": "Creatinine",
+            "value": "112",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "9.5",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "130",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "20",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "White blood cells 5.6 10^9/L （Reference：3.5-9.5）\nHemoglobin 116 g/L ↓（Reference：130-175）\nPlatelets 70 10^9/L ↓（Reference：125-350）\nCreatinine 112 μmol/L ↑（Reference：57-97）\nUrea 9.5 mmol/L ↑（Reference：3.1-8）\nsodium 130 mmol/L ↓（Reference：135-145）\npotassium 4.5 mmol/L （Reference：3.5-5.3）\nCRP 20 mg/L ↑（Reference：0-8）",
+      "positive": "Hemoglobin 116 g/L ↓；Platelets 70 10^9/L ↓；Creatinine 112 μmol/L ↑；Urea 9.5 mmol/L ↑；sodium 130 mmol/L ↓；CRP 20 mg/L ↑",
+      "source_page": 19,
+      "available_at": "2026-09-03 06:00"
+    },
+    "ascites-repeat": {
+      "name": "Repeat abdominal paracentesis and ascitic fluid cell count",
+      "stage": 2,
+      "category": "Ascites",
+      "sheet": {
+        "title": "Repeat abdominal paracentesis and ascitic fluid cell count",
+        "number": "ascites-repeat",
+        "sample": "Ascites",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-03 12:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Total nucleated cell count in ascitic fluid",
+            "value": "300",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "No standardized reference interval"
+          },
+          {
+            "name": "Ascitic fluid neutrophil percentage",
+            "value": "40",
+            "flag": "",
+            "unit": "%",
+            "reference": "Consider absolute counts"
+          },
+          {
+            "name": "Ascites PMN Absolute count",
+            "value": "120",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "<250；≥250 is SBP Diagnostic threshold"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Total nucleated cell count in ascitic fluid 300 item/μL （Reference：No standardized reference interval）\nAscitic fluid neutrophil percentage 40 % （Reference：Consider absolute counts）\nAscites PMN Absolute count 120 item/μL （Reference：<250；≥250 is SBP Diagnostic threshold）",
+      "positive": "",
+      "source_page": 19,
+      "available_at": "2026-09-03 11:50"
+    },
+    "pre-drainage": {
+      "name": "No.4 Pre-paracentesis safety assessment on the day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.4 Pre-paracentesis safety assessment on the day",
+        "number": "pre-drainage",
+        "sample": "Blood",
+        "collected": "2026-09-04 06:00",
+        "received": "2026-09-04 06:00",
+        "reported": "2026-09-04 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "96",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "7.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "132",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.3",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "Albumin",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "38",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.45",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "Platelets",
+            "value": "72",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 96 μmol/L （Reference：57-97）\nUrea 7.6 mmol/L （Reference：3.1-8）\nsodium 132 mmol/L ↓（Reference：135-145）\npotassium 4.3 mmol/L （Reference：3.5-5.3）\nAlbumin 32 g/L ↓（Reference：40-55）\nTotal bilirubin 38 μmol/L ↑（Reference：0-21）\nINR 1.45  ↑（Reference：0.8-1.2）\nPlatelets 72 10^9/L ↓（Reference：125-350）",
+      "positive": "sodium 132 mmol/L ↓；Albumin 32 g/L ↓；Total bilirubin 38 μmol/L ↑；INR 1.45  ↑；Platelets 72 10^9/L ↓",
+      "source_page": 21,
+      "available_at": "2026-09-04 06:00"
+    },
+    "blood-day5": {
+      "name": "No.5Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.5Repeat blood tests on day",
+        "number": "blood-day5",
+        "sample": "Blood",
+        "collected": "2026-09-05 06:00",
+        "received": "2026-09-05 06:00",
+        "reported": "2026-09-05 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "88",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "133",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 88 μmol/L （Reference：57-97）\nsodium 133 mmol/L ↓（Reference：135-145）\npotassium 4.2 mmol/L （Reference：3.5-5.3）",
+      "positive": "sodium 133 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-05 06:00"
+    },
+    "blood-day7": {
+      "name": "No.7Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.7Repeat blood tests on day",
+        "number": "blood-day7",
+        "sample": "Blood",
+        "collected": "2026-09-07 06:00",
+        "received": "2026-09-07 06:00",
+        "reported": "2026-09-07 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "84",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.1",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "5",
+            "flag": "",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 84 μmol/L （Reference：57-97）\nsodium 134 mmol/L ↓（Reference：135-145）\npotassium 4.1 mmol/L （Reference：3.5-5.3）\nCRP 5 mg/L （Reference：0-8）",
+      "positive": "sodium 134 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-07 06:00"
+    },
+    "blood-day9": {
+      "name": "No.9Repeat blood tests on day",
+      "stage": 3,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.9Repeat blood tests on day",
+        "number": "blood-day9",
+        "sample": "Blood",
+        "collected": "2026-09-09 06:00",
+        "received": "2026-09-09 06:00",
+        "reported": "2026-09-09 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "82",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "5.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "Albumin",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "30",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.35",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "White blood cells",
+            "value": "4.2",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "119",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Platelets",
+            "value": "75",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 82 μmol/L （Reference：57-97）\nUrea 5.6 mmol/L （Reference：3.1-8）\nsodium 134 mmol/L ↓（Reference：135-145）\npotassium 4.2 mmol/L （Reference：3.5-5.3）\nAlbumin 32 g/L ↓（Reference：40-55）\nTotal bilirubin 30 μmol/L ↑（Reference：0-21）\nINR 1.35  ↑（Reference：0.8-1.2）\nWhite blood cells 4.2 10^9/L （Reference：3.5-9.5）\nHemoglobin 119 g/L ↓（Reference：130-175）\nPlatelets 75 10^9/L ↓（Reference：125-350）",
+      "positive": "sodium 134 mmol/L ↓；Albumin 32 g/L ↓；Total bilirubin 30 μmol/L ↑；INR 1.35  ↑；Hemoglobin 119 g/L ↓；Platelets 75 10^9/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-09 06:00"
+    },
+    "blood-culture": {
+      "name": "Final blood culture report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final blood culture report",
+        "number": "blood-culture",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 09:50",
+        "received": "2026-09-01 09:50",
+        "reported": "2026-09-06 10:00",
+        "findings": "Two sets of peripheral blood cultures 5 days with no bacteria detected。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Two sets of peripheral blood cultures 5 days with no bacteria detected。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-01 09:50"
+    },
+    "repeat-culture": {
+      "name": "Final repeat ascitic fluid culture report",
+      "stage": 2,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final repeat ascitic fluid culture report",
+        "number": "repeat-culture",
+        "sample": "Microbiology",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-08 12:30",
+        "findings": "Repeat ascitic fluid culture 5 days with no bacteria detected。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Repeat ascitic fluid culture 5 days with no bacteria detected。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-03 11:50"
+    },
+    "ultrasound-review": {
+      "name": "Abdominal ultrasound before discharge",
+      "stage": 2,
+      "category": "Imaging",
+      "sheet": {
+        "title": "Abdominal ultrasound before discharge",
+        "number": "ultrasound-review",
+        "sample": "Imaging",
+        "collected": "2026-09-08 09:30",
+        "received": "2026-09-08 09:30",
+        "reported": "2026-09-08 09:30",
+        "findings": "ASC-US02 · 09-08 09:30 Follow-up ultrasound report：Liver and spleen morphology similar to prior findings. Small-volume free fluid in the abdomen and pelvis, markedly decreased. No definite new intrahepatic mass or main portal vein thrombosis. No dilatation of either renal collecting system.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "ASC-US02 · 09-08 09:30 Follow-up ultrasound report：Liver and spleen morphology similar to prior findings. Small-volume free fluid in the abdomen and pelvis, markedly decreased. No definite new intrahepatic mass or main portal vein thrombosis. No dilatation of either renal collecting system.",
+      "positive": "",
+      "source_page": 26,
+      "available_at": "2026-09-08 09:30"
+    },
+    "drainage": {
+      "name": "Therapeutic Paracentesis Record",
+      "stage": 2,
+      "category": "Actions",
+      "sheet": {
+        "title": "Therapeutic Paracentesis Record",
+        "number": "drainage",
+        "sample": "Actions",
+        "collected": "2026-09-04 10:00",
+        "received": "2026-09-04 10:00",
+        "reported": "2026-09-04 11:40",
+        "findings": "2026-09-04　Start 10:00，End 11:40\nPreprocedural diagnosis and indications：Cirrhosis with large-volume ascites; good response to SBP treatment and recovery of renal function. Persistent marked abdominal distension and early satiety, with a tense abdominal wall. BP 108/68 mmHg, pulse 82/min, SpO2 98%. Currently does not meet the definition of refractory ascites.\nInformed consent and preparation：The purpose of drainage, albumin replacement, and risks including bleeding, infection, hypotension, circulatory dysfunction, and leakage were explained; the Patient consented. Identity and the ultrasound window were verified, and the bladder was emptied; no prophylactic plasma or platelet transfusion.\nProcedure details：The patient was placed in a semi-recumbent position. Ultrasound identified a safe fluid pocket in the left lower abdomen, avoiding abdominal wall vessels. Following routine sterile skin preparation and draping, local anesthesia with 5 mL of 1% lidocaine was administered, and a disposable paracentesis catheter was inserted. A total of 6000 mL of clear, pale-yellow ascitic fluid was drained slowly in stages with observation. Vital signs and symptoms were checked every 15 minutes. No catheter was left for continuous drainage. On completion, the catheter was removed, pressure applied, and a sterile dressing placed.\nAlbumin and safety records：Based on 6 L drained × 8 g/L, administer an additional 48 g (240 mL) of 20% human albumin by slow IV infusion after the procedure, with monitoring. This is indicated for paracentesis and is documented separately from the SBP regimens on 09-01 and 09-03, not counted twice on the same day.\nPostoperative：Latest BP 106/66 mmHg, P 80 beats/min, SpO₂ 98%; abdominal distension markedly improved, abdominal girth decreased from 105 cm to 96 cm, and weight decreased from 75.6 kg to 69.6 kg. No local bleeding or fluid leakage, worsening abdominal pain, or syncope. Continue observation for 2 hours and recheck renal function and electrolytes the next morning.\nProcedural physician: Zhao Heng; supervising physician: Shen Yan; nurse: Jiang Yue (all simulated roles). No surgical operation was performed in this case; this is an invasive procedure record.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "2026-09-04　Start 10:00，End 11:40\nPreprocedural diagnosis and indications：Cirrhosis with large-volume ascites; good response to SBP treatment and recovery of renal function. Persistent marked abdominal distension and early satiety, with a tense abdominal wall. BP 108/68 mmHg, pulse 82/min, SpO2 98%. Currently does not meet the definition of refractory ascites.\nInformed consent and preparation：The purpose of drainage, albumin replacement, and risks including bleeding, infection, hypotension, circulatory dysfunction, and leakage were explained; the Patient consented. Identity and the ultrasound window were verified, and the bladder was emptied; no prophylactic plasma or platelet transfusion.\nProcedure details：The patient was placed in a semi-recumbent position. Ultrasound identified a safe fluid pocket in the left lower abdomen, avoiding abdominal wall vessels. Following routine sterile skin preparation and draping, local anesthesia with 5 mL of 1% lidocaine was administered, and a disposable paracentesis catheter was inserted. A total of 6000 mL of clear, pale-yellow ascitic fluid was drained slowly in stages with observation. Vital signs and symptoms were checked every 15 minutes. No catheter was left for continuous drainage. On completion, the catheter was removed, pressure applied, and a sterile dressing placed.\nAlbumin and safety records：Based on 6 L drained × 8 g/L, administer an additional 48 g (240 mL) of 20% human albumin by slow IV infusion after the procedure, with monitoring. This is indicated for paracentesis and is documented separately from the SBP regimens on 09-01 and 09-03, not counted twice on the same day.\nPostoperative：Latest BP 106/66 mmHg, P 80 beats/min, SpO₂ 98%; abdominal distension markedly improved, abdominal girth decreased from 105 cm to 96 cm, and weight decreased from 75.6 kg to 69.6 kg. No local bleeding or fluid leakage, worsening abdominal pain, or syncope. Continue observation for 2 hours and recheck renal function and electrolytes the next morning.\nProcedural physician: Zhao Heng; supervising physician: Shen Yan; nurse: Jiang Yue (all simulated roles). No surgical operation was performed in this case; this is an invasive procedure record.",
+      "positive": "",
+      "source_page": 22,
+      "available_at": "2026-09-04 10:00"
+    },
+    "handoff": {
+      "name": "Preset first-day treatment handoff",
+      "stage": 1,
+      "category": "Handover",
+      "sheet": {
+        "title": "Preset first-day treatment handoff",
+        "number": "handoff",
+        "sample": "Handover",
+        "collected": "2026-09-01 18:00",
+        "received": "2026-09-01 18:00",
+        "reported": "2026-09-01 18:00",
+        "findings": "2026-09-01 12:15\nTest results and diagnostic revision：Ascitic fluid PMN count 640 cells/μL, SAAG 18 g/L; ascitic fluid total protein 10 g/L, serum Cr 118 μmol/L, Na 129 mmol/L, ALB 25 g/L. Preliminary findings establish portal hypertension-related ascites with SBP. There are no localized peritoneal signs, and ascitic fluid biochemistry does not currently support secondary peritonitis, but treatment response must be monitored.\nAssessment of renal function：Creatinine rose from a baseline of 78 on August 20 to the current 118 μmol/L, a 51% increase, but the baseline is more than 7 days old. Record “suspected AKI” for now; the 7-day criterion cannot be applied directly using this old value alone. The patient has had oliguria for the past 2 days; infection, inadequate intake, and self-increased diuretic dosing may all contribute. Repeat testing the next day and short-term trends will be used for confirmation.\nTreatment implementation：At 11:50, start ceftriaxone 2 g by intravenous infusion every 24 hours. Community onset, with no recent antibiotic use or hospitalization and no known history of antimicrobial resistance; this simulation assumes the hospital’s empirical regimen for community-acquired SBP permits this drug, to be reassessed after culture results. At 12:10, start 20% human albumin, calculated using estimated dry weight: 68 kg × 1.5 g/kg = 102 g (510 mL), administered slowly in divided infusions while monitoring breathing, SpO2, blood pressure, and pulmonary signs.\nTemporarily withhold diuretics and large-volume paracentesis. Although abdominal distension is marked, there is currently no evidence of respiratory limitation or abdominal compartment syndrome; prioritize infection control and perfusion assessment. No shock; vasoconstrictors are not currently indicated. Restrict dietary sodium to approximately 2 g/day (equivalent to approximately 5 g/day of salt), while ensuring adequate energy and protein intake. With Na 129 and no neurological symptoms, routine strict fluid restriction is not indicated.\nSeverity：Admission Child-Pugh score: bilirubin 2 points, albumin 3, INR 1, large-volume ascites 3, and no encephalopathy 1; total 10, class C. Ascites scoring involves clinical judgment. Infection and renal dysfunction increase short-term risk and require close monitoring.\n2026-09-01 18:00: No dyspnea or crackles during the infusion; BP 102/64 mmHg. Persistent abdominal distension, without signs of peritoneal irritation. The family was informed of key overnight observations and possible changes in the patient’s condition.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "2026-09-01 12:15\nTest results and diagnostic revision：Ascitic fluid PMN count 640 cells/μL, SAAG 18 g/L; ascitic fluid total protein 10 g/L, serum Cr 118 μmol/L, Na 129 mmol/L, ALB 25 g/L. Preliminary findings establish portal hypertension-related ascites with SBP. There are no localized peritoneal signs, and ascitic fluid biochemistry does not currently support secondary peritonitis, but treatment response must be monitored.\nAssessment of renal function：Creatinine rose from a baseline of 78 on August 20 to the current 118 μmol/L, a 51% increase, but the baseline is more than 7 days old. Record “suspected AKI” for now; the 7-day criterion cannot be applied directly using this old value alone. The patient has had oliguria for the past 2 days; infection, inadequate intake, and self-increased diuretic dosing may all contribute. Repeat testing the next day and short-term trends will be used for confirmation.\nTreatment implementation：At 11:50, start ceftriaxone 2 g by intravenous infusion every 24 hours. Community onset, with no recent antibiotic use or hospitalization and no known history of antimicrobial resistance; this simulation assumes the hospital’s empirical regimen for community-acquired SBP permits this drug, to be reassessed after culture results. At 12:10, start 20% human albumin, calculated using estimated dry weight: 68 kg × 1.5 g/kg = 102 g (510 mL), administered slowly in divided infusions while monitoring breathing, SpO2, blood pressure, and pulmonary signs.\nTemporarily withhold diuretics and large-volume paracentesis. Although abdominal distension is marked, there is currently no evidence of respiratory limitation or abdominal compartment syndrome; prioritize infection control and perfusion assessment. No shock; vasoconstrictors are not currently indicated. Restrict dietary sodium to approximately 2 g/day (equivalent to approximately 5 g/day of salt), while ensuring adequate energy and protein intake. With Na 129 and no neurological symptoms, routine strict fluid restriction is not indicated.\nSeverity：Admission Child-Pugh score: bilirubin 2 points, albumin 3, INR 1, large-volume ascites 3, and no encephalopathy 1; total 10, class C. Ascites scoring involves clinical judgment. Infection and renal dysfunction increase short-term risk and require close monitoring.\n2026-09-01 18:00: No dyspnea or crackles during the infusion; BP 102/64 mmHg. Persistent abdominal distension, without signs of peritoneal irritation. The family was informed of key overnight observations and possible changes in the patient’s condition.",
+      "positive": "",
+      "source_page": 15,
+      "available_at": "2026-09-01 18:00"
+    },
+    "ward": {
+      "name": "Today’s nursing care and physical examination",
+      "stage": 2,
+      "category": "Reassessment",
+      "sheet": {
+        "title": "Today’s nursing care and physical examination",
+        "number": "ward",
+        "sample": "Reassessment",
+        "collected": "2026-09-02 09:00",
+        "received": "2026-09-02 09:00",
+        "reported": "2026-09-02 09:00",
+        "findings": "View by the current ward-round date。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "View by the current ward-round date。",
+      "positive": "",
+      "source_page": 30,
+      "available_at": "2026-09-02 09:00"
+    },
+    "discharge": {
+      "name": "Predischarge status",
+      "stage": 3,
+      "category": "Reassessment",
+      "sheet": {
+        "title": "Predischarge status",
+        "number": "discharge",
+        "sample": "Reassessment",
+        "collected": "2026-09-09 10:00",
+        "received": "2026-09-09 10:00",
+        "reported": "2026-09-09 10:00",
+        "findings": "Eating and sleep have improved; abdominal pain and edema have resolved. Weight 68.1 kg，Abdominal circumference 94 cm，BP112/70 mmHg，Urine output 1500 mL/24h。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Eating and sleep have improved; abdominal pain and edema have resolved. Weight 68.1 kg，Abdominal circumference 94 cm，BP112/70 mmHg，Urine output 1500 mL/24h。",
+      "positive": "",
+      "source_page": 27,
+      "available_at": "2026-09-09 10:00"
+    }
+  },
+  "LEGACY_REPORTS": {
+    "exam": {
+      "name": "Admission Physical Examination",
+      "stage": 0,
+      "category": "Physical examination",
+      "sheet": {
+        "title": "Admission Physical Examination",
+        "number": "exam",
+        "sample": "Physical examination",
+        "collected": "2026-09-01 09:20",
+        "received": "2026-09-01 09:20",
+        "reported": "2026-09-01 09:20",
+        "findings": "Vital signs；T 37.3℃；P 96 times/min；R 20 times/min；BP 98/62 mmHg；SpO2 97%（Air）\nHeight / Body weight / Abdominal circumference；170 cm / 76.0 kg / 106 cm; recent weight of 68 kg without edema used as estimated dry weight.\nGeneral condition；Alert and fully oriented, with features of chronic liver disease; mild scleral icterus, palmar erythema, and spider angiomas on the upper chest\nNutrition and skin；Reduced muscle bulk at the temples and upper arms; skin intact, with no active ecchymoses or foci of infection.\nHead and neck；No jugular venous distention or palpable superficial lymphadenopathy\nCardiopulmonary；Heart rate 96/min, regular rhythm, no appreciable murmur; clear breath sounds bilaterally, no crackles\nAbdominal inspection and palpation；Distended abdomen, slightly tense abdominal wall, and flat umbilicus; mild diffuse tenderness without rebound tenderness or guarding; liver not palpable below the costal margin, spleen approximately 2 cm below the costal margin…\nAbdominal percussion and auscultation；Positive shifting dullness and fluid wave; bowel sounds 4/min; no appreciable vascular bruit\nUrinary system and extremities；No tenderness to percussion over the renal areas; symmetric 2+ pitting edema of both lower legs; extremities warm.\nNervous system；No asterixis, pathological reflexes, or focal signs.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Vital signs；T 37.3℃；P 96 times/min；R 20 times/min；BP 98/62 mmHg；SpO2 97%（Air）\nHeight / Body weight / Abdominal circumference；170 cm / 76.0 kg / 106 cm; recent weight of 68 kg without edema used as estimated dry weight.\nGeneral condition；Alert and fully oriented, with features of chronic liver disease; mild scleral icterus, palmar erythema, and spider angiomas on the upper chest\nNutrition and skin；Reduced muscle bulk at the temples and upper arms; skin intact, with no active ecchymoses or foci of infection.\nHead and neck；No jugular venous distention or palpable superficial lymphadenopathy\nCardiopulmonary；Heart rate 96/min, regular rhythm, no appreciable murmur; clear breath sounds bilaterally, no crackles\nAbdominal inspection and palpation；Distended abdomen, slightly tense abdominal wall, and flat umbilicus; mild diffuse tenderness without rebound tenderness or guarding; liver not palpable below the costal margin, spleen approximately 2 cm below the costal margin…\nAbdominal percussion and auscultation；Positive shifting dullness and fluid wave; bowel sounds 4/min; no appreciable vascular bruit\nUrinary system and extremities；No tenderness to percussion over the renal areas; symmetric 2+ pitting edema of both lower legs; extremities warm.\nNervous system；No asterixis, pathological reflexes, or focal signs.",
+      "positive": "",
+      "source_page": 5,
+      "available_at": "2026-09-01 09:20"
+    },
+    "cbc": {
+      "name": "Complete blood count",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Complete blood count",
+        "number": "cbc",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:15",
+        "findings": "",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "7.8",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Neutrophil percentage",
+            "value": "78",
+            "flag": "↑",
+            "unit": "%",
+            "reference": "40-75"
+          },
+          {
+            "name": "Neutrophil count",
+            "value": "6.08",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "1.8-6.3"
+          },
+          {
+            "name": "Lymphocyte percentage",
+            "value": "13",
+            "flag": "↓",
+            "unit": "%",
+            "reference": "20-50"
+          },
+          {
+            "name": "Lymphocyte count",
+            "value": "1.01",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "1.1-3.2"
+          },
+          {
+            "name": "Monocyte percentage",
+            "value": "7",
+            "flag": "",
+            "unit": "%",
+            "reference": "3-10"
+          },
+          {
+            "name": "Eosinophil percentage",
+            "value": "1.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0.4-8"
+          },
+          {
+            "name": "Basophil percentage",
+            "value": "0.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0-1"
+          },
+          {
+            "name": "Red blood cells",
+            "value": "3.65",
+            "flag": "↓",
+            "unit": "10^12/L",
+            "reference": "4.3-5.8"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "118",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Hematocrit",
+            "value": "0.35",
+            "flag": "↓",
+            "unit": "L/L",
+            "reference": "0.4-0.5"
+          },
+          {
+            "name": "Mean corpuscular volume",
+            "value": "95.9",
+            "flag": "",
+            "unit": "fL",
+            "reference": "82-100"
+          },
+          {
+            "name": "Mean corpuscular hemoglobin",
+            "value": "32.3",
+            "flag": "",
+            "unit": "pg",
+            "reference": "27-34"
+          },
+          {
+            "name": "Mean corpuscular hemoglobin concentration",
+            "value": "337",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "316-354"
+          },
+          {
+            "name": "Platelets",
+            "value": "68",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "White blood cells 7.8 10^9/L （Reference：3.5-9.5）\nNeutrophil percentage 78 % ↑（Reference：40-75）\nNeutrophil count 6.08 10^9/L （Reference：1.8-6.3）\nLymphocyte percentage 13 % ↓（Reference：20-50）\nLymphocyte count 1.01 10^9/L ↓（Reference：1.1-3.2）\nMonocyte percentage 7 % （Reference：3-10）\nEosinophil percentage 1.5 % （Reference：0.4-8）\nBasophil percentage 0.5 % （Reference：0-1）\nRed blood cells 3.65 10^12/L ↓（Reference：4.3-5.8）\nHemoglobin 118 g/L ↓（Reference：130-175）\nHematocrit 0.35 L/L ↓（Reference：0.4-0.5）\nMean corpuscular volume 95.9 fL （Reference：82-100）\nMean corpuscular hemoglobin 32.3 pg （Reference：27-34）\nMean corpuscular hemoglobin concentration 337 g/L （Reference：316-354）\nPlatelets 68 10^9/L ↓（Reference：125-350）",
+      "positive": "Neutrophil percentage 78 % ↑；Lymphocyte percentage 13 % ↓；Lymphocyte count 1.01 10^9/L ↓；Red blood cells 3.65 10^12/L ↓；Hemoglobin 118 g/L ↓；Hematocrit 0.35 L/L ↓；Platelets 68 10^9/L ↓",
+      "source_page": 7,
+      "available_at": "2026-09-01 09:45"
+    },
+    "chemistry": {
+      "name": "Liver and renal function and electrolytes",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Liver and renal function and electrolytes",
+        "number": "chemistry",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:40",
+        "findings": "",
+        "rows": [
+          {
+            "name": "ALT",
+            "value": "38",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "9-50"
+          },
+          {
+            "name": "AST",
+            "value": "56",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "15-40"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "48",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "Direct bilirubin",
+            "value": "26",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-7"
+          },
+          {
+            "name": "Albumin",
+            "value": "25",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total protein",
+            "value": "61",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "65-85"
+          },
+          {
+            "name": "ALP",
+            "value": "112",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "45-125"
+          },
+          {
+            "name": "GGT",
+            "value": "78",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "10-60"
+          },
+          {
+            "name": "Urea",
+            "value": "10.2",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8.0"
+          },
+          {
+            "name": "Creatinine",
+            "value": "118",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "129",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "chlorine",
+            "value": "97",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "Total carbon dioxide",
+            "value": "22",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "Glucose",
+            "value": "5.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.9-6.1"
+          },
+          {
+            "name": "LDH",
+            "value": "180",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "120-250"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "ALT 38 U/L （Reference：9-50）\nAST 56 U/L ↑（Reference：15-40）\nTotal bilirubin 48 μmol/L ↑（Reference：0-21）\nDirect bilirubin 26 μmol/L ↑（Reference：0-7）\nAlbumin 25 g/L ↓（Reference：40-55）\nTotal protein 61 g/L ↓（Reference：65-85）\nALP 112 U/L （Reference：45-125）\nGGT 78 U/L ↑（Reference：10-60）\nUrea 10.2 mmol/L ↑（Reference：3.1-8.0）\nCreatinine 118 μmol/L ↑（Reference：57-97）\nsodium 129 mmol/L ↓（Reference：135-145）\npotassium 4.6 mmol/L （Reference：3.5-5.3）\nchlorine 97 mmol/L ↓（Reference：99-110）\nTotal carbon dioxide 22 mmol/L （Reference：22-29）\nGlucose 5.8 mmol/L （Reference：3.9-6.1）\nLDH 180 U/L （Reference：120-250）",
+      "positive": "AST 56 U/L ↑；Total bilirubin 48 μmol/L ↑；Direct bilirubin 26 μmol/L ↑；Albumin 25 g/L ↓；Total protein 61 g/L ↓；GGT 78 U/L ↑；Urea 10.2 mmol/L ↑；Creatinine 118 μmol/L ↑；sodium 129 mmol/L ↓；chlorine 97 mmol/L ↓",
+      "source_page": 8,
+      "available_at": "2026-09-01 09:45"
+    },
+    "coagulation": {
+      "name": "Coagulation and inflammatory markers",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Coagulation and inflammatory markers",
+        "number": "coagulation",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:45",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Prothrombin time",
+            "value": "17.8",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "11-14.5"
+          },
+          {
+            "name": "INR",
+            "value": "1.55",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "APTT",
+            "value": "38",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "25-35"
+          },
+          {
+            "name": "Fibrinogen",
+            "value": "1.8",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "2-4"
+          },
+          {
+            "name": "CRP",
+            "value": "42",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          },
+          {
+            "name": "Procalcitonin",
+            "value": "0.32",
+            "flag": "↑",
+            "unit": "ng/mL",
+            "reference": "0-0.05"
+          },
+          {
+            "name": "Venous lactate",
+            "value": "1.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "0.5-2.2"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Prothrombin time 17.8 s ↑（Reference：11-14.5）\nINR 1.55  ↑（Reference：0.8-1.2）\nAPTT 38 s ↑（Reference：25-35）\nFibrinogen 1.8 g/L ↓（Reference：2-4）\nCRP 42 mg/L ↑（Reference：0-8）\nProcalcitonin 0.32 ng/mL ↑（Reference：0-0.05）\nVenous lactate 1.8 mmol/L （Reference：0.5-2.2）",
+      "positive": "Prothrombin time 17.8 s ↑；INR 1.55  ↑；APTT 38 s ↑；Fibrinogen 1.8 g/L ↓；CRP 42 mg/L ↑；Procalcitonin 0.32 ng/mL ↑",
+      "source_page": 9,
+      "available_at": "2026-09-01 09:45"
+    },
+    "urine": {
+      "name": "Urinalysis",
+      "stage": 0,
+      "category": "Urine",
+      "sheet": {
+        "title": "Urinalysis",
+        "number": "urine",
+        "sample": "Urine",
+        "collected": "2026-09-01 10:00",
+        "received": "2026-09-01 10:00",
+        "reported": "2026-09-01 11:20",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Urine specific gravity",
+            "value": "1.02",
+            "flag": "",
+            "unit": "",
+            "reference": "1.005-1.03"
+          },
+          {
+            "name": "Urine protein",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "Urine occult blood",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "Urinary red blood cells",
+            "value": "1",
+            "flag": "",
+            "unit": "item/HPF",
+            "reference": "0-3"
+          },
+          {
+            "name": "Urinary white blood cells",
+            "value": "2",
+            "flag": "",
+            "unit": "item/HPF",
+            "reference": "0-5"
+          },
+          {
+            "name": "Granular casts",
+            "value": "Not observed",
+            "flag": "",
+            "unit": "",
+            "reference": "Not observed"
+          },
+          {
+            "name": "Urine protein/Creatinine ratio",
+            "value": "0.09",
+            "flag": "",
+            "unit": "g/g",
+            "reference": "0-0.15"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Urine specific gravity 1.02  （Reference：1.005-1.03）\nUrine protein Negative  （Reference：Negative）\nUrine occult blood Negative  （Reference：Negative）\nUrinary red blood cells 1 item/HPF （Reference：0-3）\nUrinary white blood cells 2 item/HPF （Reference：0-5）\nGranular casts Not observed  （Reference：Not observed）\nUrine protein/Creatinine ratio 0.09 g/g （Reference：0-0.15）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 10:00"
+    },
+    "etiology": {
+      "name": "Etiologic Screening",
+      "stage": 0,
+      "category": "Blood",
+      "sheet": {
+        "title": "Etiologic Screening",
+        "number": "etiology",
+        "sample": "Blood",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-02 09:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "HBsAg",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "HBeAg",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "anti--HBe",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Interpret according to infection status"
+          },
+          {
+            "name": "anti--HBc",
+            "value": "Positive",
+            "flag": "",
+            "unit": "",
+            "reference": "Interpret according to infection status"
+          },
+          {
+            "name": "HBV DNA",
+            "value": "<20",
+            "flag": "",
+            "unit": "IU/mL",
+            "reference": "Below the lower limit of quantification 20"
+          },
+          {
+            "name": "anti--HCV",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "HIV Antigen/Antibody",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          },
+          {
+            "name": "AFP",
+            "value": "4.2",
+            "flag": "",
+            "unit": "ng/mL",
+            "reference": "0-7"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "HBsAg Positive  （Reference：Negative）\nHBeAg Negative  （Reference：Negative）\nanti--HBe Positive  （Reference：Interpret according to infection status）\nanti--HBc Positive  （Reference：Interpret according to infection status）\nHBV DNA <20 IU/mL （Reference：Below the lower limit of quantification 20）\nanti--HCV Negative  （Reference：Negative）\nHIV Antigen/Antibody Negative  （Reference：Negative）\nAFP 4.2 ng/mL （Reference：0-7）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 09:45"
+    },
+    "ultrasound": {
+      "name": "Ultrasound of the liver, gallbladder, spleen, and urinary tract",
+      "stage": 0,
+      "category": "Imaging",
+      "sheet": {
+        "title": "Ultrasound of the liver, gallbladder, spleen, and urinary tract",
+        "number": "ultrasound",
+        "sample": "Imaging",
+        "collected": "2026-09-01 10:35",
+        "received": "2026-09-01 10:35",
+        "reported": "2026-09-01 11:00",
+        "findings": "Examination items：Liver, gallbladder, spleen, portal vein, and localization of ascites; both kidneys and bladder.\nNarrative findings (synthetic case setting)：The liver capsule is mildly irregular, with coarse, heterogeneous parenchymal echotexture and no definite focal mass. The main portal vein measures approximately 14 mm in internal diameter; color Doppler shows hepatopetal flow, with no definite filling defect. The spleen measures approximately 145 mm in length and 48 mm in thickness. Multiple anechoic fluid collections are present in the abdomen and pelvis, including the perihepatic and perisplenic regions and bilateral iliac fossae. A safe paracentesis window can be selected in the left lower abdomen. No significant bile duct dilatation. Both kidneys are of reasonably normal size and shape, with no collecting system dilatation and no significant urinary retention in the bladder.\nUltrasound suggests：Sonographic changes of cirrhosis; splenomegaly; large-volume ascites. No definite signs of portal vein thrombosis, focal hepatic lesions, or urinary tract obstruction on this examination.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。",
+        "image": "ultrasound-synthetic.png"
+      },
+      "text": "Examination items：Liver, gallbladder, spleen, portal vein, and localization of ascites; both kidneys and bladder.\nNarrative findings (synthetic case setting)：The liver capsule is mildly irregular, with coarse, heterogeneous parenchymal echotexture and no definite focal mass. The main portal vein measures approximately 14 mm in internal diameter; color Doppler shows hepatopetal flow, with no definite filling defect. The spleen measures approximately 145 mm in length and 48 mm in thickness. Multiple anechoic fluid collections are present in the abdomen and pelvis, including the perihepatic and perisplenic regions and bilateral iliac fossae. A safe paracentesis window can be selected in the left lower abdomen. No significant bile duct dilatation. Both kidneys are of reasonably normal size and shape, with no collecting system dilatation and no significant urinary retention in the bladder.\nUltrasound suggests：Sonographic changes of cirrhosis; splenomegaly; large-volume ascites. No definite signs of portal vein thrombosis, focal hepatic lesions, or urinary tract obstruction on this examination.",
+      "positive": "",
+      "source_page": 11,
+      "available_at": "2026-09-01 10:35"
+    },
+    "ecg": {
+      "name": "Twelve-lead ECG",
+      "stage": 0,
+      "category": "Electrocardiography",
+      "sheet": {
+        "title": "Twelve-lead ECG",
+        "number": "ecg",
+        "sample": "Electrocardiography",
+        "collected": "2026-09-01 10:10",
+        "received": "2026-09-01 10:10",
+        "reported": "2026-09-01 10:20",
+        "findings": "Heart rate / Rhythm；96 times/min / Sinus rhythm\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\nElectrical axis / ST-T；Approximately +45°; no acute ischemic ST-T changes (case specification).",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。",
+        "image": "ecg-synthetic.png"
+      },
+      "text": "Heart rate / Rhythm；96 times/min / Sinus rhythm\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\nElectrical axis / ST-T；Approximately +45°; no acute ischemic ST-T changes (case specification).",
+      "positive": "",
+      "source_page": 12,
+      "available_at": "2026-09-01 10:10"
+    },
+    "ascites": {
+      "name": "Diagnostic paracentesis and ascitic fluid analysis",
+      "stage": 0,
+      "category": "Ascites",
+      "sheet": {
+        "title": "Diagnostic paracentesis and ascitic fluid analysis",
+        "number": "ascites",
+        "sample": "Ascites",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-01 12:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Color / Clarity",
+            "value": "Pale yellow / Slightly cloudy",
+            "flag": "",
+            "unit": "",
+            "reference": "Descriptive items"
+          },
+          {
+            "name": "Total nucleated cell count",
+            "value": "1000",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "No standardized normal reference interval"
+          },
+          {
+            "name": "Neutrophil percentage",
+            "value": "64",
+            "flag": "",
+            "unit": "%",
+            "reference": "Consider absolute counts"
+          },
+          {
+            "name": "Absolute neutrophil count",
+            "value": "640",
+            "flag": "↑",
+            "unit": "item/μL",
+            "reference": "<250；≥250 is SBP Diagnostic threshold"
+          },
+          {
+            "name": "Red blood cells",
+            "value": "400",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "Consider puncture circumstances"
+          },
+          {
+            "name": "Ascitic fluid albumin",
+            "value": "7",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "Interpret alongside concurrent serum albumin"
+          },
+          {
+            "name": "Ascitic fluid total protein",
+            "value": "10",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "Consider the etiology; <15 suggests low-protein ascites"
+          },
+          {
+            "name": "Glucose",
+            "value": "5.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "Considering blood glucose and clinical"
+          },
+          {
+            "name": "LDH",
+            "value": "72",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "In conjunction with serum LDH Upper limit 250"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Color / Clarity Pale yellow / Slightly cloudy  （Reference：Descriptive items）\nTotal nucleated cell count 1000 item/μL （Reference：No standardized normal reference interval）\nNeutrophil percentage 64 % （Reference：Consider absolute counts）\nAbsolute neutrophil count 640 item/μL ↑（Reference：<250；≥250 is SBP Diagnostic threshold）\nRed blood cells 400 item/μL （Reference：Consider puncture circumstances）\nAscitic fluid albumin 7 g/L （Reference：Interpret alongside concurrent serum albumin）\nAscitic fluid total protein 10 g/L （Reference：Consider the etiology; <15 suggests low-protein ascites）\nGlucose 5.5 mmol/L （Reference：Considering blood glucose and clinical）\nLDH 72 U/L （Reference：In conjunction with serum LDH Upper limit 250）",
+      "positive": "Absolute neutrophil count 640 item/μL ↑",
+      "source_page": 14,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-prelim": {
+      "name": "Preliminary ascitic fluid culture report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Preliminary ascitic fluid culture report",
+        "number": "culture-prelim",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-02 16:00",
+        "findings": "Gram-negative bacilli; identification and antimicrobial susceptibility results are still pending。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Gram-negative bacilli; identification and antimicrobial susceptibility results are still pending。",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-final": {
+      "name": "Final ascitic fluid culture and antimicrobial susceptibility report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final ascitic fluid culture and antimicrobial susceptibility report",
+        "number": "culture-final",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-03 09:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Culture results",
+            "value": "Escherichia coli",
+            "flag": "",
+            "unit": "",
+            "reference": "Positive; a single bacterial species"
+          },
+          {
+            "name": "Ceftriaxone",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Piperacillin/Tazobactam",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Meropenem",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Ciprofloxacin",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Trimethoprim-sulfamethoxazole",
+            "value": "Sensitive（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "Ampicillin",
+            "value": "Drug resistance（R）",
+            "flag": "",
+            "unit": "",
+            "reference": "Simulated antimicrobial susceptibility categories"
+          },
+          {
+            "name": "ESBL Screening",
+            "value": "Negative",
+            "flag": "",
+            "unit": "",
+            "reference": "Negative"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Culture results Escherichia coli  （Reference：Positive; a single bacterial species）\nCeftriaxone Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nPiperacillin/Tazobactam Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nMeropenem Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nCiprofloxacin Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nTrimethoprim-sulfamethoxazole Sensitive（S）  （Reference：Simulated antimicrobial susceptibility categories）\nAmpicillin Drug resistance（R）  （Reference：Simulated antimicrobial susceptibility categories）\nESBL Screening Negative  （Reference：Negative）",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "renal-day2": {
+      "name": "No.2 Renal function and electrolytes on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.2 Renal function and electrolytes on day",
+        "number": "renal-day2",
+        "sample": "Blood",
+        "collected": "2026-09-02 06:00",
+        "received": "2026-09-02 06:00",
+        "reported": "2026-09-02 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "150",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "11.8",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "128",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "chlorine",
+            "value": "96",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "Total carbon dioxide",
+            "value": "21",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "Albumin",
+            "value": "30",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "46",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "CRP",
+            "value": "38",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 150 μmol/L ↑（Reference：57-97）\nUrea 11.8 mmol/L ↑（Reference：3.1-8）\nsodium 128 mmol/L ↓（Reference：135-145）\npotassium 4.8 mmol/L （Reference：3.5-5.3）\nchlorine 96 mmol/L ↓（Reference：99-110）\nTotal carbon dioxide 21 mmol/L ↓（Reference：22-29）\nAlbumin 30 g/L ↓（Reference：40-55）\nTotal bilirubin 46 μmol/L ↑（Reference：0-21）\nCRP 38 mg/L ↑（Reference：0-8）",
+      "positive": "Creatinine 150 μmol/L ↑；Urea 11.8 mmol/L ↑；sodium 128 mmol/L ↓；chlorine 96 mmol/L ↓；Total carbon dioxide 21 mmol/L ↓；Albumin 30 g/L ↓；Total bilirubin 46 μmol/L ↑；CRP 38 mg/L ↑",
+      "source_page": 16,
+      "available_at": "2026-09-02 06:00"
+    },
+    "blood-day3": {
+      "name": "No.3 Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.3 Repeat blood tests on day",
+        "number": "blood-day3",
+        "sample": "Blood",
+        "collected": "2026-09-03 06:00",
+        "received": "2026-09-03 06:00",
+        "reported": "2026-09-03 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "White blood cells",
+            "value": "5.6",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "116",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Platelets",
+            "value": "70",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          },
+          {
+            "name": "Creatinine",
+            "value": "112",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "9.5",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "130",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "20",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "White blood cells 5.6 10^9/L （Reference：3.5-9.5）\nHemoglobin 116 g/L ↓（Reference：130-175）\nPlatelets 70 10^9/L ↓（Reference：125-350）\nCreatinine 112 μmol/L ↑（Reference：57-97）\nUrea 9.5 mmol/L ↑（Reference：3.1-8）\nsodium 130 mmol/L ↓（Reference：135-145）\npotassium 4.5 mmol/L （Reference：3.5-5.3）\nCRP 20 mg/L ↑（Reference：0-8）",
+      "positive": "Hemoglobin 116 g/L ↓；Platelets 70 10^9/L ↓；Creatinine 112 μmol/L ↑；Urea 9.5 mmol/L ↑；sodium 130 mmol/L ↓；CRP 20 mg/L ↑",
+      "source_page": 19,
+      "available_at": "2026-09-03 06:00"
+    },
+    "ascites-repeat": {
+      "name": "Repeat abdominal paracentesis and ascitic fluid cell count",
+      "stage": 2,
+      "category": "Ascites",
+      "sheet": {
+        "title": "Repeat abdominal paracentesis and ascitic fluid cell count",
+        "number": "ascites-repeat",
+        "sample": "Ascites",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-03 12:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Total nucleated cell count in ascitic fluid",
+            "value": "300",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "No standardized reference interval"
+          },
+          {
+            "name": "Ascitic fluid neutrophil percentage",
+            "value": "40",
+            "flag": "",
+            "unit": "%",
+            "reference": "Consider absolute counts"
+          },
+          {
+            "name": "Ascites PMN Absolute count",
+            "value": "120",
+            "flag": "",
+            "unit": "item/μL",
+            "reference": "<250；≥250 is SBP Diagnostic threshold"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Total nucleated cell count in ascitic fluid 300 item/μL （Reference：No standardized reference interval）\nAscitic fluid neutrophil percentage 40 % （Reference：Consider absolute counts）\nAscites PMN Absolute count 120 item/μL （Reference：<250；≥250 is SBP Diagnostic threshold）",
+      "positive": "",
+      "source_page": 19,
+      "available_at": "2026-09-03 11:50"
+    },
+    "pre-drainage": {
+      "name": "No.4 Pre-paracentesis safety assessment on the day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.4 Pre-paracentesis safety assessment on the day",
+        "number": "pre-drainage",
+        "sample": "Blood",
+        "collected": "2026-09-04 06:00",
+        "received": "2026-09-04 06:00",
+        "reported": "2026-09-04 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "96",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "7.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "132",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.3",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "Albumin",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "38",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.45",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "Platelets",
+            "value": "72",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 96 μmol/L （Reference：57-97）\nUrea 7.6 mmol/L （Reference：3.1-8）\nsodium 132 mmol/L ↓（Reference：135-145）\npotassium 4.3 mmol/L （Reference：3.5-5.3）\nAlbumin 32 g/L ↓（Reference：40-55）\nTotal bilirubin 38 μmol/L ↑（Reference：0-21）\nINR 1.45  ↑（Reference：0.8-1.2）\nPlatelets 72 10^9/L ↓（Reference：125-350）",
+      "positive": "sodium 132 mmol/L ↓；Albumin 32 g/L ↓；Total bilirubin 38 μmol/L ↑；INR 1.45  ↑；Platelets 72 10^9/L ↓",
+      "source_page": 21,
+      "available_at": "2026-09-04 06:00"
+    },
+    "blood-day5": {
+      "name": "No.5Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.5Repeat blood tests on day",
+        "number": "blood-day5",
+        "sample": "Blood",
+        "collected": "2026-09-05 06:00",
+        "received": "2026-09-05 06:00",
+        "reported": "2026-09-05 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "88",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "133",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 88 μmol/L （Reference：57-97）\nsodium 133 mmol/L ↓（Reference：135-145）\npotassium 4.2 mmol/L （Reference：3.5-5.3）",
+      "positive": "sodium 133 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-05 06:00"
+    },
+    "blood-day7": {
+      "name": "No.7Repeat blood tests on day",
+      "stage": 2,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.7Repeat blood tests on day",
+        "number": "blood-day7",
+        "sample": "Blood",
+        "collected": "2026-09-07 06:00",
+        "received": "2026-09-07 06:00",
+        "reported": "2026-09-07 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "84",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "sodium",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.1",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "5",
+            "flag": "",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 84 μmol/L （Reference：57-97）\nsodium 134 mmol/L ↓（Reference：135-145）\npotassium 4.1 mmol/L （Reference：3.5-5.3）\nCRP 5 mg/L （Reference：0-8）",
+      "positive": "sodium 134 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-07 06:00"
+    },
+    "blood-day9": {
+      "name": "No.9Repeat blood tests on day",
+      "stage": 3,
+      "category": "Blood",
+      "sheet": {
+        "title": "No.9Repeat blood tests on day",
+        "number": "blood-day9",
+        "sample": "Blood",
+        "collected": "2026-09-09 06:00",
+        "received": "2026-09-09 06:00",
+        "reported": "2026-09-09 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "Creatinine",
+            "value": "82",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "Urea",
+            "value": "5.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "sodium",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "potassium",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "Albumin",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "Total bilirubin",
+            "value": "30",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.35",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "White blood cells",
+            "value": "4.2",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "Hemoglobin",
+            "value": "119",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "Platelets",
+            "value": "75",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Creatinine 82 μmol/L （Reference：57-97）\nUrea 5.6 mmol/L （Reference：3.1-8）\nsodium 134 mmol/L ↓（Reference：135-145）\npotassium 4.2 mmol/L （Reference：3.5-5.3）\nAlbumin 32 g/L ↓（Reference：40-55）\nTotal bilirubin 30 μmol/L ↑（Reference：0-21）\nINR 1.35  ↑（Reference：0.8-1.2）\nWhite blood cells 4.2 10^9/L （Reference：3.5-9.5）\nHemoglobin 119 g/L ↓（Reference：130-175）\nPlatelets 75 10^9/L ↓（Reference：125-350）",
+      "positive": "sodium 134 mmol/L ↓；Albumin 32 g/L ↓；Total bilirubin 30 μmol/L ↑；INR 1.35  ↑；Hemoglobin 119 g/L ↓；Platelets 75 10^9/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-09 06:00"
+    },
+    "blood-culture": {
+      "name": "Final blood culture report",
+      "stage": 0,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final blood culture report",
+        "number": "blood-culture",
+        "sample": "Microbiology",
+        "collected": "2026-09-01 09:50",
+        "received": "2026-09-01 09:50",
+        "reported": "2026-09-06 10:00",
+        "findings": "Two sets of peripheral blood cultures 5 days with no bacteria detected。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Two sets of peripheral blood cultures 5 days with no bacteria detected。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-01 09:50"
+    },
+    "repeat-culture": {
+      "name": "Final repeat ascitic fluid culture report",
+      "stage": 2,
+      "category": "Microbiology",
+      "sheet": {
+        "title": "Final repeat ascitic fluid culture report",
+        "number": "repeat-culture",
+        "sample": "Microbiology",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-08 12:30",
+        "findings": "Repeat ascitic fluid culture 5 days with no bacteria detected。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Repeat ascitic fluid culture 5 days with no bacteria detected。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-03 11:50"
+    },
+    "ultrasound-review": {
+      "name": "Abdominal ultrasound before discharge",
+      "stage": 2,
+      "category": "Imaging",
+      "sheet": {
+        "title": "Abdominal ultrasound before discharge",
+        "number": "ultrasound-review",
+        "sample": "Imaging",
+        "collected": "2026-09-08 09:30",
+        "received": "2026-09-08 09:30",
+        "reported": "2026-09-08 09:30",
+        "findings": "ASC-US02 · 09-08 09:30 Follow-up ultrasound report：Liver and spleen morphology similar to prior findings. Small-volume free fluid in the abdomen and pelvis, markedly decreased. No definite new intrahepatic mass or main portal vein thrombosis. No dilatation of either renal collecting system.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "ASC-US02 · 09-08 09:30 Follow-up ultrasound report：Liver and spleen morphology similar to prior findings. Small-volume free fluid in the abdomen and pelvis, markedly decreased. No definite new intrahepatic mass or main portal vein thrombosis. No dilatation of either renal collecting system.",
+      "positive": "",
+      "source_page": 26,
+      "available_at": "2026-09-08 09:30"
+    },
+    "drainage": {
+      "name": "Therapeutic Paracentesis Record",
+      "stage": 2,
+      "category": "Actions",
+      "sheet": {
+        "title": "Therapeutic Paracentesis Record",
+        "number": "drainage",
+        "sample": "Actions",
+        "collected": "2026-09-04 10:00",
+        "received": "2026-09-04 10:00",
+        "reported": "2026-09-04 11:40",
+        "findings": "2026-09-04　Start 10:00，End 11:40\nPreprocedural diagnosis and indications：Cirrhosis with large-volume ascites; good response to SBP treatment and recovery of renal function. Persistent marked abdominal distension and early satiety, with a tense abdominal wall. BP 108/68 mmHg, pulse 82/min, SpO2 98%. Currently does not meet the definition of refractory ascites.\nInformed consent and preparation：The purpose of drainage, albumin replacement, and risks including bleeding, infection, hypotension, circulatory dysfunction, and leakage were explained; the Patient consented. Identity and the ultrasound window were verified, and the bladder was emptied; no prophylactic plasma or platelet transfusion.\nProcedure details：The patient was placed in a semi-recumbent position. Ultrasound identified a safe fluid pocket in the left lower abdomen, avoiding abdominal wall vessels. Following routine sterile skin preparation and draping, local anesthesia with 5 mL of 1% lidocaine was administered, and a disposable paracentesis catheter was inserted. A total of 6000 mL of clear, pale-yellow ascitic fluid was drained slowly in stages with observation. Vital signs and symptoms were checked every 15 minutes. No catheter was left for continuous drainage. On completion, the catheter was removed, pressure applied, and a sterile dressing placed.\nAlbumin and safety records：Based on 6 L drained × 8 g/L, administer an additional 48 g (240 mL) of 20% human albumin by slow IV infusion after the procedure, with monitoring. This is indicated for paracentesis and is documented separately from the SBP regimens on 09-01 and 09-03, not counted twice on the same day.\nPostoperative：Latest BP 106/66 mmHg, P 80 beats/min, SpO₂ 98%; abdominal distension markedly improved, abdominal girth decreased from 105 cm to 96 cm, and weight decreased from 75.6 kg to 69.6 kg. No local bleeding or fluid leakage, worsening abdominal pain, or syncope. Continue observation for 2 hours and recheck renal function and electrolytes the next morning.\nProcedural physician: Zhao Heng; supervising physician: Shen Yan; nurse: Jiang Yue (all simulated roles). No surgical operation was performed in this case; this is an invasive procedure record.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "2026-09-04　Start 10:00，End 11:40\nPreprocedural diagnosis and indications：Cirrhosis with large-volume ascites; good response to SBP treatment and recovery of renal function. Persistent marked abdominal distension and early satiety, with a tense abdominal wall. BP 108/68 mmHg, pulse 82/min, SpO2 98%. Currently does not meet the definition of refractory ascites.\nInformed consent and preparation：The purpose of drainage, albumin replacement, and risks including bleeding, infection, hypotension, circulatory dysfunction, and leakage were explained; the Patient consented. Identity and the ultrasound window were verified, and the bladder was emptied; no prophylactic plasma or platelet transfusion.\nProcedure details：The patient was placed in a semi-recumbent position. Ultrasound identified a safe fluid pocket in the left lower abdomen, avoiding abdominal wall vessels. Following routine sterile skin preparation and draping, local anesthesia with 5 mL of 1% lidocaine was administered, and a disposable paracentesis catheter was inserted. A total of 6000 mL of clear, pale-yellow ascitic fluid was drained slowly in stages with observation. Vital signs and symptoms were checked every 15 minutes. No catheter was left for continuous drainage. On completion, the catheter was removed, pressure applied, and a sterile dressing placed.\nAlbumin and safety records：Based on 6 L drained × 8 g/L, administer an additional 48 g (240 mL) of 20% human albumin by slow IV infusion after the procedure, with monitoring. This is indicated for paracentesis and is documented separately from the SBP regimens on 09-01 and 09-03, not counted twice on the same day.\nPostoperative：Latest BP 106/66 mmHg, P 80 beats/min, SpO₂ 98%; abdominal distension markedly improved, abdominal girth decreased from 105 cm to 96 cm, and weight decreased from 75.6 kg to 69.6 kg. No local bleeding or fluid leakage, worsening abdominal pain, or syncope. Continue observation for 2 hours and recheck renal function and electrolytes the next morning.\nProcedural physician: Zhao Heng; supervising physician: Shen Yan; nurse: Jiang Yue (all simulated roles). No surgical operation was performed in this case; this is an invasive procedure record.",
+      "positive": "",
+      "source_page": 22,
+      "available_at": "2026-09-04 10:00"
+    },
+    "handoff": {
+      "name": "Preset first-day treatment handoff",
+      "stage": 1,
+      "category": "Handover",
+      "sheet": {
+        "title": "Preset first-day treatment handoff",
+        "number": "handoff",
+        "sample": "Handover",
+        "collected": "2026-09-01 18:00",
+        "received": "2026-09-01 18:00",
+        "reported": "2026-09-01 18:00",
+        "findings": "2026-09-01 12:15\nTest results and diagnostic revision：Ascitic fluid PMN count 640 cells/μL, SAAG 18 g/L; ascitic fluid total protein 10 g/L, serum Cr 118 μmol/L, Na 129 mmol/L, ALB 25 g/L. Preliminary findings establish portal hypertension-related ascites with SBP. There are no localized peritoneal signs, and ascitic fluid biochemistry does not currently support secondary peritonitis, but treatment response must be monitored.\nAssessment of renal function：Creatinine rose from a baseline of 78 on August 20 to the current 118 μmol/L, a 51% increase, but the baseline is more than 7 days old. Record “suspected AKI” for now; the 7-day criterion cannot be applied directly using this old value alone. The patient has had oliguria for the past 2 days; infection, inadequate intake, and self-increased diuretic dosing may all contribute. Repeat testing the next day and short-term trends will be used for confirmation.\nTreatment implementation：At 11:50, start ceftriaxone 2 g by intravenous infusion every 24 hours. Community onset, with no recent antibiotic use or hospitalization and no known history of antimicrobial resistance; this simulation assumes the hospital’s empirical regimen for community-acquired SBP permits this drug, to be reassessed after culture results. At 12:10, start 20% human albumin, calculated using estimated dry weight: 68 kg × 1.5 g/kg = 102 g (510 mL), administered slowly in divided infusions while monitoring breathing, SpO2, blood pressure, and pulmonary signs.\nTemporarily withhold diuretics and large-volume paracentesis. Although abdominal distension is marked, there is currently no evidence of respiratory limitation or abdominal compartment syndrome; prioritize infection control and perfusion assessment. No shock; vasoconstrictors are not currently indicated. Restrict dietary sodium to approximately 2 g/day (equivalent to approximately 5 g/day of salt), while ensuring adequate energy and protein intake. With Na 129 and no neurological symptoms, routine strict fluid restriction is not indicated.\nSeverity：Admission Child-Pugh score: bilirubin 2 points, albumin 3, INR 1, large-volume ascites 3, and no encephalopathy 1; total 10, class C. Ascites scoring involves clinical judgment. Infection and renal dysfunction increase short-term risk and require close monitoring.\n2026-09-01 18:00: No dyspnea or crackles during the infusion; BP 102/64 mmHg. Persistent abdominal distension, without signs of peritoneal irritation. The family was informed of key overnight observations and possible changes in the patient’s condition.",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "2026-09-01 12:15\nTest results and diagnostic revision：Ascitic fluid PMN count 640 cells/μL, SAAG 18 g/L; ascitic fluid total protein 10 g/L, serum Cr 118 μmol/L, Na 129 mmol/L, ALB 25 g/L. Preliminary findings establish portal hypertension-related ascites with SBP. There are no localized peritoneal signs, and ascitic fluid biochemistry does not currently support secondary peritonitis, but treatment response must be monitored.\nAssessment of renal function：Creatinine rose from a baseline of 78 on August 20 to the current 118 μmol/L, a 51% increase, but the baseline is more than 7 days old. Record “suspected AKI” for now; the 7-day criterion cannot be applied directly using this old value alone. The patient has had oliguria for the past 2 days; infection, inadequate intake, and self-increased diuretic dosing may all contribute. Repeat testing the next day and short-term trends will be used for confirmation.\nTreatment implementation：At 11:50, start ceftriaxone 2 g by intravenous infusion every 24 hours. Community onset, with no recent antibiotic use or hospitalization and no known history of antimicrobial resistance; this simulation assumes the hospital’s empirical regimen for community-acquired SBP permits this drug, to be reassessed after culture results. At 12:10, start 20% human albumin, calculated using estimated dry weight: 68 kg × 1.5 g/kg = 102 g (510 mL), administered slowly in divided infusions while monitoring breathing, SpO2, blood pressure, and pulmonary signs.\nTemporarily withhold diuretics and large-volume paracentesis. Although abdominal distension is marked, there is currently no evidence of respiratory limitation or abdominal compartment syndrome; prioritize infection control and perfusion assessment. No shock; vasoconstrictors are not currently indicated. Restrict dietary sodium to approximately 2 g/day (equivalent to approximately 5 g/day of salt), while ensuring adequate energy and protein intake. With Na 129 and no neurological symptoms, routine strict fluid restriction is not indicated.\nSeverity：Admission Child-Pugh score: bilirubin 2 points, albumin 3, INR 1, large-volume ascites 3, and no encephalopathy 1; total 10, class C. Ascites scoring involves clinical judgment. Infection and renal dysfunction increase short-term risk and require close monitoring.\n2026-09-01 18:00: No dyspnea or crackles during the infusion; BP 102/64 mmHg. Persistent abdominal distension, without signs of peritoneal irritation. The family was informed of key overnight observations and possible changes in the patient’s condition.",
+      "positive": "",
+      "source_page": 15,
+      "available_at": "2026-09-01 18:00"
+    },
+    "ward": {
+      "name": "Today’s nursing care and physical examination",
+      "stage": 2,
+      "category": "Reassessment",
+      "sheet": {
+        "title": "Today’s nursing care and physical examination",
+        "number": "ward",
+        "sample": "Reassessment",
+        "collected": "2026-09-02 09:00",
+        "received": "2026-09-02 09:00",
+        "reported": "2026-09-02 09:00",
+        "findings": "View by the current ward-round date。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "View by the current ward-round date。",
+      "positive": "",
+      "source_page": 30,
+      "available_at": "2026-09-02 09:00"
+    },
+    "discharge": {
+      "name": "Predischarge status",
+      "stage": 3,
+      "category": "Reassessment",
+      "sheet": {
+        "title": "Predischarge status",
+        "number": "discharge",
+        "sample": "Reassessment",
+        "collected": "2026-09-09 10:00",
+        "received": "2026-09-09 10:00",
+        "reported": "2026-09-09 10:00",
+        "findings": "Eating and sleep have improved; abdominal pain and edema have resolved. Weight 68.1 kg，Abdominal circumference 94 cm，BP112/70 mmHg，Urine output 1500 mL/24h。",
+        "rows": [],
+        "note": "Synthetic Teaching Case v1.1，Pending review by clinical experts. Values and times come from the original case record; not for actual clinical care.。"
+      },
+      "text": "Eating and sleep have improved; abdominal pain and edema have resolved. Weight 68.1 kg，Abdominal circumference 94 cm，BP112/70 mmHg，Urine output 1500 mL/24h。",
+      "positive": "",
+      "source_page": 27,
+      "available_at": "2026-09-09 10:00"
+    }
+  },
+  "TEACHING": {
+    "0": "Discuss test priorities based on the chief complaint and history and examination findings already obtained. Do not disclose pending ascitic fluid or culture results, or the subsequent clinical course.。",
+    "1": "Discuss first-day diagnosis, treatment, and monitoring using available ascitic fluid and other test results. Do not disclose the next day’s creatinine or antimicrobial susceptibility results.。",
+    "2": "Discuss ongoing adjustments using only test results returned by the current date and Student records. Do not disclose subsequent treatment responses.。",
+    "3": "Entecavir；1 mg Orally, once daily, on an empty stomach；Continue antiviral therapy; do not stop medication without medical advice; monitor renal function and HBV DNA.\nSpironolactone；50 mg Orally, once daily；Control ascites; monitor creatinine, serum potassium, serum sodium, and blood pressure\nFurosemide；20 mg Orally, once daily；Control ascites; do not increase the dose independently\nCiprofloxacin；500 mg orally once daily; initially prescribe through the follow-up visit on 09-16；Secondary SBP prophylaxis; prescription renewal to be decided at follow-up. Do not interpret this as requiring only 7 days of prophylaxis.\nRepeat assessment soon：09-12 (3 days after discharge): Check blood pressure, weight, renal function, and Na/K; assess diuretic tolerability. Seek care earlier if abnormalities occur. 09-16: Hepatology and liver transplant evaluation clinics; repeat complete blood count, liver function tests, and coagulation studies, and assess ascites, nutrition, and secondary prophylaxis medications.\nLong-term management：Maintain a low-sodium diet with adequate energy and protein intake, small frequent meals, and a bedtime snack; abstain from alcohol. Weigh daily and record the results; avoid self-administering NSAIDs or Chinese herbal remedies of unknown origin. Attend regular antiviral follow-up and monitor HBV DNA according to the specialist’s plan. Liver cancer surveillance generally involves ultrasound plus AFP every 6 months; the next assessment is planned for 2027-03, with earlier further investigation if abnormalities arise. Arrange near-term specialist reassessment of the previously documented varices and NSBB tolerability.\nPrompt medical attention required：Seek immediate medical attention for fever or new abdominal pain, markedly reduced urine output, persistent dizziness/syncope, hematemesis or melena, somnolence or abnormal behavior, or dyspnea. Contact the follow-up physician promptly for steadily increasing abdominal girth and weight or recurrent loss of appetite. Tendon pain, numbness, or severe diarrhea requires prompt review of ciprofloxacin therapy.\nConfirmation of Patient understanding：The patient and his wife can repeat the medication names, the instruction not to increase diuretics on their own, and the follow-up dates. It has been explained that long-term management is still required, and liver transplant evaluation does not mean that transplantation has already been decided upon.",
+    "4": "[[\"O1 Problem representation\", \"Summarize the liver disease background, changes in ascites, and red flags in one sentence; prioritize evaluation for infection and hypoperfusion.\", \"Initial progress note/Verbal handover\"], [\"O2 Etiology of ascites\", \"Calculate SAAG = 25 − 7 = 18 g/L; integrate ascitic fluid protein and clinical findings to differentiate cardiac, malignant, tuberculous, and other causes.\", \"Test selection and result interpretation\"], [\"O3 Occult infection\", \"Perform prompt paracentesis even without fever; PMN 640 triggers SBP management without waiting for culture results.\", \"Timing and rationale for actions\"], [\"O4 AKI Dynamic identification\", \"Recognize the short-term change from 118 to 150; do not infer onset solely from a baseline more than 7 days old.\", \"Trend interpretation and diagnostic revision\"], [\"O5 Individualized treatment\", \"Distinguish the infection phase, renal recovery phase, and ascites control phase; explain when to stop/resume diuretics and the indications for albumin.\", \"Medical orders and reassessment plan\"], [\"O6 Treatment response\", \"PMN decreased by 81.25%, with concurrent improvement in symptoms and creatinine; continue treatment according to susceptibility results and avoid escalation without supporting evidence.\", \"Ward round note\"], [\"O7 Escalation and differential diagnosis\", \"Reassess for HRS and other causes if kidney injury persists; investigate secondary peritonitis if treatment fails; verify the definition of refractory ascites.\", \"Branching reasoning\"], [\"O8 Continuity of care\", \"Specify secondary SBP prophylaxis, nutrition, etiologic treatment, monitoring, and transplant evaluation; the Patient can explain these back.\", \"Discharge planning and communication\"]]\nDischarge date：2026-09-09 10:00\nCondition on admission：Admitted for recurrent abdominal distension for 6 months, worsening over 10 days, with reduced urine output for 2 days. Admission weight 76 kg, large-volume ascites, bilateral lower-limb edema, and BP 98/62 mmHg. Ascitic fluid PMN count 640 cells/μL and SAAG 18 g/L; subsequent culture grew Escherichia coli.\nClinical course：Paracentesis was performed promptly, and ceftriaxone was administered for 7 days along with albumin according to the SBP protocol. On day 2, Cr rose from 118 to 150 μmol/L, confirming stage 1 AKI. Diuretics were withheld, perfusion and the cause of kidney injury were assessed, and the entecavir dosing interval was temporarily adjusted. On day 3, ascitic fluid PMN decreased to 120 and Cr was 112. On day 4, after Cr reached 96, therapeutic paracentesis removed 6 L of ascites, with 48 g of albumin replacement. Low-dose spironolactone/furosemide was resumed from day 5, with stable renal function. Secondary SBP prophylaxis began on day 8.\nDischarge diagnosis：1. Decompensated hepatitis B cirrhosis with ascites. 2. Spontaneous bacterial peritonitis (Escherichia coli, controlled). 3. Stage 1 acute kidney injury (resolved; associated with infection and reduced effective circulating volume). 4. Hyponatremia (improved). 5. Portal hypertension and splenomegaly with thrombocytopenia. 6. Hypoalbuminemia.\nCondition at discharge：Temperature 36.6°C, pulse 78 beats/min, BP 112/70 mmHg. Alert, with improved oral intake, no abdominal pain, a small amount of residual ascites, and no significant peripheral edema. Weight 68.1 kg; Cr 82 μmol/L, Na 134, K 4.2 mmol/L, ALB 32 g/L, TBil 30 μmol/L, INR 1.35. Creatinine is only 4 μmol/L above the previous baseline, consistent with recovery.\nSeverity and outcome：At discharge, the Child–Pugh score is 7, class B: bilirubin 1, albumin 2, INR 1, small-volume ascites controlled with diuretics 2, and no encephalopathy 1. Recent albumin infusion affects score interpretation. Clinical improvement does not mean cirrhosis is cured. There is no evidence establishing HRS-AKI or refractory ascites.\nDischarge instructions and follow-up are on the next page. Documenting Physician: Zhao Heng; Supervising Physician: Shen Yan (simulated signatures for teaching).\nEntecavir；1 mg Orally, once daily, on an empty stomach；Continue antiviral therapy; do not stop medication without medical advice; monitor renal function and HBV DNA.\nSpironolactone；50 mg Orally, once daily；Control ascites; monitor creatinine, serum potassium, serum sodium, and blood pressure\nFurosemide；20 mg Orally, once daily；Control ascites; do not increase the dose independently\nCiprofloxacin；500 mg orally once daily; initially prescribe through the follow-up visit on 09-16；Secondary SBP prophylaxis; prescription renewal to be decided at follow-up. Do not interpret this as requiring only 7 days of prophylaxis.\nRepeat assessment soon：09-12 (3 days after discharge): Check blood pressure, weight, renal function, and Na/K; assess diuretic tolerability. Seek care earlier if abnormalities occur. 09-16: Hepatology and liver transplant evaluation clinics; repeat complete blood count, liver function tests, and coagulation studies, and assess ascites, nutrition, and secondary prophylaxis medications.\nLong-term management：Maintain a low-sodium diet with adequate energy and protein intake, small frequent meals, and a bedtime snack; abstain from alcohol. Weigh daily and record the results; avoid self-administering NSAIDs or Chinese herbal remedies of unknown origin. Attend regular antiviral follow-up and monitor HBV DNA according to the specialist’s plan. Liver cancer surveillance generally involves ultrasound plus AFP every 6 months; the next assessment is planned for 2027-03, with earlier further investigation if abnormalities arise. Arrange near-term specialist reassessment of the previously documented varices and NSBB tolerability.\nPrompt medical attention required：Seek immediate medical attention for fever or new abdominal pain, markedly reduced urine output, persistent dizziness/syncope, hematemesis or melena, somnolence or abnormal behavior, or dyspnea. Contact the follow-up physician promptly for steadily increasing abdominal girth and weight or recurrent loss of appetite. Tendon pain, numbness, or severe diarrhea requires prompt review of ciprofloxacin therapy.\nConfirmation of Patient understanding：The patient and his wife can repeat the medication names, the instruction not to increase diuretics on their own, and the follow-up dates. It has been explained that long-term management is still required, and liver transplant evaluation does not mean that transplantation has already been decided upon."
+  },
+  "STAGES": [
+    "Admission assessment",
+    "First-Day Management and Handover",
+    "Daily ward rounds",
+    "Discharge instructions",
+    "Debrief"
+  ],
+  "source_stages": [
+    "入院接诊",
+    "首日处置与交接",
+    "逐日病房查房",
+    "出院指导",
+    "复盘"
+  ],
+  "source_reports": {
+    "exam": {
+      "name": "入院体格检查",
+      "stage": 0,
+      "category": "查体",
+      "sheet": {
+        "title": "入院体格检查",
+        "number": "exam",
+        "sample": "查体",
+        "collected": "2026-09-01 09:20",
+        "received": "2026-09-01 09:20",
+        "reported": "2026-09-01 09:20",
+        "findings": "生命体征；T 37.3℃；P 96次/min；R 20次/min；BP 98/62 mmHg；SpO2 97%（空气）\n身高 / 体重 / 腹围；170 cm / 76.0 kg / 106 cm；近期无水肿时体重68 kg作为估计干重\n一般情况；神志清，定向力完整，慢性肝病面容；轻度巩膜黄染，肝掌及上胸部蜘蛛痣\n营养与皮肤；颞部及上臂肌肉较薄；皮肤完整，无活动性瘀斑或感染灶\n头颈部；无颈静脉怒张，浅表淋巴结未触及肿大\n心肺；心率96次/min，律齐，未闻及明显杂音；双肺呼吸音清，无湿啰音\n腹部视触诊；腹部膨隆，腹壁稍紧，脐部平；轻度弥漫压痛，无反跳痛及肌紧张；肝脏肋下未触及，脾肋下约2 cm\n腹部叩听诊；移动性浊音阳性、液波震颤阳性；肠鸣音4次/min；无明显血管杂音\n泌尿及四肢；肾区无叩痛，双小腿对称凹陷性水肿2+，肢端温暖\n神经系统；扑翼样震颤阴性，无病理反射，无局灶性体征",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "生命体征；T 37.3℃；P 96次/min；R 20次/min；BP 98/62 mmHg；SpO2 97%（空气）\n身高 / 体重 / 腹围；170 cm / 76.0 kg / 106 cm；近期无水肿时体重68 kg作为估计干重\n一般情况；神志清，定向力完整，慢性肝病面容；轻度巩膜黄染，肝掌及上胸部蜘蛛痣\n营养与皮肤；颞部及上臂肌肉较薄；皮肤完整，无活动性瘀斑或感染灶\n头颈部；无颈静脉怒张，浅表淋巴结未触及肿大\n心肺；心率96次/min，律齐，未闻及明显杂音；双肺呼吸音清，无湿啰音\n腹部视触诊；腹部膨隆，腹壁稍紧，脐部平；轻度弥漫压痛，无反跳痛及肌紧张；肝脏肋下未触及，脾肋下约2 cm\n腹部叩听诊；移动性浊音阳性、液波震颤阳性；肠鸣音4次/min；无明显血管杂音\n泌尿及四肢；肾区无叩痛，双小腿对称凹陷性水肿2+，肢端温暖\n神经系统；扑翼样震颤阴性，无病理反射，无局灶性体征",
+      "positive": "",
+      "source_page": 5,
+      "available_at": "2026-09-01 09:20"
+    },
+    "cbc": {
+      "name": "血常规",
+      "stage": 0,
+      "category": "血液",
+      "sheet": {
+        "title": "血常规",
+        "number": "cbc",
+        "sample": "血液",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:15",
+        "findings": "",
+        "rows": [
+          {
+            "name": "白细胞",
+            "value": "7.8",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "中性粒细胞比例",
+            "value": "78",
+            "flag": "↑",
+            "unit": "%",
+            "reference": "40-75"
+          },
+          {
+            "name": "中性粒细胞计数",
+            "value": "6.08",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "1.8-6.3"
+          },
+          {
+            "name": "淋巴细胞比例",
+            "value": "13",
+            "flag": "↓",
+            "unit": "%",
+            "reference": "20-50"
+          },
+          {
+            "name": "淋巴细胞计数",
+            "value": "1.01",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "1.1-3.2"
+          },
+          {
+            "name": "单核细胞比例",
+            "value": "7",
+            "flag": "",
+            "unit": "%",
+            "reference": "3-10"
+          },
+          {
+            "name": "嗜酸性粒细胞比例",
+            "value": "1.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0.4-8"
+          },
+          {
+            "name": "嗜碱性粒细胞比例",
+            "value": "0.5",
+            "flag": "",
+            "unit": "%",
+            "reference": "0-1"
+          },
+          {
+            "name": "红细胞",
+            "value": "3.65",
+            "flag": "↓",
+            "unit": "10^12/L",
+            "reference": "4.3-5.8"
+          },
+          {
+            "name": "血红蛋白",
+            "value": "118",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "红细胞比容",
+            "value": "0.35",
+            "flag": "↓",
+            "unit": "L/L",
+            "reference": "0.4-0.5"
+          },
+          {
+            "name": "平均红细胞体积",
+            "value": "95.9",
+            "flag": "",
+            "unit": "fL",
+            "reference": "82-100"
+          },
+          {
+            "name": "平均红细胞血红蛋白量",
+            "value": "32.3",
+            "flag": "",
+            "unit": "pg",
+            "reference": "27-34"
+          },
+          {
+            "name": "平均红细胞血红蛋白浓度",
+            "value": "337",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "316-354"
+          },
+          {
+            "name": "血小板",
+            "value": "68",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "白细胞 7.8 10^9/L （参考：3.5-9.5）\n中性粒细胞比例 78 % ↑（参考：40-75）\n中性粒细胞计数 6.08 10^9/L （参考：1.8-6.3）\n淋巴细胞比例 13 % ↓（参考：20-50）\n淋巴细胞计数 1.01 10^9/L ↓（参考：1.1-3.2）\n单核细胞比例 7 % （参考：3-10）\n嗜酸性粒细胞比例 1.5 % （参考：0.4-8）\n嗜碱性粒细胞比例 0.5 % （参考：0-1）\n红细胞 3.65 10^12/L ↓（参考：4.3-5.8）\n血红蛋白 118 g/L ↓（参考：130-175）\n红细胞比容 0.35 L/L ↓（参考：0.4-0.5）\n平均红细胞体积 95.9 fL （参考：82-100）\n平均红细胞血红蛋白量 32.3 pg （参考：27-34）\n平均红细胞血红蛋白浓度 337 g/L （参考：316-354）\n血小板 68 10^9/L ↓（参考：125-350）",
+      "positive": "中性粒细胞比例 78 % ↑；淋巴细胞比例 13 % ↓；淋巴细胞计数 1.01 10^9/L ↓；红细胞 3.65 10^12/L ↓；血红蛋白 118 g/L ↓；红细胞比容 0.35 L/L ↓；血小板 68 10^9/L ↓",
+      "source_page": 7,
+      "available_at": "2026-09-01 09:45"
+    },
+    "chemistry": {
+      "name": "肝肾功能及电解质",
+      "stage": 0,
+      "category": "血液",
+      "sheet": {
+        "title": "肝肾功能及电解质",
+        "number": "chemistry",
+        "sample": "血液",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:40",
+        "findings": "",
+        "rows": [
+          {
+            "name": "ALT",
+            "value": "38",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "9-50"
+          },
+          {
+            "name": "AST",
+            "value": "56",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "15-40"
+          },
+          {
+            "name": "总胆红素",
+            "value": "48",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "直接胆红素",
+            "value": "26",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-7"
+          },
+          {
+            "name": "白蛋白",
+            "value": "25",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "总蛋白",
+            "value": "61",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "65-85"
+          },
+          {
+            "name": "ALP",
+            "value": "112",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "45-125"
+          },
+          {
+            "name": "GGT",
+            "value": "78",
+            "flag": "↑",
+            "unit": "U/L",
+            "reference": "10-60"
+          },
+          {
+            "name": "尿素",
+            "value": "10.2",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8.0"
+          },
+          {
+            "name": "肌酐",
+            "value": "118",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "钠",
+            "value": "129",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "氯",
+            "value": "97",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "总二氧化碳",
+            "value": "22",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "葡萄糖",
+            "value": "5.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.9-6.1"
+          },
+          {
+            "name": "LDH",
+            "value": "180",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "120-250"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "ALT 38 U/L （参考：9-50）\nAST 56 U/L ↑（参考：15-40）\n总胆红素 48 μmol/L ↑（参考：0-21）\n直接胆红素 26 μmol/L ↑（参考：0-7）\n白蛋白 25 g/L ↓（参考：40-55）\n总蛋白 61 g/L ↓（参考：65-85）\nALP 112 U/L （参考：45-125）\nGGT 78 U/L ↑（参考：10-60）\n尿素 10.2 mmol/L ↑（参考：3.1-8.0）\n肌酐 118 μmol/L ↑（参考：57-97）\n钠 129 mmol/L ↓（参考：135-145）\n钾 4.6 mmol/L （参考：3.5-5.3）\n氯 97 mmol/L ↓（参考：99-110）\n总二氧化碳 22 mmol/L （参考：22-29）\n葡萄糖 5.8 mmol/L （参考：3.9-6.1）\nLDH 180 U/L （参考：120-250）",
+      "positive": "AST 56 U/L ↑；总胆红素 48 μmol/L ↑；直接胆红素 26 μmol/L ↑；白蛋白 25 g/L ↓；总蛋白 61 g/L ↓；GGT 78 U/L ↑；尿素 10.2 mmol/L ↑；肌酐 118 μmol/L ↑；钠 129 mmol/L ↓；氯 97 mmol/L ↓",
+      "source_page": 8,
+      "available_at": "2026-09-01 09:45"
+    },
+    "coagulation": {
+      "name": "凝血及炎症指标",
+      "stage": 0,
+      "category": "血液",
+      "sheet": {
+        "title": "凝血及炎症指标",
+        "number": "coagulation",
+        "sample": "血液",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-01 10:45",
+        "findings": "",
+        "rows": [
+          {
+            "name": "凝血酶原时间",
+            "value": "17.8",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "11-14.5"
+          },
+          {
+            "name": "INR",
+            "value": "1.55",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "APTT",
+            "value": "38",
+            "flag": "↑",
+            "unit": "s",
+            "reference": "25-35"
+          },
+          {
+            "name": "纤维蛋白原",
+            "value": "1.8",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "2-4"
+          },
+          {
+            "name": "CRP",
+            "value": "42",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          },
+          {
+            "name": "降钙素原",
+            "value": "0.32",
+            "flag": "↑",
+            "unit": "ng/mL",
+            "reference": "0-0.05"
+          },
+          {
+            "name": "静脉乳酸",
+            "value": "1.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "0.5-2.2"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "凝血酶原时间 17.8 s ↑（参考：11-14.5）\nINR 1.55  ↑（参考：0.8-1.2）\nAPTT 38 s ↑（参考：25-35）\n纤维蛋白原 1.8 g/L ↓（参考：2-4）\nCRP 42 mg/L ↑（参考：0-8）\n降钙素原 0.32 ng/mL ↑（参考：0-0.05）\n静脉乳酸 1.8 mmol/L （参考：0.5-2.2）",
+      "positive": "凝血酶原时间 17.8 s ↑；INR 1.55  ↑；APTT 38 s ↑；纤维蛋白原 1.8 g/L ↓；CRP 42 mg/L ↑；降钙素原 0.32 ng/mL ↑",
+      "source_page": 9,
+      "available_at": "2026-09-01 09:45"
+    },
+    "urine": {
+      "name": "尿液检查",
+      "stage": 0,
+      "category": "尿液",
+      "sheet": {
+        "title": "尿液检查",
+        "number": "urine",
+        "sample": "尿液",
+        "collected": "2026-09-01 10:00",
+        "received": "2026-09-01 10:00",
+        "reported": "2026-09-01 11:20",
+        "findings": "",
+        "rows": [
+          {
+            "name": "尿比重",
+            "value": "1.02",
+            "flag": "",
+            "unit": "",
+            "reference": "1.005-1.03"
+          },
+          {
+            "name": "尿蛋白",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "尿隐血",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "尿红细胞",
+            "value": "1",
+            "flag": "",
+            "unit": "个/HPF",
+            "reference": "0-3"
+          },
+          {
+            "name": "尿白细胞",
+            "value": "2",
+            "flag": "",
+            "unit": "个/HPF",
+            "reference": "0-5"
+          },
+          {
+            "name": "颗粒管型",
+            "value": "未见",
+            "flag": "",
+            "unit": "",
+            "reference": "未见"
+          },
+          {
+            "name": "尿蛋白/肌酐比",
+            "value": "0.09",
+            "flag": "",
+            "unit": "g/g",
+            "reference": "0-0.15"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "尿比重 1.02  （参考：1.005-1.03）\n尿蛋白 阴性  （参考：阴性）\n尿隐血 阴性  （参考：阴性）\n尿红细胞 1 个/HPF （参考：0-3）\n尿白细胞 2 个/HPF （参考：0-5）\n颗粒管型 未见  （参考：未见）\n尿蛋白/肌酐比 0.09 g/g （参考：0-0.15）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 10:00"
+    },
+    "etiology": {
+      "name": "病因筛查",
+      "stage": 0,
+      "category": "血液",
+      "sheet": {
+        "title": "病因筛查",
+        "number": "etiology",
+        "sample": "血液",
+        "collected": "2026-09-01 09:45",
+        "received": "2026-09-01 09:45",
+        "reported": "2026-09-02 09:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "HBsAg",
+            "value": "阳性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "HBeAg",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "抗-HBe",
+            "value": "阳性",
+            "flag": "",
+            "unit": "",
+            "reference": "按感染状态解释"
+          },
+          {
+            "name": "抗-HBc",
+            "value": "阳性",
+            "flag": "",
+            "unit": "",
+            "reference": "按感染状态解释"
+          },
+          {
+            "name": "HBV DNA",
+            "value": "<20",
+            "flag": "",
+            "unit": "IU/mL",
+            "reference": "低于定量下限20"
+          },
+          {
+            "name": "抗-HCV",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "HIV抗原/抗体",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          },
+          {
+            "name": "AFP",
+            "value": "4.2",
+            "flag": "",
+            "unit": "ng/mL",
+            "reference": "0-7"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "HBsAg 阳性  （参考：阴性）\nHBeAg 阴性  （参考：阴性）\n抗-HBe 阳性  （参考：按感染状态解释）\n抗-HBc 阳性  （参考：按感染状态解释）\nHBV DNA <20 IU/mL （参考：低于定量下限20）\n抗-HCV 阴性  （参考：阴性）\nHIV抗原/抗体 阴性  （参考：阴性）\nAFP 4.2 ng/mL （参考：0-7）",
+      "positive": "",
+      "source_page": 10,
+      "available_at": "2026-09-01 09:45"
+    },
+    "ultrasound": {
+      "name": "肝胆脾及泌尿系超声",
+      "stage": 0,
+      "category": "影像",
+      "sheet": {
+        "title": "肝胆脾及泌尿系超声",
+        "number": "ultrasound",
+        "sample": "影像",
+        "collected": "2026-09-01 10:35",
+        "received": "2026-09-01 10:35",
+        "reported": "2026-09-01 11:00",
+        "findings": "检查项目：肝胆脾、门静脉及腹水定位；双肾与膀胱。\n文字所见（合成病例设定）：肝包膜欠光整，实质回声增粗、分布不均，未见明确局灶性占位。门静脉主干内径约14 mm，彩色血流示向肝血流，未见明确充盈缺损。脾长径约145 mm、厚约48 mm。腹盆腔多处液性暗区，肝周、脾周及双侧髂窝可见，左下腹可选择安全穿刺窗。胆管无明显扩张。双肾大小形态尚可，集合系统未见扩张，膀胱无明显潴留。\n超声提示：肝硬化声像改变；脾大；大量腹水；本次未见明确门静脉血栓、肝内占位或尿路梗阻征象。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。",
+        "image": "ultrasound-synthetic.png"
+      },
+      "text": "检查项目：肝胆脾、门静脉及腹水定位；双肾与膀胱。\n文字所见（合成病例设定）：肝包膜欠光整，实质回声增粗、分布不均，未见明确局灶性占位。门静脉主干内径约14 mm，彩色血流示向肝血流，未见明确充盈缺损。脾长径约145 mm、厚约48 mm。腹盆腔多处液性暗区，肝周、脾周及双侧髂窝可见，左下腹可选择安全穿刺窗。胆管无明显扩张。双肾大小形态尚可，集合系统未见扩张，膀胱无明显潴留。\n超声提示：肝硬化声像改变；脾大；大量腹水；本次未见明确门静脉血栓、肝内占位或尿路梗阻征象。",
+      "positive": "",
+      "source_page": 11,
+      "available_at": "2026-09-01 10:35"
+    },
+    "ecg": {
+      "name": "十二导联心电图",
+      "stage": 0,
+      "category": "心电",
+      "sheet": {
+        "title": "十二导联心电图",
+        "number": "ecg",
+        "sample": "心电",
+        "collected": "2026-09-01 10:10",
+        "received": "2026-09-01 10:10",
+        "reported": "2026-09-01 10:20",
+        "findings": "心率 / 节律；96次/min / 窦性心律\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\n电轴 / ST-T；约+45°；无急性缺血性ST-T改变（病例设定）",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。",
+        "image": "ecg-synthetic.png"
+      },
+      "text": "心率 / 节律；96次/min / 窦性心律\nPR / QRS；160 ms / 86 ms\nQT / QTc（Bazett）；342 ms / 433 ms\n电轴 / ST-T；约+45°；无急性缺血性ST-T改变（病例设定）",
+      "positive": "",
+      "source_page": 12,
+      "available_at": "2026-09-01 10:10"
+    },
+    "ascites": {
+      "name": "诊断性腹腔穿刺与腹水检验",
+      "stage": 0,
+      "category": "腹水",
+      "sheet": {
+        "title": "诊断性腹腔穿刺与腹水检验",
+        "number": "ascites",
+        "sample": "腹水",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-01 12:00",
+        "findings": "",
+        "rows": [
+          {
+            "name": "颜色 / 透明度",
+            "value": "淡黄色 / 微浑浊",
+            "flag": "",
+            "unit": "",
+            "reference": "描述性项目"
+          },
+          {
+            "name": "有核细胞总数",
+            "value": "1000",
+            "flag": "",
+            "unit": "个/μL",
+            "reference": "无统一正常参考区间"
+          },
+          {
+            "name": "中性粒细胞比例",
+            "value": "64",
+            "flag": "",
+            "unit": "%",
+            "reference": "结合绝对计数"
+          },
+          {
+            "name": "中性粒细胞绝对计数",
+            "value": "640",
+            "flag": "↑",
+            "unit": "个/μL",
+            "reference": "<250；≥250为SBP诊断界值"
+          },
+          {
+            "name": "红细胞",
+            "value": "400",
+            "flag": "",
+            "unit": "个/μL",
+            "reference": "结合穿刺情况"
+          },
+          {
+            "name": "腹水白蛋白",
+            "value": "7",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "结合同时血清白蛋白"
+          },
+          {
+            "name": "腹水总蛋白",
+            "value": "10",
+            "flag": "",
+            "unit": "g/L",
+            "reference": "结合病因；<15提示低蛋白腹水"
+          },
+          {
+            "name": "葡萄糖",
+            "value": "5.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "结合血糖及临床"
+          },
+          {
+            "name": "LDH",
+            "value": "72",
+            "flag": "",
+            "unit": "U/L",
+            "reference": "结合血清LDH上限250"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "颜色 / 透明度 淡黄色 / 微浑浊  （参考：描述性项目）\n有核细胞总数 1000 个/μL （参考：无统一正常参考区间）\n中性粒细胞比例 64 % （参考：结合绝对计数）\n中性粒细胞绝对计数 640 个/μL ↑（参考：<250；≥250为SBP诊断界值）\n红细胞 400 个/μL （参考：结合穿刺情况）\n腹水白蛋白 7 g/L （参考：结合同时血清白蛋白）\n腹水总蛋白 10 g/L （参考：结合病因；<15提示低蛋白腹水）\n葡萄糖 5.5 mmol/L （参考：结合血糖及临床）\nLDH 72 U/L （参考：结合血清LDH上限250）",
+      "positive": "中性粒细胞绝对计数 640 个/μL ↑",
+      "source_page": 14,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-prelim": {
+      "name": "腹水培养初报",
+      "stage": 0,
+      "category": "微生物",
+      "sheet": {
+        "title": "腹水培养初报",
+        "number": "culture-prelim",
+        "sample": "微生物",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-02 16:00",
+        "findings": "革兰阴性杆菌；鉴定与药敏尚未回报。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "革兰阴性杆菌；鉴定与药敏尚未回报。",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "culture-final": {
+      "name": "腹水培养与药敏终报",
+      "stage": 0,
+      "category": "微生物",
+      "sheet": {
+        "title": "腹水培养与药敏终报",
+        "number": "culture-final",
+        "sample": "微生物",
+        "collected": "2026-09-01 11:05",
+        "received": "2026-09-01 11:05",
+        "reported": "2026-09-03 09:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "培养结果",
+            "value": "大肠埃希菌",
+            "flag": "",
+            "unit": "",
+            "reference": "阳性；单一菌种"
+          },
+          {
+            "name": "头孢曲松",
+            "value": "敏感（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "哌拉西林/他唑巴坦",
+            "value": "敏感（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "美罗培南",
+            "value": "敏感（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "环丙沙星",
+            "value": "敏感（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "复方磺胺甲噁唑",
+            "value": "敏感（S）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "氨苄西林",
+            "value": "耐药（R）",
+            "flag": "",
+            "unit": "",
+            "reference": "模拟药敏分类"
+          },
+          {
+            "name": "ESBL筛查",
+            "value": "阴性",
+            "flag": "",
+            "unit": "",
+            "reference": "阴性"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "培养结果 大肠埃希菌  （参考：阳性；单一菌种）\n头孢曲松 敏感（S）  （参考：模拟药敏分类）\n哌拉西林/他唑巴坦 敏感（S）  （参考：模拟药敏分类）\n美罗培南 敏感（S）  （参考：模拟药敏分类）\n环丙沙星 敏感（S）  （参考：模拟药敏分类）\n复方磺胺甲噁唑 敏感（S）  （参考：模拟药敏分类）\n氨苄西林 耐药（R）  （参考：模拟药敏分类）\nESBL筛查 阴性  （参考：阴性）",
+      "positive": "",
+      "source_page": 18,
+      "available_at": "2026-09-01 11:05"
+    },
+    "renal-day2": {
+      "name": "第2日肾功能与电解质",
+      "stage": 2,
+      "category": "血液",
+      "sheet": {
+        "title": "第2日肾功能与电解质",
+        "number": "renal-day2",
+        "sample": "血液",
+        "collected": "2026-09-02 06:00",
+        "received": "2026-09-02 06:00",
+        "reported": "2026-09-02 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "150",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "尿素",
+            "value": "11.8",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "钠",
+            "value": "128",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.8",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "氯",
+            "value": "96",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "99-110"
+          },
+          {
+            "name": "总二氧化碳",
+            "value": "21",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "22-29"
+          },
+          {
+            "name": "白蛋白",
+            "value": "30",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "总胆红素",
+            "value": "46",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "CRP",
+            "value": "38",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "肌酐 150 μmol/L ↑（参考：57-97）\n尿素 11.8 mmol/L ↑（参考：3.1-8）\n钠 128 mmol/L ↓（参考：135-145）\n钾 4.8 mmol/L （参考：3.5-5.3）\n氯 96 mmol/L ↓（参考：99-110）\n总二氧化碳 21 mmol/L ↓（参考：22-29）\n白蛋白 30 g/L ↓（参考：40-55）\n总胆红素 46 μmol/L ↑（参考：0-21）\nCRP 38 mg/L ↑（参考：0-8）",
+      "positive": "肌酐 150 μmol/L ↑；尿素 11.8 mmol/L ↑；钠 128 mmol/L ↓；氯 96 mmol/L ↓；总二氧化碳 21 mmol/L ↓；白蛋白 30 g/L ↓；总胆红素 46 μmol/L ↑；CRP 38 mg/L ↑",
+      "source_page": 16,
+      "available_at": "2026-09-02 06:00"
+    },
+    "blood-day3": {
+      "name": "第3日血液复查",
+      "stage": 2,
+      "category": "血液",
+      "sheet": {
+        "title": "第3日血液复查",
+        "number": "blood-day3",
+        "sample": "血液",
+        "collected": "2026-09-03 06:00",
+        "received": "2026-09-03 06:00",
+        "reported": "2026-09-03 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "白细胞",
+            "value": "5.6",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "血红蛋白",
+            "value": "116",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "血小板",
+            "value": "70",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          },
+          {
+            "name": "肌酐",
+            "value": "112",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "尿素",
+            "value": "9.5",
+            "flag": "↑",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "钠",
+            "value": "130",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.5",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "20",
+            "flag": "↑",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "白细胞 5.6 10^9/L （参考：3.5-9.5）\n血红蛋白 116 g/L ↓（参考：130-175）\n血小板 70 10^9/L ↓（参考：125-350）\n肌酐 112 μmol/L ↑（参考：57-97）\n尿素 9.5 mmol/L ↑（参考：3.1-8）\n钠 130 mmol/L ↓（参考：135-145）\n钾 4.5 mmol/L （参考：3.5-5.3）\nCRP 20 mg/L ↑（参考：0-8）",
+      "positive": "血红蛋白 116 g/L ↓；血小板 70 10^9/L ↓；肌酐 112 μmol/L ↑；尿素 9.5 mmol/L ↑；钠 130 mmol/L ↓；CRP 20 mg/L ↑",
+      "source_page": 19,
+      "available_at": "2026-09-03 06:00"
+    },
+    "ascites-repeat": {
+      "name": "复查腹腔穿刺与腹水细胞计数",
+      "stage": 2,
+      "category": "腹水",
+      "sheet": {
+        "title": "复查腹腔穿刺与腹水细胞计数",
+        "number": "ascites-repeat",
+        "sample": "腹水",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-03 12:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "腹水有核细胞总数",
+            "value": "300",
+            "flag": "",
+            "unit": "个/μL",
+            "reference": "无统一参考区间"
+          },
+          {
+            "name": "腹水中性粒细胞比例",
+            "value": "40",
+            "flag": "",
+            "unit": "%",
+            "reference": "结合绝对计数"
+          },
+          {
+            "name": "腹水PMN绝对计数",
+            "value": "120",
+            "flag": "",
+            "unit": "个/μL",
+            "reference": "<250；≥250为SBP诊断界值"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "腹水有核细胞总数 300 个/μL （参考：无统一参考区间）\n腹水中性粒细胞比例 40 % （参考：结合绝对计数）\n腹水PMN绝对计数 120 个/μL （参考：<250；≥250为SBP诊断界值）",
+      "positive": "",
+      "source_page": 19,
+      "available_at": "2026-09-03 11:50"
+    },
+    "pre-drainage": {
+      "name": "第4日放腹水前安全评估",
+      "stage": 2,
+      "category": "血液",
+      "sheet": {
+        "title": "第4日放腹水前安全评估",
+        "number": "pre-drainage",
+        "sample": "血液",
+        "collected": "2026-09-04 06:00",
+        "received": "2026-09-04 06:00",
+        "reported": "2026-09-04 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "96",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "尿素",
+            "value": "7.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "钠",
+            "value": "132",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.3",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "白蛋白",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "总胆红素",
+            "value": "38",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.45",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "血小板",
+            "value": "72",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "肌酐 96 μmol/L （参考：57-97）\n尿素 7.6 mmol/L （参考：3.1-8）\n钠 132 mmol/L ↓（参考：135-145）\n钾 4.3 mmol/L （参考：3.5-5.3）\n白蛋白 32 g/L ↓（参考：40-55）\n总胆红素 38 μmol/L ↑（参考：0-21）\nINR 1.45  ↑（参考：0.8-1.2）\n血小板 72 10^9/L ↓（参考：125-350）",
+      "positive": "钠 132 mmol/L ↓；白蛋白 32 g/L ↓；总胆红素 38 μmol/L ↑；INR 1.45  ↑；血小板 72 10^9/L ↓",
+      "source_page": 21,
+      "available_at": "2026-09-04 06:00"
+    },
+    "blood-day5": {
+      "name": "第5日血液复查",
+      "stage": 2,
+      "category": "血液",
+      "sheet": {
+        "title": "第5日血液复查",
+        "number": "blood-day5",
+        "sample": "血液",
+        "collected": "2026-09-05 06:00",
+        "received": "2026-09-05 06:00",
+        "reported": "2026-09-05 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "88",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "钠",
+            "value": "133",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "肌酐 88 μmol/L （参考：57-97）\n钠 133 mmol/L ↓（参考：135-145）\n钾 4.2 mmol/L （参考：3.5-5.3）",
+      "positive": "钠 133 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-05 06:00"
+    },
+    "blood-day7": {
+      "name": "第7日血液复查",
+      "stage": 2,
+      "category": "血液",
+      "sheet": {
+        "title": "第7日血液复查",
+        "number": "blood-day7",
+        "sample": "血液",
+        "collected": "2026-09-07 06:00",
+        "received": "2026-09-07 06:00",
+        "reported": "2026-09-07 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "84",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "钠",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.1",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "CRP",
+            "value": "5",
+            "flag": "",
+            "unit": "mg/L",
+            "reference": "0-8"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "肌酐 84 μmol/L （参考：57-97）\n钠 134 mmol/L ↓（参考：135-145）\n钾 4.1 mmol/L （参考：3.5-5.3）\nCRP 5 mg/L （参考：0-8）",
+      "positive": "钠 134 mmol/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-07 06:00"
+    },
+    "blood-day9": {
+      "name": "第9日血液复查",
+      "stage": 3,
+      "category": "血液",
+      "sheet": {
+        "title": "第9日血液复查",
+        "number": "blood-day9",
+        "sample": "血液",
+        "collected": "2026-09-09 06:00",
+        "received": "2026-09-09 06:00",
+        "reported": "2026-09-09 07:30",
+        "findings": "",
+        "rows": [
+          {
+            "name": "肌酐",
+            "value": "82",
+            "flag": "",
+            "unit": "μmol/L",
+            "reference": "57-97"
+          },
+          {
+            "name": "尿素",
+            "value": "5.6",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.1-8"
+          },
+          {
+            "name": "钠",
+            "value": "134",
+            "flag": "↓",
+            "unit": "mmol/L",
+            "reference": "135-145"
+          },
+          {
+            "name": "钾",
+            "value": "4.2",
+            "flag": "",
+            "unit": "mmol/L",
+            "reference": "3.5-5.3"
+          },
+          {
+            "name": "白蛋白",
+            "value": "32",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "40-55"
+          },
+          {
+            "name": "总胆红素",
+            "value": "30",
+            "flag": "↑",
+            "unit": "μmol/L",
+            "reference": "0-21"
+          },
+          {
+            "name": "INR",
+            "value": "1.35",
+            "flag": "↑",
+            "unit": "",
+            "reference": "0.8-1.2"
+          },
+          {
+            "name": "白细胞",
+            "value": "4.2",
+            "flag": "",
+            "unit": "10^9/L",
+            "reference": "3.5-9.5"
+          },
+          {
+            "name": "血红蛋白",
+            "value": "119",
+            "flag": "↓",
+            "unit": "g/L",
+            "reference": "130-175"
+          },
+          {
+            "name": "血小板",
+            "value": "75",
+            "flag": "↓",
+            "unit": "10^9/L",
+            "reference": "125-350"
+          }
+        ],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "肌酐 82 μmol/L （参考：57-97）\n尿素 5.6 mmol/L （参考：3.1-8）\n钠 134 mmol/L ↓（参考：135-145）\n钾 4.2 mmol/L （参考：3.5-5.3）\n白蛋白 32 g/L ↓（参考：40-55）\n总胆红素 30 μmol/L ↑（参考：0-21）\nINR 1.35  ↑（参考：0.8-1.2）\n白细胞 4.2 10^9/L （参考：3.5-9.5）\n血红蛋白 119 g/L ↓（参考：130-175）\n血小板 75 10^9/L ↓（参考：125-350）",
+      "positive": "钠 134 mmol/L ↓；白蛋白 32 g/L ↓；总胆红素 30 μmol/L ↑；INR 1.35  ↑；血红蛋白 119 g/L ↓；血小板 75 10^9/L ↓",
+      "source_page": 24,
+      "available_at": "2026-09-09 06:00"
+    },
+    "blood-culture": {
+      "name": "血培养终报",
+      "stage": 0,
+      "category": "微生物",
+      "sheet": {
+        "title": "血培养终报",
+        "number": "blood-culture",
+        "sample": "微生物",
+        "collected": "2026-09-01 09:50",
+        "received": "2026-09-01 09:50",
+        "reported": "2026-09-06 10:00",
+        "findings": "两组外周血培养5天未检出细菌。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "两组外周血培养5天未检出细菌。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-01 09:50"
+    },
+    "repeat-culture": {
+      "name": "复查腹水培养终报",
+      "stage": 2,
+      "category": "微生物",
+      "sheet": {
+        "title": "复查腹水培养终报",
+        "number": "repeat-culture",
+        "sample": "微生物",
+        "collected": "2026-09-03 11:50",
+        "received": "2026-09-03 11:50",
+        "reported": "2026-09-08 12:30",
+        "findings": "复查腹水培养5天未检出细菌。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "复查腹水培养5天未检出细菌。",
+      "positive": "",
+      "source_page": 25,
+      "available_at": "2026-09-03 11:50"
+    },
+    "ultrasound-review": {
+      "name": "出院前腹部超声",
+      "stage": 2,
+      "category": "影像",
+      "sheet": {
+        "title": "出院前腹部超声",
+        "number": "ultrasound-review",
+        "sample": "影像",
+        "collected": "2026-09-08 09:30",
+        "received": "2026-09-08 09:30",
+        "reported": "2026-09-08 09:30",
+        "findings": "ASC-US02 · 09-08 09:30复查超声报告：肝脾形态与前相仿，腹盆腔少量游离液体，较前明显减少；未见新发明确肝内占位或门静脉主干血栓。双肾集合系统无扩张。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "ASC-US02 · 09-08 09:30复查超声报告：肝脾形态与前相仿，腹盆腔少量游离液体，较前明显减少；未见新发明确肝内占位或门静脉主干血栓。双肾集合系统无扩张。",
+      "positive": "",
+      "source_page": 26,
+      "available_at": "2026-09-08 09:30"
+    },
+    "drainage": {
+      "name": "治疗性腹腔穿刺放液记录",
+      "stage": 2,
+      "category": "操作",
+      "sheet": {
+        "title": "治疗性腹腔穿刺放液记录",
+        "number": "drainage",
+        "sample": "操作",
+        "collected": "2026-09-04 10:00",
+        "received": "2026-09-04 10:00",
+        "reported": "2026-09-04 11:40",
+        "findings": "2026-09-04　开始10:00，结束11:40\n操作前诊断及适应证：肝硬化大量腹水；SBP治疗反应良好，肾功能恢复。仍明显腹胀早饱，腹壁紧张。BP108/68 mmHg，P82次/min，SpO2 98%。当前未符合难治性腹水定义。\n知情同意与准备：说明放液目的、白蛋白补充及出血、感染、低血压、循环功能障碍、漏液等风险，患者同意。核对身份和超声窗，排空膀胱；无预防性血浆/血小板输注。\n操作经过：取半卧位，超声选左下腹安全液体区，避开腹壁血管。常规无菌消毒铺巾，1%利多卡因5 mL局麻后置入一次性腹腔穿刺导管，分段观察下缓慢放出淡黄色清亮腹水共6000 mL。期间每15分钟观察生命体征和症状。未留置持续引流管，操作完成拔管、压迫并敷无菌贴。\n白蛋白与安全记录：按放液量6 L×8 g/L，另予20%人血白蛋白48 g（240 mL）于操作结束后缓慢静滴并监测。此为放腹水适应证，与09-01、09-03的SBP方案分别记录，非同日重复计算。\n术后：末次BP106/66 mmHg，P80次/min，SpO2 98%；腹胀明显缓解，腹围由105 cm降至96 cm，体重由75.6 kg降至69.6 kg。局部无渗血漏液，无腹痛加重及晕厥。继续观察2小时，次晨复查肾功能和电解质。\n操作医师赵衡；指导医师沈妍；护士姜悦（均为模拟角色）。本例未行外科手术，本记录为有创操作记录。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "2026-09-04　开始10:00，结束11:40\n操作前诊断及适应证：肝硬化大量腹水；SBP治疗反应良好，肾功能恢复。仍明显腹胀早饱，腹壁紧张。BP108/68 mmHg，P82次/min，SpO2 98%。当前未符合难治性腹水定义。\n知情同意与准备：说明放液目的、白蛋白补充及出血、感染、低血压、循环功能障碍、漏液等风险，患者同意。核对身份和超声窗，排空膀胱；无预防性血浆/血小板输注。\n操作经过：取半卧位，超声选左下腹安全液体区，避开腹壁血管。常规无菌消毒铺巾，1%利多卡因5 mL局麻后置入一次性腹腔穿刺导管，分段观察下缓慢放出淡黄色清亮腹水共6000 mL。期间每15分钟观察生命体征和症状。未留置持续引流管，操作完成拔管、压迫并敷无菌贴。\n白蛋白与安全记录：按放液量6 L×8 g/L，另予20%人血白蛋白48 g（240 mL）于操作结束后缓慢静滴并监测。此为放腹水适应证，与09-01、09-03的SBP方案分别记录，非同日重复计算。\n术后：末次BP106/66 mmHg，P80次/min，SpO2 98%；腹胀明显缓解，腹围由105 cm降至96 cm，体重由75.6 kg降至69.6 kg。局部无渗血漏液，无腹痛加重及晕厥。继续观察2小时，次晨复查肾功能和电解质。\n操作医师赵衡；指导医师沈妍；护士姜悦（均为模拟角色）。本例未行外科手术，本记录为有创操作记录。",
+      "positive": "",
+      "source_page": 22,
+      "available_at": "2026-09-04 10:00"
+    },
+    "handoff": {
+      "name": "预设首日治疗交接",
+      "stage": 1,
+      "category": "交接",
+      "sheet": {
+        "title": "预设首日治疗交接",
+        "number": "handoff",
+        "sample": "交接",
+        "collected": "2026-09-01 18:00",
+        "received": "2026-09-01 18:00",
+        "reported": "2026-09-01 18:00",
+        "findings": "2026-09-01 12:15\n检查结果与诊断修正：腹水PMN640个/μL，SAAG18 g/L；腹水总蛋白10 g/L，血清Cr118 μmol/L、Na129 mmol/L、ALB25 g/L。初步明确门静脉高压相关腹水合并SBP。无局限性腹膜刺激征，腹水生化暂不支持继发性腹膜炎，但须观察治疗反应。\n肾功能判断：08-20基线Cr78至当前118 μmol/L，增幅51%，但基线距今超过7天；当前先记“疑似AKI”，不能仅凭该旧值直接套用7日标准。患者近2天少尿，感染、摄入不足及自行加利尿剂均可能参与。次日复查及短期动态用于确认。\n治疗执行：11:50开始头孢曲松2 g静脉滴注，每24小时一次。社区起病、近期无抗菌药/住院及已知耐药史；本模拟场景假定本院社区SBP经验方案允许使用该药，培养结果后复核。12:10开始20%人血白蛋白，按估计干重68 kg×1.5 g/kg=102 g（510 mL），分次缓慢输注并监测呼吸、SpO2、血压和肺部体征。\n暂缓利尿剂和大量放腹水，腹胀虽明显但暂无呼吸受限或腹腔间隔室综合征证据；先控制感染和评估灌注。无休克，暂不使用血管收缩药。饮食限钠约2 g/d（折合食盐约5 g/d），保障能量及蛋白；Na129且无神经症状，不作常规严格限水。\n严重程度：入院Child-Pugh按胆红素2分、白蛋白3分、INR1分、大量腹水3分、无脑病1分，共10分，C级；腹水评分属于临床判断。感染和肾功能异常增加短期风险，需密切观察。\n2026-09-01 18:00：输注过程无呼吸困难或湿啰音，BP102/64 mmHg；仍腹胀，无腹膜刺激征。向家属交代夜间观察重点及病情变化可能。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "2026-09-01 12:15\n检查结果与诊断修正：腹水PMN640个/μL，SAAG18 g/L；腹水总蛋白10 g/L，血清Cr118 μmol/L、Na129 mmol/L、ALB25 g/L。初步明确门静脉高压相关腹水合并SBP。无局限性腹膜刺激征，腹水生化暂不支持继发性腹膜炎，但须观察治疗反应。\n肾功能判断：08-20基线Cr78至当前118 μmol/L，增幅51%，但基线距今超过7天；当前先记“疑似AKI”，不能仅凭该旧值直接套用7日标准。患者近2天少尿，感染、摄入不足及自行加利尿剂均可能参与。次日复查及短期动态用于确认。\n治疗执行：11:50开始头孢曲松2 g静脉滴注，每24小时一次。社区起病、近期无抗菌药/住院及已知耐药史；本模拟场景假定本院社区SBP经验方案允许使用该药，培养结果后复核。12:10开始20%人血白蛋白，按估计干重68 kg×1.5 g/kg=102 g（510 mL），分次缓慢输注并监测呼吸、SpO2、血压和肺部体征。\n暂缓利尿剂和大量放腹水，腹胀虽明显但暂无呼吸受限或腹腔间隔室综合征证据；先控制感染和评估灌注。无休克，暂不使用血管收缩药。饮食限钠约2 g/d（折合食盐约5 g/d），保障能量及蛋白；Na129且无神经症状，不作常规严格限水。\n严重程度：入院Child-Pugh按胆红素2分、白蛋白3分、INR1分、大量腹水3分、无脑病1分，共10分，C级；腹水评分属于临床判断。感染和肾功能异常增加短期风险，需密切观察。\n2026-09-01 18:00：输注过程无呼吸困难或湿啰音，BP102/64 mmHg；仍腹胀，无腹膜刺激征。向家属交代夜间观察重点及病情变化可能。",
+      "positive": "",
+      "source_page": 15,
+      "available_at": "2026-09-01 18:00"
+    },
+    "ward": {
+      "name": "当日护理与查体",
+      "stage": 2,
+      "category": "复评",
+      "sheet": {
+        "title": "当日护理与查体",
+        "number": "ward",
+        "sample": "复评",
+        "collected": "2026-09-02 09:00",
+        "received": "2026-09-02 09:00",
+        "reported": "2026-09-02 09:00",
+        "findings": "按当前查房日期查看。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "按当前查房日期查看。",
+      "positive": "",
+      "source_page": 30,
+      "available_at": "2026-09-02 09:00"
+    },
+    "discharge": {
+      "name": "出院前状态",
+      "stage": 3,
+      "category": "复评",
+      "sheet": {
+        "title": "出院前状态",
+        "number": "discharge",
+        "sample": "复评",
+        "collected": "2026-09-09 10:00",
+        "received": "2026-09-09 10:00",
+        "reported": "2026-09-09 10:00",
+        "findings": "进食睡眠改善，腹痛及水肿消失。体重68.1 kg，腹围94 cm，BP112/70 mmHg，尿量1500 mL/24h。",
+        "rows": [],
+        "note": "教学合成病例 v1.1，待临床专家审核。数值和时间来自原病案；不用于真实诊疗。"
+      },
+      "text": "进食睡眠改善，腹痛及水肿消失。体重68.1 kg，腹围94 cm，BP112/70 mmHg，尿量1500 mL/24h。",
+      "positive": "",
+      "source_page": 27,
+      "available_at": "2026-09-09 10:00"
+    }
+  },
+  "opening_content": {
+    "openers": [
+      "Doctor, my abdomen is very bloated, my legs are swollen, and I have passed less urine over the past two days.。",
+      "Document the day-one management and handoff plan based on test results obtained.。",
+      "Begin daily ward rounds; subsequent materials become available by date and reporting time.。",
+      "Doctor, how should I take my medicines after going home, and when should I return for follow-up?？",
+      "Simulation submitted。"
+    ],
+    "general": "Name：Wang Jianhua；Sex：male；Age：56 years old；Marital status：Married；Occupation：Work involving standing and light manual handling；Current address：Chengdu, Sichuan (detailed address not specified）；History provided by：Patient personally；Gastroenterology admission intake"
+  },
+  "source_opening_content": {
+    "openers": [
+      "医生，我肚子胀得厉害，腿也肿了，这两天尿少。",
+      "请根据已获得的检查记录首日处置与交接计划。",
+      "进入逐日查房，后续资料按日期和报告时间开放。",
+      "医生，回去后药怎么吃，什么时候复查？",
+      "演练已提交。"
+    ],
+    "general": "姓名：王建华；性别：男；年龄：56岁；婚姻：已婚；职业：站立及轻体力搬运工作；现住址：四川成都（详细住址未设定）；病史陈述者：患者本人；消化内科入院接诊"
+  }
+}

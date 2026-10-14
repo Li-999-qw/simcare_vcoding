@@ -1,0 +1,32 @@
+{
+  "laboratory": {
+    "department": "检验科",
+    "author": "林砚",
+    "reviewer": "苏禾",
+    "image": "signatures-fictional.png"
+  },
+  "ultrasound": {
+    "department": "超声科",
+    "author": "许澄",
+    "reviewer": "周岚",
+    "image": "signatures-ultrasound.png"
+  },
+  "ecg": {
+    "department": "心电检查室",
+    "author": "陆宁",
+    "reviewer": "顾川",
+    "image": "signatures-ecg.png"
+  },
+  "clinical": {
+    "department": "消化内科",
+    "author": "赵衡",
+    "reviewer": "沈妍",
+    "image": "signatures-clinical.png"
+  },
+  "nursing": {
+    "department": "消化内科护理组",
+    "author": "姜悦",
+    "reviewer": "宋青",
+    "image": "signatures-nursing.png"
+  }
+}

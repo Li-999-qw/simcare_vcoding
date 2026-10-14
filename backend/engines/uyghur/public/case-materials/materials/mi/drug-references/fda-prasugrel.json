@@ -1,0 +1,76 @@
+{
+  "query": "prasugrel",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22prasugrel%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "PRASUGREL"
+      ],
+      "brand": [
+        "Prasugrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "35aa7f3e-bbd8-4eae-b61f-29d1abca2224",
+      "effective_time": "20250302",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Initiate prasugrel tablets treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking prasugrel tablets should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions (7.4) and Clinical Pharmacology (12.3) ] . Prasugrel tablets may be administered with or without food [see Clinical Pharmacology (12.3) and Clinical Studies (14) ] . Timing of Loading Dose In the clinical trial that established the efficacy and safety of prasugrel tablets, the loading dose of prasugrel tablets was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of prasugrel tablets was administered at the time of diagnosis, although most received prasugrel tablets at the time of PCI [see Clinical Studies (14) ] . For the small fraction of patients that required urgent CABG after treatment with prasugrel tablets, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when prasugrel tablets loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients Compared to patients weighing ≥60 kg, patients weighing <60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients <60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions (5.1) , Adverse Reactions (6.1) , and Clinical Pharmacology (12.3) ] . Initiate treatment with a single 60 mg oral loading dose (2) . Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients <60 kg (2) . Patients should also take aspirin (75 mg to 325 mg) daily (2) ."
+    },
+    {
+      "generic": [
+        "PRASUGREL"
+      ],
+      "brand": [
+        "Prasugrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "406cc201-89b6-43cc-9e14-a59327a5b4d8",
+      "effective_time": "20220309",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Initiate prasugrel tablets treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking prasugrel tablets should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions (7.4) and Clinical Pharmacology (12.3) ] . Prasugrel tablets may be administered with or without food [see Clinical Pharmacology (12.3) and Clinical Studies (14) ] . Timing of Loading Dose In the clinical trial that established the efficacy and safety of prasugrel tablets, the loading dose of prasugrel tablets was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of prasugrel tablets was administered at the time of diagnosis, although most received prasugrel tablets at the time of PCI [see Clinical Studies (14) ] . For the small fraction of patients that required urgent CABG after treatment with prasugrel tablets, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when prasugrel tablets loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients Compared to patients weighing ≥ 60 kg, patients weighing < 60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients < 60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions (5.1) , Adverse Reactions (6.1) , and Clinical Pharmacology (12.3) ]. Initiate treatment with a single 60 mg oral loading dose (2) . Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients < 60 kg (2) . Patients should also take aspirin (75 mg to 325 mg) daily (2) ."
+    },
+    {
+      "generic": [
+        "PRASUGREL"
+      ],
+      "brand": [
+        "Prasugrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "41a4e332-6725-4cb7-940a-8291cf56cfe4",
+      "effective_time": "20220629",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Initiate prasugrel tablets treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking prasugrel tablets should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions (7.4) and Clinical Pharmacology (12.3) ] . Prasugrel tablets may be administered with or without food [see Clinical Pharmacology (12.3) and Clinical Studies (14) ] . Timing of Loading Dose: In the clinical trial that established the efficacy and safety of prasugrel tablets, the loading dose of prasugrel tablets was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of prasugrel tablets was administered at the time of diagnosis, although most received prasugrel tablets at the time of PCI [see Clinical Studies (14) ] . For the small fraction of patients that required urgent CABG after treatment with prasugrel tablets, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when prasugrel tablets loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients: Compared to patients weighing ≥ 60 kg, patients weighing < 60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients < 60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions (5.1) , Adverse Reactions (6.1) , and Clinical Pharmacology (12.3) ] . • Initiate treatment with a single 60 mg oral loading dose ( 2 ). • Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients < 60 kg ( 2 ). • Patients should also take aspirin (75 mg to 325 mg) daily ( 2 )."
+    },
+    {
+      "generic": [
+        "PRASUGREL"
+      ],
+      "brand": [
+        "Prasugrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "596c923d-db8d-4b96-bf31-52186a38c30d",
+      "effective_time": "20240131",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Initiate prasugrel tablets treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking prasugrel tablets should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions (7.4) and Clinical Pharmacology (12.3) ] . Prasugrel tablets may be administered with or without food [see Clinical Pharmacology (12.3) and Clinical Studies (14) ] . Timing of Loading Dose In the clinical trial that established the efficacy and safety of prasugrel tablets, the loading dose of prasugrel tablets was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of prasugrel tablets was administered at the time of diagnosis, although most received prasugrel tablets at the time of PCI [see Clinical Studies (14) ] . For the small fraction of patients that required urgent CABG after treatment with prasugrel tablets, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when prasugrel tablets loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients Compared to patients weighing ≥60 kg, patients weighing <60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients <60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions (5.1) , Adverse Reactions (6.1) , and Clinical Pharmacology (12.3) ] . Initiate treatment with a single 60 mg oral loading dose (2) . Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients <60 kg (2) . Patients should also take aspirin (75 mg to 325 mg) daily (2) ."
+    },
+    {
+      "generic": [
+        "PRASUGREL"
+      ],
+      "brand": [
+        "Prasugrel"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "5edc1ab3-5c7a-47d6-8aaa-00523c9b4c8f",
+      "effective_time": "20230831",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Initiate prasugrel tablets treatment as a single 60 mg oral loading dose and then continue at 10 mg orally once daily. Patients taking prasugrel tablets should also take aspirin (75 mg to 325 mg) daily [see Drug Interactions ( 7.4 ) and Clinical Pharmacology ( 12.3 )]. Prasugrel tablets may be administered with or without food [see Clinical Pharmacology ( 12.3 ) and Clinical Studies ( 14 )]. Timing of Loading Dose In the clinical trial that established the efficacy and safety of prasugrel tablets, the loading dose of prasugrel tablets was not administered until coronary anatomy was established in UA/NSTEMI patients and in STEMI patients presenting more than 12 hours after symptom onset. In STEMI patients presenting within 12 hours of symptom onset, the loading dose of prasugrel tablets was administered at the time of diagnosis, although most received prasugrel tablets at the time of PCI [see Clinical Studies ( 14 )] . For the small fraction of patients that required urgent CABG after treatment with prasugrel tablets, the risk of significant bleeding was substantial. Although it is generally recommended that antiplatelet therapy be administered promptly in the management of ACS because many cardiovascular events occur within hours of initial presentation, in a trial of 4033 NSTEMI patients, no clear benefit was observed when prasugrel tablets loading dose was administered prior to diagnostic coronary angiography compared to at the time of PCI; however, risk of bleeding was increased with early administration in patients undergoing PCI or early CABG. Dosing in Low Weight Patients Compared to patients weighing ≥60 kg, patients weighing <60 kg have an increased exposure to the active metabolite of prasugrel and an increased risk of bleeding on a 10 mg once daily maintenance dose. Consider lowering the maintenance dose to 5 mg in patients <60 kg. The effectiveness and safety of the 5 mg dose have not been prospectively studied [see Warnings and Precautions ( 5.1 ), Adverse Reactions ( 6.1 ), and Clinical Pharmacology ( 12.3 )]. • Initiate treatment with a single 60 mg oral loading dose ( 2 ). • Continue at 10 mg once daily with or without food. Consider 5 mg once daily for patients <60 kg ( 2 ). • Patients should also take aspirin (75 mg to 325 mg) daily ( 2 )."
+    }
+  ]
+}

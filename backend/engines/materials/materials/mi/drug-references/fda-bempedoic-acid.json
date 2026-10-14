@@ -1,0 +1,34 @@
+{
+  "query": "bempedoic acid",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22bempedoic%20acid%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "BEMPEDOIC ACID AND EZETIMIBE"
+      ],
+      "brand": [
+        "Nexlizet"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "3fa2108c-0300-47b8-9d34-f762af7c93c6",
+      "effective_time": "20260625",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer one tablet (180 mg bempedoic acid and 10 mg ezetimibe) orally once daily with or without food. ( 2.1 ) Swallow the tablet whole. ( 2.1 ) Coadministration with Bile Acid Sequestrants: Administer at least 2 hours before or at least 4 hours after bile acid sequestrants. ( 2.2 ) 2.1 Recommended Dosage and Administration The recommended dosage of NEXLIZET is one tablet orally once daily. One tablet of NEXLIZET contains 180 mg of bempedoic acid and 10 mg of ezetimibe. Swallow the tablet whole. NEXLIZET can be taken with or without food. If a dose is missed, take the missed dose as soon as possible. Do not double the next dose. After initiation of NEXLIZET, analyze lipid levels within 8 to 12 weeks. 2.2 Coadministration with Bile Acid Sequestrants Administer NEXLIZET either at least 2 hours before or at least 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7) ]."
+    },
+    {
+      "generic": [
+        "BEMPEDOIC ACID"
+      ],
+      "brand": [
+        "Nexletol"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "88d06d89-a3da-40b4-b273-8f4f7d56c4c9",
+      "effective_time": "20260625",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer 180 mg orally once daily with or without food. ( 2.1 ) 2.1 Recommended Dosage The recommended dosage of NEXLETOL is 180 mg administered orally once daily. NEXLETOL can be taken with or without food. After initiation of NEXLETOL, analyze lipid levels within 8 to 12 weeks."
+    }
+  ]
+}

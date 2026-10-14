@@ -1,0 +1,76 @@
+{
+  "query": "bisoprolol",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22bisoprolol%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "BISOPROLOL FUMARATE"
+      ],
+      "brand": [
+        "Bisoprolol fumarate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "084308e4-3b8b-40d6-acbf-d775772a8a73",
+      "effective_time": "20230626",
+      "dosage": "DOSAGE AND ADMINISTRATION The dose of bisoprolol fumarate tablets must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily. In some patients, 2.5 mg may be an appropriate starting dose (see Bronchospastic Disease in WARNINGS ). If the antihypertensive effect of 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. Patients with Renal or Hepatic Impairment In patients with hepatic impairment (hepatitis or cirrhosis) or renal dysfunction (creatinine clearance less than 40 mL/min), the initial daily dose should be 2.5 mg and caution should be used in dose-titration. Since limited data suggest that bisoprolol fumarate is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients It is not necessary to adjust the dose in the elderly, unless there is also significant renal or hepatic dysfunction (see above and Geriatric Use in PRECAUTIONS ). Pediatric Patients There is no pediatric experience with bisoprolol fumarate tablets."
+    },
+    {
+      "generic": [
+        "BISOPROLOL FUMARATE"
+      ],
+      "brand": [
+        "Bisoprolol Fumarate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0ef9e45c-21ee-4e00-a9b8-280e2035b4d3",
+      "effective_time": "20250417",
+      "dosage": "DOSAGE AND ADMINISTRATION The dose of bisoprolol fumarate tablets must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily. In some patients, 2.5 mg may be an appropriate starting dose (see Bronchospastic Disease in WARNINGS ). If the antihypertensive effect of 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. Patients with Renal or Hepatic Impairment In patients with hepatic impairment (hepatitis or cirrhosis) or renal dysfunction (creatinine clearance less than 40 mL/min), the initial daily dose should be 2.5 mg and caution should be used in dose-titration. Since limited data suggest that bisoprolol fumarate is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients It is not necessary to adjust the dose in the elderly, unless there is also significant renal or hepatic dysfunction (see above and Geriatric Use in PRECAUTIONS ). Pediatric Patients There is no pediatric experience with bisoprolol fumarate tablets."
+    },
+    {
+      "generic": [
+        "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+      ],
+      "brand": [
+        "Bisoprolol Fumarate and Hydrochlorothiazide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "12ba7eba-1874-41b6-aff5-7baba8b99984",
+      "effective_time": "20260820",
+      "dosage": "DOSAGE AND ADMINISTRATION Bisoprolol is an effective treatment of hypertension in once-daily doses of 2.5 to 40 mg, while hydrochlorothiazide is effective in doses of 12.5 to 50 mg. In clinical trials of bisoprolol/hydrochlorothiazide combination therapy using bisoprolol doses of 2.5 to 20 mg and hydrochlorothiazide doses of 6.25 to 25 mg, the antihypertensive effects increased with increasing doses of either component. The adverse effects (see WARNINGS ) of bisoprolol are a mixture of dose-dependent phenomena (primarily bradycardia, diarrhea, asthenia, and fatigue) and dose-independent phenomena (eg, occasional rash); those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (eg, possibly pancreatitis); the dose- dependent phenomena for each being much more common than the dose-independent phenomena. The latter consist of those few that are truly idiosyncratic in nature or those that occur with such low frequency that a dose relationship may be difficult to discern. Therapy with a combination of bisoprolol and hydrochlorothiazide will be associated with both sets of dose- independent adverse effects, and to minimize these, it may be appropriate to begin combination therapy only after a patient has failed to achieve the desired effect with monotherapy. On the other hand, regimens that combine low doses of bisoprolol and hydrochlorothiazide should produce minimal dose-dependent adverse effects, eg, bradycardia, diarrhea, asthenia and fatigue, and minimal dose-dependent adverse metabolic effects, ie, decreases in serum potassium (see CLINICAL PHARMACOLOGY ). Therapy Guided by Clinical Effect A patient whose blood pressure is not adequately controlled with 2.5-20 mg bisoprolol daily may instead be given bisoprolol fumarate and hydrochlorothiazide tablets. Patients whose blood pressures are adequately controlled with 50 mg of hydrochlorothiazide daily, but who experience significant potassium loss with this regimen, may achieve similar blood pressure control without electrolyte disturbance if they are switched to bisoprolol fumarate and hydrochlorothiazide tablets. Initial Therapy Antihypertensive therapy may be initiated with the lowest dose of bisoprolol fumarate and hydrochlorothiazide tablets, one 2.5/6.25 mg tablet once daily. Subsequent titration (14 day intervals) may be carried out with bisoprolol fumarate and hydrochlorothiazide tablets up to the maximum recommended dose 20/12.5 mg (two 10/6.25 mg tablets) once daily, as appropriate. Replacement Therapy The combination may be substituted for the titrated individual components. Cessation of Therapy If withdrawal of bisoprolol fumarate and hydrochlorothiazide tablets therapy is planned, it should be achieved gradually over a period of about 2 weeks. Patients should be carefully observed. Patients with Renal or Hepatic Impairment: As noted in the WARNINGS section, caution must be used in dosing/titrating patients with hepatic impairment or renal dysfunction. Since there is no indication that hydrochlorothiazide is dialyzable, and limited data suggest that bisoprolol is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients: Dosage adjustment on the basis of age is not usually necessary, unless there is also significant renal or hepatic dysfunction (see above and WARNINGS section). Pediatric Patients: There is no pediatric experience with bisoprolol fumarate and hydrochlorothiazide tablets."
+    },
+    {
+      "generic": [
+        "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+      ],
+      "brand": [
+        "Bisoprolol Fumarate and Hydrochlorothiazide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "154cb1d2-9fb2-4c8d-90de-6a8062a8d1ba",
+      "effective_time": "20260819",
+      "dosage": "DOSAGE & ADMINISTRATION Bisoprolol is an effective treatment of hypertension in once-daily doses of 2.5 to 40 mg, while hydrochlorothiazide is effective in doses of 12.5 to 50 mg. In clinical trials of bisoprolol/hydrochlorothiazide combination therapy using bisoprolol doses of 2.5 to 20 mg and hydrochlorothiazide doses of 6.25 to 25 mg, the antihypertensive effects increased with increasing doses of either component. The adverse effects (see WARNINGS ) of bisoprolol are a mixture of dose-dependent phenomena (primarily bradycardia, diarrhea, asthenia, and fatigue) and dose-independent phenomena (eg, occasional rash); those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (eg, possibly pancreatitis); the dose- dependent phenomena for each being much more common than the dose-independent phenomena. The latter consist of those few that are truly idiosyncratic in nature or those that occur with such low frequency that a dose relationship may be difficult to discern. Therapy with a combination of bisoprolol and hydrochlorothiazide will be associated with both sets of dose- independent adverse effects, and to minimize these, it may be appropriate to begin combination therapy only after a patient has failed to achieve the desired effect with monotherapy. On the other hand, regimens that combine low doses of bisoprolol and hydrochlorothiazide should produce minimal dose-dependent adverse effects, eg, bradycardia, diarrhea, asthenia and fatigue, and minimal dose-dependent adverse metabolic effects, ie, decreases in serum potassium (see CLINICAL PHARMACOLOGY ). Therapy Guided by Clinical Effect A patient whose blood pressure is not adequately controlled with 2.5-20 mg bisoprolol daily may instead be given bisoprolol fumarate and hydrochlorothiazide tablets. Patients whose blood pressures are adequately controlled with 50 mg of hydrochlorothiazide daily, but who experience significant potassium loss with this regimen, may achieve similar blood pressure control without electrolyte disturbance if they are switched to bisoprolol fumarate and hydrochlorothiazide tablets. Initial Therapy Antihypertensive therapy may be initiated with the lowest dose of bisoprolol fumarate and hydrochlorothiazide tablets, one 2.5/6.25 mg tablet once daily. Subsequent titration (14 day intervals) may be carried out with bisoprolol fumarate and hydrochlorothiazide tablets up to the maximum recommended dose 20/12.5 mg (two 10/6.25 mg tablets) once daily, as appropriate. Replacement Therapy The combination may be substituted for the titrated individual components. Cessation of Therapy If withdrawal of bisoprolol fumarate and hydrochlorothiazide tablets therapy is planned, it should be achieved gradually over a period of about 2 weeks. Patients should be carefully observed. Patients with Renal or Hepatic Impairment: As noted in the WARNINGS section, caution must be used in dosing/titrating patients with hepatic impairment or renal dysfunction. Since there is no indication that hydrochlorothiazide is dialyzable, and limited data suggest that bisoprolol is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients: Dosage adjustment on the basis of age is not usually necessary, unless there is also significant renal or hepatic dysfunction (see above and WARNINGS section). Pediatric Patients: There is no pediatric experience with bisoprolol fumarate and hydrochlorothiazide tablets."
+    },
+    {
+      "generic": [
+        "BISOPROLOL FUMARATE"
+      ],
+      "brand": [
+        "Bisoprolol Fumarate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "200ab93b-6ad3-46cb-8f57-db056a14de16",
+      "effective_time": "20250516",
+      "dosage": "DOSAGE AND ADMINISTRATION The dose of bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily. In some patients, 2.5 mg may be an appropriate starting dose ( see Bronchospastic Disease in WARNINGS ). If the antihypertensive effect of 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. Patients with Renal or Hepatic Impairment In patients with hepatic impairment (hepatitis or cirrhosis) or renal dysfunction (creatinine clearance less than 40 mL/min), the initial daily dose should be 2.5 mg and caution should be used in dose-titration. Since limited data suggest that bisoprolol fumarate is not dialyzable, drug replacement is not necessary in patients undergoing dialysis. Geriatric Patients It is not necessary to adjust the dose in the elderly, unless there is also significant renal or hepatic dysfunction ( see above and Geriatric Use in PRECAUTIONS ). Pediatric Patients There is no pediatric experience with bisoprolol fumarate."
+    }
+  ]
+}

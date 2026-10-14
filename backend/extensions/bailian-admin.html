@@ -1,0 +1,25 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>百炼模型配置</title><style>body{font:17px/1.7 system-ui;background:#f3f6fa;color:#243746}main{max-width:700px;margin:50px auto;background:white;padding:32px;border-radius:16px}input{box-sizing:border-box;width:100%;padding:12px;font:inherit}button{padding:10px 18px;margin:16px 8px 0 0;cursor:pointer}#status{white-space:pre-wrap}</style><main><a href="/portal.html">返回管理界面</a><h1>阿里云百炼</h1><p><a href="/admin/models">角色模型、人设编辑与图片对答测试</a></p><p>患者：千问 Flash<br>上级医师与复盘：qwen3.7-plus（支持图片）<br>维吾尔语病例保留原模型。</p><p>请使用中国内地北京地域的 API 密钥。密钥仅在本服务器加密保存，不会回显。语音识别不受此设置影响；上级医师支持文字和图片；患者继续使用 qwen-flash。</p><label>百炼 API 密钥<input id="key" type="password" autocomplete="new-password" placeholder="sk-…"></label><button data-action="save">1. 保存密钥</button><button data-action="test">2. 保存并验证两个模型</button><button data-action="activate">3. 启用 Flash / 视觉 Plus</button><p id="status" role="status"></p></main><script>
+const statusBox=document.getElementById('status'), keyInput=document.getElementById('key');
+async function call(action,secret){
+ const response=await fetch('/admin/api/bailian',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action,...(secret!==undefined?{api_key:secret}:{})})});
+ let data;try{data=await response.json()}catch{throw Error('服务器未返回有效响应（HTTP '+response.status+'），请刷新后重试。')}
+ if(!response.ok)throw Error(typeof data.detail==='string'?data.detail:'操作未完成（HTTP '+response.status+'）');return data;
+}
+document.querySelectorAll('button').forEach(button=>button.onclick=async()=>{
+ document.querySelectorAll('button').forEach(x=>x.disabled=true);
+ try{
+  const action=button.dataset.action, secret=keyInput.value.trim();
+  if(action==='activate'&&secret)throw Error('输入框内有尚未保存的新密钥，请先点击“保存并验证两个模型”。');
+  if(action==='save'||(action==='test'&&secret)){
+   statusBox.textContent='正在加密保存密钥…';
+   const saved=await call('save',secret);keyInput.value='';statusBox.textContent=saved.message;
+  }
+  if(action==='test'){
+   statusBox.textContent='密钥已保存，正在向阿里云验证患者文字回复及上级医师图片识别，请稍候…';
+   statusBox.textContent=(await call('test')).message;
+  }else if(action==='activate')statusBox.textContent=(await call('activate')).message;
+ }catch(error){statusBox.textContent=error.message}
+ finally{document.querySelectorAll('button').forEach(x=>x.disabled=false)}
+});
+fetch('/admin/api/bailian').then(async response=>{const data=await response.json();if(!response.ok)throw Error(data.detail||'请先登录管理员账号');return data}).then(data=>{if(!keyInput.value)statusBox.textContent=data.active?'当前已启用百炼。':data.configured?'服务器已有加密保存的密钥，可直接验证。':'服务器尚未保存密钥。粘贴后可直接点击“保存并验证两个模型”。'}).catch(error=>statusBox.textContent=error.message);
+</script></html>

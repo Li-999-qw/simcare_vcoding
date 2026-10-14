@@ -1,0 +1,26 @@
+{
+  "drug": "adenosine",
+  "labels": [
+    {
+      "title": "ADENOSINE INJECTION [REMEDYREPACK INC.]",
+      "setid": "9508caf5-0e3a-4d32-909d-bff7ea40ec30",
+      "published": "Sep 02, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30",
+      "dosage": "\n                   For rapid bolus intravenous use only. \n                   \n                      Adenosine Injection, USP should be given as a rapid bolus by the peripheral intravenous route. To be certain the solution reaches the systemic circulation, it should be administered either directly into a vein or, if given into an IV line, it should be given as close to the patient as possible and followed by a rapid saline flush. \n                   \n               "
+    },
+    {
+      "title": "ADENOSINE INJECTION [SAGENT PHARMACEUTICALS]",
+      "setid": "546642f2-662f-46cf-9d82-5bb3bdcc7677",
+      "published": "Aug 03, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=546642f2-662f-46cf-9d82-5bb3bdcc7677",
+      "dosage": "\n                   For rapid bolus intravenous use only.\n \n                   \n                      Adenosine Injection, USP should be given as a rapid bolus by the peripheral intravenous route. To be certain the solution reaches the systemic circulation, it should be administered either directly into a vein or, if given into an IV line, it should be given as close to the patient as possible and followed by a rapid saline flush. \n                   \n               "
+    },
+    {
+      "title": "ADENOSINE INJECTION [PROPHARMA DISTRIBUTION]",
+      "setid": "48d72391-b3d4-bd97-e063-6294a90a9d6f",
+      "published": "Jan 21, 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48d72391-b3d4-bd97-e063-6294a90a9d6f",
+      "dosage": "\n                   For rapid bolus intravenous use only. \n                   \n                      Adenosine injection should be given as a rapid bolus by the peripheral intravenous route. To be certain the solution reaches the systemic circulation, it should be administered either directly into a vein or, if given into an intravenous line, it should be given as close to the patient as possible and followed by a rapid saline flush. \n                   \n               "
+    }
+  ]
+}

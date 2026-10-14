@@ -1,0 +1,76 @@
+{
+  "query": "metoprolol tartrate",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22metoprolol%20tartrate%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "METOPROLOL TARTRATE"
+      ],
+      "brand": [
+        "Metoprolol Tartrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "00de1f16-f979-4dbf-aa60-246ffac8d410",
+      "effective_time": "20250610",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of metoprolol tartrate tablets. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy. The effective dosage range of metoprolol tartrate tablets is 100 mg to 450 mg per day. Dosages above 450 mg per day have not been studied. While once-daily dosing can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period. Larger or more frequent daily doses may be required. Measure blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. 2.2 Angina Pectoris The dosage of metoprolol tartrate tablets should be individualized. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily, given in two divided doses. Gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is a pronounced slowing of the heart rate. The effective dosage range of metoprolol tartrate tablets is 100 to 400 mg per day. Dosages above 400 mg per day have not been studied. If treatment is to be discontinued, reduce the dosage gradually over a period of 1 to 2 weeks [see Warnings and Precautions (5.1) ]. 2.3 Myocardial Infarction See prescribing information of intravenous metoprolol for dosage instructions for intravenous therapy. In patients who tolerate the full intravenous dose, initiate metoprolol tartrate tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose of metoprolol and continue for 48 hours. In the case of intolerance, reduce dose to 25 mg and administer for 48 hours. Titrate, based on tolerability, to a maintenance dosage of 100 mg twice daily. Continue therapy for at least 3 months. Although the efficacy of metoprolol tartrate tablets beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years."
+    },
+    {
+      "generic": [
+        "METOPROLOL TARTRATE"
+      ],
+      "brand": [
+        "Lopressor"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0283bc9d-6998-493a-824a-d4c85f704111",
+      "effective_time": "20230914",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of Lopressor tablets. Lopressor tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy. The effective dosage range of Lopressor tablets is 100 mg to 450 mg per day. Dosages above 450 mg per day have not been studied. While once-daily dosing can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period. Larger or more frequent daily doses may be required. Measure blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. 2.2 Angina Pectoris The dosage of Lopressor tablets should be individualized. Lopressor tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily, given in two divided doses. Gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is a pronounced slowing of the heart rate. The effective dosage range of Lopressor tablets is 100 to 400 mg per day. Dosages above 400 mg per day have not been studied. If treatment is to be discontinued, reduce the dosage gradually over a period of 1 - 2 weeks [see Warnings and Precautions ( 5.1 ) ]. 2.3 Myocardial Infarction See prescribing information of intravenous metoprolol for dosage instructions for intravenous therapy. In patients who tolerate the full intravenous dose, initiate Lopressor tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose of metoprolol and continue for 48 hours. In the case of intolerance, reduce dose to 25 mg and administer for 48 hours. Titrate, based on tolerability, to a maintenance dosage of 100 mg twice daily. Continue therapy for at least 3 months. Although the efficacy of Lopressor beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years."
+    },
+    {
+      "generic": [
+        "METOPROLOL TARTRATE"
+      ],
+      "brand": [
+        "Metoprolol Tartrate"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "028b6e4a-1597-4d21-89d0-0bbbad21efa8",
+      "effective_time": "20260727",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of metoprolol tartrate tablets. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy. The effective dosage range of metoprolol tartrate tablets is 100 mg to 450 mg per day. Dosages above 450 mg per day have not been studied. While once-daily dosing can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period. Larger or more frequent daily doses may be required. Measure blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. 2.2 Angina Pectoris The dosage of metoprolol tartrate tablets should be individualized. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily, given in two divided doses. Gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is a pronounced slowing of the heart rate. The effective dosage range of metoprolol tartrate tablets is 100 to 400 mg per day. Dosages above 400 mg per day have not been studied. If treatment is to be discontinued, reduce the dosage gradually over a period of 1 to 2 weeks [see Warnings and Precautions (5.1) ]. 2.3 Myocardial Infarction See prescribing information of intravenous metoprolol for dosage instructions for intravenous therapy. In patients who tolerate the full intravenous dose, initiate metoprolol tartrate tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose of metoprolol and continue for 48 hours. In the case of intolerance, reduce dose to 25 mg and administer for 48 hours. Titrate, based on tolerability, to a maintenance dosage of 100 mg twice daily. Continue therapy for at least 3 months. Although the efficacy of metoprolol tartrate tablets beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years."
+    },
+    {
+      "generic": [
+        "METOPROLOL TARTRATE INJECTION"
+      ],
+      "brand": [
+        "METOPROLOL"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "05946833-9d66-4832-a0d8-b91b1ff01b8b",
+      "effective_time": "20260317",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Initiate treatment in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized. Begin treatment in this early phase with the intravenous administration of three bolus injections of 5 mg of Metoprolol tartrate injection USP each; give the injections at approximately 2 minute intervals. During the intravenous administration of Metoprolol Tartrate Injection, USP monitor blood pressure, heart rate, and electrocardiogram. Transition to Oral Metoprolol: Following administration of Metoprolol Tartrate Injection, USP transition patients to an oral formulation of metoprolol. See prescribing information for oral metoprolol for dose selection. Initiate therapy in a coronary care or similar unit immediately after the patients hemodynamic condition has stabilized (2). Begin treatment with an intravenous administration of three bolus injections of 5 mg each, at approximately 2 minute intervals. Monitor blood pressure, heart rate and electrocardiogram (2). Following administration of Lopressor injection, transition the patient to an oral formulation of metoprolol (2)."
+    },
+    {
+      "generic": [
+        "METOPROLOL TARTRATE"
+      ],
+      "brand": [
+        "METOPROLOL TARTRATE"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0882d731-719d-4484-b2c8-88b04a4af67f",
+      "effective_time": "20250528",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of Metoprolol tartrate tablets. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy. The effective dosage range of Metoprolol tartrate tablets is 100 mg to 450 mg per day. Dosages above 450 mg per day have not been studied. While once-daily dosing can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period. Larger or more frequent daily doses may be required. Measure blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. 2.2 Angina Pectoris The dosage of Metoprolol tartrate tablets should be individualized. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily, given in two divided doses. Gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is a pronounced slowing of the heart rate. The effective dosage range of Metoprolol tartrate tablets is 100 to 400 mg per day. Dosages above 400 mg per day have not been studied. If treatment is to be discontinued, reduce the dosage gradually over a period of 1 - 2 weeks [see Warnings and Precautions (5.1) ]. 2.3 Myocardial Infarction See prescribing information of intravenous metoprolol for dosage instructions for intravenous therapy. In patients who tolerate the full intravenous dose, initiate Metoprolol tartrate tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose of metoprolol and continue for 48 hours. In the case of intolerance, reduce dose to 25 mg and administer for 48 hours. Titrate, based on tolerability, to a maintenance dosage of 100 mg twice daily. Continue therapy for at least 3 months. Although the efficacy of Metoprolol tartrate beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years."
+    }
+  ]
+}

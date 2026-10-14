@@ -1,0 +1,25 @@
+{
+  "source_task": "1.3 Cirrhotic ascites",
+  "source_directory": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\d98b\\临床思维训练系统\\output\\ascites-case",
+  "case_id": "SIM-ASC-20260901",
+  "version": "1.1",
+  "review_status": "pending_clinical_review",
+  "files": {
+    "assets/ecg-synthetic.png": "bc1cb04fad9e149f84015627e1be5ace35734b7df568ca1315b970e884317458",
+    "assets/patient-scenes.png": "1d83e227ed77d4f63c0107439f289f275e7b4560753e8684bf5730fa123c3c24",
+    "assets/signatures-clinical.png": "cf991a1117a10cf5dd34064de3f1bc56c4a1a4a4407bb33fa4caeabe7a903d86",
+    "assets/signatures-ecg.png": "989086a6c0e654e7d905ebbc96f9654cf9bb036b652eb614d1e0f2c2c5073ee6",
+    "assets/signatures-fictional.png": "d504c6b281a23ac462169fe929c3c8569a2940c5e88c9a4892a4c2eba3ee4ada",
+    "assets/signatures-nursing.png": "67aad9ea3deaf7006b7d18746cc863534dfa94931fa2e7aa40848323c286e5fd",
+    "assets/signatures-ultrasound.png": "b4c0ddbf1d42807877576887a98aa68aec2085f96cba047d394b3939e5d0a742",
+    "assets/ultrasound-synthetic.png": "71f078df38224acc25f0e31f95e3613201e2619c4bfba32d861ca289ea7ae582",
+    "case-data.json": "ef4fb30dc7b91cadac1186d1072e2694604dba5e672407b014d9ace43f810189",
+    "case.pdf": "338b78ae5565a6f00bf614c2ef8faf4ac9d29fd3869cb039c0af7aedfe213694",
+    "signature-roster.json": "bf53527f3c1a1db082e5d218c7b5c6bb702d50c62bca63ef1286e63905c0a50d",
+    "teaching-data.json": "0e2e5a8868a92b6234092d5866ebda6ca8efa1b249fc7fae80d95340edf0d1f5",
+    "teaching.pdf": "b07c73c688ffdffb661d08c015fee58041a7df8bbce8f318c0c194153907932a",
+    "Complete Medical Record.md": "e168c6c2ab7c445f6340f4d92e5bacdbdca7859ee3292e6a914d792546fe9e5b",
+    "Teacher guide.md": "3114a8d53a21beb75807f1f130c93aaba776d33f62e8055a94f5acd740c5394f",
+    "Asset notes.md": "fe5f261df66dc4d6ec4cd4b4906134700df6495bf599f6469a54462240958b97"
+  }
+}

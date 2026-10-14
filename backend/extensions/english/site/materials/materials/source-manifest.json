@@ -1,0 +1,143 @@
+{
+  "edition": "2026-09-14",
+  "status": "Pending expert review",
+  "cases": {
+    "lumbar": {
+      "name": "Li Zhiqiang",
+      "caseId": "SIM-LDH-20260903",
+      "sourceVersion": "Lumbar spine case v1.1 · Pending review by clinical and imaging experts.",
+      "reports": 12,
+      "note": "Source task: 1.1 Lumbar disc herniation case. The master medical draft remains v1.1; this was a synchronization and consolidation on 2026-09-14, not a new medical version or an indication of review approval. The initial consultation was changed to a general orthopedic outpatient visit; the subsequent hospitalization dates have not been added. Previous episodes, name, and residential address are newly added teaching details. Inclusion in the medication library does not mean a medication was administered; 19 items still await clinical/pharmacy review. The images contain known anatomical flaws and are not in DICOM format."
+    },
+    "mi": {
+      "name": "Zhang Jianguo",
+      "caseId": "SIM-AMI-20260901",
+      "sourceVersion": "Expert review edition v1.0 · Pending expert review",
+      "reports": 38,
+      "note": "Source task: 1.2 Chest Pain Case—Overall Planning. The complete medical master draft remains v1.0; this update records the name, background, and attachments and does not constitute case v1.2. Medication catalog version 2026-09-11.2 contains 68 entries and has not completed local pharmacy review. The original case course, surgery, and laboratory values are unchanged."
+    }
+  },
+  "files": [
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\output\\lumbar-case\\case-data.json",
+      "path": "materials/lumbar/sources/output/lumbar-case/case-data.json",
+      "sha256": "b244a7c71e5de5a9a94b1cbad9e632378ea9b9f04c6a142839c3b77d2b302fcc"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\output\\lumbar-case\\patient-details.json",
+      "path": "materials/lumbar/sources/output/lumbar-case/patient-details.json",
+      "sha256": "c9d1b2cbfbd85a21dd42a99255275363b5153655ec94bb06a38d848da0ed2669"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\output\\lumbar-case\\drug-catalog.json",
+      "path": "materials/lumbar/sources/output/lumbar-case/drug-catalog.json",
+      "sha256": "4e162a45ff53f3ff4b87aafacb762dbabb0545725cbdcfdf1f7ee22fa0c7ba1f"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\output\\lumbar-case\\药物清单.md",
+      "path": "materials/lumbar/sources/output/lumbar-case/药物清单.md",
+      "sha256": "4ec4e8c554d053afa600211cd5caca998aaf4441d2449a34a2538907289ba8f8"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\output\\lumbar-case\\imaging\\limitations.md",
+      "path": "materials/lumbar/sources/output/lumbar-case/imaging/limitations.md",
+      "sha256": "478e9acab0a48447fb413db0a0756ef1e8d357f749234ad2465583c6e49abf34"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\rehearsal\\lumbar_case.py",
+      "path": "materials/lumbar/sources/rehearsal/lumbar_case.py",
+      "sha256": "b1dc081f1f32e5c86a1527a45dbef8f32b76897ee37b49cca624b5f7a82a1967"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\rehearsal\\lumbar_outpatient.py",
+      "path": "materials/lumbar/sources/rehearsal/lumbar_outpatient.py",
+      "sha256": "8b16fe82c9be8cb3591f45c6b713ec08a26ba2557946e91da9c0eb022dc85157"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\rehearsal\\lumbar_supervision.py",
+      "path": "materials/lumbar/sources/rehearsal/lumbar_supervision.py",
+      "sha256": "7343df671bec37db9ff9559eab23e1894b8e83cc53c4a2005f48de54f284b5f7"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\rehearsal\\pacs_gateway.py",
+      "path": "materials/lumbar/sources/rehearsal/pacs_gateway.py",
+      "sha256": "b03c37019f4d6288129080dda8525d280019c0f98b683cefc1342c61aafb2ba9"
+    },
+    {
+      "case": "lumbar",
+      "source": "C:\\Users\\LCJNZX15\\.codex\\worktrees\\da42\\临床思维训练系统\\rehearsal\\lumbar-scenes-v1.png",
+      "path": "materials/lumbar/sources/rehearsal/lumbar-scenes-v1.png",
+      "sha256": "0dfa71e2c0a7fdf2d5c3a364e2b495c44bdc0a70793181c6bfc784c01f011b7e"
+    },
+    {
+      "case": "mi",
+      "source": "C:\\Users\\LCJNZX15\\Documents\\ChatGPT\\临床思维训练系统\\build_case_pdf.py",
+      "path": "materials/mi/sources/build_case_pdf.py",
+      "sha256": "6684b7b31e48f9db92137a0051d5176a425921633cddafb0c5a4611a68145b9d"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\case.py",
+      "path": "materials/mi/sources/rehearsal/case.py",
+      "sha256": "a3b79558143d08fefaa2ae515c310853da30ddb4d9f4fd23f87083dd395a7938"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\report_data.json",
+      "path": "materials/mi/sources/rehearsal/report_data.json",
+      "sha256": "07921125a637eff5c2231bef523adb8e5ab4c5bbfc2fa8fb0c06a70009611750"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\report_catalog.py",
+      "path": "materials/mi/sources/rehearsal/report_catalog.py",
+      "sha256": "e4e156e6f1120a63b62a2d4d27d07247644c84906123c5b0c626dafb53d33b42"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\timeline.py",
+      "path": "materials/mi/sources/rehearsal/timeline.py",
+      "sha256": "1eb6b647b42a22ade709c519aa4e94e4543d5b6a930adb0be2c5fda1f25848cd"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\operation_orders.py",
+      "path": "materials/mi/sources/rehearsal/operation_orders.py",
+      "sha256": "254552351391ae3b4853bb64bd0234fca52170fc6ad2b7663a7a7dd982901ae9"
+    },
+    {
+      "case": "mi",
+      "source": "C:/Users/LCJNZX8/Desktop/SimCare-Windows-Deployment (1)/backend/engines/chest\\medical_records.py",
+      "path": "materials/mi/sources/rehearsal/medical_records.py",
+      "sha256": "77f554b8acd4b5e0370243f5c403321d47b42497d6604e0b63c32e21593978fd"
+    },
+    {
+      "case": "mi",
+      "source": "C:\\Users\\LCJNZX15\\Documents\\ChatGPT\\临床思维训练系统\\output\\mi-case\\case-index.json",
+      "path": "materials/mi/sources/output/mi-case/case-index.json",
+      "sha256": "2d13f7f9df8b1b5078d102646c35ea48e4daee0bdcc1a1174e198a3702afd60d"
+    },
+    {
+      "case": "mi",
+      "source": "C:\\Users\\LCJNZX15\\Documents\\ChatGPT\\临床思维训练系统\\output\\mi-case\\drug-catalog.json",
+      "path": "materials/mi/sources/output/mi-case/drug-catalog.json",
+      "sha256": "fe67a824a807e0e83174e37e012757c81f6d050fbf267a8f1021420c12e47151"
+    },
+    {
+      "case": "mi",
+      "source": "C:\\Users\\LCJNZX15\\Documents\\ChatGPT\\临床思维训练系统\\output\\mi-case\\心肌梗死_药物清单.md",
+      "path": "materials/mi/sources/output/mi-case/心肌梗死_药物清单.md",
+      "sha256": "218e96152c7b51e6d44aeb682d3fe495bc11e65815312c7b1c3479b53521fdf1"
+    }
+  ],
+  "excluded": "Learner sessions, runtime logs, uploads, account settings, test records and generated social details were not copied。"
+}

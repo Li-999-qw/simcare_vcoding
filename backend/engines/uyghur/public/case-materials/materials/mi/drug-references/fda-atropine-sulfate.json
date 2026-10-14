@@ -1,0 +1,80 @@
+{
+  "query": "atropine sulfate",
+  "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name%3A%22atropine%20sulfate%22&limit=5",
+  "labels": [
+    {
+      "generic": [
+        "ATROPINE SULFATE"
+      ],
+      "brand": [
+        "ATROPINE SULFATE"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "0060b971-19bd-2849-e063-6294a90afca8",
+      "effective_time": "20240128",
+      "dosage": "2 DOSAGE & ADMINISTRATION 2.1 General Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless solution is clear and seal is intact. Each vial is intended for single dose only. Discard unused portion. For Intravenous administration. Titrate based on heart rate, PR interval, blood pressure and symptoms. 2.2 Adult Dosage 2.3 Pediatric Dosage Dosing in pediatric populations has not been well studied. Usual initial dose is 0.01 to 0.03 mg/kg. 2.4 Dosing in Patients with Coronary Artery Disease Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see WARNINGS AND PRECAUTIONS (5.1 )]. DOSAGE"
+    },
+    {
+      "generic": [
+        "ATROPINE SULFATE"
+      ],
+      "brand": [
+        "Atropine sulfate"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "007728fc-f4cb-d519-e063-6394a90ae033",
+      "effective_time": "20240122",
+      "dosage": "2 DOSAGE & ADMINISTRATION SECTION 2.1 General Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless solution is clear and seal is intact. Each vial is intended for single dose only. Discard unused portion. For Intravenous administration. Titrate based on heart rate, PR interval, blood pressure and symptoms. 2.2 Adult Dosage 2.3 Pediatric Dosage Dosing in pediatric populations has not been well studied. Usual initial dose is 0.01 to 0.03 mg/kg. 2.4 Dosing in Patients with Coronary Artery Disease Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see WARNINGS AND PRECAUTIONS (5.1) ]. dOSAGE"
+    },
+    {
+      "generic": [
+        "ATROPINE SULFATE"
+      ],
+      "brand": [
+        "Atropine Sulfate"
+      ],
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "setid": "09d086f2-db9a-5e15-e063-6394a90abe18",
+      "effective_time": "20231110",
+      "dosage": "2 DOSAGE AND ADMINISTRATION For intravenous administration. ( 2.1 ). Titrate according to heart rate, PR interval, blood pressure and symptoms. ( 2.1 ) Adult dosage Antisialagogue or for antivagal effects: Initial single dose of 0.5 to 1 mg. ( 2.2 ) Antidote for organophosphorus or muscarinic mushroom poisoning: Initial single dose of 2 to 3 mg, repeated every 20 to 30 minutes. ( 2.2 ) Bradyasystolic cardiac arrest: 1 mg dose, repeated every 3 to 5 minutes if asystole persists. ( 2.2 ) Patients with Coronary Artery Disease: Limit the total dose to 0.03 mg/kg to 0.04 mg/kg. ( 2.4 ) 2.1 General Administration Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless solution is clear and seal is intact. Each vial is intended for single dose only. Discard unused portion. For Intravenous administration. Titrate based on heart rate, PR interval, blood pressure and symptoms. 2.2 Adult Dosage Table 1: Recommended Dosage Use Dose (adults) Repeat Antisialagogue or other antivagal 0.5 to 1 mg 1 to 2 hours Organophosphorus or muscarinic mushroom poisoning 2 to 3 mg 20 to 30 minutes Bradyasystolic cardiac arrest 1 mg 3 to 5 minutes; 3 mg maximum total dose 2.3 Pediatric Dosage Dosing in pediatric populations has not been well studied. Usual initial dose is 0.01 to 0.03 mg/kg. 2.4 Dosing in Patients with Coronary Artery Disease Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see Warnings and Precautions (5.1) ]."
+    },
+    {
+      "generic": [
+        "ATROPINE SULFATE"
+      ],
+      "brand": [
+        "Atropine Sulfate"
+      ],
+      "route": [
+        "ENDOTRACHEAL",
+        "INTRAMEDULLARY",
+        "INTRAMUSCULAR",
+        "INTRAVENOUS",
+        "SUBCUTANEOUS"
+      ],
+      "setid": "0aab13de-04bf-2a14-e063-6294a90aae11",
+      "effective_time": "20231115",
+      "dosage": "2 DOSAGE AND ADMINISTRATION Dosage is individualized by use, refer to the full prescribing information for recommended adult and pediatric dosages ( 2.2 , 2.3 ). Patients with Ischemic Heart Disease: Do not exceed 0.04 mg/kg. ( 2.4 , 5.2 ) 2.1 General Administration Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not administer unless solution is clear and seal is intact. After initial use, discard unused portion within 24 hours. Intravenous administration is usually preferred, but subcutaneous, intramuscular, endotracheal, and intraosseous administration are possible. 2.2 Adult Dosage Table 1: Recommended Dosage in Adult Patients Use Initial Dose Continued Treatment Antisialagogue or 0.5 to 1 mg IV/IM/SC Repeat as needed every 4 to 6 hours. other antivagal 30 to 60 minutes (preanesthesia and preoperatively Maximum Total Dose during surgery) 3 mg Organophosphorus, carbamate, or muscarinic mushroom poisoning 1 to 6 mg IV/IM/ET depending on severity of symptoms Repeat as needed every 3 to 5 minutes Dose may be doubled with each administration until response (reduced bronchospasm, improved oxygenation and drying of pulmonary secretions). Maintenance Dose: Administer 10% to 20% of the loading dose required for response as a continuous infusion per hour and titrate. Maximum Total Dose: No maximum total dose. Symptomatic 0.5 mg IV/IM or 1 to 2 mg As needed every 3 to 5 minutes bradycardia* ET by diluting in no more than 10 mL sterile water for injection or 0.9% sodium chloride Maximum Total Dose 3 mg IV=intravenous; IM=intramuscular; SC=subcutaneous; ET=endotracheal *Do not rely on atropine in type II second-degree or third-degree AV block with wide QRS complexes because these bradyarrhythmias are not likely to be responsive to reversal of cholinergic effects by atropine. Atropine has no effect on bradycardia in patients with transplanted hearts. 2.3 Pediatric Dosage Table 2: Recommended Dosage in Pediatric Patients Use Initial Dose Continued Treatment Antisialagogue or other antivagal (preanesthesia and during surgery)* 0.02 mg/kg IV/IM/SC 30 to 60 minutes preoperatively Repeat as needed every 4 to 6 hours. Maximum Single Dose Less than 12 years old: 0.5 mg 12 years and older: 1 mg Maximum Total Dose Less than 12 years old: 1 mg 12 years and older: 2 mg Organophosphorus, 0.02 to 0.06 mg/kg Repeat as needed every 5 minutes carbamate or IV/IM/IO/ET muscarinic Dose may be doubled with each administration until response mushroom poisoning (reduced bronchospasm, improved oxygenation and drying of pulmonary secretions). Maintenance Dose: Administer 10% to 20% of the loading dose required for response as a continuous infusion per hour and titrate as needed. Maximum Total Dose: No maximum total dose. Symptomatic 0.02 mg/kg IV/IO or Repeat as needed every 5 minutes bradycardia due to 0.04 to 0.06 mg/kg via increased vagal tone endotracheal tube Maximum Single Dose or primary AV followed by 1 to 5 mL Less than 12 years old: 0.5 mg conduction block flush of normal saline 12 years and older: 1 mg (not secondary to followed by 5 hypoxia) ** ventilations IV=intravenous; IM=intramuscular; SC=subcutaneous; IO=intraosseous; ET=endotracheal; *Available evidence does not support the routine use of atropine in emergency intubation of critically ill infants and children except in specific emergency intubations when there is higher risk of bradycardia ** Atropine has no effect on bradycardia in patients with transplanted hearts. 2.4 Dosing in Patients with Ischemic Heart Disease Limit the total dose of atropine sulfate to 0.03 to 0.04 mg/kg [see Warnings and Precautions (5.2 )]."
+    },
+    {
+      "generic": [
+        "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE AND SCOPOLAMINE HYDROBROMIDE"
+      ],
+      "brand": [
+        "Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate and Scopolamine Hydrobromide"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "setid": "0dd71f55-e009-48dd-809d-5f651f7521de",
+      "effective_time": "20230110",
+      "dosage": "DOSAGE AND ADMINISTRATION The dosage of Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate and Scopolamine Hydrobromide Tablets should be adjusted to the needs of the individual patient to assure symptomatic control with a minimum of adverse effects. Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate and Scopolamine Hydrobromide Tablets - Adults: One or two Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate and Scopolamine Hydrobromide Tablets three or four times a day according to condition and severity of symptoms."
+    }
+  ]
+}

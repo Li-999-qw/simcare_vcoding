@@ -1,0 +1,32 @@
+{
+  "laboratory": {
+    "department": "Laboratory Medicine",
+    "author": "Lin Yan",
+    "reviewer": "Su He",
+    "image": "signatures-fictional.png"
+  },
+  "ultrasound": {
+    "department": "Ultrasound",
+    "author": "Xu Cheng",
+    "reviewer": "Zhou Lan",
+    "image": "signatures-ultrasound.png"
+  },
+  "ecg": {
+    "department": "ECG Laboratory",
+    "author": "Lu Ning",
+    "reviewer": "Gu Chuan",
+    "image": "signatures-ecg.png"
+  },
+  "clinical": {
+    "department": "Gastroenterology",
+    "author": "Zhao Heng",
+    "reviewer": "Shen Yan",
+    "image": "signatures-clinical.png"
+  },
+  "nursing": {
+    "department": "Gastroenterology Nursing Team",
+    "author": "Jiang Yue",
+    "reviewer": "Song Qing",
+    "image": "signatures-nursing.png"
+  }
+}

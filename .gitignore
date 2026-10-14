@@ -1,0 +1,32 @@
+# Local environments and generated Python files
+.venv/
+.conda-env/
+.conda-env.failed-*/
+__pycache__/
+*.py[cod]
+/runtime/
+
+# Credentials, certificates, and live training records
+.env
+.env.*
+!.env.example
+data/
+certs/
+logs/
+backend/extensions/.secrets/
+backend/runtime/.secrets/
+backend/extensions/backups/
+**/runtime/sessions.json
+**/runtime/attachments/
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime output and package artifacts
+**/tmp/
+nginx/logs/
+nginx/temp/
+*.log
+*.err
+*.pid
+MANIFEST.json
