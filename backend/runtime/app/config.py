@@ -13,7 +13,7 @@ from backend.runtime.mysql_config import load_database_url
 
 
 def database_url():
-    value = os.getenv("DATABASE_URL") or load_database_url(PROJECT_ROOT).render_as_string(hide_password=False)
+    value = load_database_url(PROJECT_ROOT).render_as_string(hide_password=False)
     if not value.startswith("mysql+pymysql://"):
         raise RuntimeError("SimCare requires the simcare MySQL database")
     return value

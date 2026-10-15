@@ -42,7 +42,7 @@ try {
 if($condaExitCode -ne 0){throw "Conda dependency installation failed. Full output: $condaLog"}
 if(-not(Test-Path -LiteralPath $python)){throw 'Conda completed without creating python.exe'}
 Enter-SimCareCondaEnv $envPath
-& $python -c 'import fastapi, httpx, numpy, onnxruntime, PIL, sherpa_onnx, sqlalchemy, uvicorn, websockets'
+& $python -c 'import fastapi, httpx, numpy, onnxruntime, PIL, sherpa_onnx, sqlalchemy, uvicorn, websockets, yaml'
 if($LASTEXITCODE -ne 0){throw 'A required Python dependency could not be imported'}
 & $python "$root/initialize.py"
 if($LASTEXITCODE -ne 0){throw 'Initialization failed'}

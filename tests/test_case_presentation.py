@@ -14,7 +14,7 @@ class CasePresentationTests(unittest.TestCase):
             self.assertTrue(resolve_asset_path(profile["cover_image_path"]).is_file())
 
     def test_asset_path_rejects_traversal_and_absolute_paths(self):
-        for path in ("../data/mysql.json", "C:/Windows/win.ini", "/etc/passwd", "engines/chest/../../data/mysql.json"):
+        for path in ("../application.yml", "C:/Windows/win.ini", "/etc/passwd", "engines/chest/../../application.yml"):
             with self.subTest(path=path), self.assertRaises(ValueError):
                 resolve_asset_path(path)
 

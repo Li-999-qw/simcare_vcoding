@@ -13,6 +13,7 @@ dependencies:
   - onnxruntime>=1.20,<2
   - pillow>=11,<13
   - python-dotenv>=1,<2
+  - pyyaml>=6,<7
   # The upstream Windows Python release of sherpa-onnx is distributed as wheels.
   # Conda manages this environment and installs these two wheels into it.
   - pip:

@@ -1,22 +1,27 @@
-INFO:     127.0.0.1:52636 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62391 - "GET /health HTTP/1.1" 200 OK
 INFO:     127.0.0.1:0 - "GET /portal/state HTTP/1.1" 401 Unauthorized
-INFO:     127.0.0.1:0 - "GET /login-assets/official-dual-logo.png HTTP/1.1" 304 Not Modified
-INFO:     127.0.0.1:0 - "GET /login-assets/login-approved-concept.png HTTP/1.1" 304 Not Modified
 INFO:     127.0.0.1:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
 INFO:     127.0.0.1:0 - "POST /portal/login HTTP/1.1" 200 OK
 INFO:     127.0.0.1:0 - "GET /portal/state HTTP/1.1" 200 OK
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
 INFO:     127.0.0.1:0 - "GET /portal/case-cover/2 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:0 - "GET /portal/case-cover/34 HTTP/1.1" 200 OK
-INFO:     127.0.0.1:0 - "GET /portal/case-cover/33 HTTP/1.1" 200 OK
 INFO:     127.0.0.1:0 - "GET /portal/case-cover/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /portal/case-cover/33 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /portal/case-cover/34 HTTP/1.1" 200 OK
 INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /portal/state HTTP/1.1" 200 OK
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
-INFO:     127.0.0.1:0 - "GET /portal/state HTTP/1.1" 200 OK
-INFO:     127.0.0.1:0 - "GET /api/progress?student=student01 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:0 - "POST /portal/start/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/case-asset/scene HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/state?id=c8EzD8tY10XOmVQ8V-qCSUp2MqB0NqKN HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tts/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/message HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/state?id=c8EzD8tY10XOmVQ8V-qCSUp2MqB0NqKN HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tick HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/state?id=c8EzD8tY10XOmVQ8V-qCSUp2MqB0NqKN HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tick HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tick HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tick HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "POST /training/Fq1-TJuexiKY1RRpF4g3O8-I_KKAjtF_/api/tick HTTP/1.1" 200 OK
