@@ -1,12 +1,17 @@
 # SimCare MySQL 数据迁移与维护
 
-项目业务数据库为 MySQL `simcare`。运行时连接由 `data/mysql.json` 提供，该文件已被 `.gitignore` 忽略。示例结构：
+项目业务数据库为 MySQL `simcare`。运行时统一读取项目根目录的 `application.yml`，此文件已被 `.gitignore` 忽略。首次安装可复制 `application.example.yml`，然后修改地址与凭据：
 
-```json
-{"host":"数据库地址","port":3306,"database":"simcare","username":"数据库用户","password":"数据库密码"}
+```yaml
+spring:
+  datasource:
+    url: jdbc:mysql://数据库地址:3306/simcare?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8&allowPublicKeyRetrieval=true&useSSL=false
+    username: 数据库用户
+    password: 数据库密码
+    driver-class-name: com.mysql.cj.jdbc.Driver
 ```
 
-安装环境时需要 `PyMySQL`（已写入 `environment.yml`）。本地预览执行 `Restart-Local.ps1 -NoBrowser`；正式部署执行 `Start.ps1 -NoBrowser`。启动时若 MySQL 不可访问会报错，不会回退到 SQLite。
+数据库 IP 变化时只需修改 `application.yml` 中 JDBC URL 的主机部分，再运行 `Restart-Local.ps1 -NoBrowser`（本地预览）或重启正式服务；运行中的连接不会自动切换。安装环境时需要 `PyMySQL` 和 `PyYAML`（均已写入 `environment.yml`）。启动时若 MySQL 不可访问会报错，不会回退到 SQLite。
 
 `backend/runtime/import_sqlite_to_mysql.py` 从保留的 `data/clinical.db` 按主键导入门户用户、任务、历史练习和语言绑定，重复执行会跳过已有行。七个引擎首次从旧 `runtime/sessions.json` 导入会话后记录在 `engine_imports`，之后只从 MySQL 读写会话。原 SQLite 和 JSON 文件均保留作备份，不再作为业务写入目标。实际建表 SQL 见 [mysql-schema.sql](mysql-schema.sql)。
 

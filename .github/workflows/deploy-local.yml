@@ -1,0 +1,51 @@
+name: Deploy SimCare on Windows
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: simcare-local-deployment
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, Windows, X64]
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: powershell
+    env:
+      SIMCARE_DEPLOY_DIR: ${{ vars.SIMCARE_DEPLOY_DIR }}
+    steps:
+      - name: Validate deployment directory before checkout
+        run: |
+          if (-not $env:SIMCARE_DEPLOY_DIR -or -not [IO.Path]::IsPathRooted($env:SIMCARE_DEPLOY_DIR)) {
+            throw 'Set repository variable SIMCARE_DEPLOY_DIR to the existing absolute project directory on the Runner computer.'
+          }
+          $target = [IO.Path]::GetFullPath($env:SIMCARE_DEPLOY_DIR).TrimEnd('\')
+          $source = [IO.Path]::GetFullPath($env:GITHUB_WORKSPACE).TrimEnd('\')
+          if ($source -eq $target -or $target.StartsWith($source + '\', [StringComparison]::OrdinalIgnoreCase) -or $source.StartsWith($target + '\', [StringComparison]::OrdinalIgnoreCase)) {
+            throw 'SIMCARE_DEPLOY_DIR must be outside the Runner checkout directory.'
+          }
+
+      - name: Check out latest main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Update installation and restart services
+        run: |
+          & "$env:GITHUB_WORKSPACE\scripts\Deploy-Local.ps1" -SourceDir $env:GITHUB_WORKSPACE -DeployDir $env:SIMCARE_DEPLOY_DIR
+
+      - name: Record deployment result
+        run: |
+          $result = Get-Content -LiteralPath (Join-Path $env:SIMCARE_DEPLOY_DIR 'data\deployment.json') -Encoding UTF8 -Raw | ConvertFrom-Json
+          "Deployed commit: $($result.commit)" >> $env:GITHUB_STEP_SUMMARY
+          "Target directory: $($result.directory)" >> $env:GITHUB_STEP_SUMMARY

@@ -269,8 +269,35 @@ syncRealProgress=function(){};
 const learningLink=(studentId,label='查看学习记录与综合报告')=>'<a href="/learning.html?student='+encodeURIComponent(studentId)+'">'+label+'</a>';
 report=function(){const t=tasks.find(x=>x.id===tid);return '<h2>学习记录</h2>'+learningLink(role==='student'?sid:reportSid)+(t?panel(esc(t.name)+' · 教师评语','<p>'+esc(t.feedback?.[reportSid]||'教师尚未添加评语')+'</p>'):'');};
 const previousStudent=student,previousTeacher=teacher,previousTeacherCatalog=teacherCatalog;
-const progressCards=()=>practiceProgress.map(a=>panel(esc(cases.find(c=>c.id===a.caseId)?.name||'病例')+' · '+a.percent+'%', '<div class="bar"><span style="width:'+a.percent+'%"></span></div><p><a href="/learning.html?attempt='+encodeURIComponent(a.id)+'">查看本次学习报告</a></p>')).join('');
-student=function(){if(['progress','reports'].includes(page))return '<h2>我的学习记录</h2><p>包含自主练习与教师分配的病例。</p>'+progressCards()+learningLink(sid);return previousStudent()+(page==='home'?progressCards():'');};
+const progressCards=(records=practiceProgress)=>records.map(a=>panel(esc(cases.find(c=>c.id===a.caseId)?.name||'病例')+' · '+a.percent+'%', '<div class="bar"><span style="width:'+a.percent+'%"></span></div><p><a href="/learning.html?attempt='+encodeURIComponent(a.id)+'">查看本次学习报告</a></p>')).join('');
+let progressPage=1,progressPageSize=10,progressOwner='';
+const progressEnglish=location.pathname.startsWith('/en/');
+function progressList(){
+  const owner=String(sid)+':'+(account?.username||'');
+  if(progressOwner!==owner){progressOwner=owner;progressPage=1;progressPageSize=10;}
+  const total=practiceProgress.length,pages=Math.max(1,Math.ceil(total/progressPageSize));
+  progressPage=Math.max(1,Math.min(progressPage,pages));
+  const start=(progressPage-1)*progressPageSize,end=Math.min(start+progressPageSize,total);
+  const summary=progressEnglish?`Total ${total} records · ${total?start+1:0}–${end} · Page ${progressPage} of ${pages}`:`共 ${total} 条 · 当前 ${total?start+1:0}–${end} 条 · 第 ${progressPage} / ${pages} 页`;
+  const empty=progressEnglish?'No learning records yet.':'暂无学习记录，开始病例练习后可在这里查看进度。';
+  return (total?progressCards(practiceProgress.slice(start,end)):`<p class="muted">${empty}</p>`)+
+    `<nav class="row progress-pagination" aria-label="${progressEnglish?'Learning progress pagination':'学习进度分页'}" style="display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:20px 0"><span role="status" aria-live="polite">${summary}</span><label>${progressEnglish?'Per page':'每页显示'} <select data-progress-size aria-label="${progressEnglish?'Records per page':'每页记录数'}">${[10,20,50].map(size=>`<option value="${size}" ${size===progressPageSize?'selected':''}>${size}</option>`).join('')}</select>${progressEnglish?' records':' 条'}</label><button type="button" data-progress-page="${progressPage-1}" ${progressPage===1?'disabled':''}>${progressEnglish?'Previous':'上一页'}</button><button type="button" data-progress-page="${progressPage+1}" ${progressPage===pages?'disabled':''}>${progressEnglish?'Next':'下一页'}</button></nav>`;
+}
+root.addEventListener('click',e=>{
+  const button=e.target.closest('[data-progress-page]');
+  if(!button||button.disabled||page!=='progress'||role!=='student')return;
+  e.preventDefault();
+  const next=Number(button.dataset.progressPage);
+  if(!Number.isInteger(next)||next<1||next>Math.max(1,Math.ceil(practiceProgress.length/progressPageSize)))return;
+  progressPage=next;render();
+});
+root.addEventListener('change',e=>{
+  if(!e.target.matches('[data-progress-size]')||page!=='progress'||role!=='student')return;
+  const size=Number(e.target.value);
+  if(![10,20,50].includes(size))return;
+  progressPageSize=size;progressPage=1;render();
+});
+student=function(){if(['progress','reports'].includes(page))return `<h2>${page==='progress'?'学习进度':'我的学习记录'}</h2><p>包含自主练习与教师分配的病例。</p>`+(page==='progress'?progressList():progressCards())+learningLink(sid);return previousStudent()+(page==='home'?progressCards():'');};
 teacher=function(){if(page==='reports')return '<h2>学生学习报告</h2>'+table(['学生','学习情况'],students.filter(s=>s.mine||teacherTasks().some(t=>t.ids.includes(s.id))||groups.some(g=>g.ids.includes(s.id))).map(s=>tr([esc(s.name),learningLink(s.id)])));if(page==='person')return previousTeacher()+learningLink(reportSid);if(page==='taskdetail'){const t=tasks.find(t=>t.id===tid);return '<h2>'+esc(t?.name||'任务')+'</h2>'+table(['学生','进度','学习详情'],(t?.ids||[]).map(id=>tr([esc(who(id)?.name||id),pct(t,id)+'%',learningLink(id)])));}return previousTeacher();};
 teacherCatalog=function(){let html=previousTeacherCatalog();cases.forEach(c=>{const button=btn('分配学生练习','chooseCase',c.id);const resource=c.materialsUrl?'<a href="/'+esc(c.materialsUrl)+'" target="_blank" rel="noopener">查看完整病例资料</a>':'<span>测试目录，无病例内容</span>';html=html.replace(button,resource+' '+button);});return html;};
 menus.student[2][1].push(['knowledge','个人知识库']);
