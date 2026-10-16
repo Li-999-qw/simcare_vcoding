@@ -1,3 +1,65 @@
-application.yml
-data/mysql.json.legacy
-logs
+# Machine-local configuration. Keep application.example.yml in Git.
+/application.yml
+/application.yaml
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.secrets/
+/certs/
+
+# Generated state and backups; initialize.py creates required directories.
+/data/
+/backend/extensions/backups/
+/backend/engines/tmp/
+/backend/engines/*/runtime/
+/backend/extensions/english/site/*_engine/runtime/
+/backend/runtime/role-models.json
+
+# Service logs, PID files and Nginx request caches.
+log/
+logs/
+*.log
+*.pid
+/nginx/client_body_temp/
+/nginx/proxy_temp/
+/nginx/fastcgi_temp/
+/nginx/uwsgi_temp/
+/nginx/scgi_temp/
+
+# Python environments and generated caches (backend/runtime is source code).
+.venv/
+venv/
+.conda-env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+
+# Editor and OS scratch files.
+.idea/
+.vscode/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Old local hotfix bundles; do not ignore packaged assets or executables.
+/SimCare-*-hotfix-*.zip
+
+# Keep source, frontend assets, SQL, workflows, startup scripts,
+# environment.yml, configuration templates and nginx/nginx.exe tracked.
