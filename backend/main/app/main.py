@@ -16,7 +16,7 @@ from .db import Base, engine, get_db
 from .config import settings
 from .models import Assignment, AuditEvent, Case, TrainingSession, User
 from .migrations import upgrade_schema
-from .security import hash_password, issue_token, read_token, verify_password
+from .security import hash_password, verify_password, start_login_session, session_user
 
 
 @asynccontextmanager
@@ -26,6 +26,8 @@ async def lifespan(_: FastAPI):
 
 
 app = FastAPI(title="临床思维训练系统正式版 API", version="0.1.0", lifespan=lifespan)
+from backend.runtime.login_sessions import install_session_errors
+install_session_errors(app)
 bearer = HTTPBearer(auto_error=False)
 Db = Annotated[Session, Depends(get_db)]
 
@@ -72,16 +74,7 @@ def audit(db: Session, actor_id: int | None, action: str, target: str, detail: d
 
 
 def current_user(credentials: Annotated[HTTPAuthorizationCredentials | None, Depends(bearer)], db: Db) -> User:
-    if not credentials:
-        raise HTTPException(status_code=401, detail="请先登录")
-    try:
-        claims = read_token(credentials.credentials)
-    except ValueError:
-        raise HTTPException(status_code=401, detail="登录已失效")
-    user = db.get(User, int(claims["sub"]))
-    if not user or user.status != "active":
-        raise HTTPException(status_code=401, detail="账号不可用")
-    return user
+    return session_user(db, credentials.credentials if credentials else None)
 
 
 def require_role(*roles: str):
@@ -115,7 +108,7 @@ def login(data: LoginIn, db: Db):
         raise HTTPException(status_code=401, detail="用户名或密码错误")
     if user.status != "active":
         raise HTTPException(status_code=403, detail="账号尚未审核通过")
-    return {"access_token": issue_token(user.id, user.role), "token_type": "bearer", "user": public_user(user)}
+    return {"access_token": start_login_session(db, user), "token_type": "bearer", "user": public_user(user)}
 
 
 @app.get("/me")

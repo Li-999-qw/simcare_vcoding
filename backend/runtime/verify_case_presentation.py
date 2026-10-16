@@ -2,7 +2,6 @@
 
 import json
 import os
-import sys
 from pathlib import Path
 
 import httpx
@@ -12,9 +11,12 @@ from backend.runtime.case_presentation import get_presentation, resolve_asset_pa
 from backend.runtime.engine_store import connection_engine
 
 ROOT = Path(__file__).resolve().parents[2]
-os.environ["APP_SECRET"] = json.loads((ROOT / "data/server.json").read_text(encoding="utf-8"))["app_secret"]
-sys.path.insert(0, str(ROOT / "backend/main"))
-from app.security import issue_token  # noqa: E402
+def verification_token(user_id, role):
+    tokens = json.loads(os.environ.get("SIMCARE_VERIFY_SESSION_COOKIES", "{}"))
+    token = tokens.get(str(user_id))
+    if not token:
+        raise RuntimeError("Read-only route checks require an active session in SIMCARE_VERIFY_SESSION_COOKIES for each checked user")
+    return token
 
 
 def main():
@@ -38,7 +40,7 @@ def main():
     with httpx.Client(base_url=base_url, trust_env=False, timeout=20) as client:
         for case_id in (1, 2, 33, 34):
             row = next((item for item in attempts if item.case_id == case_id), attempts[0])
-            client.cookies.set("clinical_session", issue_token(row.user_id, row.role))
+            client.cookies.set("clinical_session", verification_token(row.user_id, row.role))
             response = client.get(f"/portal/case-cover/{case_id}")
             assert (response.status_code == 200 and response.headers["content-type"].startswith("image/")), \
                 f"cover {case_id}: {response.status_code}"
@@ -53,7 +55,7 @@ def main():
             if row.case_id in checked:
                 continue
             checked.add(row.case_id)
-            client.cookies.set("clinical_session", issue_token(row.user_id, row.role))
+            client.cookies.set("clinical_session", verification_token(row.user_id, row.role))
             base = f"/training/{row.id}/"
             html = client.get(base)
             assert html.status_code == 200 and "SIMCARE_CASE_PRESENTATION" in html.text

@@ -1,4 +1,4 @@
-param(
+﻿param(
     [Parameter(Mandatory = $true)][string]$SourceDir,
     [Parameter(Mandatory = $true)][string]$DeployDir
 )
@@ -23,7 +23,8 @@ function Test-ProtectedPath([string]$RelativePath) {
         $name -match '(?:^|/)\.env(?:\..*)?$' -or
         $name -match '\.(?:pyc|pyo|db|sqlite|sqlite3|log|pid)$' -or
         $name -match '^application\.ya?ml$' -or
-        $name -match '^nginx/logs(?:/|$)' -or
+        $name -match '^nginx/(?:logs|temp)(?:/|$)' -or
+        $name -match '(?:^|/)uploads(?:/|$)' -or
         $name -match '^backend/extensions/backups(?:/|$)' -or
         $name -match '^backend/engines/(?:tmp|[^/]+/runtime)(?:/|$)' -or
         $name -match '^backend/extensions/english/site/[^/]+_engine/runtime(?:/|$)' -or
@@ -78,10 +79,25 @@ try {
     if ($LASTEXITCODE -ne 0) { throw 'Could not list source files.' }
 } finally { [Console]::OutputEncoding = $previousConsoleEncoding }
 $managed = @($tracked | Where-Object { -not (Test-ProtectedPath $_) })
-if ('Restart-Local.cmd' -notin $managed) { throw 'Source checkout has no Restart-Local.cmd.' }
+foreach ($required in @('Restart-Local.cmd', 'Restart-Local.ps1', 'CondaEnv.ps1', 'server.py',
+    'backend/main/engine_runner.py', 'backend/engines/chest/server.py',
+    'backend/engines/lumbar/server.py', 'backend/engines/ascites/server.py',
+    'backend/engines/uyghur/server.py',
+    'backend/extensions/english/site/chest_engine/server.py',
+    'backend/extensions/english/site/lumbar_engine/server.py',
+    'backend/extensions/english/site/ascites_engine/server.py', 'nginx/conf/local-preview.conf')) {
+    if ($required -notin $managed) { throw "Source checkout has no tracked $required." }
+}
+# Fail on invalid PowerShell before stopping the running installation.
+foreach ($relative in @('Restart-Local.ps1', 'CondaEnv.ps1')) {
+    $parseErrors = $null; $parseTokens = $null
+    $null = [Management.Automation.Language.Parser]::ParseFile((Get-SafePath $source $relative), [ref]$parseTokens, [ref]$parseErrors)
+    if ($parseErrors.Count -gt 0) { throw "Invalid source script ${relative}: $($parseErrors | Out-String)" }
+}
 $manifestPath = Get-SafePath $target 'data/deployment-manifest.json'
 $lockPath = Get-SafePath $target 'data/deployment.lock'
-$deploymentLock = [IO.File]::Open($lockPath, 'OpenOrCreate', 'ReadWrite', 'None')
+try { $deploymentLock = [IO.File]::Open($lockPath, 'OpenOrCreate', 'ReadWrite', 'None') }
+catch { throw 'Another deployment/restart is running, or the Runner cannot access data/deployment.lock.' }
 try {
     $previousFiles = @()
     if (Test-Path -LiteralPath $manifestPath) {
@@ -91,16 +107,24 @@ try {
     }
     # Validate every destination, including stale entries, before changing any files.
     foreach ($relative in $managed) {
-        $null = Get-SafePath $source $relative
+        $from = Get-SafePath $source $relative
+        if (-not (Test-Path -LiteralPath $from -PathType Leaf)) { throw "Source file is missing: $relative" }
         $null = Get-SafePath $target $relative
     }
     foreach ($relative in $previousFiles) {
         if (-not (Test-ProtectedPath $relative)) { $null = Get-SafePath $target $relative }
     }
+    # Use the NEW restart implementation to stop the OLD installation. This
+    # also migrates legacy relative-path processes on the very first update.
+    Write-Host 'Stopping the existing installation before copying code...'
+    & powershell.exe -NoProfile -ExecutionPolicy Bypass -File (Join-Path $source 'Restart-Local.ps1') `
+        -ProjectRoot $target -StopOnly -NoBrowser -DeploymentLockHeld
+    if ($LASTEXITCODE -ne 0) { throw 'Could not stop the existing installation. No project code was copied.' }
+
     foreach ($relative in $managed) {
         $from = Get-SafePath $source $relative
         $to = Get-SafePath $target $relative
-        # Avoid replacing unchanged binaries held open by a running service.
+        # Skip unchanged files; services are already stopped at this point.
         if (Test-Path -LiteralPath $to -PathType Leaf) {
             if ((Get-ContentHash $from) -eq (Get-ContentHash $to)) { continue }
         }
@@ -122,7 +146,7 @@ try {
         Remove-Item Env:RUNNER_TRACKING_ID -ErrorAction SilentlyContinue
         Push-Location $target
         try {
-            & (Join-Path $target 'Restart-Local.cmd') '--non-interactive'
+            & (Join-Path $target 'Restart-Local.cmd') '--non-interactive' '--deployment-lock-held'
             if ($LASTEXITCODE -ne 0) { throw "Restart-Local.cmd failed with exit code $LASTEXITCODE. Check $target\logs." }
         } finally { Pop-Location }
     } finally {

@@ -69,3 +69,10 @@ class AuditEvent(TimestampMixin, Base):
     target: Mapped[str] = mapped_column(String(160))
     detail: Mapped[dict] = mapped_column(JSON, default=dict)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+
+from backend.runtime.login_sessions import LoginSessionColumns
+
+
+class UserLoginSession(LoginSessionColumns, TimestampMixin, Base):
+    __tablename__ = "user_login_sessions"

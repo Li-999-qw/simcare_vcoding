@@ -6,7 +6,12 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Restart-Local.ps1"
 set "restart_exit=%errorlevel%"
 goto result
 :unattended
+if /i "%~2"=="--deployment-lock-held" goto deployment
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Restart-Local.ps1" -NoBrowser
+set "restart_exit=%errorlevel%"
+goto result
+:deployment
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Restart-Local.ps1" -NoBrowser -DeploymentLockHeld
 set "restart_exit=%errorlevel%"
 :result
 if not "%restart_exit%"=="0" (

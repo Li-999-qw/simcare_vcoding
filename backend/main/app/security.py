@@ -28,8 +28,10 @@ def _unb64(value: str) -> bytes:
     return base64.urlsafe_b64decode(value + "=" * (-len(value) % 4))
 
 
-def issue_token(user_id: int, role: str) -> str:
+def issue_token(user_id: int, role: str, sid: str | None = None) -> str:
     body = {"sub": user_id, "role": role, "exp": int(time.time()) + settings.access_token_hours * 3600}
+    if sid is not None:
+        body["sid"] = sid
     payload = _b64(json.dumps(body, separators=(",", ":")).encode())
     signature = _b64(hmac.new(settings.app_secret.encode(), payload.encode(), hashlib.sha256).digest())
     return f"{payload}.{signature}"
@@ -45,5 +47,23 @@ def read_token(token: str) -> dict:
         if int(body["exp"]) < time.time():
             raise ValueError("expired")
         return body
-    except (ValueError, KeyError, json.JSONDecodeError) as error:
+    except (ValueError, KeyError, TypeError, AttributeError, json.JSONDecodeError) as error:
         raise ValueError("invalid token") from error
+
+
+def start_login_session(db, user):
+    from .models import User, UserLoginSession
+    from backend.runtime.login_sessions import start
+    return start(db, user, User, UserLoginSession, issue_token, settings.access_token_hours)
+
+
+def session_user(db, token):
+    from .models import User, UserLoginSession
+    from backend.runtime.login_sessions import validate
+    return validate(db, token, User, UserLoginSession, read_token)
+
+
+def end_login_session(db, token):
+    from .models import UserLoginSession
+    from backend.runtime.login_sessions import end
+    end(db, token, UserLoginSession, read_token)

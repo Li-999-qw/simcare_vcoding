@@ -7,7 +7,7 @@ from sqlalchemy import select
 from .db import get_db
 from .models import User, AuditEvent
 from .portal_models import PortalDocument, PortalAttempt
-from .security import read_token, issue_token, verify_password
+from .security import verify_password, start_login_session, session_user, end_login_session
 from .config import settings
 
 router = APIRouter()
@@ -17,11 +17,7 @@ ENGINES = {1: settings.dialogue_engine_url, 2: 'http://127.0.0.1:28770'}
 
 def actor(request: Request, db=Depends(get_db)):
     token = request.cookies.get('clinical_session') or request.headers.get('Authorization','').removeprefix('Bearer ')
-    try:
-        u = db.get(User, int(read_token(token)['sub']))
-        if not u or u.status != 'active': raise ValueError()
-    except Exception:
-        raise HTTPException(401, '请重新登录')
+    u = session_user(db, token)
     if request.method not in ('GET','HEAD') and request.headers.get('Origin') and request.headers['Origin'] != str(request.base_url).rstrip('/'):
         raise HTTPException(403, '来源不匹配')
     return u
@@ -38,12 +34,29 @@ async def login(request: Request, response: Response, db=Depends(get_db)):
     d=await request.json();u=db.scalar(select(User).where(User.username==d.get('username')))
     if not u or not verify_password(d.get('password',''),u.password_hash): raise HTTPException(401,'用户名或密码错误')
     if u.status!='active': raise HTTPException(403,'注册申请尚未审核通过')
-    response.set_cookie('clinical_session',issue_token(u.id,u.role),httponly=True,samesite='strict',max_age=43200)
+    response.set_cookie('clinical_session',start_login_session(db,u),httponly=True,samesite='strict',max_age=settings.access_token_hours*3600)
     return {'ok':True}
 
 @router.post('/portal/logout')
-def logout(response: Response):
+def logout(request: Request, response: Response, db=Depends(get_db)):
+    if request.headers.get('Origin') and request.headers['Origin'] != str(request.base_url).rstrip('/'):
+        raise HTTPException(403, '来源不匹配')
+    token = request.cookies.get('clinical_session') or request.headers.get('Authorization','').removeprefix('Bearer ')
+    end_login_session(db, token)
     response.delete_cookie('clinical_session');return {'ok':True}
+
+
+@router.get('/portal/session')
+def login_status(response: Response, u=Depends(actor)):
+    response.headers['Cache-Control'] = 'no-store'
+    return {'ok': True}
+
+
+@router.get('/session-guard.js')
+def session_guard():
+    from backend.runtime.login_sessions import GUARD_PATH
+    return FileResponse(GUARD_PATH,
+                        media_type='text/javascript', headers={'Cache-Control': 'no-store'})
 
 @router.get('/portal/state')
 def state(u=Depends(actor),db=Depends(get_db)):
